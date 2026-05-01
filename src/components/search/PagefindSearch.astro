@@ -1,0 +1,70 @@
+---
+// src/components/search/PagefindSearch.astro
+// Pagefind UI island.
+// Pagefind indexes are generated post-build by `pnpm run pagefind`.
+// The @pagefind/default-ui package is loaded from the generated /pagefind/ path.
+// This component is used with client:load on the /search page.
+// In dev mode, the index won't exist — run `pnpm build` first to test search.
+---
+
+<div id="pagefind-search-mount" aria-live="polite" aria-label="Search results">
+  <!-- Pagefind UI mounts here -->
+</div>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+
+<script>
+  // Pagefind UI is loaded from the statically generated /pagefind/ output.
+  // We dynamically import it so it doesn't break in dev (no index yet).
+  async function initSearch() {
+    try {
+      // @ts-ignore — generated at build time, not a static import
+      const { PagefindUI } = await import('/pagefind/pagefind-ui.js');
+
+      new PagefindUI({
+        element: '#pagefind-search-mount',
+        showSubResults: true,
+        resetStyles: false,          // We supply our own CSS
+        excerptLength: 30,
+        highlightParam: 'highlight',
+        translations: {
+          placeholder: 'Search discourses…',
+          zero_results: 'No discourses found for [SEARCH_TERM]. Try a different spelling or browse by topic.',
+        },
+      });
+    } catch {
+      // Graceful degradation — search index not built yet (dev mode)
+      const mount = document.getElementById('pagefind-search-mount');
+      if (mount) {
+        mount.innerHTML = `<p class="search-unavailable">
+          Search index not found. Run <code>pnpm build</code> to generate it.
+        </p>`;
+      }
+    }
+  }
+
+  initSearch();
+</script>
+
+<style>
+  /* Override Pagefind default styles to match Suhba Library design tokens */
+  :root {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: var(--color-accent-primary);
+    --pagefind-ui-text: var(--color-text-primary);
+    --pagefind-ui-background: var(--color-surface-light);
+    --pagefind-ui-border: var(--color-border);
+    --pagefind-ui-tag: var(--color-bg-light);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0.375rem;
+    --pagefind-ui-font: var(--font-sans);
+  }
+
+  .search-unavailable {
+    color: var(--color-text-secondary);
+    font-size: 0.9rem;
+    padding: 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0.375rem;
+  }
+</style>

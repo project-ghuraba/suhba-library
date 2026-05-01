@@ -1,0 +1,121 @@
+---
+// src/pages/topics/[topic].astro
+// Filtered discourse list for a single topic.
+
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import Header from '../../components/layout/Header.astro';
+import Footer from '../../components/layout/Footer.astro';
+import DiscourseCard from '../../components/discourse/DiscourseCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
+
+  // Collect all unique topics (lowercased slug → display name)
+  const topicMap = new Map<string, string>();
+  for (const d of discourses) {
+    for (const t of d.data.topic) {
+      topicMap.set(t.toLowerCase(), t);
+    }
+  }
+
+  return Array.from(topicMap.entries()).map(([slug, displayName]) => ({
+    params: { topic: slug },
+    props: { displayName },
+  }));
+}
+
+const { topic } = Astro.params;
+const { displayName } = Astro.props;
+
+const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
+const filtered = discourses
+  .filter(d => d.data.topic.map(t => t.toLowerCase()).includes(topic))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<BaseLayout title={`${displayName} — Topics`}>
+  <Header slot="header" />
+
+  <div class="topic-page">
+    <div class="topic-inner">
+
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/topics" class="breadcrumb-link">← All Topics</a>
+      </nav>
+
+      <header class="page-header">
+        <h1 class="page-title">{displayName}</h1>
+        <p class="page-subtitle">
+          {filtered.length} discourse{filtered.length !== 1 ? 's' : ''}
+        </p>
+      </header>
+
+      {filtered.length > 0 ? (
+        <div class="discourse-list">
+          {filtered.map(d => (
+            <DiscourseCard
+              title={d.data.title}
+              slug={d.data.slug}
+              date={d.data.date}
+              dateHijri={d.data.date_hijri}
+              speakers={d.data.speaker}
+              locationCountry={d.data.location_country}
+              locationCity={d.data.location_city}
+              topics={d.data.topic}
+              transcriptQuality={d.data.transcript_quality}
+            />
+          ))}
+        </div>
+      ) : (
+        <p class="empty-state">No published discourses found for this topic.</p>
+      )}
+
+    </div>
+  </div>
+
+  <Footer slot="footer" />
+</BaseLayout>
+
+<style>
+  .topic-page { padding-block: 2rem 4rem; }
+
+  .topic-inner {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  .breadcrumb { margin-bottom: 1.25rem; }
+
+  .breadcrumb-link {
+    font-size: 0.875rem;
+    color: var(--color-accent-primary);
+    text-decoration: none;
+    transition: opacity 0.15s;
+  }
+
+  .breadcrumb-link:hover { opacity: 0.75; }
+
+  .page-header { margin-bottom: 1.5rem; }
+
+  .page-title {
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 0.25rem;
+  }
+
+  .page-subtitle {
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+
+  .empty-state {
+    color: var(--color-text-secondary);
+    font-style: italic;
+    font-size: 0.925rem;
+  }
+</style>

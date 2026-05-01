@@ -1,0 +1,68 @@
+---
+// src/pages/search.astro
+// Advanced search & filter page.
+// Pagefind handles full-text search; JSON indexes power faceted filters.
+// Filter panel is a placeholder — wired up in a later workstream.
+
+import BaseLayout from '../components/layout/BaseLayout.astro';
+import Header from '../components/layout/Header.astro';
+import Footer from '../components/layout/Footer.astro';
+import PagefindSearch from '../components/search/PagefindSearch.astro';
+---
+
+<BaseLayout title="Search Discourses">
+  <Header slot="header" />
+
+  <div class="search-page">
+    <div class="search-page-inner">
+      <h1 class="page-title">Search Discourses</h1>
+
+      <!-- 
+        PLACEHOLDER: Filter bar (Speaker, Topic, Language, Country, City, Venue, Date)
+        will be built in a dedicated Search & Filter workstream.
+        Pagefind full-text search is functional after `pnpm build`.
+      -->
+      <div class="filter-placeholder" aria-label="Filters — coming soon">
+        <p class="filter-note">
+          Advanced filters (speaker, topic, location, date) — <em>coming in a later workstream</em>.
+        </p>
+      </div>
+
+      <PagefindSearch />
+    </div>
+  </div>
+
+  <Footer slot="footer" />
+</BaseLayout>
+
+<style>
+  .search-page {
+    padding-block: 2rem;
+  }
+
+  .search-page-inner {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  .page-title {
+    font-size: clamp(1.4rem, 4vw, 1.875rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 1.75rem;
+  }
+
+  .filter-placeholder {
+    border: 1px dashed var(--color-border);
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .filter-note {
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+</style>

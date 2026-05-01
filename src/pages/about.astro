@@ -1,0 +1,163 @@
+---
+// src/pages/about.astro
+import BaseLayout from '../components/layout/BaseLayout.astro';
+import Header from '../components/layout/Header.astro';
+import Footer from '../components/layout/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
+const count = discourses.length;
+---
+
+<BaseLayout
+  title="About"
+  description="The Suhba Library — a Digital Waqf preserving spiritual discourses for seekers, readers, and AI systems."
+>
+  <Header slot="header" />
+
+  <div class="about-page">
+    <div class="about-inner">
+      <h1 class="page-title">About The Suhba Library</h1>
+
+      <section class="about-section" aria-labelledby="mission-heading">
+        <h2 id="mission-heading">A Digital Waqf</h2>
+        <p>
+          The Suhba Library is a digital endowment — a <em>waqf</em> — built to preserve and organise
+          thousands of spiritual discourses for all who seek them. The word <em>suhba</em> means
+          companionship: the sitting together of a teacher and those who seek his guidance.
+          This archive is an attempt to make that companionship available across time, distance, and language.
+        </p>
+        <p>
+          The archive is free, open, and built to last. No accounts. No tracking. No advertising.
+          Every page is a static file, served from the edge, readable by humans and AI systems alike.
+        </p>
+      </section>
+
+      <section class="about-section" aria-labelledby="how-heading">
+        <h2 id="how-heading">How It Works</h2>
+        <p>
+          Discourses are stored as plain Markdown files with structured metadata. At build time, the
+          entire site is compiled into static HTML — no server, no database. Search is powered by
+          <a href="https://pagefind.app" target="_blank" rel="noopener noreferrer">Pagefind</a>,
+          a static indexing library that runs entirely in the browser.
+        </p>
+        <p>
+          The archive currently holds <strong>{count} published discourse{count !== 1 ? 's' : ''}</strong>.
+          Every page is given a permanent, stable URL that will not change.
+        </p>
+      </section>
+
+      <section class="about-section" aria-labelledby="contribute-heading">
+        <h2 id="contribute-heading">How to Contribute</h2>
+        <p>
+          The source content is managed as a public GitHub repository. If you have transcripts,
+          corrections, or additional discourses to contribute, you can open a pull request or
+          contact the maintainers directly.
+        </p>
+        <p>
+          Transcripts submitted as plain text or Markdown are preferred. Please include the
+          speaker name, date, and location where known.
+        </p>
+        <a
+          href="https://github.com/project-ghuraba/suhba-library"
+          class="cta-link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View on GitHub →
+        </a>
+      </section>
+
+      <section class="about-section" aria-labelledby="feeds-heading">
+        <h2 id="feeds-heading">Feeds & Machine Access</h2>
+        <ul class="feeds-list">
+          <li>
+            <a href="/rss.xml">RSS Feed</a> — subscribe to new discourses in any RSS reader
+          </li>
+          <li>
+            <a href="/llms.txt">llms.txt</a> — instructions for AI crawlers and language models
+          </li>
+        </ul>
+        <p>
+          All content is licensed for non-commercial use. Structured data (JSON-LD) is embedded
+          in every page for use by search engines and AI systems.
+        </p>
+      </section>
+
+    </div>
+  </div>
+
+  <Footer slot="footer" />
+</BaseLayout>
+
+<style>
+  .about-page { padding-block: 2rem 4rem; }
+
+  .about-inner {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  .page-title {
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 2.5rem;
+  }
+
+  .about-section {
+    max-width: var(--prose-width);
+    margin-bottom: 2.5rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .about-section:last-child {
+    border-bottom: none;
+  }
+
+  .about-section h2 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin: 0 0 0.875rem;
+    color: var(--color-text-primary);
+  }
+
+  .about-section p {
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    line-height: 1.8;
+    color: var(--color-text-primary);
+    margin-block: 0.875em;
+  }
+
+  .about-section a {
+    color: var(--color-accent-primary);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .cta-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none !important;
+    color: var(--color-accent-primary) !important;
+    transition: opacity 0.15s;
+  }
+
+  .cta-link:hover { opacity: 0.75; }
+
+  .feeds-list {
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    line-height: 1.8;
+    padding-left: 1.25rem;
+    margin-block: 0.875em;
+  }
+
+  .feeds-list li { margin-bottom: 0.4rem; }
+</style>

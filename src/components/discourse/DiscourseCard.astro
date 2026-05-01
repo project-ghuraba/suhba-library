@@ -1,0 +1,169 @@
+---
+// src/components/discourse/DiscourseCard.astro
+// Compact list card used in: Latest Suhbas, topic pages, speaker pages, search results.
+
+interface Props {
+  title: string;
+  slug: string;
+  date: Date;
+  dateHijri?: string;
+  speakers: string[];
+  locationCountry: string;
+  locationCity?: string;
+  topics: string[];
+  transcriptQuality?: 'draft' | 'reviewed' | 'verified';
+}
+
+const {
+  title,
+  slug,
+  date,
+  dateHijri,
+  speakers,
+  locationCountry,
+  locationCity,
+  topics,
+  transcriptQuality,
+} = Astro.props;
+
+const gregorianDate = date.toLocaleDateString('en-GB', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+});
+
+const location = locationCity
+  ? `${locationCity}, ${locationCountry}`
+  : locationCountry;
+
+const speakerList = speakers.join(', ');
+
+const qualityBadge = transcriptQuality === 'verified'
+  ? { label: 'Verified', colour: 'verified' }
+  : transcriptQuality === 'reviewed'
+  ? { label: 'Reviewed', colour: 'reviewed' }
+  : null;
+---
+
+<article class="discourse-card">
+  <a href={`/suhba/${slug}`} class="card-link">
+    <h2 class="card-title">{title}</h2>
+  </a>
+
+  <p class="card-meta">
+    <span class="meta-speaker">{speakerList}</span>
+    <span class="meta-sep" aria-hidden="true">·</span>
+    <time datetime={date.toISOString().split('T')[0]}>{gregorianDate}</time>
+    {dateHijri && (
+      <>
+        <span class="meta-sep" aria-hidden="true">·</span>
+        <span class="meta-hijri">{dateHijri}</span>
+      </>
+    )}
+    <span class="meta-sep" aria-hidden="true">·</span>
+    <span class="meta-location">{location}</span>
+  </p>
+
+  <div class="card-footer">
+    <div class="card-topics" aria-label="Topics">
+      {topics.slice(0, 4).map(t => (
+        <a href={`/topics/${encodeURIComponent(t.toLowerCase())}`} class="topic-pill">
+          {t}
+        </a>
+      ))}
+    </div>
+    {qualityBadge && (
+      <span class={`quality-badge quality-${qualityBadge.colour}`} aria-label={`Transcript quality: ${qualityBadge.label}`}>
+        {qualityBadge.label}
+      </span>
+    )}
+  </div>
+</article>
+
+<style>
+  .discourse-card {
+    padding-block: 1.25rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .card-link {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .card-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 0 0.375rem;
+    line-height: 1.35;
+    transition: color 0.15s;
+  }
+
+  .card-link:hover .card-title,
+  .card-link:focus-visible .card-title {
+    color: var(--color-accent-primary);
+  }
+
+  .card-meta {
+    font-size: 0.825rem;
+    color: var(--color-text-secondary);
+    margin: 0 0 0.625rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    align-items: center;
+  }
+
+  .meta-sep { opacity: 0.4; }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .card-topics {
+    display: flex;
+    gap: 0.375rem;
+    flex-wrap: wrap;
+  }
+
+  .topic-pill {
+    font-size: 0.75rem;
+    padding: 0.2rem 0.625rem;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--color-accent-primary) 10%, transparent);
+    color: var(--color-accent-primary);
+    text-decoration: none;
+    transition: background 0.15s;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .topic-pill:hover,
+  .topic-pill:focus-visible {
+    background: color-mix(in srgb, var(--color-accent-primary) 18%, transparent);
+  }
+
+  .quality-badge {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-weight: 500;
+  }
+
+  .quality-verified {
+    background: color-mix(in srgb, #2C5F4A 12%, transparent);
+    color: #2C5F4A;
+  }
+
+  .quality-reviewed {
+    background: color-mix(in srgb, #B8956A 12%, transparent);
+    color: #7a5e38;
+  }
+
+  html.dark .quality-reviewed { color: var(--color-accent-secondary); }
+</style>

@@ -1,0 +1,253 @@
+---
+// src/pages/speakers/[speaker].astro
+// Individual speaker page — portrait, bio, quotes, discourse list.
+
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import Header from '../../components/layout/Header.astro';
+import Footer from '../../components/layout/Footer.astro';
+import DiscourseCard from '../../components/discourse/DiscourseCard.astro';
+import { getCollection } from 'astro:content';
+import { readFile, readdir } from 'node:fs/promises';
+import { join } from 'node:path';
+
+// Speaker slug helper — must mirror the one in speakers/index.astro
+function nameToSlug(name: string) {
+  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+}
+
+export async function getStaticPaths() {
+  const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
+
+  // Collect all unique speaker names
+  const speakerNames = new Set<string>();
+  for (const d of discourses) {
+    for (const s of d.data.speaker) speakerNames.add(s);
+  }
+
+  return Array.from(speakerNames).map(name => ({
+    params: { speaker: nameToSlug(name) },
+    props: { speakerName: name },
+  }));
+}
+
+const { speakerName } = Astro.props;
+const { speaker: speakerSlug } = Astro.params;
+
+// Load discourses for this speaker
+const allDiscourses = await getCollection('discourses', ({ data }) => data.status === 'published');
+const speakerDiscourses = allDiscourses
+  .filter(d => d.data.speaker.includes(speakerName))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+// Load speaker bio if it exists in src/data/speakers/<slug>.md
+// Falls back gracefully if no bio file authored yet.
+let bioHtml: string | null = null;
+try {
+  const bioPath = join(process.cwd(), 'src', 'data', 'speakers', `${speakerSlug}.md`);
+  const raw = await readFile(bioPath, 'utf-8');
+  // Strip YAML frontmatter if present, keep body
+  const body = raw.replace(/^---[\s\S]*?---\n?/, '').trim();
+  // Simple Markdown→HTML for bio (paragraphs only — full MD rendering deferred to v2)
+  bioHtml = body
+    .split(/\n{2,}/)
+    .map(p => `<p>${p.trim()}</p>`)
+    .join('\n');
+} catch {
+  // No bio file yet — that's fine
+}
+
+// Collect verified quotes attributed to this speaker
+const speakerQuotes: string[] = [];
+for (const d of speakerDiscourses) {
+  for (const q of d.data.quotes_verified ?? []) {
+    speakerQuotes.push(q);
+  }
+}
+
+const discourseCount = speakerDiscourses.length;
+---
+
+<BaseLayout title={speakerName}>
+  <Header slot="header" />
+
+  <div class="speaker-page">
+    <div class="speaker-inner">
+
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/speakers" class="breadcrumb-link">← All Speakers</a>
+      </nav>
+
+      <!-- Speaker header -->
+      <header class="speaker-header">
+        <div class="speaker-avatar-lg" aria-hidden="true">
+          {speakerName.split(' ').map((w: string) => w[0]).slice(0, 2).join('')}
+        </div>
+        <div>
+          <h1 class="speaker-name">{speakerName}</h1>
+          <p class="speaker-meta">
+            {discourseCount} discourse{discourseCount !== 1 ? 's' : ''} in the archive
+          </p>
+        </div>
+      </header>
+
+      <!-- Biography -->
+      {bioHtml ? (
+        <section class="speaker-bio" aria-labelledby="bio-heading">
+          <h2 class="section-heading" id="bio-heading">Biography</h2>
+          <div class="bio-body" set:html={bioHtml} />
+        </section>
+      ) : (
+        <section class="speaker-bio">
+          <p class="empty-state">
+            No biography authored yet. Create <code>src/data/speakers/{speakerSlug}.md</code> to add one.
+          </p>
+        </section>
+      )}
+
+      <!-- Notable quotes -->
+      {speakerQuotes.length > 0 && (
+        <section class="speaker-quotes" aria-labelledby="quotes-heading">
+          <h2 class="section-heading" id="quotes-heading">Notable Quotes</h2>
+          <div class="quotes-list">
+            {speakerQuotes.slice(0, 6).map(q => (
+              <blockquote class="speaker-quote">
+                <p>"{q}"</p>
+              </blockquote>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Discourse list -->
+      <section aria-labelledby="discourses-heading">
+        <h2 class="section-heading" id="discourses-heading">All Discourses</h2>
+        {speakerDiscourses.length > 0 ? (
+          <div class="discourse-list">
+            {speakerDiscourses.map(d => (
+              <DiscourseCard
+                title={d.data.title}
+                slug={d.data.slug}
+                date={d.data.date}
+                dateHijri={d.data.date_hijri}
+                speakers={d.data.speaker}
+                locationCountry={d.data.location_country}
+                locationCity={d.data.location_city}
+                topics={d.data.topic}
+                transcriptQuality={d.data.transcript_quality}
+              />
+            ))}
+          </div>
+        ) : (
+          <p class="empty-state">No published discourses found for this speaker.</p>
+        )}
+      </section>
+
+    </div>
+  </div>
+
+  <Footer slot="footer" />
+</BaseLayout>
+
+<style>
+  .speaker-page { padding-block: 2rem 4rem; }
+
+  .speaker-inner {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  .breadcrumb { margin-bottom: 1.25rem; }
+
+  .breadcrumb-link {
+    font-size: 0.875rem;
+    color: var(--color-accent-primary);
+    text-decoration: none;
+  }
+
+  .breadcrumb-link:hover { opacity: 0.75; }
+
+  .speaker-header {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .speaker-avatar-lg {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    background: color-mix(in srgb, var(--color-accent-primary) 15%, transparent);
+    color: var(--color-accent-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+
+  .speaker-name {
+    font-size: clamp(1.4rem, 4vw, 1.875rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 0.2rem;
+  }
+
+  .speaker-meta {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+
+  .section-heading {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 0 1rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .speaker-bio { margin-bottom: 0; }
+
+  .bio-body {
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    line-height: 1.75;
+    color: var(--color-text-primary);
+    max-width: var(--prose-width);
+  }
+
+  .bio-body p { margin-block: 0.875em; }
+
+  .quotes-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .speaker-quote {
+    margin: 0;
+    padding: 1rem 1.25rem;
+    border-left: 3px solid var(--color-accent-secondary);
+    background: color-mix(in srgb, var(--color-accent-secondary) 5%, transparent);
+    border-radius: 0 0.375rem 0.375rem 0;
+  }
+
+  .speaker-quote p {
+    font-family: var(--font-serif);
+    font-size: 0.975rem;
+    line-height: 1.7;
+    margin: 0;
+    color: var(--color-text-primary);
+  }
+
+  .empty-state {
+    color: var(--color-text-secondary);
+    font-style: italic;
+    font-size: 0.925rem;
+  }
+</style>
