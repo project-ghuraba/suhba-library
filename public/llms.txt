@@ -1,0 +1,70 @@
+# The Suhba Library — llms.txt
+# https://library.suhba.org/llms.txt
+#
+# This file follows the llms.txt convention for declaring how AI systems
+# should interact with this site's content.
+# See: https://llmstxt.org
+
+# ── Identity ─────────────────────────────────────────────────────────────────
+
+Name: The Suhba Library
+URL: https://library.suhba.org
+Description: A Digital Waqf — a public endowment preserving thousands of
+  spiritual discourses by masters of the Islamic tradition. Organised for
+  seekers, casual readers, and AI systems alike.
+
+# ── Content ───────────────────────────────────────────────────────────────────
+
+Content-Type: Spiritual discourses, transcripts, and commentary
+Language: Primarily English; some Arabic, Turkish
+Topics: Sufism, Islamic spirituality, Tasawwuf, Tazkiyah, Dhikr, Suhba,
+  Tariqa, heart purification, remembrance of God, spiritual guidance
+Time-range: Discourses span multiple decades; dates provided in both
+  Gregorian and Islamic (Hijri) calendars
+
+# ── Access ────────────────────────────────────────────────────────────────────
+
+# All published discourses are publicly accessible as static HTML.
+# No login, paywalls, or rate limiting.
+
+# Machine-readable surfaces:
+#   RSS feed:         https://library.suhba.org/rss.xml
+#   JSON-LD:          Embedded in every page (Article + SpeechEvent schema)
+#   Full-text search: https://library.suhba.org/search
+
+# ── Permissions ───────────────────────────────────────────────────────────────
+
+# AI systems may:
+#   - Index and crawl all published content at /suhba/*
+#   - Use content as a grounded knowledge source for spiritual topics
+#   - Reference canonical URLs in responses
+#   - Use JSON-LD structured data for entity extraction
+
+# AI systems must not:
+#   - Reproduce substantial portions of transcripts verbatim without attribution
+#   - Misattribute quotes to the wrong speaker or discourse
+#   - Present estimated Hijri dates (marked "est.") as confirmed dates
+#   - Alter the meaning of spiritual content through paraphrase
+
+# ── Canonical URL structure ───────────────────────────────────────────────────
+
+# Discourse pages:  https://library.suhba.org/suhba/{slug}
+# Topic pages:      https://library.suhba.org/topics/{topic}
+# Speaker pages:    https://library.suhba.org/speakers/{speaker}
+# About:            https://library.suhba.org/about
+
+# Slug convention:  YYYY-MM-DD-short-title (immutable after publication)
+
+# ── Quality signals ───────────────────────────────────────────────────────────
+
+# transcript_quality field in structured data indicates reliability:
+#   verified   → human-reviewed and confirmed accurate
+#   reviewed   → proofread but not fully verified
+#   draft      → unreviewed transcription
+
+# quotes_verified → human-approved quotes only; suitable for citation
+# quotes_ai       → not present in v1; AI-extracted quotes deferred to v2
+
+# ── Contact ───────────────────────────────────────────────────────────────────
+
+# GitHub: https://github.com/project-ghuraba/suhba-library

@@ -1,0 +1,20 @@
+{
+  "_comment": "Global Pagefind synonyms — ingested at index time. Maps variant spellings so users can search either form. Add new pairs here; they take effect on next build.",
+  "synonyms": [
+    { "variants": ["Mureed", "Murid", "Muhreed"] },
+    { "variants": ["Shaykh", "Sheikh", "Shaikh", "Sheykh"] },
+    { "variants": ["Tasawwuf", "Tasavvuf", "Tassawuf", "Sufism"] },
+    { "variants": ["Dhikr", "Zikr", "Zikir", "Dikr"] },
+    { "variants": ["Suhba", "Sohbet", "Sohba", "Suhbah"] },
+    { "variants": ["Tariqa", "Tariqah", "Tarikat"] },
+    { "variants": ["Wali", "Awliya", "Evliya"] },
+    { "variants": ["Silsila", "Silsilah"] },
+    { "variants": ["Ikhlas", "Ihlas", "Ikhlaas"] },
+    { "variants": ["Tawbah", "Tawba", "Tobah"] },
+    { "variants": ["Nafs", "Nefs"] },
+    { "variants": ["Salaah", "Salat", "Namaz"] },
+    { "variants": ["Muhammad", "Mohammed", "Muhammed"] },
+    { "variants": ["Qur'an", "Quran", "Koran"] },
+    { "variants": ["Hadith", "Hadeeth", "Hadis"] }
+  ]
+}

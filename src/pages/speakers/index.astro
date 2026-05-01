@@ -1,0 +1,141 @@
+---
+// src/pages/speakers/index.astro
+// Speaker biographies index — grid of cards.
+
+import BaseLayout from '../../components/layout/BaseLayout.astro';
+import Header from '../../components/layout/Header.astro';
+import Footer from '../../components/layout/Footer.astro';
+import { getCollection } from 'astro:content';
+
+// Count discourses per speaker
+const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
+
+const speakerCountMap = new Map<string, number>();
+for (const d of discourses) {
+  for (const s of d.data.speaker) {
+    speakerCountMap.set(s, (speakerCountMap.get(s) ?? 0) + 1);
+  }
+}
+
+// Build speaker list — sorted by discourse count desc
+const speakers = Array.from(speakerCountMap.entries())
+  .map(([name, count]) => ({ name, count, slug: name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') }))
+  .sort((a, b) => b.count - a.count);
+---
+
+<BaseLayout title="Speakers">
+  <Header slot="header" />
+
+  <div class="speakers-page">
+    <div class="speakers-inner">
+      <header class="page-header">
+        <h1 class="page-title">Speakers</h1>
+        <p class="page-subtitle">{speakers.length} speaker{speakers.length !== 1 ? 's' : ''} in the archive</p>
+      </header>
+
+      <div class="speakers-grid">
+        {speakers.map(({ name, count, slug }) => (
+          <a href={`/speakers/${slug}`} class="speaker-card">
+            <div class="speaker-avatar" aria-hidden="true">
+              {name.split(' ').map(w => w[0]).slice(0, 2).join('')}
+            </div>
+            <div class="speaker-info">
+              <p class="speaker-name">{name}</p>
+              <p class="speaker-count">{count} discourse{count !== 1 ? 's' : ''}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+
+      {speakers.length === 0 && (
+        <p class="empty-state">No speakers found. Add discourses with <code>speaker</code> frontmatter.</p>
+      )}
+    </div>
+  </div>
+
+  <Footer slot="footer" />
+</BaseLayout>
+
+<style>
+  .speakers-page { padding-block: 2rem 4rem; }
+
+  .speakers-inner {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  .page-header { margin-bottom: 2rem; }
+
+  .page-title {
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 0.25rem;
+  }
+
+  .page-subtitle {
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+
+  .speakers-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+  }
+
+  .speaker-card {
+    display: flex;
+    align-items: center;
+    gap: 0.875rem;
+    padding: 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.15s, background 0.15s;
+    min-height: 44px;
+  }
+
+  .speaker-card:hover,
+  .speaker-card:focus-visible {
+    border-color: var(--color-accent-primary);
+    background: color-mix(in srgb, var(--color-accent-primary) 4%, transparent);
+  }
+
+  .speaker-avatar {
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 50%;
+    background: color-mix(in srgb, var(--color-accent-primary) 15%, transparent);
+    color: var(--color-accent-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    font-weight: 700;
+    flex-shrink: 0;
+    letter-spacing: 0.02em;
+  }
+
+  .speaker-name {
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin: 0 0 0.2rem;
+    line-height: 1.3;
+  }
+
+  .speaker-count {
+    font-size: 0.775rem;
+    color: var(--color-text-secondary);
+    margin: 0;
+  }
+
+  .empty-state {
+    color: var(--color-text-secondary);
+    font-style: italic;
+    font-size: 0.925rem;
+  }
+</style>
