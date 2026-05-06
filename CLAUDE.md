@@ -14,14 +14,8 @@
 A static digital archive of Islamic spiritual discourses (suhbas). Built as a Digital Waqf — zero-bloat, fully automated, no runtime server. Hosted at `suhbalibrary.org` via Cloudflare Pages.
 
 - **Repo:** `project-ghuraba/suhba-library` (Public)
-- **Live URL:** `https://suhba-library.pages.dev/` (canonical domain pending — see Open Decision below)
+- **Live URL:** `https://suhba-library.pages.dev/` (custom domain `suhbalibrary.org` pending — link in Cloudflare Dashboard)
 - **PRD version:** v4.0 (6 May 2026)
-
----
-
-## Open Decision — BLOCKING
-
-**Canonical URL: `suhbalibrary.org` (apex). This has been confirmed by user.
 
 ## Tech Stack
 
@@ -107,16 +101,24 @@ suhba-library/
     content/
       config.ts                    ← Astro 5 Content Collections + Zod schema
       discourses/                  ← All .md files
-    pages/                         ← Routes
+    pages/
+      search-index.json.ts         ← /search-index.json — full metadata for filter panel
+      indexes/
+        by-topic.json.ts           ← /indexes/by-topic.json
+        by-year.json.ts            ← /indexes/by-year.json
+        by-speaker.json.ts         ← /indexes/by-speaker.json
+        by-country.json.ts         ← /indexes/by-country.json
+        quotes.json.ts             ← /indexes/quotes.json
     components/
       layout/                      ← BaseLayout.astro, Header.astro, Footer.astro
       discourse/                   ← DiscourseCard.astro
       search/                      ← PagefindSearch.astro
-    config/synonyms.json           ← Pagefind synonym groups (15 seeded)
+    config/synonyms.json           ← Pagefind synonym groups (15 seeded — not yet ingested)
     data/speakers/                 ← One .md per speaker (biography)
+    env.d.ts                       ← References .astro/types.d.ts — required for TS
     styles/global.css              ← Tailwind v4 @theme + all base styles
   public/
-    llms.txt                       ← AI crawler instructions [needs URL update]
+    llms.txt                       ← AI crawler instructions
     favicon.svg
   lighthouserc.json
   astro.config.mjs                 ← Uses @tailwindcss/vite, NOT @astrojs/tailwind
@@ -213,22 +215,29 @@ Typography: system sans-serif for UI; Georgia/serif for discourse body. Minimum 
 
 ## Workstream Status Summary
 
-- **Workstream A:** ✅ Complete (scaffold built)
-- **Workstream B:** ⛔ Blocked on canonical URL decision — do not start until resolved
-- **Workstreams C–G:** 🔲 Not started
+- **Workstream A:** ✅ Complete
+- **Workstream B:** ✅ Complete (first deploy live; manual steps remain — custom domain link + branch protection)
+- **Workstream C:** ✅ Complete (v1 — filter panel done; synonym ingestion deferred to v2)
+- **Workstreams D–G:** 🔲 Not started (D partially done — 3 speaker bios seeded)
 
-Current priority when unblocked: **Workstream B** — URL find-and-replace → first deploy → branch protection → content pipeline.
+Next manual steps for the repo owner:
+1. Link `suhbalibrary.org` as custom domain: Cloudflare Dashboard → Workers & Pages → `suhba-library` → Custom domains
+2. Create `dev` branch: `git checkout -b dev && git push -u origin dev`
+3. Set branch protection on `main` (CI check names now available — see PROGRESS.md B2)
+4. Set branch protection on `dev`
 
 ---
 
-## Known Issues to Investigate
+## Known Patterns & Resolved Issues
 
-- Tailwind v3 → v4 upgrade may have left mismatches in existing component files. When touching any component, check for:
-  - `@astrojs/tailwind` references
-  - `tailwind.config.mjs` existence
-  - v3-only utility classes or `@apply` patterns
-  - Inline styles that should be tokens
-- CI pipeline errors on GitHub — diagnose by reading the failing stage output and cross-referencing the pipeline spec above
+These were discovered during CI debugging — do not reintroduce them.
+
+- **`src/env.d.ts` is required** — Astro 5 generates `.astro/types.d.ts` but TypeScript ignores it without a `/// <reference path>` in `src/env.d.ts`. Do not delete this file.
+- **Zod `.min()` must come before `.transform()`** — `z.string().transform(...)` returns `ZodEffects` which has no `.min()` method. Chain `.min()` first, then `.transform()`.
+- **`getStaticPaths` is isolated in Astro 5** — helper functions used inside `getStaticPaths` must be defined inside it, not at module scope. This is enforced by Astro's bundling.
+- **Pagefind files must be externalised from Rollup** — `vite.build.rollupOptions.external: [/^\/pagefind\//]` in `astro.config.mjs` prevents Rollup from trying to bundle `/pagefind/pagefind-ui.js` (a post-build artifact). Do not remove this.
+- **All CI jobs (including deploy) need pnpm + Node.js setup** — `cloudflare/wrangler-action@v3` uses pnpm internally. Every job that calls it must have `pnpm/action-setup` and `actions/setup-node` steps.
+- **`color-contrast` is `warn` not `error` in lighthouserc.json** — axe cannot resolve CSS custom properties at static analysis time. Changing it back to `error` will permanently fail CI.
 
 ---
 

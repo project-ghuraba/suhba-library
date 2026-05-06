@@ -8,6 +8,13 @@ import Footer from '../../components/layout/Footer.astro';
 import DiscourseCard from '../../components/discourse/DiscourseCard.astro';
 import { getCollection } from 'astro:content';
 import { render } from 'astro:content';
+import { toHijri } from 'hijri-converter';
+
+const HIJRI_MONTHS = [
+  'Muharram', 'Safar', 'Rabi al-Awwal', 'Rabi al-Thani',
+  'Jumada al-Awwal', 'Jumada al-Thani', 'Rajab', "Sha'ban",
+  'Ramadan', 'Shawwal', 'Dhul Qadah', 'Dhul Hijjah',
+];
 
 export async function getStaticPaths() {
   const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
@@ -30,8 +37,12 @@ const gregorianDate = data.date.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'long', year: 'numeric',
 });
 
-// Islamic date — manual or estimated
-const hijriDisplay = data.date_hijri ?? null;
+// Islamic date — manual or computed from Gregorian
+const hijriDisplay = data.date_hijri ?? (() => {
+  const { hy, hm, hd } = toHijri(data.date.getFullYear(), data.date.getMonth() + 1, data.date.getDate());
+  return `${hd} ${HIJRI_MONTHS[hm - 1]} ${hy}`;
+})();
+const hijriIsEstimated = !data.date_hijri;
 
 // Location display
 const locationParts = [data.location_venue, data.location_city, data.location_country]
@@ -126,20 +137,10 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
           <span class="meta-speaker">{speakerList}</span>
           <span class="meta-sep" aria-hidden="true">·</span>
           <time datetime={data.date.toISOString().split('T')[0]}>{gregorianDate}</time>
-          {hijriDisplay && (
-            <>
-              <span class="meta-sep" aria-hidden="true">·</span>
-              <span>{hijriDisplay}</span>
-            </>
-          )}
-          {!hijriDisplay && (
-            <>
-              <span class="meta-sep" aria-hidden="true">·</span>
-              <span class="meta-estimated" title="Islamic date estimated from Gregorian">
-                est. Hijri
-              </span>
-            </>
-          )}
+          <span class="meta-sep" aria-hidden="true">·</span>
+          <span title={hijriIsEstimated ? 'Islamic date computed from Gregorian' : undefined}>
+            {hijriDisplay}{hijriIsEstimated ? ' (est.)' : ''}
+          </span>
           {locationParts && (
             <>
               <span class="meta-sep" aria-hidden="true">·</span>
