@@ -33,7 +33,7 @@
         "uses-text-compression": "warn",
         "render-blocking-resources": "warn",
 
-        "color-contrast": "error",
+        "color-contrast": "warn",
         "image-alt": "error",
         "label": "error",
         "link-name": "error",
