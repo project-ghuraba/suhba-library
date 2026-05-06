@@ -1,6 +1,6 @@
 # The Suhba Library — Claude Code Context
 
-> Read this file fully before starting any task. Check PROGRESS.md before writing code.
+> Read this file fully before starting any task. Check `docs/PROGRESS.md` for workstream status and `docs/CHECKPOINT.md` for a full project state summary and next steps.
 
 ## Key Documents
 
@@ -216,15 +216,12 @@ Typography: system sans-serif for UI; Georgia/serif for discourse body. Minimum 
 ## Workstream Status Summary
 
 - **Workstream A:** ✅ Complete
-- **Workstream B:** ✅ Complete (first deploy live; manual steps remain — custom domain link + branch protection)
-- **Workstream C:** ✅ Complete (v1 — filter panel done; synonym ingestion deferred to v2)
-- **Workstreams D–G:** 🔲 Not started (D partially done — 3 speaker bios seeded)
+- **Workstream B:** ✅ Complete — live at `suhbalibrary.org`; `dev` branch and branch protection active
+- **Workstream C:** ✅ Complete (v1) — filter panel live; Pagefind synonym ingestion deferred to v2
+- **Workstream D:** 🚧 Partial — speaker bios seeded; full Markdown rendering + portrait images pending
+- **Workstreams E–G:** 🔲 Not started
 
-Next manual steps for the repo owner:
-1. Link `suhbalibrary.org` as custom domain: Cloudflare Dashboard → Workers & Pages → `suhba-library` → Custom domains
-2. Create `dev` branch: `git checkout -b dev && git push -u origin dev`
-3. Set branch protection on `main` (CI check names now available — see PROGRESS.md B2)
-4. Set branch protection on `dev`
+See `docs/CHECKPOINT.md` for a full project state summary, next steps, and the content workflow guide.
 
 ---
 

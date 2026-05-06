@@ -4,7 +4,7 @@
 |---|---|
 | **Repository** | `project-ghuraba/suhba-library` |
 | **Live domain** | `suhbalibrary.org` (apex — confirmed canonical URL) |
-| **Last updated** | 6 May 2026 |
+| **Last updated** | 7 May 2026 |
 | **PRD version** | v4.0 (6 May 2026) — supersedes v3.0 + Addendums A.1 & A.2 |
 
 ---
@@ -136,10 +136,10 @@
 | Upload default OG image `og-default.jpg` to R2 | ✅ | |
 | **Decide canonical URL** | ✅ | `suhbalibrary.org` (apex) — confirmed by owner |
 | Push scaffold to `main` | ✅ | Done; all 6 CI stages pass |
-| Create `dev` branch | 🔧 | Run: `git checkout -b dev && git push -u origin dev` |
-| Link custom domain to Cloudflare Pages project | 🔧 | Workers & Pages → suhba-library → Custom domains → Set up a domain |
-| Set branch protection rules on `main` | 🔧 | See B2 detail below — CI checks now have names after first run |
-| Set branch protection rules on `dev` | 🔧 | After `dev` branch created |
+| Create `dev` branch | ✅ | Done |
+| Link custom domain to Cloudflare Pages project | ✅ | `suhbalibrary.org` linked; live and publicly accessible |
+| Set branch protection rules on `main` | ✅ | Applied — see B2 |
+| Set branch protection rules on `dev` | ✅ | Applied |
 
 ### A13. Documentation
 | File | Status | Notes |
@@ -164,28 +164,26 @@
 |---|---|---|
 | Push scaffold (with URL fixes) to `main` | ✅ | All 6 CI stages pass |
 | Verify all 6 CI stages pass | ✅ | Confirmed — multiple fixes applied during initial CI run |
-| Link custom domain in Cloudflare Pages dashboard | 🔧 | Workers & Pages → suhba-library → Custom domains → Set up a domain |
-| Confirm live site accessible at canonical URL | 🔧 | After custom domain linked |
+| Link custom domain in Cloudflare Pages dashboard | ✅ | `suhbalibrary.org` linked; SSL provisioned automatically |
+| Confirm live site accessible at canonical URL | ✅ | `https://suhbalibrary.org` publicly accessible |
 
 ### B2. Branch protection (set up after first push)
 | Task | Status | Notes |
 |---|---|---|
-| Set branch protection on `main` | 🔧 | CI check names are now available — see settings detail below |
-| Set branch protection on `dev` | 🔧 | After `dev` branch created |
+| Create `dev` branch | ✅ | Branch created and pushed to origin |
+| Set branch protection on `main` | ✅ | PR required; 5 CI checks required; no bypass |
+| Set branch protection on `dev` | ✅ | CI checks required |
 
-**`main` branch protection settings:**
+**`main` branch protection (applied):**
 - Branch name pattern: `main`
 - ✅ Require a pull request before merging
 - ✅ Require approvals: 1
-- ✅ Require status checks to pass before merging
-- Required checks: `Stage 1 — Frontmatter Validation`, `Stage 2 — Duplicate Slug Detection`, `Stage 3 — Broken Internal Link Check`, `Stage 4 — Astro Static Build`, `Stage 5 — Lighthouse CI`
+- ✅ Require status checks to pass: `Stage 1–5` (all CI stages except deploy)
 - ✅ Require branches to be up to date before merging
 - ✅ Do not allow bypassing the above settings
 
-**`dev` branch protection settings:**
-- Branch name pattern: `dev`
-- ✅ Require status checks to pass before merging
-- Same required checks as `main`
+**`dev` branch protection (applied):**
+- ✅ Require status checks to pass (same checks as `main`)
 
 ### B3. Content pipeline & JSON indexes
 | Task | Status | Notes |
@@ -288,6 +286,7 @@ Issues encountered and fixed during the initial CI run — recorded for referenc
 | Stage 4 | `nameToSlug is not defined` at getStaticPaths runtime | Astro 5 bundles `getStaticPaths` as a separate chunk — it loses access to module-scope declarations. Fixed: move `nameToSlug` function inside `getStaticPaths` in `speakers/[speaker].astro` |
 | Stage 5 | `color-contrast` failure (score: 0) | Axe/Lighthouse cannot resolve CSS custom properties (`var(--color-*)`) to hex at static analysis time. Score of 0 is a tooling limitation, not a real contrast failure. Fixed: downgraded assertion from `"error"` to `"warn"` in `lighthouserc.json` |
 | Stage 6 | `Unable to locate executable file: pnpm` | Deploy job was missing `pnpm/action-setup` and `actions/setup-node` steps — `wrangler-action@v3` uses pnpm to install Wrangler. Fixed: added both setup steps to the deploy job |
+| Stage 6 | `Deployment failed — Unknown internal error occurred` | `wrangler-action@v3` was running `pnpm add wrangler@4` in the project root, modifying `pnpm-lock.yaml` and creating uncommitted changes. Fixed: added `wrangler` as a `devDependency`; deploy job now runs `pnpm install --frozen-lockfile` first so wrangler-action finds an existing installation and skips its own install |
 
 ---
 
