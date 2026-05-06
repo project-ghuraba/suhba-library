@@ -37,16 +37,14 @@ const discourseSchema = z.object({
 
   // --- Required fields ---
 
-  title: nfcString
-    .min(1, 'title is required'),
+  title: z.string().min(1, 'title is required').transform(s => s.normalize('NFC')),
 
   date: z.coerce.date(),
 
   speaker: nfcStringArray
     .min(1, 'At least one speaker is required'),
 
-  location_country: nfcString
-    .min(1, 'location_country is required'),
+  location_country: z.string().min(1, 'location_country is required').transform(s => s.normalize('NFC')),
 
   language: bcp47,
 
