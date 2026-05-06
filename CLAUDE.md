@@ -21,14 +21,7 @@ A static digital archive of Islamic spiritual discourses (suhbas). Built as a Di
 
 ## Open Decision — BLOCKING
 
-**Canonical URL: `suhbalibrary.org` (apex) or `www.suhbalibrary.org`?**
-
-This is unresolved and blocks all of Workstream B. Do NOT hardcode either URL in new code until the owner confirms. When confirmed, do a global find-and-replace:
-- `library.suhba.org` → confirmed canonical URL (in: `llms.txt`, `BaseLayout.astro`, `rss.xml.ts`, `README.md`)
-- `r2.suhba.org` → `r2.suhbalibrary.org` (any hardcoded component URLs)
-- Remove `__CF_ANALYTICS_TOKEN__` placeholder from `BaseLayout.astro` entirely — do not replace it
-
----
+**Canonical URL: `suhbalibrary.org` (apex). This has been confirmed by user.
 
 ## Tech Stack
 
