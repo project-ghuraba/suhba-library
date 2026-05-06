@@ -44,14 +44,19 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-/* Dark mode — driven by class on <html> toggled via JS */
+/* Dark mode — driven by .dark class on <html>, toggled via JS.
+   Re-map semantic tokens so every component using var(--color-*)
+   automatically gets the correct dark-mode value without needing
+   per-component overrides. */
 html.dark {
   background-color: var(--color-bg-dark);
-  color: var(--color-text-primary);
-}
+  color: #F5F0E8;
 
-html.dark body {
-  background-color: var(--color-bg-dark);
+  --color-bg-light:        #0F0E0C;
+  --color-surface-light:   #1A1917;
+  --color-text-primary:    #F5F0E8;
+  --color-text-secondary:  #9B9490;
+  --color-border:          #2E2B27;
 }
 
 body {

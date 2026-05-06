@@ -4,7 +4,7 @@
 |---|---|
 | **Repository** | `project-ghuraba/suhba-library` |
 | **Live domain** | `suhbalibrary.org` (apex — confirmed canonical URL) |
-| **Last updated** | 7 May 2026 |
+| **Last updated** | 8 May 2026 |
 | **PRD version** | v4.0 (6 May 2026) — supersedes v3.0 + Addendums A.1 & A.2 |
 
 ---
@@ -207,7 +207,7 @@
 | Year range filter | ✅ | Year-from / year-to inputs |
 | Sort toggle (Newest / Oldest / A–Z) | ✅ | Pill buttons; updates results without reload |
 | Empty state with suggestions | ✅ | Prompt when no filters active; friendly message when filters return nothing |
-| Zero-result rate tracking via CF Analytics | 🔲 | `data-cf-event` wiring deferred to Workstream E |
+| Zero-result rate tracking via CF Analytics | ✅ | Implemented in Workstream E — `zaraz.track('zero_results', ...)` in `search.astro` |
 
 ---
 
@@ -224,19 +224,19 @@
 
 ---
 
-## Workstream E — Analytics & Tracking Events
+## Workstream E — Analytics & Tracking Events ✅ Complete
 
-> Not yet started.
+> Implemented via `window.zaraz?.track()` — optional chaining makes it a safe no-op until Zaraz is enabled in the CF dashboard.
 
 | Task | Status | Notes |
 |---|---|---|
 | CF Analytics beacon live | ✅ | Automatic setup — no code change needed |
-| Custom event: quote copy | 🔲 | `data-cf-event` wiring |
-| Custom event: share button clicks per platform | 🔲 | |
-| Custom event: YouTube click | 🔲 | `data-cf-event="youtube_click"` attribute exists |
-| Custom event: search query log | 🔲 | |
-| Zero-result search rate tracking | 🔲 | |
-| Scroll depth tracking | 🔲 | |
+| Custom event: quote copy | ✅ | `zaraz.track('quote_copy', { source: 'wisdom_of_day' })` in `index.astro` after clipboard write |
+| Custom event: share button clicks per platform | ✅ | `zaraz.track('share_click', { platform })` via `data-platform` attributes on all share icons in `[slug].astro` |
+| Custom event: YouTube click | ✅ | `zaraz.track('youtube_click')` wired to `[data-cf-event="youtube_click"]` in `[slug].astro` |
+| Custom event: search query log | ✅ | `zaraz.track('search_query', { query, source: 'home' })` on home search form submit in `index.astro` |
+| Zero-result search rate tracking | ✅ | `zaraz.track('zero_results', { speaker, topic, language, country })` in `search.astro` when filter returns 0 results |
+| Scroll depth tracking | ✅ | Passive scroll listener in `[slug].astro` fires at 25/50/75/100% milestones via Set (fires once per milestone) |
 
 ---
 

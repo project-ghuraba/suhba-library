@@ -14,7 +14,12 @@ export async function getStaticPaths() {
   // Defined inside getStaticPaths — Astro 5 bundles this function separately
   // and loses access to module-scope declarations.
   function nameToSlug(name: string) {
-    return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    return name
+      .normalize('NFD')
+      .replace(/[̀-ͯ]/g, '')
+      .toLowerCase()
+      .replace(/\s+/g, '-')
+      .replace(/[^a-z0-9-]/g, '');
   }
 
   const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
@@ -133,8 +138,6 @@ const discourseCount = speakerDiscourses.length;
                 speakers={d.data.speaker}
                 locationCountry={d.data.location_country}
                 locationCity={d.data.location_city}
-                topics={d.data.topic}
-                transcriptQuality={d.data.transcript_quality}
               />
             ))}
           </div>
@@ -153,7 +156,7 @@ const discourseCount = speakerDiscourses.length;
   .speaker-page { padding-block: 2rem 4rem; }
 
   .speaker-inner {
-    max-width: 72rem;
+    max-width: 850px;
     margin-inline: auto;
     padding-inline: 1rem;
   }
