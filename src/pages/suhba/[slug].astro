@@ -30,9 +30,8 @@ const gregorianDate = data.date.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'long', year: 'numeric',
 });
 
-// Islamic date — manual or estimated flag
+// Islamic date — manual or estimated
 const hijriDisplay = data.date_hijri ?? null;
-const hijriIsEstimated = !data.date_hijri;
 
 // Location display
 const locationParts = [data.location_venue, data.location_city, data.location_country]
