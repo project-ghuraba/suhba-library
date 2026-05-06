@@ -690,15 +690,9 @@ Wrangler 4.x requires Node.js v22.0.0 minimum. All contributors running Wrangler
 
 Tailwind v4 uses CSS-first configuration. The file `tailwind.config.mjs` does not exist in this project. All configuration lives in `src/styles/global.css` under the `@theme` block. `astro.config.mjs` uses the Vite plugin (`@tailwindcss/vite`), not `@astrojs/tailwind`.
 
-### 14.11 Custom Domain — Link to Pages Project
+### 14.11 Custom Domain — ✅ Complete
 
-**Status: READY — canonical URL confirmed as `suhbalibrary.org`.**
-
-Steps to complete (one-time manual action in Cloudflare dashboard):
-1. Cloudflare Dashboard → Workers & Pages → `suhba-library` → Custom domains → Set up a domain
-2. Enter `suhbalibrary.org`
-3. Cloudflare will automatically create the required DNS record (domain is on same account)
-4. SSL certificate will be provisioned automatically
+Custom domain `suhbalibrary.org` has been linked to the Cloudflare Pages project `suhba-library`. SSL certificate was provisioned automatically. The site is publicly accessible at `https://suhbalibrary.org`.
 
 ### 14.12 Hijri Date Library
 
@@ -743,6 +737,20 @@ Added `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'` to the workflow env block. Gi
 
 `cloudflare/wrangler-action@v3` internally uses `pnpm` to install Wrangler. The deploy job (Stage 6) must include `pnpm/action-setup` and `actions/setup-node` steps — the same setup pattern used by every other job. Without these, the deploy job fails with "Unable to locate executable file: pnpm".
 
+### 14.19 Wrangler as devDependency
+
+`wrangler` is included as a `devDependency` in `package.json`. This is required because `wrangler-action@v3` detects pnpm and runs `pnpm add wrangler@4` in the project root when wrangler is not found in `node_modules`. This modifies `pnpm-lock.yaml` and creates uncommitted changes in the git working tree during the deploy job — a potential source of instability in the Cloudflare API call.
+
+The deploy job runs `pnpm install --frozen-lockfile` before `wrangler-action` executes, so wrangler is pre-installed. The action finds it via `pnpm exec wrangler --version` and skips its own installation entirely.
+
+### 14.20 Branch Protection — ✅ Applied
+
+Branch protection rules are active:
+- `main`: Requires PR, 1 approval, all 5 CI stages pass (Stages 1–5), branches up to date, no bypass
+- `dev`: Requires all 5 CI stages to pass
+
+Stages 1–5 are the quality gates. Stage 6 (deploy) is not a required status check — it only runs on push to `main` and should not block PRs.
+
 ---
 
-*End of PRD v4.0 — last updated 6 May 2026*
+*End of PRD v4.0 — last updated 7 May 2026*
