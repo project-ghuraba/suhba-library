@@ -63,8 +63,6 @@ const filtered = discourses
               speakers={d.data.speaker}
               locationCountry={d.data.location_country}
               locationCity={d.data.location_city}
-              topics={d.data.topic}
-              transcriptQuality={d.data.transcript_quality}
             />
           ))}
         </div>
@@ -82,7 +80,7 @@ const filtered = discourses
   .topic-page { padding-block: 2rem 4rem; }
 
   .topic-inner {
-    max-width: 72rem;
+    max-width: 850px;
     margin-inline: auto;
     padding-inline: 1rem;
   }

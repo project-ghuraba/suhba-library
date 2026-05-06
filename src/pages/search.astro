@@ -1,7 +1,7 @@
 ---
 // src/pages/search.astro
 // Search & Browse page.
-// Two modes: full-text keyword search via Pagefind, and faceted filter via JSON indexes.
+// Pagefind keyword search at top; faceted filter panel below.
 
 import BaseLayout from '../components/layout/BaseLayout.astro';
 import Header from '../components/layout/Header.astro';
@@ -17,8 +17,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       <h1 class="page-title">Search & Browse</h1>
 
       <!-- ── Keyword search (Pagefind) ── -->
-      <section class="search-section" aria-labelledby="keyword-heading">
-        <h2 class="section-label" id="keyword-heading">Keyword Search</h2>
+      <section class="search-section" aria-label="Keyword search">
         <PagefindSearch />
       </section>
 
@@ -67,7 +66,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
 
         <!-- Results list -->
         <div id="filter-results" aria-live="polite" aria-label="Browse results">
-          <p class="browse-hint">Select a filter above to browse discourses, or use keyword search.</p>
+          <p class="loading-state">Loading discourses…</p>
         </div>
       </section>
     </div>
@@ -80,7 +79,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   .search-page { padding-block: 2rem 4rem; }
 
   .search-inner {
-    max-width: 72rem;
+    max-width: 850px;
     margin-inline: auto;
     padding-inline: 1rem;
   }
@@ -225,13 +224,6 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     min-height: 1.2em;
   }
 
-  .browse-hint {
-    color: var(--color-text-secondary);
-    font-style: italic;
-    font-size: 0.925rem;
-    padding: 2rem 0;
-  }
-
   /* Result cards rendered by JS */
   .result-list {
     display: flex;
@@ -270,21 +262,6 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   }
 
   .result-card-sep { opacity: 0.4; }
-
-  .result-card-topics {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.3rem;
-    margin-top: 0.5rem;
-  }
-
-  .result-topic-pill {
-    font-size: 0.7rem;
-    padding: 0.15rem 0.5rem;
-    border-radius: 999px;
-    background: color-mix(in srgb, var(--color-accent-primary) 10%, transparent);
-    color: var(--color-accent-primary);
-  }
 
   .empty-state {
     color: var(--color-text-secondary);
@@ -326,7 +303,6 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
 
   let allDiscourses: DiscourseEntry[] = [];
   let activeSort = 'newest';
-  let filtersActive = false;
 
   const selSpeaker = document.getElementById('filter-speaker') as HTMLSelectElement;
   const selTopic = document.getElementById('filter-topic') as HTMLSelectElement;
@@ -340,13 +316,12 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   const countEl = document.getElementById('result-count') as HTMLParagraphElement;
 
   async function loadIndex() {
-    resultsEl.innerHTML = '<p class="loading-state">Loading index…</p>';
     try {
       const res = await fetch('/search-index.json');
       if (!res.ok) throw new Error('fetch failed');
       allDiscourses = await res.json() as DiscourseEntry[];
       populateFilters();
-      render(); // start with hint (no active filters)
+      render();
     } catch {
       resultsEl.innerHTML = '<p class="empty-state">Could not load browse index. Make sure the site has been built.</p>';
     }
@@ -382,10 +357,6 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       yearFrom: inpYearFrom.value ? Number(inpYearFrom.value) : null,
       yearTo: inpYearTo.value ? Number(inpYearTo.value) : null,
     };
-  }
-
-  function hasActiveFilters(f: ReturnType<typeof getFilters>) {
-    return !!(f.speaker || f.topic || f.language || f.country || f.yearFrom || f.yearTo);
   }
 
   function applyFilters(f: ReturnType<typeof getFilters>) {
@@ -426,9 +397,6 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
         <span class="result-card-sep" aria-hidden="true">·</span>
         <span>${formatDate(d.date)}</span>
         ${location ? `<span class="result-card-sep" aria-hidden="true">·</span><span>${location}</span>` : ''}
-      </div>
-      <div class="result-card-topics">
-        ${d.topic.map(t => `<span class="result-topic-pill">${t}</span>`).join('')}
       </div>`;
 
     return card;
@@ -436,17 +404,12 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
 
   function render() {
     const f = getFilters();
-    filtersActive = hasActiveFilters(f);
-
-    if (!filtersActive) {
-      countEl.textContent = '';
-      resultsEl.innerHTML = '<p class="browse-hint">Select a filter above to browse discourses, or use keyword search.</p>';
-      return;
-    }
-
     const filtered = sortResults(applyFilters(f));
     const n = filtered.length;
-    countEl.textContent = n === 0 ? 'No discourses match these filters.' : `${n} discourse${n !== 1 ? 's' : ''} found`;
+
+    countEl.textContent = n === 0
+      ? 'No discourses match these filters.'
+      : `${n} discourse${n !== 1 ? 's' : ''}`;
 
     if (n === 0) {
       resultsEl.innerHTML = '<p class="empty-state">No discourses match these filters. Try clearing some filters or broadening your search.</p>';
@@ -484,7 +447,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       sortBtns.forEach(b => b.classList.remove('sort-btn--active'));
       btn.classList.add('sort-btn--active');
       activeSort = btn.dataset.sort ?? 'newest';
-      if (filtersActive) render();
+      render();
     });
   });
 
