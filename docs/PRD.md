@@ -751,6 +751,25 @@ Branch protection rules are active:
 
 Stages 1–5 are the quality gates. Stage 6 (deploy) is not a required status check — it only runs on push to `main` and should not block PRs.
 
+### 14.21 Custom Analytics Events — Cloudflare Zaraz
+
+Custom engagement events are implemented via `window.zaraz?.track()`. The optional-chaining pattern makes every call a safe no-op until the site owner enables Zaraz in the Cloudflare Dashboard (Speed → Zaraz). No SDK installation or build changes are needed — Zaraz injects the `window.zaraz` global from the edge when activated.
+
+**Events implemented (Workstream E):**
+
+| Event name | Where fired | Properties |
+|---|---|---|
+| `quote_copy` | `index.astro` — Wisdom of the Day copy button | `{ source: 'wisdom_of_day' }` |
+| `share_click` | `[slug].astro` — each share icon (whatsapp, twitter, telegram, facebook, linkedin, copy_link) | `{ platform: string }` |
+| `youtube_click` | `[slug].astro` — Watch on YouTube button | (none) |
+| `search_query` | `index.astro` — home search form submit | `{ query: string, source: 'home' }` |
+| `zero_results` | `search.astro` — filter panel when filtered set is empty | `{ speaker, topic, language, country }` |
+| `scroll_depth` | `[slug].astro` — passive scroll listener | `{ percent: 25 | 50 | 75 | 100 }` |
+
+Scroll depth milestones use a `Set` to fire each threshold only once per page load.
+
+To activate Zaraz: Cloudflare Dashboard → the `suhbalibrary.org` zone → Speed → Zaraz → Enable. No code changes required.
+
 ---
 
-*End of PRD v4.0 — last updated 7 May 2026*
+*End of PRD v4.0 — last updated 8 May 2026*

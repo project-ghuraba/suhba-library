@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Date** | 7 May 2026 |
+| **Date** | 8 May 2026 |
 | **Live site** | https://suhbalibrary.org |
 | **Repository** | https://github.com/project-ghuraba/suhba-library (public) |
 | **CI status** | All 6 stages passing ✅ |
@@ -23,7 +23,7 @@ The site is fully functional and publicly live. Here is a concise inventory of e
 |---|---|---|
 | `/` | ✅ Live | Wisdom of the Day (seeded PRNG), Random Quote, Latest Suhbas (10), On This Day, search bar |
 | `/search` | ✅ Live | Pagefind full-text search + faceted filter panel (speaker, topic, language, country, year range, sort) |
-| `/suhba/[slug]` | ✅ Live | Hero image, Gregorian + Hijri date, reading time, quality badge, YouTube button, share bar, topic pills, related suhbas |
+| `/suhba/[slug]` | ✅ Live | Hero image, Gregorian + Hijri date, reading time, YouTube button, topic pills, share bar (SVG icons), related suhbas; Zaraz tracking for shares, YouTube, scroll depth |
 | `/topics` | ✅ Live | All topics — A–Z / Most Discourses sort toggle |
 | `/topics/[topic]` | ✅ Live | Filtered discourse list per topic |
 | `/speakers` | ✅ Live | Speaker grid with discourse count and initials avatar |
@@ -169,8 +169,10 @@ Speaker bios live in `src/data/speakers/`. The filename must match the slug form
 
 To find the correct filename for a speaker: the slug is generated as:
 ```js
-name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')
+name.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')
 ```
+
+NFD normalization strips combining diacritical marks so names like "Nûrî" or "Husayn" slugify cleanly.
 
 Example: `"Shaykh Nazim al-Haqqani"` → `shaykh-nazim-al-haqqani.md`
 
@@ -255,7 +257,7 @@ pnpm run lint:links    # Stage 3: broken link detection
 | B — First Deploy | ✅ Complete | Live at `suhbalibrary.org`; branch protection active |
 | C — Search & Filter | ✅ Complete (v1) | Filter panel done; Pagefind synonyms deferred to v2 |
 | D — Speaker Pages | 🚧 Partial | Scaffold done; bios seeded; full MD rendering + portraits pending |
-| E — Analytics Events | 🔲 Not started | CF beacon live; custom events not yet wired |
+| E — Analytics Events | ✅ Complete | Zaraz `track()` events wired for share, YouTube, quote copy, search query, zero-results, scroll depth |
 | F — Performance Audit | 🔲 Not started | Run after first real content batch |
 | G — v2 Features | 🔲 Deferred | See PRD §13 for full list |
 
@@ -317,34 +319,22 @@ Steps:
 
 ---
 
-### 8.2 Workstream E — Analytics Events
+### 8.2 Workstream E — Analytics Events ✅ Complete
 
-The Cloudflare Web Analytics beacon is live (auto-injected at edge). Custom events need to be wired to the `data-cf-event` attributes that already exist on several elements.
+All custom events are implemented via `window.zaraz?.track()`. Zaraz is not yet enabled in the Cloudflare Dashboard — events are no-ops until the owner activates it (Speed → Zaraz → Enable on the `suhbalibrary.org` zone).
 
-**Priority events to implement:**
+**Events live:**
 
-#### E1 — Quote copy event
-In `src/pages/index.astro`, the copy button for Wisdom of the Day needs a `data-cf-event="quote_copy"` attribute and the CF Analytics `window.cf_analytics` call. See [Cloudflare Web Analytics custom events docs](https://developers.cloudflare.com/analytics/web-analytics/tracking-custom-events/).
+| Event | File | Trigger |
+|---|---|---|
+| `quote_copy` | `index.astro` | Wisdom of the Day copy button |
+| `share_click` | `[slug].astro` | Any share icon (platform in props) |
+| `youtube_click` | `[slug].astro` | Watch on YouTube button |
+| `search_query` | `index.astro` | Home search form submit |
+| `zero_results` | `search.astro` | Filter returns 0 matches |
+| `scroll_depth` | `[slug].astro` | 25/50/75/100% scroll milestones |
 
-#### E2 — Share button clicks
-In `src/pages/suhba/[slug].astro`, each share button (`.share-icon`) needs to fire an analytics event. The YouTube button already has `data-cf-event="youtube_click"`.
-
-The pattern for all custom events:
-```js
-if (window.cf_analytics) {
-  window.cf_analytics.pushEvent('event_name', { slug: 'discourse-slug' });
-}
-```
-
-Add this to the existing `<script>` blocks in each page.
-
-#### E3 — Search query logging
-In `src/pages/search.astro`, the filter panel JS can fire an event when a search/filter is applied:
-```js
-if (window.cf_analytics) {
-  window.cf_analytics.pushEvent('filter_applied', { type: 'speaker', value: speakerValue });
-}
-```
+See PRD §14.21 for the full event schema.
 
 ---
 
@@ -470,4 +460,4 @@ Key dependencies and version constraints:
 
 ---
 
-*This document was last updated 7 May 2026. For the detailed workstream log, see `docs/PROGRESS.md`.*
+*This document was last updated 8 May 2026. For the detailed workstream log, see `docs/PROGRESS.md`.*

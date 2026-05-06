@@ -402,17 +402,30 @@ const jsonLd = {
 </style>
 
 <script>
+  declare global {
+    interface Window {
+      zaraz?: { track(event: string, props?: Record<string, unknown>): void };
+    }
+  }
+
   // ----- Copy quote -----
   const copyBtn = document.getElementById('copy-quote') as HTMLButtonElement | null;
   copyBtn?.addEventListener('click', async () => {
     const quote = copyBtn.dataset.quote ?? '';
     try {
       await navigator.clipboard.writeText(quote);
+      window.zaraz?.track('quote_copy', { source: 'wisdom_of_day' });
       copyBtn.textContent = 'Copied!';
       setTimeout(() => { copyBtn.textContent = 'Copy'; }, 2000);
     } catch {
       copyBtn.textContent = 'Failed';
     }
+  });
+
+  // ----- Home search tracking -----
+  document.querySelector<HTMLFormElement>('.home-search-form')?.addEventListener('submit', () => {
+    const q = (document.getElementById('home-search') as HTMLInputElement)?.value.trim();
+    if (q) window.zaraz?.track('search_query', { query: q, source: 'home' });
   });
 
   // ----- Random quote -----

@@ -278,6 +278,12 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
 </style>
 
 <script>
+  declare global {
+    interface Window {
+      zaraz?: { track(event: string, props?: Record<string, unknown>): void };
+    }
+  }
+
   interface DiscourseEntry {
     slug: string;
     title: string;
@@ -412,6 +418,13 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       : `${n} discourse${n !== 1 ? 's' : ''}`;
 
     if (n === 0) {
+      const f2 = getFilters();
+      window.zaraz?.track('zero_results', {
+        speaker: f2.speaker || null,
+        topic: f2.topic || null,
+        language: f2.language || null,
+        country: f2.country || null,
+      });
       resultsEl.innerHTML = '<p class="empty-state">No discourses match these filters. Try clearing some filters or broadening your search.</p>';
       return;
     }
