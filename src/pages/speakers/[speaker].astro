@@ -10,15 +10,15 @@ import { getCollection } from 'astro:content';
 import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
-// Speaker slug helper — must mirror the one in speakers/index.astro
-function nameToSlug(name: string) {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-}
-
 export async function getStaticPaths() {
+  // Defined inside getStaticPaths — Astro 5 bundles this function separately
+  // and loses access to module-scope declarations.
+  function nameToSlug(name: string) {
+    return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  }
+
   const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
 
-  // Collect all unique speaker names
   const speakerNames = new Set<string>();
   for (const d of discourses) {
     for (const s of d.data.speaker) speakerNames.add(s);
