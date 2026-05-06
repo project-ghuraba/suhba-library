@@ -19,7 +19,7 @@
   async function initSearch() {
     try {
       // @ts-ignore — generated at build time, not a static import
-      const { PagefindUI } = await import('/pagefind/pagefind-ui.js');
+      const { PagefindUI } = await import(/* @vite-ignore */ '/pagefind/pagefind-ui.js');
 
       new PagefindUI({
         element: '#pagefind-search-mount',
