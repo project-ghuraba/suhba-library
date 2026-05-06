@@ -1,0 +1,34 @@
+# CODEOWNERS — project-ghuraba/suhba-library
+#
+# These rules determine who is automatically requested for review
+# when a pull request touches the specified paths.
+#
+# Format: <pattern> <owner> [<owner> ...]
+# Owners can be GitHub usernames (@user) or teams (@org/team-name).
+#
+# Replace @project-ghuraba/maintainers with the actual GitHub team
+# or individual usernames once the organisation is set up.
+
+# Global default — everything requires a maintainer review
+*                                   @project-ghuraba/maintainers
+
+# CI/CD pipeline — any change requires maintainer sign-off
+.github/                            @project-ghuraba/maintainers
+
+# Schema — critical; any change requires maintainer sign-off
+src/content/config.ts               @project-ghuraba/maintainers
+
+# Validation scripts — maintainer only
+scripts/                            @project-ghuraba/maintainers
+
+# Lighthouse config — maintainer only
+lighthouserc.json                   @project-ghuraba/maintainers
+
+# Content — contributors can propose; maintainer merges
+src/content/discourses/             @project-ghuraba/maintainers
+src/data/speakers/                  @project-ghuraba/maintainers
+
+# Styles and components — maintainer review
+src/styles/                         @project-ghuraba/maintainers
+src/components/                     @project-ghuraba/maintainers
+src/pages/                          @project-ghuraba/maintainers

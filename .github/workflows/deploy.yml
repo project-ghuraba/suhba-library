@@ -1,0 +1,232 @@
+# .github/workflows/deploy.yml
+# The Suhba Library — Full CI/CD Pipeline
+#
+# Triggers: push to main or dev; PRs targeting main or dev.
+# Deployment (Stage 6) runs ONLY on push to main, after all prior stages pass.
+#
+# Stages:
+#   1 — Frontmatter validation   (Zod schema via astro check + type build)
+#   2 — Duplicate slug detection (custom Node script)
+#   3 — Broken internal links    (custom Node script)
+#   4 — Astro static build       (full site + JSON indexes)
+#   5 — Lighthouse CI            (performance / accessibility thresholds)
+#   6 — Deploy to Cloudflare Pages (main branch only)
+
+name: CI / Deploy
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+  pull_request:
+    branches:
+      - main
+      - dev
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  NODE_VERSION: '22'
+  PNPM_VERSION: '9'
+
+# ─────────────────────────────────────────────────────────────────
+# STAGE 1 — Frontmatter Validation
+# Runs astro check (TypeScript + Zod schema enforcement).
+# Any .md file with a missing required field or wrong type fails here.
+# ─────────────────────────────────────────────────────────────────
+jobs:
+  validate-frontmatter:
+    name: 'Stage 1 — Frontmatter Validation'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Run Astro type check (schema validation)
+        run: pnpm run validate
+        # astro check enforces the Zod schema in src/content/config.ts
+        # Any frontmatter violation → non-zero exit → workflow fails here.
+
+# ─────────────────────────────────────────────────────────────────
+# STAGE 2 — Duplicate Slug Detection
+# ─────────────────────────────────────────────────────────────────
+  check-slugs:
+    name: 'Stage 2 — Duplicate Slug Detection'
+    runs-on: ubuntu-latest
+    needs: validate-frontmatter
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Run slug duplicate check
+        run: node scripts/check-slugs.mjs
+
+# ─────────────────────────────────────────────────────────────────
+# STAGE 3 — Broken Internal Link Check
+# ─────────────────────────────────────────────────────────────────
+  check-links:
+    name: 'Stage 3 — Broken Internal Link Check'
+    runs-on: ubuntu-latest
+    needs: check-slugs
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Run broken link check
+        run: node scripts/check-links.mjs
+
+# ─────────────────────────────────────────────────────────────────
+# STAGE 4 — Astro Static Build
+# Full site build + Pagefind index generation.
+# Uploads dist/ as an artifact for Stage 5 to consume.
+# ─────────────────────────────────────────────────────────────────
+  build:
+    name: 'Stage 4 — Astro Static Build'
+    runs-on: ubuntu-latest
+    needs: check-links
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build site + Pagefind index
+        run: pnpm run build
+        # pnpm build runs `astro build` then `pnpm run pagefind` (via postbuild hook)
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/
+          retention-days: 1
+
+# ─────────────────────────────────────────────────────────────────
+# STAGE 5 — Lighthouse CI
+# Runs against the built static output.
+# Fails if any metric is outside the thresholds defined in the PRD.
+# ─────────────────────────────────────────────────────────────────
+  lighthouse:
+    name: 'Stage 5 — Lighthouse CI'
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+
+      - name: Install Lighthouse CI
+        run: pnpm add -g @lhci/cli
+
+      - name: Serve static build & run Lighthouse CI
+        run: |
+          pnpm add -g serve
+          serve -s dist -l 4000 &
+          SERVER_PID=$!
+          sleep 3
+          lhci autorun --config=lighthouserc.json
+          kill $SERVER_PID
+
+# ─────────────────────────────────────────────────────────────────
+# STAGE 6 — Deploy to Cloudflare Pages
+# Only runs on push to main (not PRs, not dev).
+# Requires CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID secrets.
+# ─────────────────────────────────────────────────────────────────
+  deploy:
+    name: 'Stage 6 — Deploy to Cloudflare Pages'
+    runs-on: ubuntu-latest
+    needs: lighthouse
+    # Guard: only deploy on direct push to main
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    environment:
+      name: production
+      url: https://suhbalibrary.org
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist/ --project-name=suhba-library --branch=main
