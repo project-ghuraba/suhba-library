@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Repository** | `project-ghuraba/suhba-library` |
-| **Live domain** | `suhbalibrary.org` (canonical URL pending decision — see below) |
+| **Live domain** | `suhbalibrary.org` (apex — confirmed canonical URL) |
 | **Last updated** | 6 May 2026 |
 | **PRD version** | v4.0 (6 May 2026) — supersedes v3.0 + Addendums A.1 & A.2 |
 
@@ -19,11 +19,11 @@
 
 ---
 
-## ⚠️ Open Decisions — Must Resolve Before Workstream B
+## ✅ Resolved Decisions
 
-| Decision | Options | Impact |
-|---|---|---|
-| **Canonical URL** | `suhbalibrary.org` (apex) or `www.suhbalibrary.org` | Gates all codebase URL updates, OG tags, RSS, llms.txt, JSON-LD, and custom domain setup in Cloudflare |
+| Decision | Resolution |
+|---|---|
+| **Canonical URL** | `suhbalibrary.org` (apex) — confirmed by owner |
 
 ---
 
@@ -40,7 +40,7 @@
 ### A2. Project scaffold — config files
 | File | Status | Notes |
 |---|---|---|
-| `package.json` | ✅ | All deps declared; pnpm scripts wired |
+| `package.json` | ✅ | All deps declared; pnpm scripts wired; `@astrojs/tailwind` removed; dev tools moved to devDependencies |
 | `astro.config.mjs` | ✅ | Static output; Tailwind v4 Vite plugin; R2 remote patterns |
 | `tsconfig.json` | ✅ | Strict; path aliases configured |
 | `.gitignore` | ✅ | |
@@ -62,7 +62,7 @@
 ### A5. Layout components
 | File | Status | Notes |
 |---|---|---|
-| `BaseLayout.astro` | ✅ | OG tags; JSON-LD slot; dark mode init; `__CF_ANALYTICS_TOKEN__` placeholder (remove in Workstream B) |
+| `BaseLayout.astro` | ✅ | OG tags; JSON-LD slot; dark mode init; no analytics placeholder (CF beacon auto-injected at edge) |
 | `Header.astro` | ✅ | Mobile drawer; dark mode toggle; font size control; WCAG AA |
 | `Footer.astro` | ✅ | RSS + llms.txt links |
 
@@ -83,8 +83,8 @@
 | `/speakers` | `speakers/index.astro` | ✅ | Grid; discourse count; initials avatar |
 | `/speakers/[speaker]` | `speakers/[speaker].astro` | ✅ | Bio; quotes; discourse list; graceful no-bio fallback |
 | `/about` | `about.astro` | ✅ | Mission; how it works; contribute; feeds |
-| `/rss.xml` | `rss.xml.ts` | ✅ | Full RSS 2.0 — needs URL update in Workstream B |
-| `/llms.txt` | `public/llms.txt` | ✅ | AI crawler instructions — needs URL update in Workstream B |
+| `/rss.xml` | `rss.xml.ts` | ✅ | Full RSS 2.0; URLs already use `suhbalibrary.org` |
+| `/llms.txt` | `public/llms.txt` | ✅ | AI crawler instructions; URLs already use `suhbalibrary.org` |
 
 ### A8. Static assets
 | File | Status | Notes |
@@ -100,7 +100,7 @@
 ### A10. CI/CD pipeline
 | File | Status | Notes |
 |---|---|---|
-| `.github/workflows/deploy.yml` | ✅ | All 6 stages; deploy uses `cloudflare/wrangler-action@v3` with `wranglerVersion: "4"` |
+| `.github/workflows/deploy.yml` | ✅ | All 6 stages; deploy uses `cloudflare/wrangler-action@v3` with `wranglerVersion: "4"`; command matches spec exactly |
 | `.github/CODEOWNERS` | ✅ | |
 
 ### A11. Config data
@@ -126,9 +126,9 @@
 | Enable public access on R2 bucket | ✅ | |
 | Set R2 custom domain `r2.suhbalibrary.org` | ✅ | |
 | Upload default OG image `og-default.jpg` to R2 | ✅ | |
-| **Decide canonical URL** | ⛔ | **Blocking all below** |
-| Link custom domain to Cloudflare Pages project | 🔧 | Blocked on canonical URL decision |
-| Push scaffold to `main` | 🔧 | Blocked on canonical URL decision (URL updates needed first) |
+| **Decide canonical URL** | ✅ | `suhbalibrary.org` (apex) — confirmed by owner |
+| Link custom domain to Cloudflare Pages project | 🔧 | Workers & Pages → suhba-library → Custom domains → Set up a domain |
+| Push scaffold to `main` | 🔧 | Ready — all URL fixes already in scaffold |
 | Create `dev` branch | 🔧 | After initial push to `main` |
 | Set branch protection rules on `main` | 🔧 | After repo has commits; see Workstream B next steps |
 | Set branch protection rules on `dev` | 🔧 | After `dev` branch created |
@@ -143,15 +143,15 @@
 
 ## Workstream B — First Deploy & Codebase Cleanup
 
-> Blocked on canonical URL decision. Once unblocked, complete in this order.
+> Canonical URL confirmed. B0 codebase tasks completed (URLs were already correct in scaffold). Ready to proceed with B1.
 
 ### B0. Pre-deploy codebase updates (canonical URL fix)
 | Task | Status | Notes |
 |---|---|---|
-| Decide canonical URL (apex vs www) | ⛔ | Must be done first |
-| Global find-and-replace `library.suhba.org` → confirmed URL | 🔲 | Affects: llms.txt, BaseLayout.astro, rss.xml.ts, README.md |
-| Replace `r2.suhba.org` → `r2.suhbalibrary.org` | 🔲 | In any hardcoded component URLs |
-| Remove `__CF_ANALYTICS_TOKEN__` placeholder from `BaseLayout.astro` | 🔲 | Cloudflare injects beacon automatically — placeholder is not needed |
+| Decide canonical URL (apex vs www) | ✅ | `suhbalibrary.org` (apex) — confirmed |
+| Global find-and-replace `library.suhba.org` → confirmed URL | ✅ | All files already use `suhbalibrary.org`; no legacy placeholder URLs found |
+| Replace `r2.suhba.org` → `r2.suhbalibrary.org` | ✅ | All files already use `r2.suhbalibrary.org`; no legacy placeholder URLs found |
+| Remove `__CF_ANALYTICS_TOKEN__` placeholder from `BaseLayout.astro` | ✅ | Placeholder was never present in current scaffold; CF beacon auto-injected at edge |
 
 ### B1. Initial deployment
 | Task | Status | Notes |

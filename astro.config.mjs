@@ -14,8 +14,7 @@ export default defineConfig({
     ],
   },
 
-  // Content Collections are auto-discovered in src/content/
-  // Config lives in src/content/config.ts
+  // Content Collections require explicit glob loaders — see src/content/config.ts
 
   // Build options
   build: {
