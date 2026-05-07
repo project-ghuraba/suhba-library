@@ -112,10 +112,10 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
 >
   <Header slot="header" />
 
-  <article class="discourse-page">
+  <article class="discourse-page" data-pagefind-body>
 
-    <!-- Header image — full natural height, no crop -->
-    <div class="discourse-hero">
+    <!-- Hero image — not part of searchable content -->
+    <div class="discourse-hero" data-pagefind-ignore>
       <img
         src={ogImage}
         alt={`Header image for: ${data.title}`}
@@ -126,14 +126,14 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
 
     <div class="discourse-body-wrapper">
 
-      <!-- Title block -->
+      <!-- Title block — included in search index -->
       <header class="discourse-header">
-        <h1 class="discourse-title">{data.title}</h1>
+        <h1 class="discourse-title" data-pagefind-meta="title">{data.title}</h1>
 
         <div class="discourse-meta">
-          <span class="meta-speaker">{speakerList}</span>
+          <span class="meta-speaker" data-pagefind-meta="author">{speakerList}</span>
           <span class="meta-sep" aria-hidden="true">·</span>
-          <time datetime={data.date.toISOString().split('T')[0]}>{gregorianDate}</time>
+          <time datetime={data.date.toISOString().split('T')[0]} data-pagefind-meta="date">{gregorianDate}</time>
           <span class="meta-sep" aria-hidden="true">·</span>
           <span title={hijriIsEstimated ? 'Islamic date computed from Gregorian' : undefined}>
             {hijriDisplay}{hijriIsEstimated ? ' (est.)' : ''}
@@ -176,12 +176,12 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
       </header>
 
       <!-- Discourse body -->
-      <div class="prose" data-pagefind-body>
+      <div class="prose">
         <Content />
       </div>
 
-      <!-- Topic pills — before share bar -->
-      <div class="discourse-topics" aria-label="Topics">
+      <!-- Topic pills — not part of searchable content -->
+      <div class="discourse-topics" aria-label="Topics" data-pagefind-ignore>
         {data.topic.map(t => (
           <a href={`/topics/${encodeURIComponent(t.toLowerCase())}`} class="topic-pill">
             {t}
@@ -189,8 +189,8 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
         ))}
       </div>
 
-      <!-- Share bar -->
-      <aside class="share-bar" aria-label="Share this discourse">
+      <!-- Share bar — not part of searchable content -->
+      <aside class="share-bar" aria-label="Share this discourse" data-pagefind-ignore>
         <p class="share-label">Share</p>
         <div class="share-icons">
           <!-- WhatsApp -->
@@ -290,9 +290,9 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
         </div>
       </aside>
 
-      <!-- Related Suhbas -->
+      <!-- Related Suhbas — not part of searchable content -->
       {related.length > 0 && (
-        <section class="related-suhbas" aria-labelledby="related-heading">
+        <section class="related-suhbas" aria-labelledby="related-heading" data-pagefind-ignore>
           <h2 class="related-heading" id="related-heading">Related Suhbas</h2>
           <div class="related-list">
             {related.map(d => (

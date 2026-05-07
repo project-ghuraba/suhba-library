@@ -17,6 +17,9 @@
   // Pagefind UI is loaded from the statically generated /pagefind/ output.
   // We dynamically import it so it doesn't break in dev (no index yet).
   async function initSearch() {
+    // Read ?q= param from home page search form so the query carries over
+    const urlQuery = new URLSearchParams(window.location.search).get('q') ?? undefined;
+
     try {
       // @ts-ignore — generated at build time, not a static import
       const { PagefindUI } = await import(/* @vite-ignore */ '/pagefind/pagefind-ui.js');
@@ -25,8 +28,9 @@
         element: '#pagefind-search-mount',
         showSubResults: true,
         resetStyles: false,          // We supply our own CSS
-        excerptLength: 30,
+        excerptLength: 50,
         highlightParam: 'highlight',
+        defaultQuery: urlQuery,
         translations: {
           placeholder: 'Search suhbas…',
           zero_results: 'No discourses found for [SEARCH_TERM]. Try a different spelling or browse by topic.',
