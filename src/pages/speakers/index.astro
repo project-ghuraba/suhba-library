@@ -1,13 +1,11 @@
 ---
-// src/pages/speakers/index.astro
-// Speaker biographies index — vertical list.
-
 import BaseLayout from '../../components/layout/BaseLayout.astro';
 import Header from '../../components/layout/Header.astro';
 import Footer from '../../components/layout/Footer.astro';
 import { getCollection } from 'astro:content';
+import { readFile } from 'node:fs/promises';
+import { join } from 'node:path';
 
-// Count discourses per speaker
 const discourses = await getCollection('discourses', ({ data }) => data.status === 'published');
 
 const speakerCountMap = new Map<string, number>();
@@ -26,10 +24,29 @@ function nameToSlug(name: string) {
     .replace(/[^a-z0-9-]/g, '');
 }
 
-// Build speaker list — sorted by discourse count desc
-const speakers = Array.from(speakerCountMap.entries())
+// Load avatar URLs from speaker bio files where available
+async function getAvatarUrl(slug: string): Promise<string | null> {
+  try {
+    const bioPath = join(process.cwd(), 'src', 'data', 'speakers', `${slug}.md`);
+    const raw = await readFile(bioPath, 'utf-8');
+    const m = raw.match(/^image_avatar:\s*"?([^"\n]+)"?/m);
+    const val = m?.[1]?.trim();
+    return val || null;
+  } catch {
+    return null;
+  }
+}
+
+const speakersRaw = Array.from(speakerCountMap.entries())
   .map(([name, count]) => ({ name, count, slug: nameToSlug(name) }))
   .sort((a, b) => b.count - a.count);
+
+const speakers = await Promise.all(
+  speakersRaw.map(async s => ({
+    ...s,
+    avatarUrl: await getAvatarUrl(s.slug),
+  }))
+);
 ---
 
 <BaseLayout title="Speakers">
@@ -43,10 +60,13 @@ const speakers = Array.from(speakerCountMap.entries())
       </header>
 
       <div class="speakers-list">
-        {speakers.map(({ name, count, slug }) => (
+        {speakers.map(({ name, count, slug, avatarUrl }) => (
           <a href={`/speakers/${slug}`} class="speaker-row">
-            <div class="speaker-avatar" aria-hidden="true">
-              {name.split(' ').map(w => w[0]).slice(0, 2).join('')}
+            <div class="speaker-avatar" aria-hidden={avatarUrl ? 'false' : 'true'}>
+              {avatarUrl
+                ? <img src={avatarUrl} alt={name} class="avatar-img" />
+                : name.split(' ').map(w => w[0]).slice(0, 2).join('')
+              }
             </div>
             <div class="speaker-info">
               <p class="speaker-name">{name}</p>
@@ -130,6 +150,14 @@ const speakers = Array.from(speakerCountMap.entries())
     font-weight: 700;
     flex-shrink: 0;
     letter-spacing: 0.02em;
+    overflow: hidden;
+  }
+
+  .avatar-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
   }
 
   .speaker-info {

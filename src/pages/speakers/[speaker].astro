@@ -1,7 +1,4 @@
 ---
-// src/pages/speakers/[speaker].astro
-// Individual speaker page — portrait, bio, quotes, discourse list.
-
 import BaseLayout from '../../components/layout/BaseLayout.astro';
 import Header from '../../components/layout/Header.astro';
 import Footer from '../../components/layout/Footer.astro';
@@ -11,8 +8,6 @@ import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
 export async function getStaticPaths() {
-  // Defined inside getStaticPaths — Astro 5 bundles this function separately
-  // and loses access to module-scope declarations.
   function nameToSlug(name: string) {
     return name
       .normalize('NFD')
@@ -44,36 +39,100 @@ const speakerDiscourses = allDiscourses
   .filter(d => d.data.speaker.includes(speakerName))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
-// Load speaker bio if it exists in src/data/speakers/<slug>.md
-// Falls back gracefully if no bio file authored yet.
+// Bio frontmatter fields
+interface SpeakerFrontmatter {
+  name?: string;
+  born?: number;
+  died?: number;
+  birth_place?: string;
+  tariqa?: string;
+  silsila?: string[];
+  image?: string;
+  image_avatar?: string;
+  notable_quotes?: string[];
+}
+
+let bioFrontmatter: SpeakerFrontmatter = {};
 let bioHtml: string | null = null;
+
 try {
   const bioPath = join(process.cwd(), 'src', 'data', 'speakers', `${speakerSlug}.md`);
   const raw = await readFile(bioPath, 'utf-8');
-  // Strip YAML frontmatter if present, keep body
-  const body = raw.replace(/^---[\s\S]*?---\n?/, '').trim();
-  // Simple Markdown→HTML for bio (paragraphs only — full MD rendering deferred to v2)
-  bioHtml = body
-    .split(/\n{2,}/)
-    .map(p => `<p>${p.trim()}</p>`)
-    .join('\n');
+
+  // Parse YAML frontmatter
+  const fmMatch = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  if (fmMatch) {
+    const yamlBlock = fmMatch[1];
+    const body = fmMatch[2].trim();
+
+    // Parse individual fields from YAML
+    const getString = (key: string) => {
+      const m = yamlBlock.match(new RegExp(`^${key}:\\s*"?([^"\\n]+)"?`, 'm'));
+      return m ? m[1].trim() : undefined;
+    };
+    const getNumber = (key: string) => {
+      const m = yamlBlock.match(new RegExp(`^${key}:\\s*(\\d+)`, 'm'));
+      return m ? parseInt(m[1], 10) : undefined;
+    };
+    const getArray = (key: string): string[] => {
+      const blockMatch = yamlBlock.match(new RegExp(`^${key}:\\n((?:  - .+\\n?)+)`, 'm'));
+      if (!blockMatch) return [];
+      return blockMatch[1]
+        .split('\n')
+        .map(l => l.replace(/^\s*- /, '').trim())
+        .filter(Boolean);
+    };
+
+    bioFrontmatter = {
+      name: getString('name'),
+      born: getNumber('born'),
+      died: getNumber('died'),
+      birth_place: getString('birth_place'),
+      tariqa: getString('tariqa'),
+      silsila: getArray('silsila'),
+      image: getString('image'),
+      image_avatar: getString('image_avatar'),
+      notable_quotes: getArray('notable_quotes'),
+    };
+
+    // Render body paragraphs
+    if (body) {
+      bioHtml = body
+        .split(/\n{2,}/)
+        .map(p => `<p>${p.trim().replace(/\*([^*]+)\*/g, '<em>$1</em>')}</p>`)
+        .join('\n');
+    }
+  }
 } catch {
-  // No bio file yet — that's fine
+  // No bio file yet — graceful fallback
 }
 
-// Collect verified quotes attributed to this speaker
-const speakerQuotes: string[] = [];
-for (const d of speakerDiscourses) {
-  for (const q of d.data.quotes_verified ?? []) {
-    speakerQuotes.push(q);
-  }
-}
+const {
+  born,
+  died,
+  birth_place,
+  tariqa,
+  silsila = [],
+  image,
+  image_avatar,
+  notable_quotes = [],
+} = bioFrontmatter;
 
 const discourseCount = speakerDiscourses.length;
+const hasSilsila = silsila.length > 0;
+const hasAvatar = !!image_avatar;
+const hasHero = !!image;
 ---
 
 <BaseLayout title={speakerName}>
   <Header slot="header" />
+
+  <!-- Hero image — only rendered if image field is present -->
+  {hasHero && (
+    <div class="speaker-hero" role="img" aria-label={`Portrait of ${speakerName}`}>
+      <img src={image} alt={`${speakerName}`} class="speaker-hero-img" />
+    </div>
+  )}
 
   <div class="speaker-page">
     <div class="speaker-inner">
@@ -85,12 +144,30 @@ const discourseCount = speakerDiscourses.length;
 
       <!-- Speaker header -->
       <header class="speaker-header">
-        <div class="speaker-avatar-lg" aria-hidden="true">
-          {speakerName.split(' ').map((w: string) => w[0]).slice(0, 2).join('')}
+        <div class="speaker-avatar-lg" aria-hidden={hasAvatar ? 'false' : 'true'}>
+          {hasAvatar
+            ? <img src={image_avatar} alt={speakerName} class="avatar-img" />
+            : speakerName.split(' ').map((w: string) => w[0]).slice(0, 2).join('')
+          }
         </div>
         <div>
           <h1 class="speaker-name">{speakerName}</h1>
-          <p class="speaker-meta">
+          <div class="speaker-meta-row">
+            {tariqa && <span class="speaker-tariqa">{tariqa}</span>}
+            {tariqa && (born || birth_place) && <span class="meta-sep" aria-hidden="true">·</span>}
+            {born && (
+              <span class="speaker-dates">
+                {born}{died ? `–${died}` : ''}
+              </span>
+            )}
+            {birth_place && (
+              <>
+                <span class="meta-sep" aria-hidden="true">·</span>
+                <span class="speaker-birthplace">{birth_place}</span>
+              </>
+            )}
+          </div>
+          <p class="speaker-discourse-count">
             {discourseCount} discourse{discourseCount !== 1 ? 's' : ''} in the archive
           </p>
         </div>
@@ -98,24 +175,45 @@ const discourseCount = speakerDiscourses.length;
 
       <!-- Biography -->
       {bioHtml ? (
-        <section class="speaker-bio" aria-labelledby="bio-heading">
+        <section class="speaker-section" aria-labelledby="bio-heading">
           <h2 class="section-heading" id="bio-heading">Biography</h2>
           <div class="bio-body" set:html={bioHtml} />
         </section>
       ) : (
-        <section class="speaker-bio">
+        <section class="speaker-section">
           <p class="empty-state">
             No biography authored yet. Create <code>src/data/speakers/{speakerSlug}.md</code> to add one.
           </p>
         </section>
       )}
 
-      <!-- Notable quotes -->
-      {speakerQuotes.length > 0 && (
-        <section class="speaker-quotes" aria-labelledby="quotes-heading">
+      <!-- Silsila — collapsible -->
+      {hasSilsila && (
+        <section class="speaker-section" aria-labelledby="silsila-heading">
+          <h2 class="section-heading" id="silsila-heading">Spiritual Lineage (Silsila)</h2>
+          <details class="silsila-details">
+            <summary class="silsila-summary">
+              <span>Show full silsila</span>
+              <span class="silsila-count">{silsila.length} names — to the Prophet ﷺ</span>
+            </summary>
+            <ol class="silsila-list" aria-label="Silsila chain">
+              {silsila.map((name, i) => (
+                <li class={`silsila-item${i === silsila.length - 1 ? ' silsila-prophet' : ''}`}>
+                  <span class="silsila-num">{i + 1}</span>
+                  <span class="silsila-name">{name}</span>
+                </li>
+              ))}
+            </ol>
+          </details>
+        </section>
+      )}
+
+      <!-- Notable quotes — from frontmatter -->
+      {notable_quotes.length > 0 && (
+        <section class="speaker-section" aria-labelledby="quotes-heading">
           <h2 class="section-heading" id="quotes-heading">Notable Quotes</h2>
           <div class="quotes-list">
-            {speakerQuotes.slice(0, 6).map(q => (
+            {notable_quotes.map(q => (
               <blockquote class="speaker-quote">
                 <p>"{q}"</p>
               </blockquote>
@@ -125,7 +223,7 @@ const discourseCount = speakerDiscourses.length;
       )}
 
       <!-- Discourse list -->
-      <section aria-labelledby="discourses-heading">
+      <section class="speaker-section" aria-labelledby="discourses-heading">
         <h2 class="section-heading" id="discourses-heading">All Discourses</h2>
         {speakerDiscourses.length > 0 ? (
           <div class="discourse-list">
@@ -153,6 +251,20 @@ const discourseCount = speakerDiscourses.length;
 </BaseLayout>
 
 <style>
+  .speaker-hero {
+    width: 100%;
+    max-height: 320px;
+    overflow: hidden;
+  }
+
+  .speaker-hero-img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+  }
+
   .speaker-page { padding-block: 2rem 4rem; }
 
   .speaker-inner {
@@ -173,38 +285,65 @@ const discourseCount = speakerDiscourses.length;
 
   .speaker-header {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: 1.25rem;
     margin-bottom: 2rem;
     flex-wrap: wrap;
   }
 
   .speaker-avatar-lg {
-    width: 4rem;
-    height: 4rem;
+    width: 5rem;
+    height: 5rem;
     border-radius: 50%;
     background: color-mix(in srgb, var(--color-accent-primary) 15%, transparent);
     color: var(--color-accent-primary);
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 700;
     flex-shrink: 0;
+    overflow: hidden;
+  }
+
+  .avatar-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
   }
 
   .speaker-name {
     font-size: clamp(1.4rem, 4vw, 1.875rem);
     font-weight: 700;
     letter-spacing: -0.02em;
-    margin: 0 0 0.2rem;
+    margin: 0 0 0.35rem;
   }
 
-  .speaker-meta {
+  .speaker-meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem;
     font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 0.25rem;
+  }
+
+  .speaker-tariqa {
+    color: var(--color-accent-primary);
+    font-weight: 500;
+  }
+
+  .meta-sep { opacity: 0.4; }
+
+  .speaker-discourse-count {
+    font-size: 0.825rem;
     color: var(--color-text-secondary);
     margin: 0;
   }
+
+  .speaker-section { margin-bottom: 0; }
 
   .section-heading {
     font-size: 1.05rem;
@@ -213,8 +352,6 @@ const discourseCount = speakerDiscourses.length;
     padding-top: 2rem;
     border-top: 1px solid var(--color-border);
   }
-
-  .speaker-bio { margin-bottom: 0; }
 
   .bio-body {
     font-family: var(--font-serif);
@@ -226,6 +363,86 @@ const discourseCount = speakerDiscourses.length;
 
   .bio-body p { margin-block: 0.875em; }
 
+  /* Silsila */
+  .silsila-details {
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+
+  .silsila-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-accent-primary);
+    list-style: none;
+    user-select: none;
+  }
+
+  .silsila-summary::-webkit-details-marker { display: none; }
+
+  .silsila-summary::before {
+    content: '▶';
+    font-size: 0.65rem;
+    transition: transform 0.2s;
+    margin-right: 0.5rem;
+  }
+
+  details[open] .silsila-summary::before {
+    transform: rotate(90deg);
+  }
+
+  details[open] .silsila-summary {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .silsila-count {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: var(--color-text-secondary);
+    margin-left: auto;
+  }
+
+  .silsila-list {
+    list-style: none;
+    margin: 0;
+    padding: 0.5rem 0;
+  }
+
+  .silsila-item {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    padding: 0.4rem 1rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  .silsila-item:not(:last-child) {
+    border-bottom: 1px solid color-mix(in srgb, var(--color-border) 50%, transparent);
+  }
+
+  .silsila-num {
+    font-size: 0.75rem;
+    color: var(--color-text-secondary);
+    min-width: 1.5rem;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  .silsila-name { color: var(--color-text-primary); }
+
+  .silsila-prophet .silsila-name {
+    font-weight: 600;
+    color: var(--color-accent-primary);
+  }
+
+  /* Quotes */
   .quotes-list {
     display: flex;
     flex-direction: column;
