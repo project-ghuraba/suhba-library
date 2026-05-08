@@ -1,7 +1,12 @@
 ---
 name: "Shaykh Mehmet Adil"
+name_full: "Shaykh Mehmet Adil al-Haqqani al-Qubrusi"
 born: 1957
 birth_place: "Lefke, Cyprus"
+image: ""
+image_avatar: ""
+selected_quotes: []
+links: []
 ---
 
 Shaykh Mehmet Adil al-Haqqani al-Qubrusi was born in 1957 in Lefke, Cyprus, the son of Shaykh Nazim al-Haqqani. Raised in the dergah of his father, he received his spiritual training directly under the guidance of Grandshaykh Abdullah al-Fa'iz ad-Daghestani and subsequently his father, Shaykh Nazim, from whom he received the authorisation (*ijaza*) to guide seekers on the Naqshbandi-Haqqani path.

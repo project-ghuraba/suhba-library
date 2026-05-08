@@ -47,7 +47,7 @@ const topicsJson = JSON.stringify(topics);
           .sort((a, b) => a.name.localeCompare(b.name))
           .map(({ name, count }) => (
             <a
-              href={`/topics/${encodeURIComponent(name.toLowerCase())}`}
+              href={`/topics/${name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '-').replace(/-{2,}/g, '-').replace(/^-|-$/g, '')}`}
               class="topic-pill"
               data-name={name}
               data-count={count}
