@@ -1,7 +1,12 @@
 ---
 name: "Shaykh Hisham Kabbani"
+name_full: "Shaykh Muhammad Hisham Kabbani"
 born: 1945
 birth_place: "Beirut, Lebanon"
+image: ""
+image_avatar: ""
+selected_quotes: []
+links: []
 ---
 
 Shaykh Muhammad Hisham Kabbani was born in 1945 in Beirut, Lebanon. He studied Islamic jurisprudence, theology, and classical Sufi sciences in Beirut, Damascus, and at al-Azhar University in Cairo, before receiving authorisation to teach on the Naqshbandi path from Grandshaykh Abdullah al-Fa'iz ad-Daghestani and subsequently from Shaykh Nazim al-Haqqani.

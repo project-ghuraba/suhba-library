@@ -183,7 +183,7 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
       <!-- Topic pills — before share bar -->
       <div class="discourse-topics" aria-label="Topics">
         {data.topic.map(t => (
-          <a href={`/topics/${encodeURIComponent(t.toLowerCase())}`} class="topic-pill">
+          <a href={`/topics/${t.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '-').replace(/-{2,}/g, '-').replace(/^-|-$/g, '')}`} class="topic-pill">
             {t}
           </a>
         ))}

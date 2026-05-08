@@ -33,13 +33,9 @@
         },
       });
     } catch {
-      // Graceful degradation — search index not built yet (dev mode)
+      // Search index not built yet (dev mode) — show nothing
       const mount = document.getElementById('pagefind-search-mount');
-      if (mount) {
-        mount.innerHTML = `<p class="search-unavailable">
-          Search index not found. Run <code>pnpm build</code> to generate it.
-        </p>`;
-      }
+      if (mount) mount.innerHTML = '';
     }
   }
 

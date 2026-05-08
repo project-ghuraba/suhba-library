@@ -1,8 +1,13 @@
 ---
 name: "Shaykh Nazim al-Haqqani"
+name_full: "Mawlana Shaykh Muhammad Nazim Adil al-Haqqani al-Qubrusi"
 born: 1922
 died: 2014
 birth_place: "Larnaca, Cyprus"
+image: ""
+image_avatar: ""
+selected_quotes: []
+links: []
 ---
 
 Shaykh Muhammad Nazim Adil al-Haqqani al-Qubrusi (1922–2014) was the forty-first grand master of the Naqshbandi-Haqqani Sufi Order, one of the most widely followed Sufi orders in the world. Born in Larnaca, Cyprus, he studied Islamic sciences in Istanbul and Damascus before becoming the spiritual heir of Grandshaykh Abdullah al-Fa'iz ad-Daghestani.
