@@ -4,10 +4,19 @@ name_full: "Mawlana Shaykh Muhammad Nazim Adil al-Haqqani al-Qubrusi"
 born: 1922
 died: 2014
 birth_place: "Larnaca, Cyprus"
-image: ""
-image_avatar: ""
-selected_quotes: []
-links: []
+image: "https://r2.suhbalibrary.org/speakers/shaykh-nazim-al-haqqani-hero.jpg"
+image_avatar: "https://r2.suhbalibrary.org/speakers/shaykh-nazim-al-haqqani-avatar.jpg"
+selected_quotes: ["We ask to be no-one and nothing. For as long as we are someone, we are not complete.", "Many people come to me asking for power, for secrets, for keys to open the doors of the unseen. They want to be 'someone.' They want to fly, to read minds, to have authority. I say to them: I am not here to give you power; I am here to take away every power you think you have. I am here to make you nothing, so that only Allah remains."]
+links:
+  - label: "Naqshbandi.org"
+    url: "https://www.naqshbandi.org"
+    description: "Official portal of the Naqshbandi-Haqqani Sufi Order with teachings, suhbas, and community resources"
+  - label: "Wikipedia — Nazim al-Haqqani"
+    url: "https://en.wikipedia.org/wiki/Nazim_al-Haqqani"
+    description: "Encyclopaedic overview of his life, lineage, and global spiritual influence"
+  - label: "SufiLive.com"
+    url: "https://www.sufilive.com"
+    description: "Archive of video suhbas and audio recordings from Lefke and global tours"
 ---
 
 Shaykh Muhammad Nazim Adil al-Haqqani al-Qubrusi (1922–2014) was the forty-first grand master of the Naqshbandi-Haqqani Sufi Order, one of the most widely followed Sufi orders in the world. Born in Larnaca, Cyprus, he studied Islamic sciences in Istanbul and Damascus before becoming the spiritual heir of Grandshaykh Abdullah al-Fa'iz ad-Daghestani.

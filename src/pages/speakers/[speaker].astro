@@ -49,7 +49,7 @@ interface SpeakerFrontmatter {
   image?: string;
   image_avatar?: string;
   selected_quotes?: string[];
-  links?: Array<{ label: string; url: string }>;
+  links?: Array<{ label: string; url: string; description?: string }>;
 }
 
 function parseSpeakerFile(raw: string): { fm: SpeakerFrontmatter; body: string } {
@@ -63,24 +63,37 @@ function parseSpeakerFile(raw: string): { fm: SpeakerFrontmatter; body: string }
   if (nameFullM) fm.name_full = nameFullM[1].trim();
 
   const imageM = fmStr.match(/^image:\s*"?([^"\n]+)"?\s*$/m);
-  if (imageM) fm.image = imageM[1].trim();
+  if (imageM && imageM[1].trim()) fm.image = imageM[1].trim();
 
   const avatarM = fmStr.match(/^image_avatar:\s*"?([^"\n]+)"?\s*$/m);
-  if (avatarM) fm.image_avatar = avatarM[1].trim();
+  if (avatarM && avatarM[1].trim()) fm.image_avatar = avatarM[1].trim();
 
-  const sqSection = fmStr.match(/^selected_quotes:\s*\n((?:[ \t]+-[ \t]+.*\n?)*)/m);
-  if (sqSection) {
-    fm.selected_quotes = [...sqSection[1].matchAll(/^[ \t]+-[ \t]+"?(.*?)"?\s*$/gm)].map(m => m[1]);
+  // selected_quotes: supports both inline ["...", "..."] and block (- "...") YAML
+  const sqInlineM = fmStr.match(/^selected_quotes:\s*(\[[\s\S]*?\])\s*$/m);
+  if (sqInlineM) {
+    try { fm.selected_quotes = JSON.parse(sqInlineM[1]); } catch {}
+  } else {
+    const sqBlockM = fmStr.match(/^selected_quotes:\s*\n((?:[ \t]+-[ \t]+.*\n?)*)/m);
+    if (sqBlockM) {
+      fm.selected_quotes = [...sqBlockM[1].matchAll(/^[ \t]+-[ \t]+"?(.*?)"?\s*$/gm)].map(m => m[1]);
+    }
   }
 
+  // links: block format only (each item has label, url, optional description)
   const linksSection = fmStr.match(/^links:\s*\n([\s\S]*?)(?=\n\S|$)/m);
   if (linksSection) {
     const blocks = linksSection[1].split(/(?=[ \t]+-[ \t])/);
     fm.links = blocks.map(block => {
       const lM = block.match(/label:\s*"?([^"\n]+)"?/);
       const uM = block.match(/url:\s*"?([^"\n]+)"?/);
-      return lM && uM ? { label: lM[1].trim(), url: uM[1].trim() } : null;
-    }).filter((l): l is { label: string; url: string } => l !== null);
+      const dM = block.match(/description:\s*"?([^"\n]+)"?/);
+      if (!lM || !uM) return null;
+      return {
+        label: lM[1].trim(),
+        url: uM[1].trim(),
+        ...(dM ? { description: dM[1].trim() } : {}),
+      };
+    }).filter((l): l is { label: string; url: string; description?: string } => l !== null);
   }
 
   return { fm, body };
@@ -193,13 +206,16 @@ const discourseCount = speakerDiscourses.length;
           <h2 class="section-heading" id="links-heading">Helpful Links</h2>
           <ul class="links-list">
             {speakerFm.links.map(link => (
-              <li>
+              <li class="links-item">
                 <a href={link.url} target="_blank" rel="noopener noreferrer" class="helpful-link">
                   {link.label}
                   <svg width="11" height="11" viewBox="0 0 12 12" fill="none" aria-hidden="true" class="link-arrow">
                     <path d="M2 10L10 2M10 2H5M10 2v5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
                   </svg>
                 </a>
+                {link.description && (
+                  <p class="link-description">{link.description}</p>
+                )}
               </li>
             ))}
           </ul>
@@ -372,6 +388,12 @@ const discourseCount = speakerDiscourses.length;
     gap: 0.5rem;
   }
 
+  .links-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
   .helpful-link {
     display: inline-flex;
     align-items: center;
@@ -379,12 +401,20 @@ const discourseCount = speakerDiscourses.length;
     color: var(--color-accent-primary);
     text-decoration: none;
     font-size: 0.95rem;
+    font-weight: 500;
     transition: opacity 0.15s;
   }
 
   .helpful-link:hover { text-decoration: underline; }
 
   .link-arrow { flex-shrink: 0; }
+
+  .link-description {
+    font-size: 0.825rem;
+    color: var(--color-text-secondary);
+    margin: 0;
+    line-height: 1.5;
+  }
 
   .empty-state {
     color: var(--color-text-secondary);
