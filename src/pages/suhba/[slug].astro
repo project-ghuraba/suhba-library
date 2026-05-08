@@ -48,7 +48,7 @@ const hijriIsEstimated = !data.date_hijri;
 const locationParts = [data.location_venue, data.location_city, data.location_country]
   .filter(Boolean).join(', ');
 
-const speakerList = data.speaker.join(' & ');
+const speakerList = data.speaker_full ?? data.speaker.join(' & ');
 
 // Related discourses — share at least one topic
 const allDiscourses = await getCollection('discourses', ({ data }) => data.status === 'published');

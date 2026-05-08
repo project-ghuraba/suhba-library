@@ -29,7 +29,12 @@ const onThisDay = allDiscourses.filter(d => {
 const allQuotes: { quote: string; slug: string; title: string; speakers: string[] }[] = [];
 for (const d of allDiscourses) {
   for (const q of d.data.quotes_verified ?? []) {
-    allQuotes.push({ quote: q, slug: d.data.slug, title: d.data.title, speakers: d.data.speaker });
+    allQuotes.push({
+      quote: q,
+      slug: d.data.slug,
+      title: d.data.title,
+      speakers: d.data.speaker_full ? [d.data.speaker_full] : d.data.speaker,
+    });
   }
 }
 

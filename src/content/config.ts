@@ -71,6 +71,8 @@ const discourseSchema = z.object({
 
   quotes_verified: nfcStringArray.optional(),
 
+  speaker_full: nfcString.optional(),
+
   version: z.number().int().positive().optional(),
 
   edited_at: z.coerce.date().optional().nullable(),
