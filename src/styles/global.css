@@ -70,7 +70,7 @@ body {
    ------------------------------------------------------------- */
 .prose {
   font-family: var(--font-serif);
-  font-size: 1.125rem;   /* 20px at 18px base */
+  font-size: 1rem;   /* 18px at 18px base — Normal reading size */
   line-height: 1.8;
   max-width: var(--prose-width);
   color: var(--color-text-primary);
@@ -89,6 +89,7 @@ body {
    Reading mode font-size toggle (stored in localStorage)
    Applied via data-reading-size attribute on <html>
    ------------------------------------------------------------- */
+html[data-reading-size="sm"] { font-size: 16px; }
 html[data-reading-size="lg"] { font-size: 20px; }
 html[data-reading-size="xl"] { font-size: 22px; }
 

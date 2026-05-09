@@ -39,7 +39,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
         <!-- Collapsible filters drawer -->
         <details class="filters-drawer" id="filters-drawer">
           <summary class="filters-toggle">
-            <span>Filters</span>
+            <span>Show more filters</span>
             <svg class="filters-chevron" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
               <path d="M3 5l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
@@ -77,6 +77,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
           <button class="sort-btn sort-btn--active" data-sort="newest" type="button">Newest</button>
           <button class="sort-btn" data-sort="oldest" type="button">Oldest</button>
           <button class="sort-btn" data-sort="az" type="button">A–Z</button>
+          <button class="sort-btn" data-sort="latest-added" type="button">Latest added</button>
         </div>
 
         <!-- Result count -->
@@ -305,23 +306,24 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     min-height: 1.2em;
   }
 
-  /* Result cards — identical to DiscourseCard */
-  .result-list {
+  /* Result cards rendered by JS — use :global() so Astro's scoped hash doesn't
+     prevent styles from applying to dynamically created DOM elements. */
+  :global(.result-list) {
     border-top: 1px solid var(--color-border);
   }
 
-  .result-list .discourse-card {
+  :global(.result-list .discourse-card) {
     padding-block: 1.25rem;
     border-bottom: 1px solid var(--color-border);
   }
 
-  .result-list .card-link {
+  :global(.result-list .card-link) {
     text-decoration: none;
     color: inherit;
     display: block;
   }
 
-  .result-list .card-title {
+  :global(.result-list .card-title) {
     font-size: 1.05rem;
     font-weight: 600;
     color: var(--color-text-primary);
@@ -330,12 +332,12 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     transition: color 0.15s;
   }
 
-  .result-list .card-link:hover .card-title,
-  .result-list .card-link:focus-visible .card-title {
+  :global(.result-list .card-link:hover .card-title),
+  :global(.result-list .card-link:focus-visible .card-title) {
     color: var(--color-accent-primary);
   }
 
-  .result-list .card-meta {
+  :global(.result-list .card-meta) {
     font-size: 0.825rem;
     color: var(--color-text-secondary);
     margin: 0;
@@ -345,7 +347,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     align-items: center;
   }
 
-  .result-list .meta-sep { opacity: 0.4; }
+  :global(.result-list .meta-sep) { opacity: 0.4; }
 
   .empty-state {
     color: var(--color-text-secondary);
@@ -396,6 +398,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     transcript_quality: string | null;
     has_youtube: boolean;
     has_quotes: boolean;
+    date_added: string;
   }
 
   let allDiscourses: DiscourseEntry[] = [];
@@ -412,9 +415,11 @@ const selCountry  = document.getElementById('filter-country')  as HTMLSelectElem
   const resultsEl   = document.getElementById('filter-results')  as HTMLDivElement;
   const countEl     = document.getElementById('result-count')    as HTMLParagraphElement;
 
-  // Pre-fill text input from ?q= URL param (home page search → this page)
-  const urlQ = new URLSearchParams(window.location.search).get('q');
+  // Pre-fill inputs from URL params
+  const urlParams = new URLSearchParams(window.location.search);
+  const urlQ = urlParams.get('q');
   if (urlQ) inpText.value = urlQ;
+  const urlSpeaker = urlParams.get('speaker');
 
   async function loadIndex() {
     try {
@@ -436,6 +441,9 @@ const selCountry  = document.getElementById('filter-country')  as HTMLSelectElem
     appendOptions(selSpeaker, speakers);
     appendOptions(selTopic,   topics);
     appendOptions(selCountry, countries);
+
+    // Apply speaker URL param after options are populated
+    if (urlSpeaker) selSpeaker.value = urlSpeaker;
   }
 
   function appendOptions(sel: HTMLSelectElement, items: string[] | { value: string; label: string }[]) {
@@ -479,13 +487,15 @@ const selCountry  = document.getElementById('filter-country')  as HTMLSelectElem
   function sortResults(list: DiscourseEntry[]) {
     if (activeSort === 'newest') return [...list].sort((a, b) => b.date.localeCompare(a.date));
     if (activeSort === 'oldest') return [...list].sort((a, b) => a.date.localeCompare(b.date));
+    if (activeSort === 'latest-added') return [...list].sort((a, b) => b.date_added.localeCompare(a.date_added));
     return [...list].sort((a, b) => a.title.localeCompare(b.title));
   }
 
   function formatDate(iso: string) {
     const [y, m, d] = iso.split('-').map(Number);
-    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-    return `${d} ${months[m - 1]} ${y}`;
+    return new Date(y, m - 1, d).toLocaleDateString('en-GB', {
+      day: 'numeric', month: 'long', year: 'numeric',
+    });
   }
 
   function renderCard(d: DiscourseEntry) {
@@ -516,10 +526,22 @@ const selCountry  = document.getElementById('filter-country')  as HTMLSelectElem
     sep1.setAttribute('aria-hidden', 'true');
     sep1.textContent = '·';
 
-    const dateSpan = document.createElement('span');
-    dateSpan.textContent = formatDate(d.date);
+    const dateTime = document.createElement('time');
+    dateTime.setAttribute('datetime', d.date);
+    dateTime.textContent = formatDate(d.date);
 
-    meta.append(speakerSpan, sep1, dateSpan);
+    meta.append(speakerSpan, sep1, dateTime);
+
+    if (d.date_hijri) {
+      const sep1b = document.createElement('span');
+      sep1b.className = 'meta-sep';
+      sep1b.setAttribute('aria-hidden', 'true');
+      sep1b.textContent = '·';
+      const hijriSpan = document.createElement('span');
+      hijriSpan.className = 'meta-hijri';
+      hijriSpan.textContent = d.date_hijri;
+      meta.append(sep1b, hijriSpan);
+    }
 
     if (location) {
       const sep2 = document.createElement('span');
