@@ -76,6 +76,8 @@ const discourseSchema = z.object({
   version: z.number().int().positive().optional(),
 
   edited_at: z.coerce.date().optional().nullable(),
+
+  date_added: z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'date_added must be YYYY-MM-DD').optional(),
 });
 
 // ---------------------------------------------------------------------------

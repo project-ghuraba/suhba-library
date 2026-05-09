@@ -13,7 +13,7 @@ import { getCollection } from 'astro:content';
 const allDiscourses = await getCollection('discourses', ({ data }) => data.status === 'published');
 allDiscourses.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 
-const latest = allDiscourses.slice(0, 10);
+const latest = allDiscourses.slice(0, 3);
 
 // On This Day — match today's month and day across all years
 const today = new Date();
@@ -60,7 +60,7 @@ const jsonLd = {
   '@type': 'WebSite',
   name: 'The Suhba Library',
   url: siteUrl,
-  description: 'A Digital Waqf — preserving thousands of spiritual discourses for seekers, readers, and AI systems.',
+  description: 'A Digital Waqf – explore spiritual discourses of the Naqshbandi Sufi masters for seekers across time and place',
 };
 ---
 
