@@ -23,9 +23,9 @@ As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
 
 Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ʿalā Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā RasūlAllāh, madad yā Sādāti Aṣḥābi Rasūlillāh, madad yā Mashāyikhinā, dastūr yā Shaykh ʿAbdullāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā aṣ-ṣuḥbah wa l-khayru fi l-jamʿiyyah.
 
-When I entered this place, I remembered this Ayah in the Qur’ān that says:
+When I entered this place, I remembered this Ayah in the Qur’ān that says,<br>
 إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى
-“Innahum fityatun āmanū bi-Rabbihim wa zidnāhum hudā”
+<br>“Innahum fityatun āmanū bi-Rabbihim wa zidnāhum hudā”<br>
 “Indeed, they were youths who believed in their Lord, and We increased them in guidance.” (Qur’ān 18:13). ṢadaqAllahu l-ʿAẓīm.
 
 There are young people who believe in Allah and Allah gave them more belief. Young people like to be playing and enjoying themselves. They like this. But when Allah wants them to be in His way, He also makes them happy in His way.

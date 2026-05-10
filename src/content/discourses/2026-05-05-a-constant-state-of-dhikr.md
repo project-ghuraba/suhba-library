@@ -23,9 +23,9 @@ As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
 
 Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ʿalā Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā RasūlAllāh, madad yā Sādāti Aṣḥābi Rasūlillāh, madad yā Mashāyikhinā, dastūr yā Shaykh ʿAbdullāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā aṣ-ṣuḥbah wa l-khayru fi l-jamʿiyyah.
 
-Bismillāhi r-Raḥmāni r-Raḥīm: ‎
+Bismillāhi r-Raḥmāni r-Raḥīm,<br>
 وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا
-“Wa li-Llāhi l-asmā’u l-ḥusnā fad‘ūhu bihā”
+<br>“Wa li-Llāhi l-asmā’u l-ḥusnā fad‘ūhu bihā”<br>
 “And to Allah belong the Most Beautiful Names, so call on Him by them.” (Qur’ān 7:180). ṢadaqAllahu l-ʿAẓīm.
 
 Allah ʿAzza wa Jalla has many names. He bestowed different names upon each prophet. The power and majesty of Allah ʿAzza wa Jalla are infinite. We, the Ummah of Muḥammad, have been granted ninety-nine names, plus the Greatest Name (Ismu l-Aʿzam). We benefit from them; some are recited as dhikr and tasbih.

@@ -23,9 +23,9 @@ As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
 
 Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ʿalā Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā RasūlAllāh, madad yā Sādāti Aṣḥābi Rasūlillāh, madad yā Mashāyikhinā, dastūr yā Shaykh ʿAbdullāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā aṣ-ṣuḥbah wa l-khayru fi l-jamʿiyyah.
 
-Bismillāhi r-Raḥmāni r-Raḥīm:
-‎وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
-“Wa quli ʿmalū fasayarā l-Lāhu ʿamalakum wa rasūluhu wa l-mu'minūn. Wa saturaddūna ilā ʿālimi l-ghaybi wa sh-shahādati fayunabbi'ukum bimā kuntum taʿmalūn”
+Bismillāhi r-Raḥmāni r-Raḥīm,<br>
+وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+<br>“Wa quli ʿmalū fasayarā l-Lāhu ʿamalakum wa rasūluhu wa l-mu'minūn. Wa saturaddūna ilā ʿālimi l-ghaybi wa sh-shahādati fayunabbi'ukum bimā kuntum taʿmalūn”<br>
 “And say (O Muḥammad SAW) 'Do deeds! Allah will see your deeds, and (so will) His Messenger and the believers. And you will be brought back to the All-Knower of the unseen and the seen. Then He will inform you of what you used to do.'” (Qur’ān 9:105). ṢadaqAllahu l-ʿAẓīm.
 
 Allah ʿAzza wa Jalla says, “Do good deeds in this world, do righteous deeds.” Allah ʿAzza wa Jalla and our Prophet ṣallAllahu ʿalayhi wa-sallam and believers will see the good deeds and good actions you do. After that, you will go to the realm of the witnessed, the realm of the unseen. There, everything you have done will be revealed.
