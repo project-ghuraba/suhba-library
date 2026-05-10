@@ -23,9 +23,9 @@ As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
 
 Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ʿalā Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā RasūlAllāh, madad yā Sādāti Aṣḥābi Rasūlillāh, madad yā Mashāyikhinā, dastūr yā Shaykh ʿAbdullāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā aṣ-ṣuḥbah wa l-khayru fi l-jamʿiyyah.
 
-Our Prophet ṣallAllahu ʿalayhi wa-sallam says in ḥadīth sharīf,
+Our Prophet ṣallAllahu ʿalayhi wa-sallam says in ḥadīth sharīf,<br>
 إِدْخَالُ السُّرُورِ في قَلْبِ الْمُؤْمِنِ
-“Idkhālu s-surūr fi qalbi l-Mu'min”
+<br>“Idkhālu s-surūr fi qalbi l-Mu'min”<br>
 “Bringing joy to the heart of the believer.”
 
 Bringing joy to the heart of a believer is one of the most beloved deeds to Allah. Shukr to Allah, this journey has brought joy, beauty, and happiness to both us and our brothers.

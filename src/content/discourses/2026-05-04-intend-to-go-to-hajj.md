@@ -23,9 +23,9 @@ As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
 
 Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ʿalā Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā RasūlAllāh, madad yā Sādāti Aṣḥābi Rasūlillāh, madad yā Mashāyikhinā, dastūr yā Shaykh ʿAbdullāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā aṣ-ṣuḥbah wa l-khayru fi l-jamʿiyyah.
 
-Bismillāhi r-Raḥmāni r-Raḥīm:
-‎وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلً
-“Wa lillāhi ʿalā n-nāsi ḥijju l-bayti mani staṭāʿa ilayhi sabīlā”
+Bismillāhi r-Raḥmāni r-Raḥīm,<br>
+وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلً
+<br>“Wa lillāhi ʿalā n-nāsi ḥijju l-bayti mani staṭāʿa ilayhi sabīlā”<br>
 “And [due] to Allah from the people is a pilgrimage to the House (Ka’bah) - those who can afford the journey.” (Qur’ān 3:97). ṢadaqAllahu l-ʿAẓīm.
 
 These are the blessed months of Ḥajj. Allah ʿAzza wa Jalla has made Ḥajj obligatory for those who are able and have the means, as one of the pillars of Islām; they must perform it. Of course, it seems easy, but it has its difficulties. Entry is only by permission. So, only a limited number of people can go. For this reason, everyone who is able, healthy, and financially capable should perform it. It is an obligation (fard).

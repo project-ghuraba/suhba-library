@@ -26,9 +26,9 @@ Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥ
 First of all, we must say again, we are happy to be here. Old murīds, new murīds, everybody māshāAllah coming and coming, alḥamdulillāh.
 
 Allah says in the Qur’ān, We created you from Earth and made the ground flat to grow everything; vegetables, trees, wheat. Some people think – I heard about a new fashion – that Earth is flat. It’s from Allah’s Power, Qudrah to make it like that. They cannot imagine that it’s round like a ball. So, they just say it’s flat. Allah said, “We created you from Earth and to Earth you will return.”
-And afterwards,
+And afterwards,<br>
 ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
-“Thumma Yu`īdukum Fīhā Wa Yukhrijukum 'Ikhrājāan”
+<br>“Thumma Yu`īdukum Fīhā Wa Yukhrijukum 'Ikhrājāan”<br>
 “Afterwards He will return you into it (the earth), and bring you forth (again on the Day of Resurrection).” (Qur’ān 71:18). We will bring you out of Earth again. And the creation continues from Allah ʿAzza wa Jalla.
 
 Sayyidinā Aḥmad Al-Rifai, the Pīr of Rifai Ṭarīqah, has great karamāt. He was in Ḥajj once. People heard a voice coming from the grave of Prophet ṣallAllahu ʿalayhi wa-sallam, saying, “My grandson has come. Come kiss my hand.” The white holy hand of our Prophet ṣallAllahu ʿalayhi wa-sallam came out and Sayyidinā Aḥmad Al-Rifai kissed it. Many people saw this; maybe more than a hundred, five hundred or a thousand people saw this.

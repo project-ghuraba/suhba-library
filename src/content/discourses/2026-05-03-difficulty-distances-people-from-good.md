@@ -23,9 +23,9 @@ As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
 
 Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ʿalā Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā RasūlAllāh, madad yā Sādāti Aṣḥābi Rasūlillāh, madad yā Mashāyikhinā, dastūr yā Shaykh ʿAbdullāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā aṣ-ṣuḥbah wa l-khayru fi l-jamʿiyyah.
 
-Bismillāhi r-Raḥmāni r-Raḥīm,
+Bismillāhi r-Raḥmāni r-Raḥīm,<br>
 يَسِّرُوا ولا تُعَسِّرُوا
-“Yassirū wa-lā tuʿassirū”
+<br>“Yassirū wa-lā tuʿassirū”<br>
 “Make things easy and do not make them difficult.” [Bukhāri, Muslim].
 
 Make things easy, do not make them difficult. Show ease in your affairs, both for worldly matters and for the hereafter, so that things don’t become burdensome for people. What they consider difficult is actually easy, but it seems difficult to them. Worship seems difficult, doing good deeds seems difficult.
