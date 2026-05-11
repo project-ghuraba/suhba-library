@@ -59,12 +59,12 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
             </div>
             <div class="filter-row filter-row-secondary">
               <label class="date-label">
-                Year from
-                <input type="number" id="filter-year-from" class="filter-year" min="1900" max="2099" placeholder="e.g. 1990" aria-label="Year from" />
+                Date from
+                <input type="date" id="filter-date-from" class="filter-date" aria-label="Date from" />
               </label>
               <label class="date-label">
-                Year to
-                <input type="number" id="filter-year-to" class="filter-year" min="1900" max="2099" placeholder="e.g. 2024" aria-label="Year to" />
+                Date to
+                <input type="date" id="filter-date-to" class="filter-date" aria-label="Date to" />
               </label>
               <button id="clear-filters" class="clear-btn" type="button" aria-label="Clear all filters">Clear filters</button>
             </div>
@@ -232,8 +232,8 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     font-weight: 500;
   }
 
-  .filter-year {
-    width: 110px;
+  .filter-date {
+    width: 148px;
     min-height: 44px;
     padding: 0.5rem 0.625rem;
     border: 1px solid var(--color-border);
@@ -242,9 +242,10 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     color: var(--color-text-primary);
     font-size: 0.875rem;
     font-family: inherit;
+    color-scheme: light dark;
   }
 
-  .filter-year:focus-visible {
+  .filter-date:focus-visible {
     outline: 2px solid var(--color-accent-primary);
     outline-offset: 2px;
   }
@@ -404,12 +405,12 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   let allDiscourses: DiscourseEntry[] = [];
   let activeSort = 'newest';
 
-  const inpText     = document.getElementById('filter-text')     as HTMLInputElement;
-  const selSpeaker  = document.getElementById('filter-speaker')  as HTMLSelectElement;
-  const selTopic    = document.getElementById('filter-topic')    as HTMLSelectElement;
-const selCountry  = document.getElementById('filter-country')  as HTMLSelectElement;
-  const inpYearFrom = document.getElementById('filter-year-from') as HTMLInputElement;
-  const inpYearTo   = document.getElementById('filter-year-to')   as HTMLInputElement;
+  const inpText     = document.getElementById('filter-text')      as HTMLInputElement;
+  const selSpeaker  = document.getElementById('filter-speaker')   as HTMLSelectElement;
+  const selTopic    = document.getElementById('filter-topic')     as HTMLSelectElement;
+  const selCountry  = document.getElementById('filter-country')   as HTMLSelectElement;
+  const inpDateFrom = document.getElementById('filter-date-from') as HTMLInputElement;
+  const inpDateTo   = document.getElementById('filter-date-to')   as HTMLInputElement;
   const btnClear    = document.getElementById('clear-filters')   as HTMLButtonElement;
   const sortBtns    = document.querySelectorAll<HTMLButtonElement>('.sort-btn');
   const resultsEl   = document.getElementById('filter-results')  as HTMLDivElement;
@@ -461,8 +462,8 @@ const selCountry  = document.getElementById('filter-country')  as HTMLSelectElem
       speaker:  selSpeaker.value,
       topic:    selTopic.value,
       country:  selCountry.value,
-      yearFrom: inpYearFrom.value ? Number(inpYearFrom.value) : null,
-      yearTo:   inpYearTo.value   ? Number(inpYearTo.value)   : null,
+      dateFrom: inpDateFrom.value || null,  // ISO YYYY-MM-DD or null
+      dateTo:   inpDateTo.value   || null,
     };
   }
 
@@ -475,11 +476,12 @@ const selCountry  = document.getElementById('filter-country')  as HTMLSelectElem
         const matchTopic   = d.topic.some(tp => tp.toLowerCase().includes(t));
         if (!matchTitle && !matchSpeaker && !matchTopic) return false;
       }
-      if (f.speaker && !d.speaker.includes(f.speaker))     return false;
-      if (f.topic   && !d.topic.includes(f.topic))         return false;
-      if (f.country && d.location_country !== f.country)   return false;
-      if (f.yearFrom !== null && d.year < f.yearFrom)            return false;
-      if (f.yearTo   !== null && d.year > f.yearTo)              return false;
+      if (f.speaker && !d.speaker.includes(f.speaker))   return false;
+      if (f.topic   && !d.topic.includes(f.topic))       return false;
+      if (f.country && d.location_country !== f.country) return false;
+      // ISO strings sort lexicographically — direct string comparison is safe
+      if (f.dateFrom && d.date < f.dateFrom) return false;
+      if (f.dateTo   && d.date > f.dateTo)   return false;
       return true;
     });
   }
@@ -592,16 +594,16 @@ const selCountry  = document.getElementById('filter-country')  as HTMLSelectElem
   selSpeaker.addEventListener('change', render);
   selTopic.addEventListener('change', render);
   selCountry.addEventListener('change', render);
-  inpYearFrom.addEventListener('input', render);
-  inpYearTo.addEventListener('input', render);
+  inpDateFrom.addEventListener('change', render);
+  inpDateTo.addEventListener('change', render);
 
   btnClear.addEventListener('click', () => {
     inpText.value     = '';
     selSpeaker.value  = '';
     selTopic.value    = '';
     selCountry.value  = '';
-    inpYearFrom.value = '';
-    inpYearTo.value   = '';
+    inpDateFrom.value = '';
+    inpDateTo.value   = '';
     render();
   });
 

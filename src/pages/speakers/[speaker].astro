@@ -351,8 +351,8 @@ const discourseCount = speakerDiscourses.length;
   .section-heading {
     font-size: 1.05rem;
     font-weight: 600;
-    margin: 0 0 1rem;
-    padding-top: 2rem;
+    margin: 2rem 0 1rem;
+    padding-top: 1.5rem;
     border-top: 1px solid var(--color-border);
   }
 
@@ -366,7 +366,7 @@ const discourseCount = speakerDiscourses.length;
     max-width: var(--prose-width);
   }
 
-  .bio-body p { margin-block: 0.875em; }
+  :global(.bio-body p) { margin-block: 0.875em; }
 
   .quotes-list {
     display: flex;
