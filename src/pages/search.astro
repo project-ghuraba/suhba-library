@@ -80,12 +80,28 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
           <button class="sort-btn" data-sort="latest-added" type="button">Latest added</button>
         </div>
 
+        <!-- Per-page controls -->
+        <div class="per-page-bar" role="group" aria-label="Results per page">
+          <span class="sort-label">Results per page:</span>
+          <button class="sort-btn" data-per-page="10" type="button">10</button>
+          <button class="sort-btn sort-btn--active" data-per-page="25" type="button">25</button>
+          <button class="sort-btn" data-per-page="50" type="button">50</button>
+          <button class="sort-btn" data-per-page="0" type="button">All</button>
+        </div>
+
         <!-- Result count -->
         <p class="result-count" id="result-count" aria-live="polite" aria-atomic="true"></p>
 
         <!-- Results list -->
         <div id="filter-results" aria-live="polite" aria-label="Browse results">
           <p class="loading-state">Loading discourses…</p>
+        </div>
+
+        <!-- Pagination controls -->
+        <div class="pagination-bar" id="pagination-bar" aria-label="Pagination" hidden>
+          <button class="pagination-btn" id="page-prev" type="button" aria-label="Previous page">← Prev</button>
+          <span class="pagination-info" id="pagination-info"></span>
+          <button class="pagination-btn" id="page-next" type="button" aria-label="Next page">Next →</button>
         </div>
       </section>
     </div>
@@ -300,6 +316,53 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     background: color-mix(in srgb, var(--color-accent-primary) 8%, transparent);
   }
 
+  .per-page-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.375rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .pagination-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .pagination-btn {
+    min-height: 36px;
+    padding: 0.25rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0.375rem;
+    background: none;
+    color: var(--color-text-secondary);
+    font-size: 0.85rem;
+    font-family: inherit;
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+  }
+
+  .pagination-btn:hover:not(:disabled) {
+    border-color: var(--color-accent-primary);
+    color: var(--color-accent-primary);
+  }
+
+  .pagination-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  .pagination-info {
+    font-size: 0.8rem;
+    color: var(--color-text-secondary);
+  }
+
   .result-count {
     font-size: 0.8rem;
     color: var(--color-text-secondary);
@@ -404,17 +467,24 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
 
   let allDiscourses: DiscourseEntry[] = [];
   let activeSort = 'newest';
+  let perPage = 25;   // 0 = show all
+  let currentPage = 1;
 
-  const inpText     = document.getElementById('filter-text')      as HTMLInputElement;
-  const selSpeaker  = document.getElementById('filter-speaker')   as HTMLSelectElement;
-  const selTopic    = document.getElementById('filter-topic')     as HTMLSelectElement;
-  const selCountry  = document.getElementById('filter-country')   as HTMLSelectElement;
-  const inpDateFrom = document.getElementById('filter-date-from') as HTMLInputElement;
-  const inpDateTo   = document.getElementById('filter-date-to')   as HTMLInputElement;
-  const btnClear    = document.getElementById('clear-filters')   as HTMLButtonElement;
-  const sortBtns    = document.querySelectorAll<HTMLButtonElement>('.sort-btn');
-  const resultsEl   = document.getElementById('filter-results')  as HTMLDivElement;
-  const countEl     = document.getElementById('result-count')    as HTMLParagraphElement;
+  const inpText      = document.getElementById('filter-text')      as HTMLInputElement;
+  const selSpeaker   = document.getElementById('filter-speaker')   as HTMLSelectElement;
+  const selTopic     = document.getElementById('filter-topic')     as HTMLSelectElement;
+  const selCountry   = document.getElementById('filter-country')   as HTMLSelectElement;
+  const inpDateFrom  = document.getElementById('filter-date-from') as HTMLInputElement;
+  const inpDateTo    = document.getElementById('filter-date-to')   as HTMLInputElement;
+  const btnClear     = document.getElementById('clear-filters')    as HTMLButtonElement;
+  const sortBtns     = document.querySelectorAll<HTMLButtonElement>('.sort-btn[data-sort]');
+  const perPageBtns  = document.querySelectorAll<HTMLButtonElement>('.sort-btn[data-per-page]');
+  const resultsEl    = document.getElementById('filter-results')   as HTMLDivElement;
+  const countEl      = document.getElementById('result-count')     as HTMLParagraphElement;
+  const paginationBar = document.getElementById('pagination-bar')  as HTMLDivElement;
+  const btnPrev      = document.getElementById('page-prev')        as HTMLButtonElement;
+  const btnNext      = document.getElementById('page-next')        as HTMLButtonElement;
+  const pageInfo     = document.getElementById('pagination-info')  as HTMLSpanElement;
 
   // Pre-fill inputs from URL params
   const urlParams = new URLSearchParams(window.location.search);
@@ -566,10 +636,6 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     const filtered = sortResults(applyFilters(f));
     const n = filtered.length;
 
-    countEl.textContent = n === 0
-      ? 'No discourses match these filters.'
-      : `${n} discourse${n !== 1 ? 's' : ''}`;
-
     if (n === 0) {
       const f2 = getFilters();
       window.zaraz?.track('zero_results', {
@@ -577,25 +643,55 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
         topic:   f2.topic   || null,
         country: f2.country || null,
       });
+      countEl.textContent = 'No discourses match these filters.';
       resultsEl.innerHTML = '<p class="empty-state">No discourses match these filters. Try clearing some filters or broadening your search.</p>';
+      paginationBar.hidden = true;
       return;
+    }
+
+    // Pagination slice
+    const showAll = perPage === 0;
+    const totalPages = showAll ? 1 : Math.ceil(n / perPage);
+    if (currentPage > totalPages) currentPage = totalPages;
+
+    const start = showAll ? 0 : (currentPage - 1) * perPage;
+    const end   = showAll ? n : Math.min(start + perPage, n);
+    const pageItems = filtered.slice(start, end);
+
+    // Update result count label
+    if (showAll || n <= perPage) {
+      countEl.textContent = `${n} discourse${n !== 1 ? 's' : ''}`;
+    } else {
+      countEl.textContent = `Showing ${start + 1}–${end} of ${n} discourse${n !== 1 ? 's' : ''}`;
     }
 
     const list = document.createElement('div');
     list.className = 'result-list';
-    for (const d of filtered) list.appendChild(renderCard(d));
+    for (const d of pageItems) list.appendChild(renderCard(d));
 
     resultsEl.innerHTML = '';
     resultsEl.appendChild(list);
+
+    // Update pagination controls
+    if (showAll || totalPages <= 1) {
+      paginationBar.hidden = true;
+    } else {
+      paginationBar.hidden = false;
+      pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+      (btnPrev as HTMLButtonElement).disabled = currentPage === 1;
+      (btnNext as HTMLButtonElement).disabled = currentPage === totalPages;
+    }
   }
 
-  // Wire up events
-  inpText.addEventListener('input', render);
-  selSpeaker.addEventListener('change', render);
-  selTopic.addEventListener('change', render);
-  selCountry.addEventListener('change', render);
-  inpDateFrom.addEventListener('change', render);
-  inpDateTo.addEventListener('change', render);
+  function resetPage() { currentPage = 1; }
+
+  // Wire up filter events — reset to page 1 on any change
+  inpText.addEventListener('input',    () => { resetPage(); render(); });
+  selSpeaker.addEventListener('change', () => { resetPage(); render(); });
+  selTopic.addEventListener('change',   () => { resetPage(); render(); });
+  selCountry.addEventListener('change', () => { resetPage(); render(); });
+  inpDateFrom.addEventListener('change', () => { resetPage(); render(); });
+  inpDateTo.addEventListener('change',   () => { resetPage(); render(); });
 
   btnClear.addEventListener('click', () => {
     inpText.value     = '';
@@ -604,6 +700,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     selCountry.value  = '';
     inpDateFrom.value = '';
     inpDateTo.value   = '';
+    resetPage();
     render();
   });
 
@@ -612,8 +709,29 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       sortBtns.forEach(b => b.classList.remove('sort-btn--active'));
       btn.classList.add('sort-btn--active');
       activeSort = btn.dataset.sort ?? 'newest';
+      resetPage();
       render();
     });
+  });
+
+  perPageBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      perPageBtns.forEach(b => b.classList.remove('sort-btn--active'));
+      btn.classList.add('sort-btn--active');
+      perPage = Number(btn.dataset.perPage ?? '25');
+      resetPage();
+      render();
+    });
+  });
+
+  btnPrev.addEventListener('click', () => {
+    if (currentPage > 1) { currentPage--; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+  });
+
+  btnNext.addEventListener('click', () => {
+    currentPage++;
+    render();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
   loadIndex();
