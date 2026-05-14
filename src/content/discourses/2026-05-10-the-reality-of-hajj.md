@@ -1,8 +1,8 @@
 ---
 title: "The Reality of Ḥajj"
 slug: "2026-05-10-the-reality-of-hajj"
-date: 2025-05-10
-date_hijri: "23 Dhū al-Qaʿdah 1446"
+date: 2026-05-10
+date_hijri: "23 Dhū al-Qaʿdah 1447"
 speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
 speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
 location_venue: "Shaykh Nāẓim Dergah"

@@ -3,7 +3,7 @@ title: "Guard Your Eyes"
 slug: "1987-05-13-guard-your-eyes"
 date: 1987-05-13
 date_hijri: ""
-speaker: ["Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī"]
+speaker: ["Shaykh Nāzim al-Ḥaqqānī"]
 speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī"
 location_venue: ""
 location_city: "London"

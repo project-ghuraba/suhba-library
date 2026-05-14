@@ -65,6 +65,12 @@ jobs:
         # astro check enforces the Zod schema in src/content/config.ts
         # Any frontmatter violation → non-zero exit → workflow fails here.
 
+      - name: Check speaker profiles (warning only)
+        run: node scripts/check-speakers.mjs
+        continue-on-error: true
+        # Warns if a discourse references a speaker with no profile in src/data/speakers/.
+        # Always exits 0 — never blocks the pipeline.
+
 # ─────────────────────────────────────────────────────────────────
 # STAGE 2 — Duplicate Slug Detection
 # ─────────────────────────────────────────────────────────────────
