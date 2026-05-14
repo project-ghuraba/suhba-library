@@ -537,7 +537,7 @@ const jsonLd = {
     const speaker = copyBtn.dataset.speaker ?? '';
     const slug    = copyBtn.dataset.slug    ?? '';
     const url     = `${window.location.origin}/suhba/${slug}`;
-    const text    = `"${quote}"\n— ${speaker}\n${url}`;
+    const text    = `"${quote}"\n— ${speaker}\n\n${url}`;
     try {
       await navigator.clipboard.writeText(text);
       window.zaraz?.track('quote_copy', { source: 'wisdom_of_day' });
@@ -569,7 +569,7 @@ const jsonLd = {
       }
     } else {
       try {
-        await navigator.clipboard.writeText(`${shareText}\n${url}`);
+        await navigator.clipboard.writeText(`${shareText}\n\n${url}`);
         shareBtn.setAttribute('aria-label', 'Copied link!');
         shareBtn.style.color = 'var(--color-accent-primary)';
         setTimeout(() => {
