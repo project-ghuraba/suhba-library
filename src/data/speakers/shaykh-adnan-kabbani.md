@@ -6,20 +6,20 @@ died: 2018
 birth_place: "Tripoli, Lebanon"
 image: "https://r2.suhbalibrary.org/speakers/shaykh-adnan-kabbani-hero.jpg"
 image_avatar: "https://r2.suhbalibrary.org/speakers/shaykh-adnan-kabbani-avatar.jpg"
-selected_quotes: ["Always use your heart. Don't use your mind... The heart is a Godly station for everyone, made to contain the jewels of the Divine oceans of realities and secrets.", "Look only at yourself and don't break anyone’s heart. If you don't love your brother as yourself, the door to spiritual vision remains closed.", "Being a 'nothing' is the highest rank. When you empty yourself of 'you,' Allah fills you with 'Him'."]
+selected_quotes: ["Always use your heart. Don't use your mind... The heart is a Godly station for everyone, made to contain the jewels of the Divine oceans of realities and secrets.", "Look only at yourself and don't break anyone’s heart. If you don't love your brother as yourself, the door to spiritual vision remains closed.", "Being a 'nothing' is the highest rank. When you empty yourself of 'you', Allah fills you with 'Him'."]
 links:
-  - label: "Saltanat"
-    url: "https://saltanat.org"
-    description: "Contains archived ṣuḥbahs, articles, historical materials, and teachings."
-  - label: "Facebook - Tariqat Naqshbandi ʿAliyya"
-    url: "https://www.facebook.com/TariqatNaqshbandiAliyya"
-    description: "Facebook page associated with the Ṣuḥbah Library, sharing full ṣuḥbahs, videos, and quotes from the Naqshbandī mashāyikh, including Mawlānā Shaykh Muḥammad ʿĀdil, Mawlānā Shaykh Nāẓim al-Ḥaqqānī, and more."
   - label: "Shaykh Adnan wordpress"
     url: "https://shaykhadnan.wordpress.com"
     description: "Archival website dedicated to preserving the lectures, ṣuḥbahs, writings, reflections, and spiritual teachings of Mawlānā Shaykh ʿAdnān Kabbānī, including historical material connected to the Naqshbandī tradition."
   - label: "Youtube - Shaykh Adnan Kabbani"
     url: "https://www.youtube.com/@MawlanaShaykhAdnanKabbani"
     description: "YouTube archive dedicated to preserving recordings, ṣuḥbahs, lectures, dhikr gatherings, and historical videos of Mawlānā Shaykh ʿAdnān Kabbānī."
+  - label: "Saltanat"
+    url: "https://saltanat.org"
+    description: "Contains archived ṣuḥbahs, articles, historical materials, and teachings."
+  - label: "Facebook - Tariqat Naqshbandi ʿAliyya"
+    url: "https://www.facebook.com/TariqatNaqshbandiAliyya"
+    description: "Facebook page associated with the Ṣuḥbah Library, sharing full ṣuḥbahs, videos, and quotes from the Naqshbandī mashāyikh, including Mawlānā Shaykh Muḥammad ʿĀdil, Mawlānā Shaykh Nāẓim al-Ḥaqqānī, and more."
 ---
 
 Mawlānā Shaykh ʿAdnān Kabbānī was a distinguished scholar, spiritual guide, and senior representative of the Naqshbandi Ṭarīqah, widely respected for his lifelong service to traditional Islām, spiritual education, and the propagation of moderation, mercy, and tolerance. A descendant of the Ahl al-Bayt and belonging to the 40th generation from the family of the Prophet Muḥammad ﷺ, he came from one of the most respected scholarly families in Tripoli and the wider Levant.

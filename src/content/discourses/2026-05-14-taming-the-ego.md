@@ -26,8 +26,8 @@ Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥ
 Bismillāhi r-Raḥmāni r-Raḥīm,<br>
 وَنَفْسٍ وَمَا سَوَّىٰهَا
 فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا
-“Wa-nafsin wa-mā sawwāhā. Fa-alhamahā fujūrahā wa-taqwāhā”<br>
-<br>“And [by] the ego and He who proportioned it. Then inspired it [of] its wickedness and its righteousness.” (Qur’ān 91:07-08). ṢadaqAllāhu l-ʿAẓīm.
+<br>“Wa-nafsin wa-mā sawwāhā. Fa-alhamahā fujūrahā wa-taqwāhā”<br>
+“And [by] the ego and He who proportioned it. Then inspired it [of] its wickedness and its righteousness.” (Qur’ān 91:07-08). ṢadaqAllāhu l-ʿAẓīm.
 
 Allah created man with a ego. He knows its wisdom. He does not oppress anyone. Every person has an ego, something within him. And He has inspired both good and evil in it. Allah ʿAzza wa Jalla says that whoever controls their ego, purifies it. Those who do not do this, who follow their ego, lose. Those who follow their ego lose. The wisdom and creation of Allah ʿAzza wa Jalla cannot be comprehended by the mind. He does not oppress anyone. There is free will; everyone possesses free will. Allah ʿAzza wa Jalla has given that free will to man. One can go either way. Those who control their ego are saved. Those who follow their ego cannot be saved. Their end will not be good.
 
