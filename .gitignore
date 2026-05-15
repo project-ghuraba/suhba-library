@@ -1,4 +1,7 @@
 node_modules
+.astro
+.claude
+dist
 
 # Daily fix ups
 ToDoList.md
