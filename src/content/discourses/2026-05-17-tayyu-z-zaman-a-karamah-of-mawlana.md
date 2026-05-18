@@ -1,5 +1,5 @@
 ---
-title: "Tayyu Z-zamān: a Karāmah of Mawlānā"
+title: "Tayyu z-Zamān: a Karāmah of Mawlānā"
 slug: "2026-05-17-tayyu-z-zaman-a-karamah-of-mawlana"
 date: 2026-05-17
 date_hijri: "30 Dhū al-Qaʿdah 1447"
