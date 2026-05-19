@@ -60,11 +60,23 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
             <div class="filter-row filter-row-secondary">
               <label class="date-label">
                 Date from
-                <input type="date" id="filter-date-from" class="filter-date" aria-label="Date from" />
+                <div class="date-parts">
+                  <input type="number" id="filter-date-from-y" class="filter-date-part filter-date-part--year" placeholder="YYYY" min="1900" max="2099" aria-label="Year from" />
+                  <span class="date-sep" aria-hidden="true">/</span>
+                  <input type="number" id="filter-date-from-m" class="filter-date-part" placeholder="MM" min="1" max="12" aria-label="Month from" />
+                  <span class="date-sep" aria-hidden="true">/</span>
+                  <input type="number" id="filter-date-from-d" class="filter-date-part" placeholder="DD" min="1" max="31" aria-label="Day from" />
+                </div>
               </label>
               <label class="date-label">
                 Date to
-                <input type="date" id="filter-date-to" class="filter-date" aria-label="Date to" />
+                <div class="date-parts">
+                  <input type="number" id="filter-date-to-y" class="filter-date-part filter-date-part--year" placeholder="YYYY" min="1900" max="2099" aria-label="Year to" />
+                  <span class="date-sep" aria-hidden="true">/</span>
+                  <input type="number" id="filter-date-to-m" class="filter-date-part" placeholder="MM" min="1" max="12" aria-label="Month to" />
+                  <span class="date-sep" aria-hidden="true">/</span>
+                  <input type="number" id="filter-date-to-d" class="filter-date-part" placeholder="DD" min="1" max="31" aria-label="Day to" />
+                </div>
               </label>
               <button id="clear-filters" class="clear-btn" type="button" aria-label="Clear all filters">Clear filters</button>
             </div>
@@ -248,22 +260,40 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     font-weight: 500;
   }
 
-  .filter-date {
-    width: 148px;
+  .date-parts {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .filter-date-part {
     min-height: 44px;
-    padding: 0.5rem 0.625rem;
+    padding: 0.5rem 0.375rem;
     border: 1px solid var(--color-border);
     border-radius: 0.375rem;
     background: var(--color-bg-light);
     color: var(--color-text-primary);
     font-size: 0.875rem;
     font-family: inherit;
-    color-scheme: light dark;
+    width: 52px;
+    text-align: center;
+    -moz-appearance: textfield;
   }
 
-  .filter-date:focus-visible {
+  .filter-date-part--year { width: 68px; }
+
+  .filter-date-part::-webkit-outer-spin-button,
+  .filter-date-part::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+
+  .filter-date-part:focus-visible {
     outline: 2px solid var(--color-accent-primary);
     outline-offset: 2px;
+  }
+
+  .date-sep {
+    color: var(--color-text-secondary);
+    font-size: 0.875rem;
+    user-select: none;
   }
 
   .clear-btn {
@@ -474,8 +504,12 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   const selSpeaker   = document.getElementById('filter-speaker')   as HTMLSelectElement;
   const selTopic     = document.getElementById('filter-topic')     as HTMLSelectElement;
   const selCountry   = document.getElementById('filter-country')   as HTMLSelectElement;
-  const inpDateFrom  = document.getElementById('filter-date-from') as HTMLInputElement;
-  const inpDateTo    = document.getElementById('filter-date-to')   as HTMLInputElement;
+  const inpFromY     = document.getElementById('filter-date-from-y') as HTMLInputElement;
+  const inpFromM     = document.getElementById('filter-date-from-m') as HTMLInputElement;
+  const inpFromD     = document.getElementById('filter-date-from-d') as HTMLInputElement;
+  const inpToY       = document.getElementById('filter-date-to-y')   as HTMLInputElement;
+  const inpToM       = document.getElementById('filter-date-to-m')   as HTMLInputElement;
+  const inpToD       = document.getElementById('filter-date-to-d')   as HTMLInputElement;
   const btnClear     = document.getElementById('clear-filters')    as HTMLButtonElement;
   const sortBtns     = document.querySelectorAll<HTMLButtonElement>('.sort-btn[data-sort]');
   const perPageBtns  = document.querySelectorAll<HTMLButtonElement>('.sort-btn[data-per-page]');
@@ -526,14 +560,26 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     }
   }
 
+  function partialDateKey(y: number|null, m: number|null, d: number|null): string {
+    return [
+      y !== null ? String(y) : null,
+      m !== null ? String(m).padStart(2, '0') : null,
+      d !== null ? String(d).padStart(2, '0') : null,
+    ].filter((p): p is string => p !== null).join('-');
+  }
+
   function getFilters() {
     return {
-      text:     inpText.value.trim().toLowerCase(),
-      speaker:  selSpeaker.value,
-      topic:    selTopic.value,
-      country:  selCountry.value,
-      dateFrom: inpDateFrom.value || null,  // ISO YYYY-MM-DD or null
-      dateTo:   inpDateTo.value   || null,
+      text:      inpText.value.trim().toLowerCase(),
+      speaker:   selSpeaker.value,
+      topic:     selTopic.value,
+      country:   selCountry.value,
+      dateFromY: inpFromY.value ? parseInt(inpFromY.value, 10) : null,
+      dateFromM: inpFromM.value ? parseInt(inpFromM.value, 10) : null,
+      dateFromD: inpFromD.value ? parseInt(inpFromD.value, 10) : null,
+      dateToY:   inpToY.value   ? parseInt(inpToY.value,   10) : null,
+      dateToM:   inpToM.value   ? parseInt(inpToM.value,   10) : null,
+      dateToD:   inpToD.value   ? parseInt(inpToD.value,   10) : null,
     };
   }
 
@@ -549,9 +595,30 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       if (f.speaker && !d.speaker.includes(f.speaker))   return false;
       if (f.topic   && !d.topic.includes(f.topic))       return false;
       if (f.country && d.location_country !== f.country) return false;
-      // ISO strings sort lexicographically — direct string comparison is safe
-      if (f.dateFrom && d.date < f.dateFrom) return false;
-      if (f.dateTo   && d.date > f.dateTo)   return false;
+
+      const hasFrom = f.dateFromY !== null || f.dateFromM !== null || f.dateFromD !== null;
+      const hasTo   = f.dateToY   !== null || f.dateToM   !== null || f.dateToD   !== null;
+      if (hasFrom || hasTo) {
+        const [dY, dM, dD] = d.date.split('-').map(Number);
+        if (hasFrom) {
+          const fromKey = partialDateKey(f.dateFromY, f.dateFromM, f.dateFromD);
+          const discKey = partialDateKey(
+            f.dateFromY !== null ? dY : null,
+            f.dateFromM !== null ? dM : null,
+            f.dateFromD !== null ? dD : null,
+          );
+          if (discKey < fromKey) return false;
+        }
+        if (hasTo) {
+          const toKey   = partialDateKey(f.dateToY, f.dateToM, f.dateToD);
+          const discKey = partialDateKey(
+            f.dateToY !== null ? dY : null,
+            f.dateToM !== null ? dM : null,
+            f.dateToD !== null ? dD : null,
+          );
+          if (discKey > toKey) return false;
+        }
+      }
       return true;
     });
   }
@@ -690,16 +757,21 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   selSpeaker.addEventListener('change', () => { resetPage(); render(); });
   selTopic.addEventListener('change',   () => { resetPage(); render(); });
   selCountry.addEventListener('change', () => { resetPage(); render(); });
-  inpDateFrom.addEventListener('change', () => { resetPage(); render(); });
-  inpDateTo.addEventListener('change',   () => { resetPage(); render(); });
+  [inpFromY, inpFromM, inpFromD, inpToY, inpToM, inpToD].forEach(inp => {
+    inp.addEventListener('input', () => { resetPage(); render(); });
+  });
 
   btnClear.addEventListener('click', () => {
-    inpText.value     = '';
-    selSpeaker.value  = '';
-    selTopic.value    = '';
-    selCountry.value  = '';
-    inpDateFrom.value = '';
-    inpDateTo.value   = '';
+    inpText.value    = '';
+    selSpeaker.value = '';
+    selTopic.value   = '';
+    selCountry.value = '';
+    inpFromY.value   = '';
+    inpFromM.value   = '';
+    inpFromD.value   = '';
+    inpToY.value     = '';
+    inpToM.value     = '';
+    inpToD.value     = '';
     resetPage();
     render();
   });
