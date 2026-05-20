@@ -1,5 +1,5 @@
 ---
-title: "O Allāh, Choose the Best for Me"
+title: "O Allah, Choose the Best for Me"
 slug: "2026-05-19-o-allah-choose-the-best-for-me"
 date: 2026-05-19
 date_hijri: "2 Dhū al-Ḥijjah 1447"

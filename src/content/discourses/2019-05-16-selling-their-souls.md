@@ -15,7 +15,7 @@ transcript_quality: "verified"
 language: "en"
 version: 1
 topic: ["Suhba", "Misguidance", "Akhirah", "Religious Authority", "Traditional Knowledge"]
-quotes_verified: ["Allah is not with oppressors. He doesn't guide them, and He is not merciful to them because they have lost their way and make other people to lose their way too.", "And who are they? They are the people who try to understand religion as they like, who don't accept the old knowledge that comes from Ṣaḥābah, Awliyā’, and ‘Ulamā’, then present something instead to people as true knowledge that has no relation to it. They are the oppressors.", "making people leave the right way is the biggest oppression because it costs their Ākhirah.", "It is not good to make opinions on religion according to yourself, and it's not right to give fatwa. There are special people to do this. They can give fatwa.", "when people are asked something, it is hard for them to say they don't know. “I don't know,” is like ignorance for them. So they speak as if they know. And then they may carry responsibility for it. If someone acts upon what you said, and if that is wrong, you may get from its punishment. May Allah protect us."]
+quotes_verified: ["Allah is not with oppressors. He doesn't guide them, and He is not merciful to them because they have lost their way and make other people to lose their way too.", "And who are they? They are the people who try to understand religion as they like, who don't accept the old knowledge that comes from Ṣaḥābah, Awliyā’, and ‘Ulamā’, then present something instead to people as true knowledge that has no relation to it. They are the oppressors.", "Making people leave the right way is the biggest oppression because it costs their Ākhirah.", "It is not good to make opinions on religion according to yourself, and it's not right to give fatwa. There are special people to do this. They can give fatwa.", "When people are asked something, it is hard for them to say they don't know. *“I don't know”* is like ignorance for them. So they speak as if they know. And then they may carry responsibility for it. If someone acts upon what you said, and if that is wrong, you may get from its punishment. May Allah protect us."]
 edited_at: 2026-05-14
 ---
 
@@ -25,7 +25,7 @@ Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥ
 
 Bismillāhi r-Raḥmāni r-Raḥīm,<br>
 فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
- <br>“Fa-man aẓlamu mimmani f-tará ‘alallahi kadhiban li-yuḍilla n-nāsa bi-ghayri ‘ilm, innAllaha lā yahdi l-qawma ẓ-ẓālimīn”<br>
+<br>“Fa-man aẓlamu mimmani f-tará ‘alallahi kadhiban li-yuḍilla n-nāsa bi-ghayri ‘ilm, innAllaha lā yahdi l-qawma ẓ-ẓālimīn”<br>
 “Then who does more wrong than one who invents a lie against Allah, to lead mankind astray without knowledge. Certainly Allah guides not the people who are oppressors.” (Qurʼān 6:144). ṢadaqAllāhu l-ʿAẓīm.
 
 Allah ‘Azza wa Jalla is saying, “Who is a worse oppressor than the person who makes people leave their way and says Allah ordered it so?” Allah is not with oppressors. He doesn't guide them, and He is not merciful to them because they have lost their way and make other people to lose their way too. And who are they? They are the people who try to understand religion as they like, who don't accept the old knowledge that comes from Ṣaḥābah, Awliyā’, and ‘Ulamā’, then present something instead to people as true knowledge that has no relation to it. They are the oppressors.
@@ -38,7 +38,7 @@ In short, this holy verse has big benefit for us. Because when people are asked 
 
 Allah ‘Azza wa Jalla says in Qur’ān,<br>
 فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
- <br>“Fa-man aẓlamu mimmani f-tará ‘alallahi kadhiban li-yuḍilla n-nāsa bi-ghayri ‘ilm, innAllaha lā yahdi l-qawma ẓ-ẓālimīn”<br>
+<br>“Fa-man aẓlamu mimmani f-tará ‘alallahi kadhiban li-yuḍilla n-nāsa bi-ghayri ‘ilm, innAllaha lā yahdi l-qawma ẓ-ẓālimīn”<br>
 “Then who does more wrong than one who invents a lie against Allah, to lead mankind astray without knowledge. Certainly Allah guides not the people who are unjust.” (Qurʼān 6:144)
 
 This big responsibility for people who are thinking they are doing good thing but making people to go out from right way, going to wrong way. This is oppression. Allah saying the most oppressed one who do people to go from way of Allah what He order but their idea, their thinking, and they are thought they are doing good. But they are most of them they are knowing they are not doing good. But they don't have belief so they free without any fear anything. They are saying, writing books, making lectures, giving advice for people against what Prophet, what Awliyā’ullah, scholar they are saying since fourteen centuries. They are not afraid from Allah and this people Allah will not be with them. Allah not happy with oppress oppressor people. He is not happy with them and they are no anything good thing can happen for them.
