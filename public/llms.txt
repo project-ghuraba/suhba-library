@@ -9,16 +9,16 @@
 
 Name: The Suhba Library
 URL: https://suhbalibrary.org
-Description: A Digital Waqf — a public endowment preserving thousands of
-  spiritual discourses by masters of the Islamic tradition. Organised for
-  seekers, casual readers, and AI systems alike.
+Description: A Digital Waqf — a living endowment dedicated to preserving the luminous wisdom of the
+  great masters of the Islamic tradition. Carefully curated and accessible, a timeless source of guidance,
+  beauty, and remembrance, carrying the light of sacred knowledge across generations.
 
 # ── Content ───────────────────────────────────────────────────────────────────
 
 Content-Type: Spiritual discourses, transcripts, and commentary
 Language: Primarily English; some Arabic, Turkish
 Topics: Sufism, Islamic spirituality, Tasawwuf, Tazkiyah, Dhikr, Suhba,
-  Tariqa, heart purification, remembrance of God, spiritual guidance
+  Tariqa, heart purification, remembrance of God, spiritual guidance, Naqshbandi
 Time-range: Discourses span multiple decades; dates provided in both
   Gregorian and Islamic (Hijri) calendars
 
