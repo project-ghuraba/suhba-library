@@ -5,9 +5,9 @@ date: 1984-06-11
 date_hijri: ""
 speaker: ["Shaykh Nāzim al-Ḥaqqānī"]
 speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
+location_venue: ""
+location_city: "London"
+location_country: "England"
 youtube_url: "https://www.youtube.com/watch?v=QjtBjRkJeMA"
 image: "https://r2.suhbalibrary.org/suhbas/1984-06-11-who-is-son-of-adam.jpg"
 status: "published"
