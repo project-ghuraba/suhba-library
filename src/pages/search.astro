@@ -53,8 +53,19 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
               <select id="filter-topic" class="filter-select" aria-label="Filter by topic">
                 <option value="">All Topics</option>
               </select>
+              <select id="filter-type" class="filter-select" aria-label="Filter by type">
+                <option value="">All Types</option>
+              </select>
+            </div>
+            <div class="filter-row">
               <select id="filter-country" class="filter-select" aria-label="Filter by country">
                 <option value="">All Countries</option>
+              </select>
+              <select id="filter-city" class="filter-select" aria-label="Filter by city">
+                <option value="">All Cities</option>
+              </select>
+              <select id="filter-venue" class="filter-select" aria-label="Filter by venue">
+                <option value="">All Venues</option>
               </select>
             </div>
             <div class="filter-row filter-row-secondary">
@@ -492,6 +503,8 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     transcript_quality: string | null;
     has_youtube: boolean;
     has_quotes: boolean;
+    type: string;
+    source: string;
     date_added: string;
   }
 
@@ -503,7 +516,10 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   const inpText      = document.getElementById('filter-text')      as HTMLInputElement;
   const selSpeaker   = document.getElementById('filter-speaker')   as HTMLSelectElement;
   const selTopic     = document.getElementById('filter-topic')     as HTMLSelectElement;
+  const selType      = document.getElementById('filter-type')      as HTMLSelectElement;
   const selCountry   = document.getElementById('filter-country')   as HTMLSelectElement;
+  const selCity      = document.getElementById('filter-city')      as HTMLSelectElement;
+  const selVenue     = document.getElementById('filter-venue')     as HTMLSelectElement;
   const inpFromY     = document.getElementById('filter-date-from-y') as HTMLInputElement;
   const inpFromM     = document.getElementById('filter-date-from-m') as HTMLInputElement;
   const inpFromD     = document.getElementById('filter-date-from-d') as HTMLInputElement;
@@ -538,14 +554,43 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     }
   }
 
+  function populateCityOptions(country: string) {
+    const cities = [...new Set(
+      allDiscourses
+        .filter(d => !country || d.location_country === country)
+        .map(d => d.location_city)
+        .filter((c): c is string => !!c)
+    )].sort();
+    selCity.innerHTML = '<option value="">All Cities</option>';
+    appendOptions(selCity, cities);
+  }
+
+  function populateVenueOptions(country: string, city: string) {
+    const venues = [...new Set(
+      allDiscourses
+        .filter(d =>
+          (!country || d.location_country === country) &&
+          (!city    || d.location_city    === city)
+        )
+        .map(d => d.location_venue)
+        .filter((v): v is string => !!v)
+    )].sort();
+    selVenue.innerHTML = '<option value="">All Venues</option>';
+    appendOptions(selVenue, venues);
+  }
+
   function populateFilters() {
     const speakers  = [...new Set(allDiscourses.flatMap(d => d.speaker))].sort();
     const topics    = [...new Set(allDiscourses.flatMap(d => d.topic))].sort();
     const countries = [...new Set(allDiscourses.map(d => d.location_country))].sort();
+    const types     = [...new Set(allDiscourses.map(d => d.type).filter(Boolean))].sort();
 
     appendOptions(selSpeaker, speakers);
     appendOptions(selTopic,   topics);
     appendOptions(selCountry, countries);
+    appendOptions(selType,    types);
+    populateCityOptions('');
+    populateVenueOptions('', '');
 
     // Apply speaker URL param after options are populated
     if (urlSpeaker) selSpeaker.value = urlSpeaker;
@@ -573,7 +618,10 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       text:      inpText.value.trim().toLowerCase(),
       speaker:   selSpeaker.value,
       topic:     selTopic.value,
+      type:      selType.value,
       country:   selCountry.value,
+      city:      selCity.value,
+      venue:     selVenue.value,
       dateFromY: inpFromY.value ? parseInt(inpFromY.value, 10) : null,
       dateFromM: inpFromM.value ? parseInt(inpFromM.value, 10) : null,
       dateFromD: inpFromD.value ? parseInt(inpFromD.value, 10) : null,
@@ -594,7 +642,10 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       }
       if (f.speaker && !d.speaker.includes(f.speaker))   return false;
       if (f.topic   && !d.topic.includes(f.topic))       return false;
+      if (f.type    && d.type !== f.type)                return false;
       if (f.country && d.location_country !== f.country) return false;
+      if (f.city    && d.location_city    !== f.city)    return false;
+      if (f.venue   && d.location_venue   !== f.venue)   return false;
 
       const hasFrom = f.dateFromY !== null || f.dateFromM !== null || f.dateFromD !== null;
       const hasTo   = f.dateToY   !== null || f.dateToM   !== null || f.dateToD   !== null;
@@ -708,7 +759,10 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
       window.zaraz?.track('zero_results', {
         speaker: f2.speaker || null,
         topic:   f2.topic   || null,
+        type:    f2.type    || null,
         country: f2.country || null,
+        city:    f2.city    || null,
+        venue:   f2.venue   || null,
       });
       countEl.textContent = 'No discourses match these filters.';
       resultsEl.innerHTML = '<p class="empty-state">No discourses match these filters. Try clearing some filters or broadening your search.</p>';
@@ -756,7 +810,22 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   inpText.addEventListener('input',    () => { resetPage(); render(); });
   selSpeaker.addEventListener('change', () => { resetPage(); render(); });
   selTopic.addEventListener('change',   () => { resetPage(); render(); });
-  selCountry.addEventListener('change', () => { resetPage(); render(); });
+  selType.addEventListener('change',    () => { resetPage(); render(); });
+  selCountry.addEventListener('change', () => {
+    selCity.value  = '';
+    selVenue.value = '';
+    populateCityOptions(selCountry.value);
+    populateVenueOptions(selCountry.value, '');
+    resetPage();
+    render();
+  });
+  selCity.addEventListener('change', () => {
+    selVenue.value = '';
+    populateVenueOptions(selCountry.value, selCity.value);
+    resetPage();
+    render();
+  });
+  selVenue.addEventListener('change', () => { resetPage(); render(); });
   [inpFromY, inpFromM, inpFromD, inpToY, inpToM, inpToD].forEach(inp => {
     inp.addEventListener('input', () => { resetPage(); render(); });
   });
@@ -765,7 +834,12 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     inpText.value    = '';
     selSpeaker.value = '';
     selTopic.value   = '';
+    selType.value    = '';
     selCountry.value = '';
+    selCity.value    = '';
+    selVenue.value   = '';
+    populateCityOptions('');
+    populateVenueOptions('', '');
     inpFromY.value   = '';
     inpFromM.value   = '';
     inpFromD.value   = '';

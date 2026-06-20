@@ -38,6 +38,8 @@ export const GET: APIRoute = async () => {
       transcript_quality: d.data.transcript_quality ?? null,
       has_youtube: !!d.data.youtube_url,
       has_quotes: !!(d.data.quotes_verified?.length),
+      type: d.data.type,
+      source: d.data.source,
       date_added: d.data.edited_at
         ? d.data.edited_at.toISOString().split('T')[0]
         : d.data.date_added ?? d.data.date.toISOString().split('T')[0],
