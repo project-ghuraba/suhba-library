@@ -52,8 +52,7 @@ const discourseSchema = z.object({
 
   status: z.enum(['published', 'draft', 'archived']),
 
-  topic: nfcStringArray
-    .min(1, 'At least one topic tag is required'),
+  topic: z.array(nfcString).default([]),
 
   // --- Optional fields ---
 
@@ -78,6 +77,10 @@ const discourseSchema = z.object({
   edited_at: z.coerce.date().optional().nullable(),
 
   date_added: z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'date_added must be YYYY-MM-DD').optional(),
+
+  source: z.string().default(''),
+
+  type: z.string().default('suhba'),
 });
 
 // ---------------------------------------------------------------------------
