@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ita'ah", "Irada", "Ma'siya", "Shaytan", "Akhirah"]
 quotes_verified: ["If another human calls to go against Allah, it is wrong to obey him. It is wrong to obey his order. If you go against Allah, you will carry your punishment yourself. Why do you want to take us as well with you to hell? If you want to go, you are free.", "Allah has given willpower to everyone. He told them what they should do. Allah ʿAzza wa Jalla has shown the right and the bad ways. Therefore, be with those who are on the right way. Don’t be cheated by those who are on the bad way and call you there. Don’t believe them and don’t follow them. Follow the way of Allah.", "Allah ʿAzza wa Jalla gave willpower to people. You must use that willpower with the wisdom of Allah.", "Our Holy Prophet is saying if someone orders you to drink alcohol, steal something, do adultery - don’t be cheated by him. Don’t obey him. Don’t go after him. This is the order and advice of our Holy Prophet. It is the word of our Holy Prophet who came with goodness and mercy to people, who tells the best of goodness."]
 edited_at: 2026-05-27

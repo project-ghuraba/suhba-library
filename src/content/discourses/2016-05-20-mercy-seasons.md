@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Rahmah", "Shaaban", "Laylat Al-Bara'at", "Dhikr", "Tawbah"]
 quotes_verified: ["Allah ‘Azza wa Jalla created seasons for us. There are seasons of the world and seasons of the hereafter. It is now spring in wordly seasons. In the sight of Allah Jalla Jalaluh, Rajab, Shaʿbān, and Ramaḍān are seasons of mercy.", "Allah ‘Azza wa Jalla says to the angels, “Go around and look who is asking Me for forgiveness and repentance, and who is asking for sustenance.” They look until morning and treat (ikram) them. InshaAllah, may we be amongst those who are treated. May we be of those who do not forget Allah.", "Allah Jalla Jalaluh has assigned 5-10 nights in the year to give more. These are special, separate nights. They are nights in which prayers are accepted. Worship done during these nights are more acceptable and much more rewards are written. Our payment is more, more is given, and gifts are more abundant.", "Remembering Allah is the best of worship. Let Allah always be in your mind, do not forget. If you forget Allah then you will be in trouble, but you have nothing to fear and be upset about if you do not forget Him.", "People who forget Allah are finished. All fear and all worries are with them.", "There is Allah: we do not need anything else. We did not come here for this world. We came for Allah"]
 edited_at: 2026-05-19

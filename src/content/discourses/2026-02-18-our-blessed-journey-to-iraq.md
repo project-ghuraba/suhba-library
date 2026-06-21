@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ziyarah", "Awliya", "Himmah", "Iman", "Suhbah", "Barakah"]
 quotes_verified: ["There is no such thing as “it’s over when they die.” When they (Awliyā) die, they become even stronger. Their spiritual strength is greater. Because they no longer have any worldly ties. Their duty continues, never ceasing, to prepare those in this world for the Hereafter. Their records are open.", "Their (Awliyā) books of deeds are open. And they are generous. They make duʿā and strive with himmah for others to come to the right way. The rain of mercy never ceases upon their tombs and blessed places."]
 edited_at: 2026-05-18

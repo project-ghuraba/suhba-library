@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ṭarīqah", "Īmān", "Murshid", "Suhbah"]
 quotes_verified: ["Īmān is to surrender to Allah, to submit to Allah ʿAzza wa Jalla and to be content with everything that comes from Him. That is īmān.", "Nowadays, many Muslims lack īmān. Why? Because they have no Murshid (guide), no one to show them the way. Everyone says, according to their own minds, “I am a Muslim, this is what I know, this is what I have read, or this is what they told me.” That is not īmān. Īmān comes through the way of the ṭarīqah.", "Ṭarīqah is the way of īmān. It is the way of our Prophet ṣallAllahu ʿalayhi wa-sallam, the beautiful way he showed, what’s beneficial to people. It is what’s important.", "What is the harm of the ṭarīqah? Ṭarīqah has a great harm. It is harmful against shayṭān. It is harmful to those who are on shayṭān’s way. Because they want disbelief; ṭarīqah strengthens īmān, with the permission of Allah."]
 edited_at: 2026-05-08

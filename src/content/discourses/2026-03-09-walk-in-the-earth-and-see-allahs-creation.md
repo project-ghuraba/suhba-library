@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tafakkur", "Sunnah", "Divine Providence", "Sadaqah", "Iman", "Suhba"]
 quotes_verified: ["It is the order of Allah, walking is good. It is sunnah of our Holy Prophet ṣallAllahu ‘alayhi wa-sallam to walk.", "Our Holy Prophet ṣallAllahu ‘alayhi wa-sallam would not run. It is not actually good to run. It is not for mankind to run. It is for other creatures; they run. Mankind walks.", "Īmān given by Allah to Muslim places will certainly bring up good people."]
 edited_at: 2026-05-17

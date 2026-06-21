@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Himma", "Awliya", "Iman", "Maqam", "Adab"]
 quotes_verified: ["The power of Awliyā increase more after their passing away. It is truly so.", "When you go to visit the Awliyā, ask them the path of Allah with adab (manners). They are people whom Allah sent amongst people as a Nur (light), as people who show beautiful light in this dark zulumat (darkness)."]
 edited_at: 2026-05-17

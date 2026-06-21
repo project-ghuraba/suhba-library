@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dua", "Salawat", "Dhikr", "Protection", "Akhirah"]
 quotes_verified: ["Whoever makes Salawat to our Holy Prophet ṣallAllahu ‘alayhi wa-sallam in the beginning and makes Salawat in the end while making Dua, that Dua will be accepted. Some Dua are accepted and some are not. But when you make Salawat for the honor of our Holy Prophet ṣallAllāhu ʿalayhi wa-sallam, those Duas will certainly be accepted.", "As we are living in Dunya, some people have evil eyes, some have envious evil looks. There is intolerance. So there are all kinds of things. Therefore, when you get up in the morning and until the evening, as you step out of the house, as you ride the car, [make Dua] in all kinds of actions, Allah ʿAzza wa Jalla will protect you, you will gain reward and you will also remember Allah ʿAzza wa Jalla.", "Make Dua for useful things. Don’t make Dua for useless things, for Dunya or for things that have nothing to do with you. “May this win, may that win.” It is a very useless thing."]
 edited_at: 2026-05-19

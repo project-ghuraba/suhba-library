@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Taslim", "Hikmah", "Qadar", "Shukr", "Inner Peace"]
 quotes_verified: ["Everything Allah gives is good. What Allah wills happens; one must accept everything as it is and interpret it positively. You must only see the good side. Seeing the bad won’t benefit you.", "Whatever Allah does, He does beautifully. Therefore, complaining is not right. Instead of complaining, one should adapt to the situation and accept everything as it is. This has great benefits for a person, especially a Muslim and believer. Even if one is not a believer or a Muslim, if one accepts what happens, one will find peace. Otherwise, one will spend all his time fighting with his own ego and others, becoming completely contrary. He will be against everyone; there will be neither peace nor beauty.", "May Allah bless us all and not separate anyone from this way. May He grant us a share of His wisdom. A person with wisdom has attained all good things. A person devoid of wisdom is an unfortunate person."]
 edited_at: 2026-06-10

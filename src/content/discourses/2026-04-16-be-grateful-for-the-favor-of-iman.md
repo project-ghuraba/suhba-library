@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Shukr", "Īmān", "Ṭarīqah", "Sharīʿah", "Ni'am", "Nafs"]
 quotes_verified: ["We must always make shukr to Allah. A person who is on the way that Allah loves must always be grateful, for Allah guides whomever He wants and leads astray whomever He wants. His work cannot be interfered with, His wisdom cannot be comprehended. No one else can give what He gives.", "With shukr (thankfulness), blessings last forever.", "The favor of īmān, the favor of ṭarīqah, the favor of sharīʿah – being on that way is a great favor from Allah ʿAzza wa Jalla. It is a gift bestowed upon us. That gift brings us eternal happiness in the Hereafter. And in this world, inshā’Allah, some will taste the sweetness of this beauty and goodness.", "Many people in this time, may Allah protect us, become accustomed to bad things. Getting used to bad things makes it difficult to give them up. They think they are finding pleasure in them because of their lack of īmān. But that’s not the case at all. It’s like seawater; when someone drinks seawater, they become even more thirsty and want more. In the end, they burst. It has no benefit, no end."]
 edited_at: 2026-05-15

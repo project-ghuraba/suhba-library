@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Sunnah", "Adab", "Salat", "Tarīqah", "Prophetic Love"]
 quotes_verified: ["When you don't do Sunnah, you can't have love of our Prophet ṣallAllāhu ʿalayhi wa-sallam — then harm comes to you. It's different to do it with love and belief. But when they say it's not important and no need to do it, then they are harmed for not respecting the most Beloved one of Allah ʿAzza wa-Jalla, our beloved Prophet ṣallAllāhu ʿalayhi wa-sallam, for whom He created the worlds.", "Ṭarīqah teaches this adab. What we call adab is first of all to respect our Prophet ṣallAllāhu ʿalayhi wa-sallam, to follow his Sunnah. Especially, don't leave the Sunnah of prayers.", "There are people nowadays who are saying, \"We are following only Qur'ān, no need for ḥadīth, no need for Sunnah, no need.\" Only what they are doing, they are doing what they understand. But they don't understand anything even."]
 edited_at: 2026-05-12

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawakkul", "Iman", "Sabr", "Faḍl", "Fitna", "Suhba"]
 quotes_verified: ["Once Allah is with a person, once the believer knows this, sadness, grief, and gloom will not affect him. Of course, these things may come, but a person should immediately turn to Allah.", "Now, because we live in the end times, there are all kinds of oppression and evil everywhere. It can affect anyone. Therefore, we need to think about this. Allah is with us. If Allah is with you, nothing can affect you.", "Sayyidinā Bilal al-Habashi, even with the scorching sun, with the hot things placed on his back and without being given anything, would say, “Allah Ahad. Allah is one, Allah is one.” What he endured was nothing to him. It had no effect on him because he was with Allah.", "May Allah protect us. May He not test us. Tests are not easy. Some people unknowingly desire or seek tests. “Beware. Do not ask for it,” says our Prophet ṣallAllahu ‘alayhi wa-sallam. The mashāyikh also say so."]
 edited_at: 2026-05-16

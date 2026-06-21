@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Leadership", "Oppression", "Justice", "Nafs", "Adab", "Mahdi"]
 quotes_verified: ["What is the worst thing that can happen to people? When their leader is not good. When he is not on the way of Allah ʿAzza wa Jalla and not afraid of Allah, it is the worst thing. This is bad for both for a small community and a big community, for the whole country and for the whole world.", "You’ve got freedom, but you’ve lost value. When you don’t have your humane value, what is the benefit of freedom?", "Whoever goes astray, may Allah protect us, who follows them have the worst end.", "The value of people in the presence of Allah is in showing mercy, compasssion and goodness. Only the Sulṭān was doing it. But they removed him. And then the whole world is filled with oppression, badness and injustice. The person who came to lead the nation put them in the worst situation. He took out humanity. He left neither mind, nor adab, nor manners. There is nothing left. He did that.", "This is important. This worldly situation won’t last. Never has this world remained the same. Therefore, there’ll surely be regret, and something different and better will come, inshā’Allāh."]
 edited_at: 2026-06-08

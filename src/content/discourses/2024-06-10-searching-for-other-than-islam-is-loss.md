@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Islam", "Guidance", "Akhirah", "Shaytan", "Suhba"]
 quotes_verified: ["Allah ʿAzza wa Jalla says, whoever looks or searches for a religion other than Islam, it is not accepted from him. What’s accepted is to be upon the religion of Islam.", "What’s beneficial is the religion ordered by Allah ʿAzza wa Jalla, the religion of Islam. The light is in it. Barakah, benefit and every good thing is in it. Those who follow it and go on this way have won, even if they are not rich in this world."]
 edited_at: 2026-06-10

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hajj", "Qadar", "Shukr", "Niyyah", "Barakah"]
 quotes_verified: ["For those who cannot go (Ḥajj), Allah will surely give them according to their intention.", "Now many went but couldn’t perform Ḥajj and were turned back. The Ḥajjīs who were turned back were more than those who became Ḥajjis. Allah is Al-Karīm. His Generosity is endless. Their Ḥajj was accepted, inshāAllah.", "Visiting the house of Allah ʿAzza wa Jalla and the surroundings of our Holy Prophet, and returning is one of the greatest rewards in dunyā, one of the greatest blessings. We must know its value."]
 edited_at: 2026-06-10

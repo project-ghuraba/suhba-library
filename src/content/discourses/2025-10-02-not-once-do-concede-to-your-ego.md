@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Nafs", "Ibadah", "Salat", "Tawbah", "Shaytan"]
 quotes_verified: ["Allah ʿAzza wa Jalla says that He does not command a person to do something they lack the strength to do; He does not command them. This means the commands of Allah ʿAzza wa Jalla are easy things to do; they are not things that cannot be done.", "Mankind do a thousand times more for their own ego than what Allah ʿAzza wa Jalla commands them to do. But for the pleasure of Allah, to fulfil His commands, they are too lazy. Most people do not do them.", "Mankind is like this. They see the goodness of Allah as hard. And they see badness as easy. Yet, badness never brings goodness to a person. A person who follows their ego and shayṭān is always in loss.", "Those who don’t do them say, “It’s hard, I can’t wake up for Fajr prayer. I can’t get up, and it is difficult.” When you wake up, pray it. Since it’s difficult, they don’t do that either. “I can’t pray the prayers on time, I pray them later.” They don’t do that either. And then, without being ashamed of Allah ʿAzza wa Jalla, they keep saying, “I want this, I want that.”", "We can easily do what Allah ʿAzza wa Jalla commanded us. Don’t follow your ego! Don’t be lazy! Never make any concessions to your ego. Even the slightest concession will make you miss the time, and you can’t replace that time."]
 edited_at: 2026-05-20

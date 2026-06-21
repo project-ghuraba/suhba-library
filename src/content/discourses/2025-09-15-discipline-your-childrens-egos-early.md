@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Nafs", "Tarbiyah", "Salat", "Khidmah", "Adab"]
 quotes_verified: ["Families must train their children, from a young age, little by little to control their ego. Giving them everything they want isn’t good actually. If you’re going to give them, they must know what it means and know its value. Then, they must know that everything won’t happen right away. It requires patience.", "People today have become so strange. In the past, children served their families, their fathers, and their mothers. Now people, let alone children - People today don’t serve their children; they serve their animals.", "A person, woman or man, when they reach that age of maturity —that is, when they can marry or have children—then punishment, sin, and all other things are recorded for them. Allah ʿAzza wa Jalla has written sin starting that age."]
 edited_at: 2026-05-21

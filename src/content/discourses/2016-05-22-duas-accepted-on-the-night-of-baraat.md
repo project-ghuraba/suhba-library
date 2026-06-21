@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Bara'at", "Dua", "Dhikr", "Iman", "Guidance"]
 quotes_verified: ["Faithful people live with a great blessing while in the world and remember Allah.", "Rebellion is not good and it is not good to be with those who rebel against Allah.", "We also need to wish well for those who do not know. We need to make dua for goodness so that InshaAllah they also get kismet."]
 edited_at: 2026-05-20

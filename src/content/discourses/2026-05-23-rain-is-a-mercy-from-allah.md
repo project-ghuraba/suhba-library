@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Divine Rahmah", "Hikmah", "Shirk", "Mahdi", "Barakah", "Awliya"]
 quotes_verified: ["It is Allah ʿAzza wa Jalla who sends the rain. Rain is a mercy. Sometimes it is mercy, sometimes it is wrath.", "Allah ʿAzza wa Jalla may not send a drop of rain if He wishes. But He still sends it for the honor of believers, for the honor of the poor and needy. These rains fall for honor of the Awliyā’, shukr to Allah."]
 edited_at: 2026-05-26

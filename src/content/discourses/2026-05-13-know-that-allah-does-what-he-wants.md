@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Qadar", "Iman", "Hikmah", "Adab"]
 quotes_verified: ["Just as the current state of the world, people might think that everything is in the hands of the wicked. But everything is in the Hand of Allah. Allah opens the way for them to suffer more severely for what they have done. Do more evil, commit more injustice, so that you will receive even more punishment. May Allah protect us.", "Do not be someone who constantly objects and complains, is always contrary and opposed. What Allah says will happen: it is necessary to know that. A person with īmān must know that.", "Allah ʿAzza wa Jalla does whatever He wants. If one’s asking [intention] for good, then one can ask, “What is its wisdom?” But asking “Why?” as an objection or so brings no benefit. It brings nothing but harm. Harm, because it becomes a habit, objecting to everything. Not accepting everything. When one doesn’t accept, it destroys and ends their īmān."]
 edited_at: 2026-05-13

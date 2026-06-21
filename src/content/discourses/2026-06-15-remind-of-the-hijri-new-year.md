@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hijra", "Muharram", "Ashura", "Barakah", "Mahdi"]
 quotes_verified: ["Everything is different in the Islamic year. All the acts of worship are performed according to this calendar.", "Everything, every day has its own manifestation, its own beneficence.", "One can fast for as much as possible, but it’s crucial not to miss the day of ʿĀshūra.", "They often forget the Hijrī Year. They don’t give it much importance, but shukr to Allah, the day of ʿĀshūra exists, and most Muslims remember it. It’s an important day. These days are days that our Prophet ṣallAllāhu ʿalayhi wa-sallam valued and recommended to us so that we may fast on that day. Our Prophet ṣallAllāhu ʿalayhi wa-sallam, in opposition to the Jews, said it should be two days, not just one; either the 9th and 10th or the 10th and 11th."]
 edited_at: 2026-06-15

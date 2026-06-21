@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Hikmah", "Nafs", "Ilm"]
 quotes_verified: ["If someone gives you an advice or says something, you should consider it. We should look for the best of it and benefit from it, says Allah ʿAzza wa Jalla in Qur’ān ʿAẓīmu sh-Sha’n.", "Even if you don’t like something someone says to you, if it’s true, you should accept it. However, you can’t accept everything that’s said. Because if it’s opposing to the word or speech of Allah ʿAzza wa Jalla and our Prophet ṣallAllahu ‘alayhi wa-sallam, then it mustn’t be accepted.", "The truth must be accepted from whoever it comes, from a child, an adult, an elderly person, a young person, a woman, a man. Our Prophet ṣallAllahu ‘alayhi wa-sallam says, “What a believer loses is good knowledge and good words.” A believer must accept and be happy with that, from whomever it comes. There is no need to be offended or resent. Being offended and resentful is a disease of the ego."]
 edited_at: 2026-05-21

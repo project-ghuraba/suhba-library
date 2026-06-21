@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hijra", "Islamic Calendar", "Muharram", "Suhba", "Adab", "Worship"]
 quotes_verified: ["We haven’t been able to precisely determine the beginning of this blessed year, perhaps as Monday or Tuesday. Normally, of course, one looks at the moon. But now, no one looks at the moon; no one knows where it rises or sets. We follow whatever Ulī l-Amr (the authorities) say. We perform our acts of worship accordingly.", "For us, the real Year, the Hijrī Year, should be observed with prayer and worship. We must benefit from these blessed, beautiful, and virtuous days. We must not forget those days. We must honor and show respect to everything that reminds us of the Hereafter, Allah ʿAzza wa Jalla and our Prophet ṣallAllāhu ʿalayhi wa-sallam.", "The migration from Makkah to Madīnah is one of the greatest turning points in Islāmic history. Our Prophet ṣallAllāhu ʿalayhi wa-sallam, despite the great difficulty he faced, he left his homeland and the place he loved and migrated for the sake of Allah.", "Just as our Prophet ṣallAllāhu ʿalayhi wa-sallam left Makkah and opened up to the world, inshā’Allāh, Islām will once again open up to the world; those days will surely come. The greatness of Islām will return, inshā’Allāh. May Allah allow us all to reach those days soon, inshā’Allāh."]
 edited_at: 2026-06-13

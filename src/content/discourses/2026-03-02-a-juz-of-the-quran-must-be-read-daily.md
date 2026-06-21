@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Qur'an", "Ramadan", "Tilawah", "Wird", "Barakah", "Tariqah"]
 quotes_verified: ["Qur’ān ‘Aẓīmu sh- Sha’n is a great miracle. One of the greatest miracles of our Prophet ṣallAllahu ‘alayhi wa-sallam is that the word of Allah ʿAzza wa Jalla is among people, in our hands, and we can read it everywhere.", "Some people say, “We will read this, there is this book, there is that book,” but they can never replace Qur’ān ʿAẓīmu sh-Sha’n. It is absolutely necessary to read from the Qur’ān.", "Some people are preventing others from reading the Qur’ān, saying, “Don’t read this, you don’t understand it; instead, read this man’s book, read that man’s book.” Such words are worthless. They are worthless.", "This is the greatest specialty of this blessed month (Ramaḍān). The Qur’ān was revealed on the Night of Power (Laylatu l-Qadr). Nothing can replace it.", "It is Allah’s wisdom, and this is one of the great miracles; a person may not know a single word of Arabic, may not speak it, but may recite the Qur’ān more beautifully than Arabs, having memorized it all. Some have even learned and practiced different recitation styles and rules of Tajweed. This is because the Qur’ān is the word of Allah ʿAzza wa Jalla. It is easy because it penetrates people’s hearts and souls.", "No matter from what aspect you look at it, everything is in Qur’ān ʿAẓīmu sh-Sha’n. There is health, īmān, and barakah. All knowledge is there; both apparent and hidden knowledge is in Qur’ān ʿAẓīmu sh-Sha’n."]
 edited_at: 2026-05-17

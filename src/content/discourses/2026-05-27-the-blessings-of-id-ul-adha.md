@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["EidAlAdha", "Hajj", "Qurban", "Madhhab", "Barakah"]
 quotes_verified: ["The specialty of ʿĪd ul-Aḍḥā is there is more worship. For example, there is both slaughtering qurbān and there are Ḥajjīs.", "Many people not only don’t want ṭarīqah but also madhhab. There are shayṭāns who say “We don't need madhhab. We can do by ourselves. We read Qur‘ān and understand it.” What is that? People who say so don't understand anything. They neither know what they read, nor understand what they see. You can't do without madhhab.", "Pray and make qurbān, says Allah Azza wa-Jalla. Therefore, it is beneficial to do it for themselves. If they don't want it, poor and needy people can benefit from it. And they will make duʿā for them. They will earn double thawāb, both for slaughtering qurbān and feeding the poor, for making them happy."]
 edited_at: 2026-06-07

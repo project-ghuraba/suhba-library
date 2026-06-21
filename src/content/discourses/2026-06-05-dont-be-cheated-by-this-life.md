@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dunya", "Akhirah", "Iman", "Aql", "Zuhd"]
 quotes_verified: ["Our Prophet ṣallAllāhu ʿalayhi wa-sallam says in the holy ḥadīth sharīf, dunyā is the prison of the believer. It is not a place of comfort for the believer. The Hereafter is his comfort. For the unbeliever, dunyā is paradise.", "When compared to the beauty, comfort, ease, and freedom of Paradise in the Hereafter, even the person in the highest rank here feels like they are living in prison.", "Compared to the Hereafter, as our Prophet ṣallAllāhu ʿalayhi wa-sallam said, even the most luxurious life we live here is like living in prison; it is such a worthless place, a place of no value whatsoever. It is a difficult place.", "What do you want? Do you desire the Hereafter? Do you desire the eternal life, the Hereafter, or do you desire the temporary life many people live luxuriously here and then abandon the Hereafter?", "even if they gave him the whole world, a believer would not change his religion. He would not stray from the way of ḥaqq (truth). He invites others to the way of ḥaqq. Because it is the way of reason, the way of beauty. It is the way of Allah ʿAzza wa Jalla. This way is the way of all the Prophets, the beautiful way.", "Those who have mind do not look at what is here, but at the Hereafter."]
 edited_at: 2026-06-08

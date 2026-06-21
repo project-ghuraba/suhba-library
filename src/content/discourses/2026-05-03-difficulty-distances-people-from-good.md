@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Taysir", "Akhlaq", "Sunnah", "Ibadah", "Ihsan"]
 quotes_verified: ["Make things easy, do not make them difficult. Show ease in your affairs, both for worldly matters and for the hereafter, so that things don’t become burdensome for people.", "If you are going to do something, do it easily, in the way that you know. If you are going to be with people, address them according to their states.", "Getting along with people kindly, not lying, not harming or deceiving people; all these are considered good qualities and ease.", "Our Prophet ṣallAllahu ʿalayhi wa-sallam is an example for humanity; not just for Muslims, but for all of humanity. His way is a beautiful way, the way of humanity, the way to happiness for humanity."]
 edited_at: 2026-05-08

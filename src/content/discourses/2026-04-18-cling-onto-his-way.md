@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhū Al-Qaʿdah", "Sunnah", "Iman", "Murshid", "Shaytan", "Hajj"]
 quotes_verified: ["The divine decree and wisdom of Allah ʿAzza wa Jalla are boundless.", "The way of our Prophet ṣallAllahu ʿalayhi wa-sallam is the Qur’ān, the way of the Qur’ān. No one can explain the Qur’ān better than him.", "Now people have come out saying, “We will only read the Qur’ān and follow it.” You wouldn’t even understand what’s going on if you read a newspaper, yet you’re saying you don’t want our Prophet ṣallAllahu ʿalayhi wa-sallam. There are many such foolish people. May Allah protect us from these foolish, unwise people who lead others astray.", "Shukr to Allah, we love and respect everything our Prophet ṣallAllahu ʿalayhi wa-sallam did and everyone he loved. This is our way. This is true īmān, true Islām."]
 edited_at: 2026-05-15

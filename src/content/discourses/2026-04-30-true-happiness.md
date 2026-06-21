@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Happiness", "Mahabbah", "Love"]
 quotes_verified: ["Bringing joy to the heart of a believer is one of the most beloved deeds to Allah.", "Joy for other worldly things does not enter the heart. What enters the heart is the love of Allah ʿAzza wa Jalla and the love of our Prophet ṣallAllahu ʿalayhi wa-sallam.", "What gives peace to the heart is the love of our Prophet ṣallAllahu ʿalayhi wa-sallam and the righteous. That is what gives true happiness to a person’s heart."]
 edited_at: 2026-05-08

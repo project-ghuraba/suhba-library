@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Sha'ban", "Salawat", "Barat", "Prophetic Love"]
 quotes_verified: ["Allah has different manifestations and different gifts for each month. Because the month of Shaʿbān is the month of our Holy Prophet, we need to bring forth more Salawat. Those who do not should recite at least 100. Those who have a duty and already recite Salawat everyday should recite 300 more, 500 more, 1000 more, or as much as they can. Bring forth Salawat abundantly on our Master in this month. When you bring forth Salawat on our Master, he looks at you with love in return.", "The love and affection of our Holy Prophet is what Muslims and Mumins want. To love him is to obey the orders of Allah.", "Barat celebration is also on the 15th of the holy month of Shaʿbān. It is a holy night. Everything that is to happen the following year and for the whole year is written on that night. That night is a holy night."]
 edited_at: 2026-05-18

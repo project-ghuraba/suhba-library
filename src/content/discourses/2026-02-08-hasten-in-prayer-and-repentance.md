@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Salat", "Tawbah", "Akhirah", "Shukr"]
 quotes_verified: ["Those who didn’t pray will be made to pray in the Hereafter. Each prayer is equivalent to 80 years of life. Here, 80 years is essentially the entirety of a person’s life. If they didn’t pray it here, they can pray in the Hereafter. Even if they didn’t pray for thousands of years, they will certainly be held accountable in the Hereafter.", "If you committed a sin or fault while in this world, whatever you did, there is a solution for it while you are still here. Sharīʿah clearly explains how to be forgiven from every fault. But the important thing is to repent. To repent before death.", "These people think that nothing will happen to them. They commit all kinds of evil and filth. Then, they think they are saved. No one is saved without repentance. If you repent, then you are saved. But if you persist and continue, then your punishment will be severe."]
 edited_at: 2026-05-18

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Zakāt", "Ramadan", "Intention", "Tazkiyah", "Obedience"]
 quotes_verified: ["Our Prophet ṣallAllahu ‘alayhi wa-sallam says, “If a person takes on a debt with the intention of not paying it back, they will never be able to repay it. But if they take it with the intention of repaying it, it will be easy.”", "Zakāt, of course, is something that must be given from year to year; it is a debt owed to Allah ʿAzza wa Jalla. One cannot evade this debt.", "Our Prophet ṣallAllahu ‘alayhi wa-sallam says, “Money and possessions do not diminish from zakāt and sadaqah.” Do not think that way. You mustn’t say, “My money is little, it will decrease if I give.” It will not decrease at all. It will not decrease if you give. It will decrease if you don’t give.", "This matter of zakāt is one of the fundamentals and pillars of Islām. Those who do not pay it commit a great sin. The harm is upon themselves."]
 edited_at: 2026-05-16

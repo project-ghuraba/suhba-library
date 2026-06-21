@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Jannah", "Iman", "Amal Salih", "Nafs", "Dunya", "Akhira", "Suhbah"]
 quotes_verified: ["Islām is goodness, Allah’s commands are goodness. There is no evil in them. Evil is with shayṭān.", "Paradise is a place that not everyone can enter. But if they want, everyone can easily enter. He who does not follow his ego, who overcomes and destroys his ego, who does not obey shayṭān, and who obeys Allah will be in Paradise forever.", "Paradise is nothing like this world. There are some gatherings mentioned by our Prophet ṣallAllahu ʿalayhi wa-sallam, gatherings of Paradise, his holy tomb, Paradises of dunyā. They are beautiful examples of the Hereafter. Those who pass by and stand there find peace and experience the beautiful state of Paradise."]
 edited_at: 2026-05-16

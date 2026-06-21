@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iman", "Dhikr", "Awliyaullah", "Divine Justice", "Tazkiyah", "Muharram"]
 quotes_verified: ["O Allah's Awliyā, you are the swords of Allah, I have passed it to you. If there is no religion, no faith, what is the value of life? Where is the taste? If there is no eternal life, what's the meaning of this life? What is the meaning of this life if everyone is dying? What does it mean?", "If there is nothing beyond this life, a person will fall into hopeless, endless darkness. How unhappy he is. They say, \"I'm depressed.” Maybe 100 people visit me everyday. In Europe 500 people come. They are depressed. How can they not be? They don't have the light of faith. If you have the light of faith, will you fall into darkness?", "depression is overtaking people. Children know nothing now and are depressed because they don't have the power of faith. They don't have the light of faith. Faith is not given, not being taught. And they grieve.", "Do not be a journalist. Newspapers are nonsense. We are giving you the news of Allah and the Prophet. We are telling you what the Awliyās know and give. You can either listen, or not.", "Is there anything more beautiful than Islam? What is sweeter than faith? Is there taste of belief somewhere else?", "Whoever calls Allah's Awliyā \"dead\", is a sign that actually he [himself] is dead. Even if Shaykh ul-Islam wrote it, he is also dead. It means he's deprived of spiritual life.", "Make sajda. And don't be ashamed of prostrating to Allah. Whoever doesn't prostrate, will be left out of the circle of kindness."]
 edited_at: 2026-06-15

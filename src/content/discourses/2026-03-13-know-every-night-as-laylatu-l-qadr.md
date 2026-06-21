@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Laylatu L-Qadr", "Ramadan", "Adab", "Islam", "Qur'an"]
 quotes_verified: ["Laylatu l-Qadr can occur on any day or night of the year, but mostly during Ramaḍān, and specifically in the last ten days of Ramaḍān.", "The elders have said that every night should be considered as Laylat al-Qadr so that other days are not in vain. Also, consider every person as Khidr ʿalayhi s-salām. Because he too is hidden, and he can appear to people in different forms.", "There is no religion other than Islām. Allah ʿAzza wa Jalla sent prophets one after another to complete it. They all say the same things because the source is one. It is not different. There is no other religion.", "The greatest miracle, of course, is Qur’ān ʿAẓīmu sh-Sha’n. This is the greatest miracle of our Prophet ṣallAllahu ‘alayhi wa-sallam. The word of Allah ʿAzza wa Jalla, the word of Truth."]
 edited_at: 2026-05-16

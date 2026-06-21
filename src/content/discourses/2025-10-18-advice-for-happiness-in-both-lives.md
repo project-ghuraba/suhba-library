@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iman", "Shukr", "A`mal", "Tawbah", "Akhirah"]
 quotes_verified: ["InshāAllah, all of you will be surprised on the Day of Resurrection, how Allah ʿAzza wa Jalla is giving you reward for what you had done in this life. Some people make big things; some people make small things. Even if they do good things without knowing it, Allah ʿAzza wa Jalla knows.", "Allah is Generous. He is not afraid for it to finish. Creatures don’t give too much. Some are generous but they can also be afraid that maybe they will finish. But Allah’s treasures are endless; no limit. He is always giving people.", "You must believe in Allah ʿAzza wa Jalla and His generosity. We are poor people and we are doing as much as we can but we ask Allah to help us in the life here and the other life also. So we must be grateful to Allah ʿAzza wa Jalla. He likes people who thank Him not those who complain.", "Allah ʿAzza wa Jalla says, “If you are thankful, I will multiply what you have.” If you thank Allah, Allah will make all of what you have from goodness to continue. If you have a good village, if you have a good land, anything; you must be thankful for it. And He will make it continue for you. If not, if you are not thankful only complaining, it will be cut.", "Everybody must know that Allah ʿAzza wa Jalla will ask about our deeds. Allah is happy with people who help each other, not harm each other. May Allah make us from those who help each other."]
 edited_at: 2026-05-19

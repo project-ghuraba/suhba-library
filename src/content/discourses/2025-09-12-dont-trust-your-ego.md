@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Nafs", "Mujahada", "Tawfiq", "Shaytan"]
 quotes_verified: ["The ego is a test in this world, a test for people. He who follows it and does badness loses. He who disobeys it, goes against it, and does not do what it commands, wins. This is for everyone.", "Some people ask, “How can we defeat our ego?” You can defeat it. But even though you defeated it, you will continue to fight it. You won’t rejoice in your victory saying, “I defeated it” and give up. It will immediately overthrow you. It has no mercy, no trust. The ego is treacherous. The ego is untrustworthy.", "Our brothers or ṭarīqah murīds think, “Once we join ṭarīqah, we’ve defeated our egos, everything is done.” No, there’s no such thing. The ego is with you until your last breath; it shouldn’t find the opportunity to lead you astray. Therefore, we must be careful."]
 edited_at: 2026-05-21

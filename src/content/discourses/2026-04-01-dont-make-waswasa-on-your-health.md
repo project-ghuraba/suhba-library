@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Waswasa", "Tawakkul", "Ihsan", "Health", "Halal"]
 quotes_verified: ["If a person lived properly, as Allah ʿAzza wa Jalla commanded, Allah created everything perfectly and the body repairs itself. But of course, the situation of people is different now. From both food and drink, and from excessive eating – they call it healthy but it’s unhealthy food – the body is definitely damaged, and on top of that, with a lot of medication and other things, it gets even worse.", "The best thing is to live a mindful life, both spiritually and physically. Physically, you must pay attention to what you receive, what you give, what you eat, what you drink, and act accordingly."]
 edited_at: 2026-05-15

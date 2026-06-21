@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iman", "Dhikr", "Shaytan", "Istiqamah", "Divine Protection"]
 quotes_verified: ["Allah ʿAzza wa Jalla says, 'He defends and protects those who believe.' This is His true promise. Believers, those who possess true īmān, are under the protection and guardianship of Allah.", "Allah ʿAzza wa Jalla says, 'He defends and protects those who believe.' This is His true promise. Believers, those who possess true īmān, are under the protection and guardianship of Allah. They have no other occupation than the remembrance (dhikr) of Allah and worship of Allah. Whatever others strive to do, Allah will protect them. They are under the protection of Allah, they are with Allah.", "Whoever is with Allah is always saved. They are always victorious, triumphant. They are the possessor of all good. Whoever is not with Allah ʿAzza wa Jalla will face all kinds of difficulties, big and small.", "Today, people boast about the evil they do. They think they are doing something good. However, what they do only harms themselves. Of course, it also harms others. When it harms others, the responsibility for it falls upon them. And they will certainly receive their punishment.", "One’s heart mustn’t incline towards evil. Because shayṭān makes evil appear good and good appear bad to people.", "We are in the end times; a thousand things can put doubts into a person’s mind, planting false thoughts in their head. Therefore, it is necessary to always remain on the way of truth. If you have chosen the way, hold on to it firmly."]
 edited_at: 2026-05-15

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Madad", "Suhbah", "Ahlu Sunnah", "Love of Prophet", "Nafs"]
 quotes_verified: ["Such groups have existed from the time of our Prophet ṣallAllahu ‘alayhi wa-sallam until now. There’s a group that makes the right way seem bad to people. They always appear, in all sorts of forms; not in the same form. But the right way will remain unchanged until qiyāmah, Allah willing.", "Madad means asking for help. It means asking help from Allah, from the friends of Allah, from our Prophet ṣallAllahu ‘alayhi wa-sallam and from the mashāyikh. We say this so that people don’t talk from their own egos, so that they don’t follow their egos, and so that they can speak what’s on the true way.", "The true Ahlu s-Sunnah wal-Jamā’ah are those who respect and love our Prophet ṣallAllahu ‘alayhi wa-sallam. There is another group called Ahlu s-Sunnah but they are not. They do not respect our Prophet ṣallAllahu ‘alayhi wa-sallam. They do not respect the Companions or anyone else in any way. They are people who have gone astray; may Allah protect us. Those who follow them will perish. Unfortunately, there are many people who are deceived by them.", "Without the love of our Prophet ṣallAllahu ‘alayhi wa-sallam and without respecting him, we would have nothing; it is not possible.", "A person with mind and logic follows the way of our Prophet ṣallAllahu ‘alayhi wa-sallam, honors him, and recognizes that he is at the highest station. He must consider this his foremost duty."]
 edited_at: 2026-05-20

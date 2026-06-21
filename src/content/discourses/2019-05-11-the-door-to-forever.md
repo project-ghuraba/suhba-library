@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Mawt", "Akhirah", "Dunya", "Iman", "Tafakkur", "Qabr"]
 quotes_verified: ["Everyone will taste of it. It will happen to everyone. But while in life, people don't think of it. Therefore, our Prophet said to Sayyidunā ‘Umar, the biggest lesson is death. Death is an advice to you because people remember Ākhirah when they see it. Ākhirah is our main place, they say Dāru l-Baqā’, Ākhirah is the permanent land. This world is temporary.", "“Kun fī d-dunyā ka-annak ‘ābiru sabīl,” says our Prophet. Be like a passerby in this world. A person passing by a road doesn't make buildings. He will continue on his way. He is busy with his destination and tries to make it prosperous wherever he goes.", "If you want to enrich your Ākhirah, you should send goodness to Ākhirah from dunyā. You should send good deeds and thawāb so that your Ākhirah is prosperous.", "The grave is our door. It is the door to reality, to eternal life which is real life. Death is not the end, it is the beginning. And that beginning, as our Prophet says, can either be a garden of Paradise that you enter; it will open as a garden of Paradise to you and you'll be there until Qiyāmah, or it will be a hole of fire. Scorpions, snakes and all types of torture will be there. So a person should think about it and decide how to act in this world."]
 edited_at: 2026-05-10

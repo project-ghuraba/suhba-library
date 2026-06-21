@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Nafs", "Tazkiyah", "Akhlaq", "Hikmah", "Amal"]
 quotes_verified: ["When a person advises something or suggests an idea, just like he gives it to others, he must do it himself. Otherwise, if he doesn’t do it, others benefit but he doesn’t benefit from it. And as he didn’t do it despite knowing, he will be held responsible for it.", "Many people think what they do is good; everything they do is good and there is nothing bad. Others must do goodness, do what they advise. And they think they are better than everyone. This is escalating and exalting their egos."]
 edited_at: 2026-05-20

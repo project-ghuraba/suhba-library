@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Qiyamah", "Dhikr", "Tawbah", "Mahdi", "Muharram", "Ajal"]
 quotes_verified: ["Qiyāmah is near. People are heedless, they don’t talk about qiyāmah at all. They think it’s far away. But it is near; days and years pass by in an instant. The Hereafter is drawing near.", "Of course, everyone’s own qiyāmah is the moment they close their eyes; because when a person opens their eyes, they find themselves on the Day of Resurrection. Therefore, this is very important; those who know its value will have prepared for the Hereafter.", "Every moment that passes while on the way of Allah is beneficial; it becomes provision for the Hereafter, they say. The journey to the Hereafter is long. Therefore, these years, these days, should not be wasted; they should all be spent in the way of Allah.", "Of course, merely pronouncing Allah’s name with the tongue is also a form of dhikr, but dhikr is also remembering Him and keeping Him constantly in the heart. You must constantly remember Allah so that your hereafter may be prosperous, so that days, hours, and seconds do not pass in vain.", "To attain the intercession of our Prophet ṣallAllāhu ʿalayhi wa-sallam, it is absolutely necessary to remember this. Every minute, every second, we should think, “Allah is with us, Allah sees us, Allah is a witness to our actions.” A person who acts accordingly will not have wasted their days."]
 edited_at: 2026-06-16

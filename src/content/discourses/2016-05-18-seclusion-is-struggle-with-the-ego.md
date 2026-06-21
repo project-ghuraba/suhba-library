@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Khalwat", "Nafs", "Jihad al-Akbar", "Suhbah", "Fayd"]
 quotes_verified: ["Khalwat is a different worship. You are secluded from the world for forty days. News of the world needs to be nonexistent for things not to come to mind. You struggle with ego and Shaitan for forty days. Of course, these things are hard if there is no himmat (support).", "If people trust their ego and get proud saying they beat their ego, they will have lost.", "It does not work if you say, “We did khalwat and beat our ego.” The ego is with you until the last breath. Therefore, there is no such thing as, “I did it and it is over.”"]
 edited_at: 2026-05-18

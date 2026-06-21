@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Obedience", "Ūli L-Amr", "Shukr", "Ibtila'", "Ridha"]
 quotes_verified: ["Obey Allah ʿAzza wa Jalla, obey our Prophet and obey Ūli l-Amr, those in authority too. Ūli l-Amr are the government, those who govern the country. He says, obey those who govern the Muslims. If not, you would be opposing the order of Allah ʿAzza wa Jalla. When an order is given, it is necessary to obey them. It is an order.", "Sometimes Ūli l-Amr are good, and sometimes, may Allah protect us, they are not good. But obey them all so that you don’t go astray from the way. Sometimes it is a test, sometimes it is beneficence. Therefore, when it is beneficence, a person should know its value. A person who knows the value is always an accepted person.", "A person who is acceptable for Allah is good and his end is good. It is always good for him. If there is a person whom Allah does not love, then everything can be his, the whole world can be his, tenfold of this world can be his, nothing will benefit him. Because his end will not be good. We say, may Allah make our affairs’ end be good.", "We should thank Allah for giving us these blessings. In everything, Allah has given everyone a grant, a specialty. Everyone should mind their own business.", "People of this time have shayṭān mounted on their heads. They do not like anything. They do not know any goodness.", "Ingratitude is not good. It is something that Allah ʿAzza wa Jalla does not like. What Allah ʿAzza wa Jalla loves is to make shukr and praise Him for the blessings of He has given. May Allah make us from those who make shukr and praise Him."]
 edited_at: 2026-06-15

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ma'rifah", "Ilm", "Niyyah", "'Ulama", "Farḍ"]
 quotes_verified: ["Knowledge is to know Allah ʿAzza wa Jalla. Everything else is not knowledge.", "There are people who feel proud of themselves for learning a lot, for becoming professors and graduating from several universities. But they don't accept Allah ʿAzza wa Jalla. They don't accept things given by Allah ʿAzza wa Jalla. They say it happened by itself. It means they are ignorant. They are right in the middle of ignorance.", "Certainly, there is no end to knowledge. Our Holy Prophet says it is farḍ (obligatory) to ask for knowledge. It is farḍ for everyone. Everyone must learn from the time of birth till they die. How should they learn? They must intend to be on the way of Allah ʿAzza wa Jalla and ask for knowledge step by step. With such intention, they will both become accepted people near Allah ʿAzza wa Jalla and angels will spread their wings beneath their feet, says Allah ʿAzza wa Jalla.", "Knowledge has its levels. Allah has given a rank to everyone. You must know this.", "You learn new things every day. And you must say that for the pleasure of Allah. You must say, \"I accept what I learn, this knowledge as the order from Allah ʿAzza wa Jalla\". You must say so.", "Knowledge teaches beauty and goodness. It teaches whatever good there is. What teaches badness is not knowledge."]
 edited_at: 2026-05-17

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ahl al-Kahf", "Iman", "Hidāyah", "Barakah", "Youth"]
 quotes_verified: ["Young people like to be playing and enjoying themselves. They like this. But when Allah wants them to be in His way, He also makes them happy in His way.", "Young people are always happy and make all people happy. They give good energy around them. So people become happy with them.", "Until 1977 or so, there wasn’t much Islamophobia. But they made this fitnah, bringing first the Iranian Revolution calling it Islamic Revolution. And they were making very bad things to each other, and saying “This is Islām.”"]
 edited_at: 2026-05-08

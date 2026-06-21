@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hidaya", "Istiqaamah", "Shukr", "Akhira", "Iman"]
 quotes_verified: ["Who is the lucky one? It is the person whom Allah ʿAzza wa Jalla has guided. Because it happens by the will of Allah.", "A person who has attained guidance is saved. If Allah does not will guidance for him, he is an unfortunate person. He may possess the whole world, everything may be his, but the Hereafter is not his. Not attaining the Hereafter is the worst thing.", "This way is a beautiful way. May Allah guide others as well. May they too taste this beauty. Because the beauty of īmān is unparalleled.", "The pleasures and delights of the world have limits. The desires of the ego are infinite, but even those have limits. Once you reach a certain point, you can’t go beyond that point; you can’t enjoy it anymore. That’s why they want to try something else, something different. No matter what, good or bad, even the worst, the ego will still pursue it. But as we said, there is a limit, and it cannot be exceeded."]
 edited_at: 2026-05-18

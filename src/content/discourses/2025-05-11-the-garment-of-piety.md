@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Taqwa", "Nafs", "Zahir", "Batin", "Adab", "Ikhlas"]
 quotes_verified: ["A person who fears Allah – that is the best garment. That conceals the person and makes him appear beautiful in the presence of Allah. Your station will not rise in the sight of Allah with those worthless rags they have deceived you with.", "Taqwā means to fear Allah, to be ashamed before Allah, to have modesty before Allah. That is, when you are seen by Him, if you are in a bad state, doing things that are not good – even if you wear the most expensive clothes you like – none of that has any benefit.", "Even if you wear torn clothes, if you have taqwā, you are the most beautiful person in the presence of Allah.", "The most important wear, which Allah describe in Qurʾān: libāsu t-taqwā. Taqwā, meaning to fear from Allah, to know yourself, to know what is going on around you."]
 edited_at: 2026-05-10

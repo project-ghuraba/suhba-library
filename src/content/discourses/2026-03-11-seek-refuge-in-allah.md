@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawakkul", "Iman", "Akhirah", "Qadar", "Dunya"]
 quotes_verified: ["Who is with Allah doesn't worry. We came from Allah, to Allah we'll return. Nothing else.", "As much rizq as Allah gives us, wherever it is, that's with His permission. Our duty is to trust Him and to keep on serving in our work, our worship, our family, our environment and people.", "The most important thing is to seek refuge in Allah, to rely on Allah. What we must do is trust in Him. It is one of the conditions of īmān. \"Khayruhu wa-sharruhu min Allahu Ta‘ālā\". Everything is from Allah. We must believe that both goodness and badness is from Allah. We will be rewarded then.", "Don't hope to have comfort in this world. Your hope should be ākhirah. Then Allah will give you comfort here and hereafter."]
 edited_at: 2026-05-16

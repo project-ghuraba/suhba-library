@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhāt", "Tafakkur", "Iman", "Ibadah", "Akhirah", "Suhbah"]
 quotes_verified: ["Don't think about the essence of Allah ʿAzza wa Jalla like how, where and what He is. Think about His creatures, and take lesson from them. Know the greatness of Allah through them, says our Prophet ṣallAllahu ‘alayhi wa-sallam.", "If people interfere in things they can't understand, they may lose their mind. Either mind, or īmān may be gone. Therefore, our Prophet ṣallAllahu ‘alayhi wa-sallam says not to think about the essence of Allah ʿAzza wa Jalla. Stop thinking about it.", "Allah knows Himself what will happen. And now it is our turn. When our time comes, we will have to meet Allah. Think about that. We should carry out His orders and perform this beautiful worship. And then we should believe in Allah and wait for the day we'll meet Him, for that is the most important day. Passing with īmān, going to ākhirah by saving our īmān is what's important."]
 edited_at: 2026-05-16

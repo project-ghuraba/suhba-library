@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Sunnah", "Suhbah", "Salat", "Jam'iyyah"]
 quotes_verified: ["Our Prophet ṣallAllahu ‘alayhi wa-sallam says, “Do not prolong when leading a prayer or delivering a Khutbah.” When there’s a congregation behind you, it’s not obvious if there’s children, sick people, or elderly people. Therefore, our Prophet ṣallAllahu ‘alayhi wa-sallam says, “Make it short without prolonging it or causing distress to others.”", "To make it easy taking in consideration their situation and not to cause them distress, our Prophet ṣallAllahu ‘alayhi wa-sallam says, even worship, do it in a way people can tolerate."]
 edited_at: 2026-05-19

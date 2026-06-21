@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Truth", "Fitnah", "Caliphate", "Leadership", "Vigilance"]
 quotes_verified: ["There are many things that appear to be true. People, especially Muslims, give credence to them, but often what appears to be the truth is not the truth. So, Muslims are easily deceived. There is a lot of naivety and innocence in Islām. That’s why they are easily deceived.", "They destroyed the Ottoman Empire from within. How? Scholars emerged, spreading slander and lies against the sultans, deceiving people. Ultimately, they destroyed the Caliphate and Islām. How did Islām collapse? It collapsed because there was no Caliph.", "There is one scale that needs to be considered carefully. What is it? The last Caliph who ruled was Sultān Abdul Hamīd Han. Anyone who opposes him is not acceptable. No matter how much they appear to be Muslim, patriotic, etc., none of that matters.", "Sultān Abdul Hamīd had little talk and much action. Because of that, his true value wasn’t appreciated. They followed those who were too talkative. They brought him down."]
 edited_at: 2026-05-18

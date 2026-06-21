@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Riḍā Allāh", "Īmān", "Nafs", "Suhbah", "Qanāʿah"]
 quotes_verified: ["As the ḥadīth sharīf states, whoever loves for the sake of Allah, whoever hates for the sake of Allah, whoever gives and receives for the sake of Allah, if everything one does is for the sake of Allah, then that person has īmān. May everything be for the sake of Allah.", "We see, people have become enemies of one another, they cannot stand each other. That is not a good thing. Why? Because they have forgotten the pleasure of Allah they have become engrossed in the world. They love what they love for their own ego. They hate what they hate for their own ego. They do not love what Allah loves, and they love what Allah does not love.", "A person who seeks Allah's pleasure for the sake of Allah, Allah will be pleased with them. Their life will be good."]
 edited_at: 2026-05-16

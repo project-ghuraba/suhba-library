@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Wilayat", "Istiqaama", "Dhikr", "Zuhd"]
 quotes_verified: ["Those who submit solely to the worship and command of Allah, the Almighty and Exalted, He calls 'Rijāl'. These, referred to as 'Rijāl', are the noblest among people. It is they who master their desires. Neither commerce nor diversion, nothing can turn them away from the remembrance of Allah, the Almighty and Exalted, and from His path. They are steadfast on Allah's path.", "Those who prove steadfast on Allah's path are, before Allah, those very 'Rijāl', that is, true, strong-charactered, and virtuous people. These people do not follow their desires, but have mastered them. Even if the whole world were to stray from the right path, it would leave them unaffected. They pay no heed to those who have strayed, but steadfastly continue on their way, on the path of Allah. They are Allah's beloved servants. They are Allah's Awliyā.", "Being 'Awliyā' does not mean, as many think, just being someone who performs miracles. Friendship with Allah (wilāyat) does not necessarily have to be accompanied by miracles. To remain steadfast on Allah's path, that is the greatest miracle.", "A Wali is Allah's beloved servant. If you wish to be among these beloved servants, then do not look to the world, do not concern yourself with trivialities. Follow the path of Allah, the Almighty and Exalted. Follow the path of Prophet, peace and blessings of Allah be upon him, so that you may reach Allah, the Almighty and Exalted.", "Everything in this world is transient. Nothing in this world lasts forever; eternity is only in the Hereafter."]
 edited_at: 2026-05-18

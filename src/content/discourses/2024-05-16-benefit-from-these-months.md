@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ashhuru l-Hurum", "Thawab", "Qiyamah", "Ibadah", "Taqwa", "Taqarrub"]
 quotes_verified: ["In this time, there is no humanity anymore. Not only considering the religion, they are not considering anything. Oppression has reached its peak. Everything has its time of ripening. And this world is ripe now. Akhirah and Qiyamah are approaching after this.", "To approach Allah is the greatest benefit for mankind. And the greatest harm is to be away from Allah ʿAzza wa Jalla. May Allah protect us."]
 edited_at: 2026-05-14

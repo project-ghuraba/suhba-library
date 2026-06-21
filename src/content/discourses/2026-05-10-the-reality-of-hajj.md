@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Submission", "Tawakkul", "Hajj", "Du'a", "Divine Wisdom"]
 quotes_verified: ["A person must strive and work. But success comes from Allah ʿAzza wa Jalla.", "What you perceive as good may be evil for you, not good at all. And what you perceive as evil may be good for you. Mankind does not know the wisdom of Allah or the things He has decreed. You must submit, because there is nothing you can do.", "Submission to Allah is necessary. In Islām, for Muslims, especially those in ṭarīqah, submission is crucial.", "Everything happens through duʿā. Whatever you’re going to do, start it with Basmala and duʿā.", "If you complete your Ḥajj without uttering bad words or doing anything wrong, you will have performed as much worship in that one Ḥajj as you have in your entire life. You will probably even earn more reward and thawāb than that.", "Many people go to Umrah before going to Ḥajj. We tell them not to do that; save up the money for Ḥajj first. Then, if it becomes possible, you can go to Ḥajj. If you didn’t have the opportunity, then set aside the money of Ḥajj. If you collect more, use them for Umrah. It’s fine then. Otherwise, beware not to do that!"]
 edited_at: 2026-05-11

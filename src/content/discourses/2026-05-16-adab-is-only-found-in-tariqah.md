@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Tariqah", "Sunnah", "Suhba"]
 quotes_verified: ["Those who follow the way of Allah ʿAzza wa Jalla and our Prophet ṣallAllāhu ʿalayhi wa-sallam, the way of ṭarīqah, become good people and form a beautiful community. That way is the way of Adab (good manners).", "In the past, Adab was taught everywhere; in schools, and outside. Now, they teach lack of Adab and indecency.", "On this beautiful way, not only worship but also conduct is important. If actions, behaviors and states conform to the Sunnah of our Prophet ṣallAllāhu ʿalayhi wa-sallam, then there will be beauty among people, and Allah ʿAzza wa Jalla will reward them. They will receive merit and reward.", "The people of this time have a completely different state. Those old people are gone. In the past, there was respect, affection, and kinship. Now, nobody is aware of these values. Not only are they unaware, but they do the exact opposite. That’s why there is no peace. There is no affection among people. A bad way of life emerges."]
 edited_at: 2026-05-16

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Sayyi'at", "Rahmah", "Taklif", "Hidayah"]
 quotes_verified: ["Doing good and staying away from evil is a duty for a believer, for the people of ṭarīqah. Avoiding sin and all kinds of evil is also meritorious; it is something that Allah loves. Allah’s mercy is bestowed upon that person.", "Whoever is protected from evil attains Allah’s mercy. That mercy is the most precious thing for people. It is precious, but people don’t know its value. They have no idea what is precious, what is good, what is bad. In these times, they know the bad as good and the good as bad.", "We must pay attention to this. Even if you cannot do much good, at least stay away from evil, do not do evil. Even if you cannot fulfil Allah’s commands, at least obey His command to “stay away from evil.”"]
 edited_at: 2026-05-18

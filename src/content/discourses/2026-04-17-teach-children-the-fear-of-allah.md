@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Taqwa", "Hikmah", "Tarbiya", "Akhlaq"]
 quotes_verified: ["The pinnacle of everything is fear of Allah. The head of every good deed, every intelligent act, is the fear of Allah. Sayyidinā ʿAli karrama Allahu wajhahu says this is the head of all good things.", "What is wisdom? It is the highest thing in Islām, in humanity. Wisdom means being intelligent, using one’s mind for good. When this is not taught, mankind loses its humanity and becomes worse than animals.", "Fearing Allah is the highest goodness. One who fears Allah will not harm or torment anyone. They will only do good. But those who do not fear Allah: we see their situation clearly in front of us. People are devouring each other. This is being done everywhere.", "They say, “Don’t fear Allah.” That’s what they teach. That’s the new learning system. Therefore, the question of why children are like this is clear.", "You teach them (children) from morning till night. What do you teach? Useless things, bad things. “Do whatever Europe says. Don’t believe in Allah ʿAzza wa Jalla. Don’t believe in the Prophet at all. Don’t respect the Awliyā. Don’t look at good people as good.” That’s what they teach.", "Allah has entrusted them (children) to you; teach them well so that it will be beneficial. It will benefit you, them, and humanity. That is what it means to fear Allah ."]
 edited_at: 2026-05-15

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hamd", "Shukr", "Iman", "Suhbah", "Adab"]
 quotes_verified: ["We must give thanks. We must thank everyone. But there are some things that are exclusively due to Allah ʿAzza wa Jalla: praise is due to Him.", "Among the names of our Prophet ṣallAllāhu ʿalayhi wa-sallam, are names like Muḥammad, Aḥmad, Ḥāmid, and Maḥmūd which are used to praise him as his rank is high. The name of our Prophet ṣallAllāhu ʿalayhi wa-sallam is also put alongside His, praising him and glorifying him : La ilāha illa Allah Muḥammadun Rasulullah.", "You should praise Him in everything; for goodness and badness. When one gives thanks, one shows gratitude to Allah. One shows obedience to Allah. Through this, blessings multiply, and one is rewarded even more abundantly.", "Whatever befalls you, whether good, or bad according to your perception, to praise Allah will benefit you. If it is good, it is good. If you endure even what you perceive as bad and praise Allah, Allah will raise your rank and give you your reward. That hardship will disappear, inshā’Allāh."]
 edited_at: 2026-06-19

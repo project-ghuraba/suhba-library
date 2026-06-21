@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawbah", "Divine Love", "Forgiveness", "Sincerity", "Major Sins", "Spiritual Test"]
 quotes_verified: ["The best is tawbah naṣūḥ, to repent with sincerity, not to return to the sin ever again and never do it. That is the best. This is the highest level of it, the best of repentance.", "Allah loves those who repent. Whatever one does, if he knows he sinned and repents of it, he will be the recipient of Allah's love and his sins will be forgiven.", "Allah loves people who repent and those who are clean. The door of repentance is open till the sun rises from the place of sunset (West) and sets in the place of sunrise (East)."]
 edited_at: 2026-05-10

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Life Purpose", "Ibadah", "Salat", "Khushu'", "Waswasah", "Facilitation"]
 quotes_verified: ["Our lives and our deaths are for the sake of Allah. We must act accordingly. Man was not created for this world. He was created for the sake of Allah.", "Our Prophet ṣallAllahu ‘alayhi wa-sallam said to his Companions in his time, “If you don’t perform it 100%, your prayers are not accepted, your worship is not accepted.” He meant 100%, without even a shortcoming. He said that in the end times, even if people perform just one percent of it, their worship will be accepted.", "Now, there are many people, including imāms and Ḥajjis, who, while trying to do good, don’t know what they’re doing or saying, but are striving to turn people away from religion. They stand in the mosques, watch how people pray, and then object to them. After that, once or twice, the person doesn’t come to the mosque anymore. The third time, he won’t even pray at home. They’re doing a terrible thing."]
 edited_at: 2026-05-18

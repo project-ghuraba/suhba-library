@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iftar", "Sawm", "Nafs", "Ākhirah"]
 quotes_verified: ["Generosity is one of the Holy attributes of Allah ʿAzza wa Jalla. It’s not that He will take from him and give to the other; Allah ʿAzza wa Jalla gives from His own bounty.", "The beauty of fasting; those who don’t fast don’t know it. They don’t experience or taste it.", "our Prophet ṣallAllahu ‘alayhi wa-sallam said, in the sight of Allah ʿAzza wa Jalla, he who fasts has two joys. When breaking the fast, everyone who’s fasting feels great joy, peace, and beauty. And the second is the reward given for it in ākhirah; that is the main one and it’s in ākhirah.", "A person who fasts is a lucky person. They haven’t been deceived by shayṭān, they haven’t obeyed their egos. The more they go against shayṭān and their egos, the better it is for them. When they follow them, they become their slaves, wandering around aimlessly.", "Your ego must obey you. Shayṭān must stay far away from you. That’s how it should be. If you do so, you will attain happiness and bliss both in this world and in the hereafter.", "The acts of worship and good deeds performed in this world greatly benefit and strengthen a person. They bring all kinds of goodness. Therefore, we should accept the blessings that Allah ʿAzza wa Jalla has bestowed upon us, and may we do them with joy, inshā’Allah."]
 edited_at: 2026-05-18

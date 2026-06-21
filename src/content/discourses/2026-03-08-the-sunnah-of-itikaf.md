@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["I'tikaf", "Sunnah", "Ramadan", "Niyyah", "Ibadah"]
 quotes_verified: ["Some people don’t have sahūr. Our Prophet ṣallAllahu ‘alayhi wa-sallam said to have sahūr. Even if you get up and drink a sip of water, it counts as sahūr. That’s also important. It’s not about having a feast to be considered sahūr. You can do so if you want, or you can just take a bite and a sip of water. That also counts as sahūr."]
 edited_at: 2026-05-17

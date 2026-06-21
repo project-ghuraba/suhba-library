@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ramadan", "Siyam", "Taqwa", "Jannah", "Nafs", "Ni'mah"]
 quotes_verified: ["Fasting is a necessary worship for people. It is a duty. When you do it, your spirituality increases and your body is cleansed. That is necessary.", "Ramaḍān is a holy month, not only in this world, but also in Paradise. When Ramaḍān comes, Paradise is decorated. It is different than it was the year before. Allah ‘Azza wa Jalla gives it a different, more beautiful decoration. A nice wind from under the Throne blows in Paradise. A sound like it is impossible to hear anywhere in the world. Angels and Ḥūrīs in Paradise become very happy.", "When people give something, they fear they will have less if they give more. When Allah ‘Azza wa Jalla gives, He gives tenfold, hundredfold, thousandfold. The treasures of Allah ‘Azza wa Jalla have no end."]
 edited_at: 2026-05-12

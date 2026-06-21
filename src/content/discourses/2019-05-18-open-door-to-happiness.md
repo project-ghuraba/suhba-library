@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhikr", "Suhba", "Sunnah", "Akhir Zaman", "Sakinah", "Guidance"]
 quotes_verified: ["Satisfaction and peace of heart come with dhikr of Allah, through remembering Him.", "People are always without peace, wondering what will happen to them. They have found themselves in this world and don't know what to do. However, Allah ‘Azza wa Jalla has shown them the right way and said, \"Do this and find peace. Reach satisfaction and let your heart be content and peaceful.\" Attend these beautiful assemblies. Make ṣalāt wa-salām to our Prophet. Read Qur’ān Karīm. Read Dalā’il al-Khayrāt and ṣalawāt. Take example from the beautiful aḥādīth and life of our Prophet.", "Most important is to be with good people, with people on the good way, and that is ṭarīqah, with permission of Allah."]
 edited_at: 2026-05-17

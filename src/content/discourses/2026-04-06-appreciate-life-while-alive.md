@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hayat", "Akhirah", "Dhikr", "Lahw", "Amal Salih"]
 quotes_verified: ["Mawlānā Shaykh Nāẓim used to say that one must appreciate life while alive. Uttering this single word, 'Lā ilāha illAllah Muḥammadun Rasūlullāh', is more beneficial for a person than lying in a grave for a thousand years. Therefore, one must appreciate life while living in this world and prepare accordingly.", "One should recite, do as many good deeds and acts of charity as possible for the hereafter. There is no deed after the grave, after the hereafter. Only if one has a righteous child who will recite for them. But still, the best thing is to appreciate life while living, and not waste it.", "People now are preoccupied with many unnecessary things, many pointless pursuits. In the past, they would hang out in coffee shops, here and there. Now, they don’t go to coffee shops anymore, they sit at home all day, not going out, watching pointless things from morning till evening, from evening till morning, wasting their time.", "We must pay attention to this. Life is precious. Our time is precious. Wasting it on pointless things is a great loss. It’s not wise to throw away precious jewels and deal with useless garbage."]
 edited_at: 2026-05-15

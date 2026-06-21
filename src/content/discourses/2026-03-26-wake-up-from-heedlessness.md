@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ghaflah", "Qiyamah", "Nafs", "Accountability", "Vigilance"]
 quotes_verified: ["Nobody wants advice. In the past, people wanted advice. Now, people don’t want advice at all; they chase after what they think is good according to their own minds. And what they consider good is only good for their ego. And what is good for the ego is not good for you.", "When one closes their eyes, they will wake up on the Day of Judgment. Whatever they did, whatever they accomplished, their qiyāmah and judgement will come then.", "A Muslim must be vigilant. Not for this world, but for the hereafter. He must protect his hereafter. No one should deceive him so that he doesn’t fall into sin, so that he doesn’t infringe on the rights of others; he must be vigilant.", "Heedlessness is not good. There is an accounting. You will be questioned. We say it again, what’s with Allah ʿAzza wa Jalla: Allah forgives it if you seek forgiveness. If you have infringed on someone’s right it is only acceptable if that person forgives you. If they don’t, you’re doomed. May Allah protect us.", "Life is short. No matter how long you live, in the end, your whole life will seem like just one day. Therefore, do not be heedless. Do not harm anyone. Do not infringe on anyone’s rights."]
 edited_at: 2026-05-16

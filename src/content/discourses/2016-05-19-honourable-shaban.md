@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Shaʿbān", "Salawat", "Tawbah", "Baraka", "Ummah"]
 quotes_verified: ["The more salawat you make, Allah both forgives your sins and raises your station, and He gives you blessings (baraka).", "Allah is the most generous of the generous. He does not leave anybody unrewarded for even the slightest good done. He is unlike anybody and everything is in His hands.", "No matter how hard it may be, no matter how much evil you have done, salawat is even better than asking for forgiveness (istighfar). Our Holy Prophet says, “For the person who makes one salawat on me, Allah makes ten times, 100 times, and 700 times (upon that person).”", "This nation is a lucky nation: it is the nation of End Times. Even the Prophets would wish to be an individual from the nation of our Holy Prophet, and would give good tidings regarding his coming.", "Prophets are not regular people. Because they knew what an advantage it would be, they did not even find their prophecy so valuable. For them it is more virtuous to be from the nation of our Holy Prophet."]
 edited_at: 2026-05-18

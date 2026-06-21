@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ramaḍān", "Ghazwah", "Ahlul Bayt", "Islām", "Barakah", "Mahdi", "Suhbah"]
 quotes_verified: ["When Sayyidinā Hasan and Sayyidinā Husayn would arrive, our Prophet ṣallAllahu ‘alayhi wa-sallam would come down from the pulpit, laugh with them, and carry them on his back up the pulpit.", "Wherever our Prophet ṣallAllahu ‘alayhi wa-sallam went, his soldiers brought enlightenment, light, īmān, beauty, and humanity. They brought all kinds of goodness.", "Wherever Islām goes, it arrives with mercy. There is no oppression. Wherever Islām is, wherever true Islām is, there is no oppression. There are Muslim countries, but they are not true Muslims, that’s why it is like that. Whereas true Islām is the way of our Prophet ṣallAllahu ‘alayhi wa-sallam, and all those who came after him up to the last caliphs. They all acted according to the rulings, commands and principles of Islām, according to what our Prophet ṣallAllahu ‘alayhi wa-sallam said.", "Wherever a true Muslim goes, there is barakah, peace and beauty."]
 edited_at: 2026-05-17

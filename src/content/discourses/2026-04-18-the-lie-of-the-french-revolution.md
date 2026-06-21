@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Nafs", "Khilafah", "Mahdi", "Fitna", "Zulm", "Suhbah"]
 quotes_verified: ["This is fashion. They make people wear rubbish yet people are happy, “This comes from a famous man in fashion. It comes from a famous fashion house.” So, they are cheating people like this. They are cheating them by making people laugh at each other.", "The French Revolution didn’t finish in the world. Bad actions are still going and going on; not stopping. This will only stop with Sayyidina Al-Mahdi ʿalayhi s-salām. All this oppression you see in the world is from the revolution in France. They destroyed all kings, all sultans; especially the Caliph of Prophet ṣallAllahu ʿalayhi wa-sallam.", "They say we make elections. And in elections they can do what they like. They can bring anyone they like. And they can throw out anyone they like. It is a big play going on. But this is not forever. There will be an end for this also with Sayyidina Al-Mahdi ʿalayhi s-salām, inshā’Allah."]
 edited_at: 2026-05-15

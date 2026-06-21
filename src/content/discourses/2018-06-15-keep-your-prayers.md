@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Salat", "Shawwal", "Dhikr", "Fitnah", "Istiqamah"]
 quotes_verified: ["They want to destroy Islām. The ones who want to destroy it call themselves Muslim. They cause the greatest damage to Islām. They do not bother with non-Muslims. They bother with Muslims. It is a great fitnah. May Allah help us, inshāAllah. Everything has an end. It is their time. InshāAllah, their time will also be over.", "Islām, true Islām, will prevail again. This time around, as Allah promised our Holy Prophet, the whole world will become Muslim. There will not be a place left that is not Muslim. And these people of fitnah will either be reformed or they will go away from this world.", "These are hard days, but they are days of exchange – the more you are on the right way, the more Allah ‘Azza wa Jalla looks upon you with His gaze of grace and the more He loves you. When Allah loves you, you do not want anything else.", "Always remember Allah. Make dhikr of Allah. Anyway, making dhikr means remembering Allah. Let Allah always be with you so everything will be easy for you. Everything is hard for the person who is not with Allah.", "Don't say, \"We prayed in Ramaḍān. No need for the rest.\" Maintain the prayer. Offer your prayers. Do not neglect them. Do not go anywhere without praying. Make sure to pray. So do not show resistance. The one who does not know how to pray can learn slowly. But those who know should certainly not neglect it."]
 edited_at: 2026-06-15

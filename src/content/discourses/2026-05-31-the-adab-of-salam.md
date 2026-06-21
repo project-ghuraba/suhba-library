@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Salām", "Sunnah", "Farḍ", "Riḍwan Allah", "Ikhlaq"]
 quotes_verified: ["Our Holy Prophet ṣallAllāhu ʿalayhi wa-sallam says, the best deed in the sight of Allah is giving happiness in believers’ hearts, giving joy and peace.", "When a believer sees another believer and smiles, his heart finds peace. When he meets him with a smile and asks about him, a person is pleased with it. He attains Allah’s pleasure with it. He earns His pleasure. It is not a difficult thing actually.", "Giving salām is sunnah. And accepting it is farḍ. When someone says salāmu ʿalaykum to you, he makes sunnah. And if you don’t say wa ʿalaykum salām back, you skip making farḍ. There is an account for it in the sight of Allah. And when you are accounted, you feel troubled.", "Unfortunately, there are some people who live by as Muslims and don’t love Ahlu s-Sunnah, don’t love the people of ṭarīqah. Their faces are always frowning. Their eyebrows frown. They are not good people, they are not loved by our Holy Prophet ṣallAllāhu ʿalayhi wa-sallam. Those people don’t reply to the salām. They make people run from them. They neither reply, nor give salām to others. May Allah protect us from such people.", "May we always smile at Muslims; without scaring them. If you can help them then do so. If you can’t, your smille is enough. Smiling at them is enough for them."]
 edited_at: 2026-06-07

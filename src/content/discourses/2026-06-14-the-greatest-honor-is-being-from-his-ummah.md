@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ummah", "Shafa'ah", "Rahmah", "Shukr"]
 quotes_verified: ["Allah has forgiven those from the Ummah of our Prophet ṣallAllāhu ʿalayhi wa-sallam who committed wrongdoings unintentionally, mistakenly, or under duress. This was not the case with other nations. This is a favor bestowed upon our Prophet ṣallAllāhu ʿalayhi wa-sallam.", "You are not written sin for forgetting something. You are not written sin for things done under duress. Because in the past and in the present, there have been many things done under duress that are contrary to religion.", "Even though it is not very visible today, especially after the Ottoman era, there were a lot of evils done under duress everywhere; Allah has forgiven those who were forced to do them. Because these were done unwillingly. However, those who did it willingly will certainly be held accountable.", "Our greatest desire, inshā’Allāh, is to attain the intercession of our Prophet ṣallAllāhu ʿalayhi wa-sallam. This, by the permission of Allah, is only granted to those who ask for it. If you say, “My worship is sufficient,” and do not seek his intercession, you will fall into a great error. May Allah protect us; your situation in the Hereafter will be very difficult."]
 edited_at: 2026-06-14

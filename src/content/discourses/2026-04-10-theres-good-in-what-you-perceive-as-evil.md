@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Qadar", "Tawbah", "Hikmah", "Tawakkul", "Suhba", "Shaytan"]
 quotes_verified: ["Shayṭān deceives people. Evil is inherently evil, but in this world, there are many evil things that appear good. There are shayṭāns in dunyā, even human shayṭāns who are worse than shayṭān. They take on all sorts of forms. They can deceive all kinds of people.", "Allah ʿAzza wa Jalla makes the state of this world as a means to test people.", "Some people rebel against the decree of Allah; Ḥāshā (far from it). They rebel knowingly or unknowingly. They say, “How is this happening?” Ḥāshā! “How does Allah ʿAzza wa Jalla allow this?” If He didn’t allow it, nothing would happen without His permission.", "Allah knows what is happening. Ḥāshā, are you going to teach Allah ʿAzza wa Jalla! Repent and seek forgiveness. Repent and seek forgiveness. Some people not only think this in their hearts but also say it directly with their mouths; there are many fools and mindless people who do so.", "They say, “We are rebelling.” To whom are you going to rebel? Do you have anywhere to escape from the command and presence of Allah ʿAzza wa Jalla?", "Allah does everything in the best way. Don’t be sad, don’t worry. Don’t listen to those who talk too much. See the truth. The truth is what Allah wants. Allah ʿAzza wa Jalla is the one who does everything, and He does everything in the best way. There is no questioning of what He does. He cannot be questioned!", "Everything has a purpose. For those who are upon Islām, the outcome of everything is good."]
 edited_at: 2026-05-15

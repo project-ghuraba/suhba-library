@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Shukr", "Ni'mah", "Sadaqah", "Duha", "Iman", "Shafa'ah"]
 quotes_verified: ["We must be grateful for what Allah has bestowed upon us. Allah ʿAzza wa Jalla says that blessings increase with gratitude. Nowadays, people don’t have much gratitude left. It would be accurate to say there’s no gratitude at all.", "Blessings increase with gratitude. What is a blessing? A blessing is the gift Allah gives. There’s no limit to the blessings He has given you.", "We must not forget that shukr is a daily sadaqah for these blessings given to us. As we said, even those without money should show a smiling face to their brothers. People should do good deeds and help others. Even if they don’t do much else, at least performing the two rak’ahs of the Duha prayer each day is considered sadaqah for the whole day."]
 edited_at: 2026-05-16

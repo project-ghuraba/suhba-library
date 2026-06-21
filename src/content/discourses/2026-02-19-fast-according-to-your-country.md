@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ramadan", "Ru'yah al-Hilal", "Fiqh", "Jam'iyyah"]
 quotes_verified: ["Everyone must start Ramaḍān according to their own country. They should break their fast and celebrate Eid accordingly. Here, since our day was different, we are subject to the rules of our country; there’s no problem with that.", "Our Prophet ṣallAllahu ‘alayhi wa-sallam says, “Fast when you see it (the new moon) and break your fast when you see it, and if the weather is cloudy treat Sha‘bān as having thirty days.”", "But if a person is in another country, they fast according to that country. They must fast with the congregation. Fasting alone or breaking the fast alone is not good."]
 edited_at: 2026-05-18

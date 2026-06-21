@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhikr", "Muraqabah", "Amal", "Akhira"]
 quotes_verified: ["We are always under the power of Allah ʿAzza wa Jalla. There is nothing He does not know.", "A person who is careful is a wise person. A wise person is the one who thinks about the outcome of their actions. A person who doesn’t do this, who doesn’t think about the hereafter, is foolish. A person must constantly strive and work hard so that his end will be good.", "The motto of our ṭarīqah is: 'Allah hādiri, Allah nādhiri, Allah shāhidi,' 'Allah is present with me, Allah sees what I do, Allah is my Witness.' This is what it means to be in the remembrance of Allah every minute; it means to remember Allah, to be with Allah. May Allah never remove this from our hearts, inshā’Allah."]
 edited_at: 2026-05-15

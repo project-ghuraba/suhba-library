@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dreams", "Tafsir", "Divine Wisdom", "Spiritual Protection", "Shaytan"]
 quotes_verified: ["If you don’t tell someone about them saying, “I had a scary dream,” nothing happens; they’ll have no effect. But if you tell an irrelevant person about them, and they try to interpret and explain what they mean, may Allah protect us, if they interpret them badly, it usually turns out to be bad.", "If you saw a dream, good or bad, don’t tell everyone, especially, to someone who doesn’t know. If you’re going to tell someone, tell it first to someone who interprets them well, so that they can be a means to goodness. Otherwise, you’ll get into unnecessary trouble.", "You shouldn’t tell everyone everything. And especially in this matter of dreams. “I had scary dreams,” don’t be afraid. With Allah’s permission, if you don’t interpret it badly and you don’t tell anyone, nothing will happen. Or, if you wake up after you see that dream, recite a verse, a surah, or the Fātiḥah, with Allah’s permission, it won’t cause any harm.", "May Allah make the dreams we see a means for goodness. They are a secret of Allah ʿAzza wa Jalla that Allah ‘Azza wa Jalla shows people His power through. Those dreams are His secrets.", "Some people are investigating how a dream occurs, what happens. Of course, there are several kinds of dreams. Some happen due to the influence of what you did yesterday. Then there are shayṭāni dreams, and there are the rahmāni (divinely) dreams. These are the kinds of dreams, in summary."]
 edited_at: 2026-05-20

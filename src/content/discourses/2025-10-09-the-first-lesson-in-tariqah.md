@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ṭarīqah", "Adab", "Nafs", "Sunnah"]
 quotes_verified: ["Mawlānā Shaykh ‘Abdullāh ad-Dāghestānī used to tell Mawlānā Shaykh Nāẓim to write down his suhbas. The first lesson in ṭarīqah is: “At-ṭarīqah kulluhā ādāb.” Ṭarīqah is based upon adab (good manners).", "A person who doesn’t behave with adab should not say, “I am from ṭarīqah.” You are like an ordinary person from the street. So, those who do not respect others, do not respect their elders, do not show kindness to their relatives, do not show kindness to their neighbours are not considered from ṭarīqah.", "Ṭarīqah, as we said, is adab. It is based upon good manners. In terms of adab, our Prophet ṣallAllahu ‘alayhi wa-sallam is the greatest example. The most perfect of all people’s adab is our Prophet ṣallAllahu ‘alayhi wa-sallam’s. The people of ṭarīqah must follow him and go on his way.", "Ṭarīqah is to emulate our Prophet ṣallAllahu ‘alayhi wa-sallam’s perfect character and to imitate him. May Allah help us. Because the people of ṭarīqah everywhere cannot control their ego. They do whatever their ego desires. They are people who follow whatever their ego wants.", "What is ṭarīqah like? Ṭarīqah disciplines. You must discipline your ego. The disciplined ego will make you rise to the highest ranks then. There is no other way; you will not get anywhere by shouting, screaming, or being rude. Not only will you fail to advance but you will regress.", "They ask, “What should we do in ṭarīqah?” Ṭarīqah is to have adab. That most important thing is to preserve your manners. Knowing what you have done, what you have acted, and what you have spoken."]
 edited_at: 2026-05-19

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Asmaul Husna", "Ism-ul Azam", "Dhikr", "Du'a", "Barakah"]
 quotes_verified: ["'Whoever recites or memorizes the names of Allah ʿAzza wa Jalla will enter Paradise,' says our Prophet ṣallAllahu ʿalayhi wa-sallam.", "Our Prophet ṣallAllahu ʿalayhi wa-sallam was given 99 names. One of them is Ism-ul ‘Azam, the Greatest Name. It is a secret. The du’ā of a person who attains that secret is answered; his du’ā - that is accepted. Of course, it is only granted to whomever Allah permits; it is not granted upon everyone.", "Allah ʿAzza wa Jalla has bestowed its barakah and special qualities upon certain people. And those who possess it, of course, do not deviate from Allah’s pleasure. The person who carries the Greatest Name fulfills its right."]
 edited_at: 2026-05-15

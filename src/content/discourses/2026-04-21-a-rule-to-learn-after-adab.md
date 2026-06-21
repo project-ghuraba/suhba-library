@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Tasleem", "Islam", "Ego", "Truth"]
 quotes_verified: ["This is the first thing our ṭarīqah people must learn after Adab. Whatever happens, this is what Allah chose for us. And it is the best thing. Of course, it is just easy to say it like this, but to be acting upon this saying is not easy but difficult.", "Islām is the religion of Allah. And the religion, of course, of all prophets, all prophets are in Islām. Of course, they say Jewish, they say Christian, they say other things; but the real religion is Islām. Islām means to accept what Allah ʿAzza wa Jalla says."]
 edited_at: 2026-05-15

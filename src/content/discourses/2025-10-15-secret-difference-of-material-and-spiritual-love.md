@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Mahabbah", "Suhbah", "Awliya", "Tawhid", "Perfection"]
 quotes_verified: ["Prophet ṣallAllahu ‘alayhi wa-sallam says, when you see somebody who reminds you of Allah ʿAzza wa Jalla, you must be happy.", "When we see believers, lovers of Allah, lovers of Prophet ṣallAllahu ‘alayhi wa-sallam, lovers of awliyā’ullāh, and they are happy, we are happy also.", "Real love is for Allah ʿAzza wa Jalla, and for people who love Allah ʿAzza wa Jalla. This love doesn’t finish. It’s growing and growing and growing forever, inshāAllah.", "AllahʿAzza wa Jalla is Great; nothing compares to Him. For this, the love of Allah doesn’t get less, it gets more. The love for Prophet ṣallAllahu ‘alayhi wa-sallam gets more and more every day also. This love for mashāyikh, Ṣaḥābah, Ahlu l-Bayt, becomes more and more because they are perfect people, good people. And this is the secret of the [difference between] material love and spiritual love; why one goes on forever, and the other cannot go forever. Alḥamdulillāh, our love, inshāAllah, is forever."]
 edited_at: 2026-05-19

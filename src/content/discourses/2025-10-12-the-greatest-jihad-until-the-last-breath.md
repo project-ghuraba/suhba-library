@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Jihad Al Akbar", "Nafs", "Shaytan", "Iman", "Steadfastness", "Victory"]
 quotes_verified: ["He who is with Allah and obeys the command of Allah is always victorious; victory belongs to Him. No harm will come to him. Indeed, the promise of Allah ʿAzza wa Jalla is true.", "People are impatient and want everything immediately. Whatever Allah decrees will happen. Victory is in preserving our īmān. That is the most important thing. It is in not being defeated by shayṭān, not being defeated by our ego. If you are defeated by them, you have lost. If you defeat them, you have won. You have achieved victory.", "A person is always in a war with his ego and shayṭān. It is the greater jihad. You cannot say, “I have won it,” and then leave it. How is that? If you stray from the way of Allah ʿAzza wa Jalla and say, “Okay, I have won, I have won the war. I have defeated my ego. I have defeated shayṭān,” then in that moment, that means you have lost. It means you have lost everything. That is why, it is called the greater jihad, because it lasts a lifetime. Our Prophet ṣallAllahu ‘alayhi wa-sallam called it “Jihād ul-Akbar”, “The Greatest Jihad.” That is the great jihad, the great war. We are in this war until our last breath."]
 edited_at: 2026-05-19

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hifz al-Lisan", "Muraqabah", "Tawbah", "Akhlaq"]
 quotes_verified: ["Silence is more virtuous, it is better. It is better to remain silent than to speak bad. People today are the complete opposite. If you don’t speak, they say, “This man doesn’t know how to speak” or “He bores people.”", "Sin is a heavy weight upon a person.", "Repentance is possible, but once it comes out of one’s mouth, one cannot take it back. You might apologize, but once it’s out in the open, it’s unclear how many people you will have to apologize to. Therefore, our Prophet ṣallAllāhu ʿalayhi wa-sallam’s advice is to always understand what one is saying when speaking.", "Goodness brings goodness, and evil brings evil; nothing else at all.", "Nowadays, people understand everything in reverse. They do the exact opposite; the complete opposite of good.", "When you speak, may we speak what Allah and our Prophet ṣallAllāhu ʿalayhi wa-sallam want, inshā’Allāh. May Allah not let us utter bad things from our mouths. May He not let us utter things that we will regret, inshā’Allāh. May He not let us utter things that will harm anyone, inshā’Allāh."]
 edited_at: 2026-05-21

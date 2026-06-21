@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Suhbah", "Nafs", "Tariqah", "Murshid"]
 quotes_verified: ["Faithful loyalty is a part of ṭarīqah adab. When you have connected yourself to a shaykh, then follow him for the sake of Allah, so that he may take you to the right path. So you should not follow your ego. Either follow your shaykh or your ego.", "When the shaykh does something that your ego does not like, then not obeying him and saying you are such and such is not appropriate. If you do not like it, then just leave. The guide does not hold you there. When your ego likes it, you are fine with it and stay; when your ego does not like it, you run away. This is a sign that a person is following his ego. May Allah protect us from that. May He not let us follow our ego."]
 edited_at: 2026-06-10

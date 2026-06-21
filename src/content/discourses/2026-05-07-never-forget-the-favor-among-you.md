@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Gratitude", "Murshid", "Guidance", "Thawab", "Nafs", "Adab"]
 quotes_verified: ["Do not forget kindness. Do not forget virtue. If someone among you does you a favor, do not forget it.", "Human beings, by Allah ʿAzza wa Jalla’s wisdom, have a wild nature. This wild nature needs to be cleansed and pruned, so that it becomes something beautiful.", "There is a lot of ingratitude in humankind. Only by disciplining, taming and pruning that a beautiful person emerges. That happens by following the way of the mashāyikh.", "Don’t forget whoever has done you a favor. Remember him. And the greatest favor is to follow the way of Allah and our Prophet ṣallAllāhu ʿalayhi wa-sallam. And that happens with a Murshid. Our Murshid is above our heads. Don’t forget his virtue. Sometimes people forget.", "Even if it’s just a friend, if someone invites you to a good gathering and you enter the way through them, be sure to remember it, don’t forget it.", "If you brought someone to the right way, they are not your property. Don’t harm them either. You set him on the right way, and he’s following that way. He hasn’t strayed from it. You brought him here; you didn’t buy him! He didn’t become your slave!", "If you guide two people, you will attain reward for those two people. Ten people, a thousand people, a hundred thousand people; you will attain reward and thawāb for all of them. But if you lead someone astray, if you show them the bad way and everyone does the same as you, then their sin will be on your shoulders."]
 edited_at: 2026-05-10

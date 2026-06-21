@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Shukr", "Ottoman Heritage", "Adl", "Fitnah", "Barakah"]
 quotes_verified: ["Our Prophet ṣallAllahu ‘alayhi wa-sallam says, “He who does not thank people does not thank Allah.”", "After the Ottomans’ demise, the region (Balkans) suffered much oppression and evil. Yet, shayṭān still deceives people. They don’t respect or give importance to the Ottomans. Those who don’t appreciate them are primarily the children of the Ottomans. It is shayṭān who teaches them this, who makes fitnah. Shayṭān desires nothing but evil. People see with their eyes, hear, and read. They see everywhere what happened after the Ottomans. Yet, they still denigrate the Ottomans."]
 edited_at: 2026-05-20
