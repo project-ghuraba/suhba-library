@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawbah", "Maghfirah", "Ijtinab Al-Fawahish", "Rahmah", "Akhir Al-Zaman"]
 quotes_verified: ["If those who fall into sins don’t seek forgiveness, they will fall into sin even more, it will become a habit, and they won’t be able to give it up.", "Now, because we are in the end of times, these evils have increased greatly. It has become very bad. In the past, this was very common among non-Muslims. All kinds of evil were present among them. Now, everywhere in the world, Muslims and non-Muslims consider sins normal and commit them. And as they do them, they sink deeper.", "Repentance and seeking forgiveness is a great niʿmah (favour) for us. One of the greatest favours given by Allah ʿAzza wa Jalla is: repentance and seeking forgiveness. The Door of Repentance is open to us until the sun rises from the west. His mercy is everlasting. Therefore, may Allah forgive us.", "May Allah protect us from sins. A person protected from sins attains Allah’s mercy. That mercy keeps one away from sins. If one commits a sin, and repents, Allah forgives him. May Allah make us among all the people He forgives, inshā’Allah."]
 edited_at: 2026-05-18

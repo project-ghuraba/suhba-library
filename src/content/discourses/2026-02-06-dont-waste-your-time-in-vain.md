@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Muḥāsabah", "Dhikr", "Tawbah", "Dunya", "Tazkiyah"]
 quotes_verified: ["Everything you do will be seen in the Presence of Allah ʿAzza wa Jalla. If you do good, Allah ʿAzza wa Jalla sees it and rewards you accordingly. If you do evil, there is certainly a punishment for it if you do not repent.", "These people need to think. Allah ʿAzza wa Jalla sees what we are doing. He will hold us accountable for it. People will regret it later, thinking, “I wasted so much time. If I had said “Allah,” all of this would have been profit. Otherwise, there’s no profit, only harm.”", "People don’t think about anything other than pleasure and frivolity these days. May Allah improve us all."]
 edited_at: 2026-05-18

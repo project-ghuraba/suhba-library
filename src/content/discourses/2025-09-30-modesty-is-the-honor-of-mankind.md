@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hayā", "Iman", "Adab", "Human Dignity", "Sharia", "Suhba"]
 quotes_verified: ["Without hayā (modesty), a person can do anything. Modesty is from īmān. Modesty is adab.", "Of course, there is no unlimited freedom. Unlimited freedom would then infringe upon other’s freedom. Then, chaos would ensue.", "Modesty is the honour of humanity. Modesty is what distinguishes humans from animals.", "Now, people are worse than animals. They have made all kinds of indecency and deeds permissible. After that, they torment those who are modest. They dislike them. Modesty is the honor of mankind. It is what makes a person human."]
 edited_at: 2026-05-20

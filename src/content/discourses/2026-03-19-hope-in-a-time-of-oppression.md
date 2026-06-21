@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hope", "Mahdi", "Tarīqah", "Iman", "Suhba", "Eid"]
 quotes_verified: ["Waiting is also a worship. That’s not in vain either. It also brings great reward. But, inshā’Allah, everyone wholeheartedly desires that this oppression ends and the state of the world changes. They tried every method, committed every kind of perversion. It didn’t work. Only Islām, the way of truth, will work.", "One of Eid’s benefits is for Muslims, families and brothers to forgive each other. To forgive each other for the mistakes they have made."]
 edited_at: 2026-05-16

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Truthfulness", "Akhirah", "Dunya", "Tawbah", "Iman", "Divine Wrath"]
 quotes_verified: ["Those who lie in the name of Allah ʿAzza wa Jalla and say things that Allah ʿAzza wa Jalla did not say or want, will incur Allah’s wrath and punishment. Therefore, one must be careful about these things. There are many people who sell their ākhirah for the sake of this dunyā.", "Dunyā is temporary. A person who sells his ākhirah, his eternal life, for the sake of dunyā is foolish and has no mind.", "Dunyā passes in an instant; even if one lives for a thousand years, it will still come and go. But the ākhirah is eternal. 'Abad' means eternity. There is no death after that."]
 edited_at: 2026-05-15

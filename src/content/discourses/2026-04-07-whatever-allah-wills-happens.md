@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Qadar", "As-Sabur", "Istiqamah", "Akhir az-Zaman"]
 quotes_verified: ["Our Prophet ṣallAllahu ʿalayhi wa-sallam says, “If Allah ʿAzza wa Jalla wants someone to do something unusual, He takes away their mind and makes them do it. Then the person wonders, ‘How did I do this? How did I make this mistake, how did I do this action?’”", "Since this world is not paradise, there will certainly be setbacks, good things, and bad things. These will certainly happen, as the Divine will manifests, and the days advance to the Day of Judgment.", "May Allah protect us. May Allah ʿAzza wa Jalla not allow us to do inappropriate things. May He not make us do anything we regret, inshā’Allah. May we be steadfast in good deeds, inshā’Allah. May He keep us away from evil deeds by His will, keep us steadfast on the way of truth. Because the world is temporary, and its end has come."]
 edited_at: 2026-05-15

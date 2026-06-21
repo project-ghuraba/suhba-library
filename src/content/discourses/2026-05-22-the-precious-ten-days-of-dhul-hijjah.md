@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhul Hijjah", "Arafah", "Qiyam ul-Layl", "Shafa'ah", "Adab", "Shukr"]
 quotes_verified: ["These days are blessed days; these are the days we are in now.", "Being from the ummah of our Prophet ṣallAllāhu ʿalayhi wa-sallam is the greatest honor. We must know its value. Its value is priceless. It cannot be measured by gold, silver, jewels, or anything else. But those who don’t know, don’t know.", "Some people think that Qiyāmu l-Layl means staying awake until morning. But our Prophet ṣallAllāhu ʿalayhi wa-sallam said that whoever prays two rak’ahs at night and then goes to sleep, and then wakes up for Taḥajjud, is considered as if he has prayed for the whole night.", "The love for our Prophet ṣallAllāhu ʿalayhi wa-sallam doesn’t require digging and breaking stones. Having this love in your heart is enough. Respect is enough. He will be the one to intercede for you, his intercession will be wājib for you and reach you.", "Most people don’t fully honor our Prophet with true respect. The greatest act of worship is for us to know and appreciate the honor and value of our Prophet ṣallAllāhu ʿalayhi wa-sallam. That is a blessing and favor from Allah and we must not diminish it."]
 edited_at: 2026-05-26

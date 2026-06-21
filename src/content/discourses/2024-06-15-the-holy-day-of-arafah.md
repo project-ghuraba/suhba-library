@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["'Arafah", "Bid'ah", "Murshid", "Ibadah", "Ḥajj", "Suhbah"]
 quotes_verified: ["There are normal days. And there are days with more barakah which are more beautiful and bestowed by Allah. Yawmu ʿArafah is one of the days bestowed by Allah ʿAzza wa Jalla to us.", "There are some things that while people think they are doing goodness, they are doing badness unaware of it. This is what they call bid‘ah.", "Bidʿah has two types. Bidʿah ḥasanah - good bidʿah. If people do some good things and others follows them in that, they will be written thawāb until qiyāmah. But there are bad things. If you make bad bidʿah, its sin will be same for you and those who do it. May Allah protect us.", "Everyone must follow his murshid. They must ask from scholars, pious scholars. There are many scholars who are not pious. As we said, there are many scholars who make bidʿah, mislead people for their benefit and give fatwa. Don’t be with them. But be with true people of ṭarīqah, scholars in ṭarīqah."]
 edited_at: 2026-06-15

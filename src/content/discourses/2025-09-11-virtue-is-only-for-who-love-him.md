@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hubb al-Nabi", "Fadhilah", "Shafa'ah", "Rabi' al-Awwal", "Shaytan", "Suhbah"]
 quotes_verified: ["Allah ʿAzza wa Jalla has granted our Prophet ṣallAllahu ‘alayhi wa-sallam every beauty. He has given him the most virtue. He who follows his way will attain every beauty and attain every goodness. He who loves him will gain the love of Allah. He who does not love him will be deprived and far away from the love of Allah.", "From the moment our Prophet ṣallAllahu ‘alayhi wa-sallam was born, he was calling “Ummatī”. He made every sacrifice for people to save them. Shukr to Allah, those who are from his ummah and those who love him will attain Allah’s mercy and grace.", "There are those who are on the way of Islām and are deceived by shayṭān. They do not respect our Prophet ṣallAllahu ‘alayhi wa-sallam. They do not honor him, and they are even jealous of him. May Allah protect us from the evil of shayṭān and his traps."]
 edited_at: 2026-05-21

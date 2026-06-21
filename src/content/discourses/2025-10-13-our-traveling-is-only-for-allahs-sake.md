@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Suhbah", "Tafakkur", "Hidayah", "Iman", "Dunya", "Ikhlas"]
 quotes_verified: ["One cannot think and contemplate the Essence of Allah ʿAzza wa Jalla. You should look at His creation. His Essence cannot be fathomed by anyone’s mind or imagination.", "There is a group of people who say that Allah ʿAzza wa Jalla is “in the heavens, on the earth.” Allah cannot fit into any place. Everything is created by Allah ʿAzza wa Jalla.", "But what matters wherever you go is not traveling there for the sake of tourism. Our purpose is not for touring, but for the sake of Allah. Otherwise, the world is all the same: large streets, buildings, this and that and so on.", "What matters to us and makes us happy is the joy of others, their happiness. That happiness is for the love of Allah. Gathering together on this way so that they can direct towards Allah brings them great joy. That joy also brings us joy."]
 edited_at: 2026-05-19

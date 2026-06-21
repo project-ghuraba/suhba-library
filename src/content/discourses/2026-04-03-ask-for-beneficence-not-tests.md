@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Duʿā", "Ihsan", "Balāʾ", "Awliyāʾ", "Shukr", "Ḥamd"]
 quotes_verified: ["In our duʿās, we must ask Allah ʿAzza wa Jalla for beneficence – “O Lord, do not test us! We cannot bear trials; they are not for us. Treat us not with tests, but with Your beneficence.” Beneficence is easy, it is good; and Allah loves those who bestow beneficence.", "To be among His beloved servants, we always ask for His beneficence. Beneficence means all kinds of ease, all kinds of beauty, barakah, and shifā (healing). All kinds of goodness are in beneficence. In return, you must thank Him When He bestows beneficence upon us, we will thank Allah.", "As for tests – may Allah protect us, inshā’Allah, may we not be tested. We must also praise Him for tests. Gratitude (shukr) is for beneficence, and praise (ḥamd) is for tests. Therefore, may Allah treat us all with His beneficence. May He not test us."]
 edited_at: 2026-05-15

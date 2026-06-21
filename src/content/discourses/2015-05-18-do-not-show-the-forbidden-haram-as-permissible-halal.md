@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Halal", "Haram", "Shukr", "Wasatiyyah", "Tazkiyah"]
 quotes_verified: ["Allah Jalla Jalaluh increases as you are thankful. You can use it comfortably if Allah has provided, but not by burrowing here and there and wasting.", "Eat of what halal Allah has given. Halal is halal and haram is haram. You will have committed a sin if you call a haram halal according to your own head. You can benefit from the favours given by Allah as long as they are halal.", "If you are to become a Sufi, fix your own actions and attitudes first. Do not be interested in this or that person’s possessions as a Sufi.", "People might be deceived by your Sufi appearance and trust in you. Do not betray their trust.", "Shaykh Mawlana also used to say, “Eat.” However, when you eat do not eat to fill your stomach. The Hadith Sharif says not to fill the stomach. Get up before filling your stomach.", "People also show greed, and it is not good either. Chew well and taste. Eat two pieces instead of a kilogram, but eat like a human while tasting that delicious food. Every food has a different taste. It would be good to eat your fill without going extreme.", "Everything has a limit and boundary. Neither go extreme, nor decrease completely. The middle way is the best."]
 edited_at: 2026-05-18

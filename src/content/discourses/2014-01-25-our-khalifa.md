@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Khalifa", "Suhba", "Mahdi", "Dergah", "Awliya"]
 quotes_verified: ["May Allah be pleased with you. May Allah be pleased with you. He (Shaykh Mehmet) is my Khalīfā. He is my Khalīfā. He is the Shaykh of the Naqshis. Take good care of him.", "May your strength increase, may your majesty increase. May governments fall with your majesty. O our Lord! Make these, my sons, viziers of Mahdi ʿalayhi s-salām. Give them honour for the service they are giving, ya Rabbi. For me, the father of these sons, may my weaknesses be gone."]
 edited_at: 2026-05-10

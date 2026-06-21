@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Jannah", "Dunya", "Akhirah", "Suhbah", "Iman", "Amal Salih"]
 quotes_verified: ["What is Paradise? It is what people of this time have never imagined, seen, or heard anything like. That is the state of Paradise.", "Before entering Paradise, our Prophet ṣallAllahu ‘alayhi wa-sallam said that whoever drinks from the Pool of Kawthar, nothing of the bad qualities of this world will remain within them. No jealousy, no ill will (intentions), no shamelessness, no impudence. Nothing bad remains within a person at that time. They enter Paradise, and in that state, they get along well with the people there. They do not feel any unease or discomfort from. Nothing bad happens to them. They too will live eternally in Paradise. There is no fear, no anxiety, no sorrow, no boredom. That is Paradise.", "People seek Paradise in this world. Don’t look for Paradise here. This is a place of tests. Allah can give you happiness in this world too.That happens by Allah’s decree and Allah’s grace. But no matter how much, this world cannot be compared to Paradise. It is not comparable at all.", "When a person has a wife, children, and good people in this world, that too becomes like a part of Paradise. A wife who obeys him, children who are righteous, good people who do good deeds—they are also a part of Paradise, a blessing from Allah.", "Everyone should turn to Allah ʿAzza wa Jalla. They should use these worldly things as a means to improve their ākhirah.", "If you spend time with good people, you are always in Paradise, Allah willing."]
 edited_at: 2026-05-16

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Fatiha", "Spiritual Gifts", "Shifa", "Dua", "Shukr"]
 quotes_verified: ["Allah ʿAzza wa Jalla granted many favours to our Prophet and our Prophet is giving these favours to his ummah. He is giving to those who ask.", "Allah ʿAzza wa Jalla is the most Generous. And among the creatures, no one is more generous than our Prophet. Anything he was given, our Prophet would give away.", "There is before and after it. It is such a great sūrah that our Prophet says in ḥadīth, Sūratu l-Fātiḥah is more valuable than Zabūr, Torah, Injīl and Qur’ān. It is so precious. He says if you put Qur’ān on one tray of the scale and put Sūratu l-Fātiḥah on another tray, Sūratu l- Fātiḥah will weigh seven times more.", "People in difficult conditions, whatever problems they have, if they recite it and make du‘ā’; they make du‘ā’ and recite Fātiḥah so that it is accepted. And Allah accepts it."]
 edited_at: 2026-06-10

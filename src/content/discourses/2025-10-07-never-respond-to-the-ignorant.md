@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Sunnah", "Nafs", "Shaytan", "Hikmah"]
 quotes_verified: ["Allah ʿAzza wa Jalla says to mu’mins, “When ignorant people say such mischievous things to them, they ignore them and do not engage with them. They do not give them any importance,” says Allah ʿAzza wa Jalla. This way, this principle is the principle of our Prophet ṣallAllahu ‘alayhi wa-sallam. It is something that Allah ʿAzza wa Jalla loves.", "If an ignorant person says something to you, you start responding to him. By responding to him, you give him value. He thinks “I am something,” and then he attacks you even more. The more you respond, the more he responds to you. It annoys you, and it’s of no benefit to him.", "The most important thing, the most beautiful thing, as Allah ʿAzza wa Jalla said, is not to engage with the ignorant. Speak the truth; those who accept it accept it. Those who do not, know for themselves. Allah hasn’t destined it for them.", "This is an important thing. But people today, if someone says something they immediately say, “I will respond to him, I will do something.” That’s wrong. That is not the way of our Prophet ṣallAllahu ‘alayhi wa-sallam.", "As long as you respond to an ignorant person, shayṭān is there. As long as you don’t respond, the angels defend you. Therefore, you must control your ego. You must not forget this. The more you respond to the ignorant, the more they escalate the issue, the more the shayṭāns multiply. May Allah protect us from their evil."]
 edited_at: 2026-05-19

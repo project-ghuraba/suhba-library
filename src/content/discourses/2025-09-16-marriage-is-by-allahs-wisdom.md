@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Qadar", "Zawāj", "Dunyā", "Shukr", "Tarbiyah", "Suhbah"]
 quotes_verified: ["It is a wisdom of Allah for people to meet. When Allah decrees it, He brings you together in unexpected places.", "This entire Qur’an Karīm, each sacred word of Allah ʿAzza wa Jalla contains millions of wisdoms, billions of wisdoms – Qur’ān ʿAẓīmu sh-Sha’n is filled with infinite wisdom. One of them is people’s marriages, who will they marry, how will it be, who will they have, and how will their children be. By Allah’s wisdom, He brings people together. They build a home. They must build that home for the pleasure of Allah. It becomes beautiful only if it pleases Allah, Allah willing. That is the purpose of living in this world.", "Shayṭān enters the minds of some people. They say, “I curse and disrespect my parents. Why did you bring me to this world! If you weren’t here, I wouldn’t have come to this world. I don’t want this!” That is the very essence of foolishness. Because that happened by the will of Allah ʿAzza wa Jalla.", "It’s not good to blame others or to make yourself seem like the victim. Allah created you. Allah has shown you the beautiful way. Go on that way and keep on it.", "Life is short. If you appreciate it and make it beautiful, you will be the winner in the end."]
 edited_at: 2026-05-21

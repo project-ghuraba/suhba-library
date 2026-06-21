@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Amānah", "Nafs", "Ulama", "Humility", "Dunya", "Leadership"]
 quotes_verified: ["People often want to undertake huge tasks, to do big things. They fight and compete with each other to see who will be higher. But it is difficult. It’s not an easy job to take on someone else’s trust. They are entrusted to your responsibility. To use them as tools for your own advancement without respecting their rights is both injustice and ignorance.", "Now, the whole world competes with each other in even the smallest things, saying, “Let me rise.” They don’t care about right or wrong. They only want to rise and satisfy their own ego. And they are never satisfied. If they rise a little, they want more, and even more. No matter how much they do, mankind can never satisfy his ego.", "Those who follow their egos and run after that, throughout their lives—they are already constantly chasing after these ranks and positions, morning and evening—if they were doing so on the way of Allah , they would’ve become Awliyā’, but they wouldn’t do that.", "There are many people who waste their whole lives chasing after ranks and positions. May Allah grant them mind and understanding. May He protect them and us, and keep our minds sound."]
 edited_at: 2026-05-16

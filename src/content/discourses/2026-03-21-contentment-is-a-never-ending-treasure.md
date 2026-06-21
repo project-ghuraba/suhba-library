@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Qana'a", "Nafs", "Tawakkul", "Barakah", "Shaytan"]
 quotes_verified: ["People search for treasure, hoping to acquire money. If they find one, they want another. If they find another, they want even more. Without contentment, a person’s eyes are never satisfied. They always want more.", "This issue of greed exists in everyone during their lifetime. Therefore, it must be controlled. One must not follow his ego, because without contentment, a person is never comfortable in his life. He never finds peace. He constantly wants more. If you give one, they want two; if you give three, they want five; and so on, until no matter what you give, you can never satisfy people.", "Contentment is a beautiful thing. A contented person will not be in need of anyone, Allah willing. It is said that contentment is an inexhaustible treasure.", "Contentment means relying upon Allah. He who relies upon Him will never be empty-handed. No harm will come to him. It will not diminish, but will increase, with the permission of Allah.", "The way the world is now, everything they teach and show is designed to make people “discontent.” From the youngest to the oldest, they’re taught to be “dissatisfied.”"]
 edited_at: 2026-05-16

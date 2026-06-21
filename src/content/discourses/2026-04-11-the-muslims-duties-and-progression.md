@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Istiqamah", "Ibādah", "Jannah", "Akhlaq", "Tawfiq"]
 quotes_verified: ["What are the duties of a Muslim? To pray, to fast, to give zakāt, to get along well with people, and to be a good servant of Allah. That is the duty.", "Don’t ask, 'Did my rank rise or not?' You yourself know.", "May Allah protect us from laziness. Laziness is the disease of people today. It is the disease of the people of this time. They want to get everything without doing anything. They want to earn without working. Laziness and boredom are bad habits of this time."]
 edited_at: 2026-05-15

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dunya", "Akhira", "Tawbah", "Iman", "Istiqamah"]
 quotes_verified: ["In dunyā, evil people constantly look down on righteous people, seeing them as useless, laughing at them, mocking them. But Allah ʿAzza wa Jalla says in the Hereafter, the righteous ones will laugh at them. They will sit in Paradise, in beautiful places, and laugh. They say, who laughs last wins.", "The outcome, the end, must be good for a person so that their life is not wasted. Life passes quickly; it doesn't stop, it passes. If you focus on this or that and forget yourself, you are in loss and have gained nothing. Your life is precious. Life is valuable.", "There is still time. While you’re alive, while you’re still breathing, repenting and entering the way of Allah is the greatest gain for you. There’s nothing greater than that.", "This time is a very bad time. There’s everything to lead people astray. There’s every means. Sinning is much easier than before, and the ego is much more likely to make them sin. In olden times, even when people sinned, they would hide themselves. Now they boast and take pride in every filth they commit, every sin they commit."]
 edited_at: 2026-05-21

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Sadaqa", "Ikhlas", "Adab", "Shukr", "Minna"]
 quotes_verified: ["If it is given for the sake of Allah, then it is accepted. Therefore, there is no need to spoil it. How is it spoiled? If you say, “I gave this, I did this, I gave that.”", "Giving charity secretly is more acceptable. Sometimes it can be given openly to encourage others, but that’s not important. What’s important is not reminding others of the favor.", "Some attributes belong to Allah. Some are also bestowed upon humankind, such as generosity and beauty. They are attributes of Allah and are also found in mankind. But there are certain attributes: Pride belongs to Allah. The Possessor of Kibriya (Majesty, Pride) is Allah. You mustn’t be arrogant. If you are, it will degrade you. And favor belongs to Allah. If you remind others of a favor you’ve done to them, your deeds will not be acceptable and will be difficult."]
 edited_at: 2026-05-16

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Laylatul Qadr", "Murshid", "Iman", "Barakah", "Suhbah", "Ibadah"]
 quotes_verified: ["Allah ʿAzza wa Jalla says in Qur’ān ʿAẓīmu sh-Sha’n that nothing is meaningless. It has thousands, millions of meanings.", "Allah ʿAzza wa Jalla says, “Ask, and I will give.” So don’t be afraid.", "A person with a ṭarīqah murshid will not go astray. Those without a murshid will go astray even on the straight way.", "On Laylatu l-Qadr, a person can earn the reward of all their worship throughout their life in a single night, with the power of Allah ʿAzza wa Jalla."]
 edited_at: 2026-05-16

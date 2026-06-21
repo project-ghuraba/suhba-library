@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Eid al-Fitr", "Ibadah", "Nafs", "Barakah", "Hidayah"]
 quotes_verified: ["To go to the mosque only once in one’s life, and going also soullessly, is a great loss. A great disappointment. Nothing could be greater than that. Because when one goes to the mosque, one repents and seeks forgiveness. He remembers Allah.", "Sometimes, in the old times, the youth was different from old age. In our youth, when we saw people not fasting, we would get a little angry. Now we don’t get angry. We make duʿā to Allah. They are deprived of this. They have been deprived of this beauty.", "Without spiritual beauty, worldly beauty is useless. Even if you possessed the whole world, it would be of no benefit, no use."]
 edited_at: 2026-05-16

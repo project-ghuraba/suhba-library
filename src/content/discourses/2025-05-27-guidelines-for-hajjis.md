@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hajj", "Dhul Hijjah", "Sabr", "'Ibadah", "Dunya"]
 quotes_verified: ["Now, especially in these years, even if a person does one Ḥajj, they say, “Kiss it and put it on your head.” Indeed, it is so. Because it is very difficult to go. If Allah gives the person life, he will reach it. If He doesn’t give him, he will have already passed away until his turn comes. But if he has the intention, then Allah will accept his Ḥajj according to his intention.", "Ḥajj is hardship. It is a worship that has hardship. It’s not an easy worship. No matter how much you do, if you do the most luxurious things, there will still be hardship. That hardship is also a benefit for the believer. It is a reward and thawāb for the believer.", "Who goes to Ḥajj should be patient. How happy is he who perform his Ḥajj minding his own business without causing any harm to others and goes back! It would be very beautiful. Because Allah ʿAzza wa Jalla says, do not fight, do not argue during Ḥajj. There are many of such things.", "When you are in Ḥajj and not in dunyā don’t keep saying, “This political party, this man did this. This one did that.” Leave them! That is not your duty. You are the one in Ḥajj. Stand firm. Forget dunyā. Forget dunyā and look at where you are!", "Don’t sit in the hotel room saying, “We paid a lot for this hotel. The hotel is right there with the Kaʿbah. We follow with the imām from the hotel room.”"]
 edited_at: 2026-05-27

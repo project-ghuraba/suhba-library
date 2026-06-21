@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hikmah", "Adab", "Dawah", "Sabr"]
 quotes_verified: ["Allah ʿAzza wa Jalla is saying when a man wants to speak, he must speak by thinking. If there are people you don’t like, or if there are people who worship idols apart from Allah, do not swear at their idols. Because they are ignorant, and they will swear at Allah ʿAzza wa Jalla then.", "Don’t let anyone come against Allah ʿAzza wa Jalla. Treat them with wisdom. Speak with wisdom. Certainly, while trying to teach Islam and defend Islam, you may do even worse.", "Telling useless things doesn’t bring any benefit. Speaking without wisdom doesn’t bring benefit. Also speaking without knowing doesn’t bring benefit. Allah ʿAzza wa Jalla puts people to the test from all sides. So don’t fail this test"]
 edited_at: 2026-05-17

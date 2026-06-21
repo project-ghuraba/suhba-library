@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Sukut", "Sunnah", "Akhir Zaman", "Mahdi", "Adab"]
 quotes_verified: ["Our Prophet ṣallAllahu ‘alayhi wa-sallam says, “Whoever believes should speak good or remain silent.” If a person is not going to speak good, then silence is better.", "People should always be aware of what they are saying. Are they saying good or evil, bad or good? They must know that.", "The way of our Prophet ṣallAllahu ‘alayhi wa-sallam is the good way. What he taught is good for humanity. Not just for Muslims, but for all of humanity.", "People must learn from our Prophet ṣallAllahu ‘alayhi wa-sallam what they should do. Those who want goodness and beauty in the world should follow that way. All other ways lead to loss and are never good.", "Not everything that is seen is true, not everything that is said is true. Therefore, it’s best not to worry or tire yourself about anything. Whatever you do, do what our Prophet ṣallAllahu ‘alayhi wa-sallam said."]
 edited_at: 2026-05-17

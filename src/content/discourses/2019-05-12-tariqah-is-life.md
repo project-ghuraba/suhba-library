@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tariqah", "Suhbah", "Adab", "Murshid", "Nafs", "Waswasah", "Divine Pleasure"]
 quotes_verified: ["May our goal, our target be the pleasure of Allah. The pleasure of Allah is in following Mashāyikh through this beautiful way, acting with adab, training the ego, showing the way to people and doing goodness for them, and treating them nicely. All of these are from the adab of our Ṭarīqah.", "Mawlānā used to say, “‘Abūsu l-wajih karīhu l-manẓar.” A person with a grumpy face does not look well. It leads to hatred. Smile at people. Our Prophet says a smiling face is ṣadaqah.", "The way leading to beauty is the way of Allah – Ṭarīqah. Show importance to Ṭarīqah. Act with care and connect to it. When you are connected and don't leave the way, you are at peace.", "Without Ṭarīqah we are dead."]
 edited_at: 2026-05-12

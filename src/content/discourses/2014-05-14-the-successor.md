@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Khilafah", "Bay'ah", "Tariqah", "Suluk", "Muridun", "Awliya"]
 quotes_verified: ["I am Adnān, servant of Grandshaykh and Mawlānā Shaykh Nāẓim, I am announcing that we accept Shaykh Muḥammad, successor, and we renew our bayʿah with him. And he is our Shaykh from now on, inshāʾAllah, and the successor of Mawlānā Shaykh Nāẓim.", "But, to clear everything, we must all renew our bayʿah – all murīds, even old generation, new generation, old ones, young ones, small ones – all to renew the bayʿah with Shaykh Muḥammad, successor of Mawlānā Shaykh Nāẓim"]
 edited_at: 2026-05-10

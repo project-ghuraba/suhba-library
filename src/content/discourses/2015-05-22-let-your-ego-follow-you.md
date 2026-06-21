@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tazkiyat al-Nafs", "Jihad ul-Akbar", "Suhba", "Maqamat"]
 quotes_verified: ["The duty of Shaitan and the ego is to take the person off the path. Allah created everything for people. Those are the duties of Shaitan and the ego. The more a person does not submit to them and contradicts them, he is that much more of an accepted person in the sight of Allah. That much his station rises, people’s stations rise.", "Allah ‘Azza wa Jalla says He created humans in the best form. But if they do not do what Allah orders, they become the worst creation.", "Our Holy Prophet ṣallAllahu ʿalayhi wa-sallam says what is done against the ego is the Big Struggle (Jihad ul-Akbar). It is not easy. It does a hundred tricks every minute to fool and to take away from the path. It tries to deceive people. That is why our Holy Prophet ṣallAllahu ʿalayhi wa-sallam says this is Jihad ul-Akbar. If a person wins, they reach the highest stations.", "You should make your ego your servant, not your guide. You should not follow it. It has to follow you for you to make progress."]
 edited_at: 2026-05-20

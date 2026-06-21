@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawbah", "Ma'siyah", "Nasihah", "Istighfar", "Adab"]
 quotes_verified: ["Our Holy Prophet ṣallAllahu ‘alayhi wa-sallam says, “Ad-Dīnu n-naṣīḥah”, “Religion is advice”. Religion is based on advice. What is meant by advice is to say what’s good. If people ask something, ask for advice, or ask for an opinion, to offer the good one. Religion is not to speak what’s wrong, but to give people advice and show them the right way.", "If someone knows their sin or mistake and even apologizes to people, they will be forgiven. However, if they persist and refuse, they will only make matters worse.", "A sin is a sin. We are all sinners. May Allah forgive us. But we cannot say that sin is “not a sin.” That is what’s important. We must be careful about this. People must pay attention to that.", "There are minor and major sins. The person who commits a sin should say, “We committed a sin, may Allah forgive us.” He should repent and seek forgiveness. That sin will be forgiven. But if you say, “No, it is not a sin,” then Allah will not forgive you. Because you didn’t ask for forgiveness."]
 edited_at: 2026-05-20

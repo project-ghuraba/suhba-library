@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Karāmāt", "Awliyā", "Suhbah", "Steadfastness", "Tasarruf", "Guidance"]
 quotes_verified: ["Allah ʿAzza wa Jalla says; the days of man pass quickly. Indeed, Allah ʿAzza wa Jalla, ṢadaqAllāhu l-ʿAẓīm, is the One who creates everything beautifully. Years pass, and man doesn’t even notice.", "These days come and go; we make duʿā that they will be of barakah and that our lives will not be wasted.", "Most important karāmah is to remain steadfast, to continue on the way.", "A person who walks steadfastly and sincerely, without getting tired, without giving up or getting bored, will always win, will always attain beautiful stations. They will attain the pleasure of Allah and the pleasure of our Prophet ṣallAllāhu ʿalayhi wa-sallam.", "The tasarruf (spiritual authority) of awliyā exists during their lifetime. And after their death, their tasarruf becomes even greater. Therefore, they are not dead; they are beings who live more alive than us."]
 edited_at: 2026-05-17

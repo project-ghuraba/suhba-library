@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhul Hijjah", "Divine Generosity", "Divine Mercy", "Barakah", "Spiritual Rewards", "Guidance"]
 quotes_verified: ["The treasures of Allah ʿAzza wa Jalla are endless. No matter how rich the people in this world are, their generosity is to some extent. But in the Presence of Allah ʿAzza wa Jalla, there is endless generosity.", "They run away. And after that, they keep wondering, “Why is there sadness? Why is there narrowness?” Whereas AllahʿAzza wa Jalla says, “I give breadth to the one who follows my way, I give him comfort. Whereas to the other one, I give distress in dunya and punishment in akhirah.”", "Allah ʿAzza wa Jalla is Arhamu r-Rahimin. Allah ʿAzza wa Jalla is the One who has Abundant Mercy. He gives everyone from that mercy. It is enough for everyone; it increases. There is never any deficiency. People are ungrateful; or rather mindless."]
 edited_at: 2026-06-10

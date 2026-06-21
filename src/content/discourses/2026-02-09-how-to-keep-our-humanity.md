@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iman", "Suhba", "Rida", "Shukr", "Insaniyyah"]
 quotes_verified: ["Allah ʿAzza wa Jalla says, “Be with the righteous people, be with the truthful ones.” Because righteous means people who know Allah and believe in Allah. They desire good and do good to people. They are religious, they’re people who accept the religion and accept Allah ʿAzza wa Jalla. Being with them is good for humanity.", "Without the pleasure of Allah, nothing is beneficial. Even if they were to turn the whole world into gold, it would still be of no use.", "There is no benefit without the pleasure of Allah. Animals would be better than humans then. Because the level of animals is lower, but those creatures know Allah ʿAzza wa Jalla, glorify Him, and make shukr to Allah."]
 edited_at: 2026-05-18

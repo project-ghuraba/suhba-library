@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Suhba", "Akhira", "Iman", "Nafs", "Shaytan"]
 quotes_verified: ["In the sight of Allah, time and space are creations. Therefore, there is no time or space for Allah.", "People must think. Allah ʿAzza wa Jalla created man. From Adam ʿalayhi s-salām until now, the things within that being are the same, they do not change. Whether you drive a large car or a small car, whether you walk or own nothing at all. The nature and qualities within mankind remain the same; they don’t change.", "Do not stray from the way of Allah. To avoid regret in the Hereafter and to save yourself, follow good people. Be with them."]
 edited_at: 2026-05-18

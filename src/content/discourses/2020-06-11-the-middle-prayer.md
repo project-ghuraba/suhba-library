@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Salah", "Fajr", "Obedience", "Nafs", "Akhirah", "Hidaya"]
 quotes_verified: ["In the holy verse Allah almighty states, “Keep your prayers—especially the middle prayer.” Scholars have discussed which one was meant and the majority have agreed that it is the fajr prayer. Some say it is asr, at mid-afternoon, but what is hard is the fajr morning prayer, to wake up in the morning and pray at that time. That is the difficult prayer. “Aṣ-ṣalāti l-wusṭā”, as it is called in the ayah, means “the middle prayer”.", "Salah helps those who pray, especially those who pray the fajr prayer. Because it is more difficult, its rewards are also that much more, and its blessing is much more. Everything is fortunate during the day.", "Whether it is salah or another act of worship, all are for our good."]
 edited_at: 2026-06-10

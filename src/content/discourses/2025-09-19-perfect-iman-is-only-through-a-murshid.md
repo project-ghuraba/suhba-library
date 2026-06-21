@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iman", "Murshid", "Tariqah", "Suhba", "Shaytan", "Shafa'ah"]
 quotes_verified: ["There is īmān and Islām. The essence of Islām is īmān. Believing in Allah, believing in the ghayb (unseen), believing in the angels, and believing in the afterlife. These are all īmān. Only those who follow the ṭarīqah truly do this.", "It is necessary to connect with a Murshid (guide) and ṭarīqah, which is connected directly to our Prophet ṣallAllahu ‘alayhi wa-sallam.", "Without him, without the means of our Prophet ṣallAllahu ‘alayhi wa-sallam, there is no īmān. There is Islām, but no īmān. They are not believers (mu’min); they are Muslims.", "You must pay attention to that. Muslims who want to perfect their īmān connect with a Murshid so that they can reach our Prophet ṣallAllahu ‘alayhi wa-sallam."]
 edited_at: 2026-05-21

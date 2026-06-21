@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Love", "Ṭarīqah", "Awliya"]
 quotes_verified: ["Islām is a religion of adab. The first adab is to have it towards Allah ʿAzza wa Jalla. There can never be rebellion against Allah, nor to our Prophet ṣallAllahu ʿalayhi wa-sallam.", "The essence of ṭarīqah is adab and love.", "What is love? It is to love Allah ʿAzza wa Jalla and our Prophet ṣallAllahu ʿalayhi wa-sallam. Our Prophet ṣallAllahu ʿalayhi wa-sallam says, “Al-mar’u maʿa man aḥabb”, “A man will be with whom he loves.” (Hadith). A person is with whom he loves. So, love saves a person.", "A Wali of Allah means a person whom Allah loves. Whether there’s karamāt or not, if Allah loves you, you are an Awliyā.", "Many sometimes ask, “How can I become an Awliyā? What shall we do?” Love Allah, love our Prophet ṣallAllahu ʿalayhi wa-sallam, and you will become a beloved servant of Allah.", "Islām is the religion of all the Prophets. Apart from Islām, those who now consider themselves having a religion have done so according to their own minds."]
 edited_at: 2026-05-08

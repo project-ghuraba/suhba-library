@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iman", "Prophethood", "Tawhid", "Miracles", "Hajj", "Abdāl"]
 quotes_verified: ["There are seven prophets who are Uli l-‘Azam, the mighty prophets.", "The worst attribute of human beings is proudness. To see some people lower than them.", "In front of the Ka’bah is maqām Ibrāhīm. Some people destroyed Ka’bah many times but they couldn’t destroy this. Because this was the [step/ladder] to build the Ka’bah. He (Sayyidina Ibrāhīm ʿalayhi s-salām) was standing on this stone and the stone was going up, coming down, like this. When he wanted to put one up, he would stand on this stone. Because it was only he and his son Ismail ʿalayhi s-salām.", "Allah ʿAzza wa Jalla told him, “Call people to come to Ḥajj to make pilgrimage.” But there was nobody around this area; only both of them. But he didn’t say anything. He was just calling people to come for pilgrimage; like the adhan. But there wasn’t anybody there. Prophet ṣallAllahu ‘alayhi wa-sallam says, this adhan means that anyone who’s been or will be to Ḥajj has heard this adhan. So millions and billions of people had heard this, and after centuries, after thousands of years, they came to this invitation. This is the invitation of Allah through Sayyidina Ibrāhīm ʿalayhi s-salām.", "We read the ḥadīth of Prophet ṣallAllahu ‘alayhi wa-sallam [in Khutbah]: “There will always be forty rijāl (people) from my nation whose hearts are like the heart of Ibrāhīm, Allah removes affliction from the people of earth through them. They are called the Abdāl.” (Ṭabarānī, al-Muʿjam al-Kabīr)"]
 edited_at: 2026-05-19

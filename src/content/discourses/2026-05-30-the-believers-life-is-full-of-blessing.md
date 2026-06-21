@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Akhirah", "Dhikr", "Adab an-Nabi", "Shafa'ah", "Barakah", "Taqwa"]
 quotes_verified: ["Days pass quickly. But shukr to Allah, may they not pass in vain, inshā’Allāh. May they not pass in vain.", "When you do not remember Allah, when He does not come to your mind, everything you do is wasted. Even if the whole world belongs to you, even if all people revere you and love you, if you are not on the way of Allah, it has no importance, no benefit whatsoever.", "This way is the beautiful way of Allah, the blessed way of Islām. On that way, the way of our Prophet, the more you revere and exalt him, the more you will be exalted in the sight of Allah. His way is beautiful, all beauty is in him. Generosity is in him, caring for the weak is in him, he cares for the poor, for his ummah. He will be an intercessor in the hereafter. He will always intercede for his ummah in front of Allah. Therefore, his honor is immeasurable.", "We cannot give our Prophet ṣallAllāhu ʿalayhi wa-sallam his due. The more you honor him, the more you will be honored, the higher you will rise, the more you will be exalted. If you do not honor our Prophet ṣallAllāhu ʿalayhi wa-sallam, your worth and value will decrease. You will have no value left.", "Shayṭān also deceives Muslims. Even if he doesn’t lead them astray from the religion, he at least strives to destroy what those with religion have gained, saying, “Beware! Do not honor him. The Prophet is like you.” It is detrimental for people to not love our Prophet ṣallAllāhu ʿalayhi wa-sallam. It is harmful, detrimental, and nothing else."]
 edited_at: 2026-06-07

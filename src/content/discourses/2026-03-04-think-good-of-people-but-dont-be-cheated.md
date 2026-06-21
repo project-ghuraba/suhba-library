@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Husn Az-Zann", "Vigilance", "Wisdom", "Sunnah", "Deception"]
 quotes_verified: ["Allah ʿAzza wa Jalla says to stay away from su’ zann. Su’ zann means thinking bad of others; it occupies a person’s mind, they misunderstand things. When they think badly, they see good as bad.", "A person should not think ill of their brother. They should not think ill of their ṭarīqah brothers. Allah protects those whose intentions are pure.", "Firstly, our Prophet ṣallAllahu ‘alayhi wa-sallam said, “I am not a deceiver, and no one can deceive me.” Secondly, “A believer should not be bitten twice from the same hole.”", "Not harboring suspicion or thinking ill of him, is one thing; – ḥāshā mina l-ḥuḍūr [expression of respect: Far be it from being present] – and foolishness is another. Allah has given you intellect, you must use it in everything.", "Our Prophet said, don’t let anyone deceive you. Now, many Muslims have been deceived. They have abandoned the way of haqq. They have abandoned the beautiful way of our Prophet.", "It’s necessary to distinguish between these things: wisdom, good, evil, everything. Allah has given you both intellect and the light of īmān. With that light, inshā’Allah, you won’t be deceived. Pay attention to that."]
 edited_at: 2026-05-17

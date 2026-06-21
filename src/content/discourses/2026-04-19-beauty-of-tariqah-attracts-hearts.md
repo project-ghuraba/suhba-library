@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ṭarīqah", "Jamal", "Da'wah", "Hidāyah", "Suhbah", "Masjid"]
 quotes_verified: ["Many people come to Islām in this place (La Grande Mosquée de Paris). Allah gives them hidāyah. They begin a new life. A life of light, nūr from this place. Because this beauty is the heart of Islām, beauty in everything. Prophet ṣallAllahu ʿalayhi wa-sallam says, 'إنَّ اللهَ جَميلٌ يحِبُّ الجَمالَ', 'Allah is Beautiful and He loves beauty.'", "This is a very sensitive matter. Many people say not to decorate mosques, just keep it like stone and don’t put anything inside, just keep it like this. This is not from Islām. The way of the Muslim, way of Prophet ṣallAllahu ʿalayhi wa-sallam is to praise this place. You decorate your house, you make your house nice and good but then you make the mosque, the house of Allah without any beauty!", "Tasawwuf, ṭarīqah is the way of Prophet ṣallAllahu ʿalayhi wa-sallam. And they know how to attract people to bring them nearer, bring them to Islām, and make them Muslim. There’s something these people don’t understand that can make many people Muslim, become in Islām. In ṭarīqah, they understand this.", "Ṭarīqah, tasawwuf is the heart of Islām."]
 edited_at: 2026-05-15

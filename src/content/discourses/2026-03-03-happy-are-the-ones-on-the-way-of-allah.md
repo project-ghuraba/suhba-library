@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Suhbah", "Iman", "Dunya", "Akhirah", "Shukr", "Tawakkul"]
 quotes_verified: ["This world is not the place of comfort. It is a place of profit for Muslims.", "Don’t tire your mind. Mind your own business. What is your duty? To be a servant to Allah, to worship Allah, to make shukr for the favors given by Allah, to honor them. Your duty is to make thousands of shukr. It’s the same for you both as a Muslim and as a human.", "If you are on the way of Allah make shukr. You are a lucky one. Millions and billions of people are unlucky.", "Don’t emulate others and run away from religion. Don’t run away from Islām. Don’t run away from ṭarīqah. If you run away, you will lose many things. You will have a lot to regret, “How did I run away from this? I was on this way. I was a Muslim. I emulated kāfirs. I emulated the one without faith and religion.” You will regret it in ākhirah.", "They see the mashāyikh. They see the awliyā’. They don’t respect them but respect disgraceful ones.", "Allah ʿAzza wa Jalla has given mind to mankind. They must use that mind and reach peace. What is peace? As we said, peace in this world is being with Allah. And the same in ākhirah."]
 edited_at: 2026-05-17

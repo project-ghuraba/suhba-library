@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Oppression", "Sabr", "Rahmah", "Divine Justice", "Akhirah", "Dunya"]
 quotes_verified: ["Patience and mercy are the attributes of a good Muslim, a believer. Allah ʿAzza wa Jalla loves them. Allah will show mercy to those who are merciful.", "In these days we live in, of course, there was and is a great deal of oppression. Since the very beginning, after they overthrew the Ottoman Khalif, oppression has reached its highest levels in the whole world.", "They deceived people by saying, “We will save you from Ottoman oppression.” Not just here, but the entire world has been plagued by oppression. After they removed the ones who ruled with mercy, millions were massacred, killed, and wronged.", "A Muslim is merciful. He has compassion. They advise one another to have patience and mercy. They advise each other not to oppress. The disbeliever is the opposite. However much oppression there is, the disbeliever has it.", "Indeed, the oppressor will have a reckoning in the Hereafter. And in dunyā, Allah will set a fire within him, leaving him restless. No matter how much he does, that fire doesn’t leave him. If he’s drinking alcohol, taking drugs, committing all kinds of infamy—it will still be of no benefit. That fire will never leave him.", "No matter how much oppression there is, believers and Muslims will be rewarded in the Hereafter by Allah. In the Hereafter, Allah ʿAzza wa Jalla will reward them for what they’ve endured here. People will say, “If only we had suffered like this.”"]
 edited_at: 2026-05-19

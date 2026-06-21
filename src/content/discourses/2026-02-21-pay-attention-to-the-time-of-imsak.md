@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ramaḍān", "Imsāk", "Fasting", "Niyyah", "Prayer Times", "Tawbah"]
 quotes_verified: ["This blessed month of Ramaḍān is a month beloved by Allah. Of course, its virtue is that the acts of worship performed during it are rewarded without account by Allah. They are rewarded immeasurably.", "Some people do more, some do less. What is important is to attain the pleasure of Allah. If you intend to attain the pleasure of Allah in everything, even if your deeds are few, they will be fully rewarded by Allah. Allah ʿAzza wa Jalla is Akramu l-Akramīn, the Most Generous. He doesn’t look at small things."]
 edited_at: 2026-05-18

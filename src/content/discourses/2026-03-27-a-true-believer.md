@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iman", "Tawakkul", "Akhlaq", "Suhbah", "Nikah"]
 quotes_verified: ["Our Prophet ṣallAllahu ʿalayhi wa-sallam shows us the way. He says that the one who loves for the sake of Allah, hates for the sake of Allah, gives for the sake of Allah, takes for the sake of Allah, and marries for the sake of Allah has indeed perfected his īmān.", "You should love that beauty; you should love goodness. You must not stay away from it. This is for your own good. When īmān is perfect, all kinds of troubles disappear for a person.", "People nowadays want to be humanists. It means you must love all people. You can love them, but you cannot love someone who doesn’t love Allah. Because that person is nothing but harm.", "A person who possesses īmān is someone who knows that everything comes from Allah and relies upon Allah in everything.", "Allah knows what will happen. Your duty is to focus on your own affairs, continue steadfast on the right way, give and receive with goodness, love with goodness, and hate with goodness. That’s your duty. There is no need to worry about other things.", "A true believer wouldn’t care even if the world collapsed, because it is Allah’s decree. A person with īmān doesn’t worry but says, “Allah wanted it this way, He willed it this way, it happened this way.” That’s what a true believer is like."]
 edited_at: 2026-05-16

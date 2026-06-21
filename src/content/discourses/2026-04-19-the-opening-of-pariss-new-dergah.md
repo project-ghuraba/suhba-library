@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Adab", "Suhbah", "Zawiyah", "Khidmah", "Iman", "Hidayah", "Jazaa"]
 quotes_verified: ["Our ṭarīqah orders to collect people to help each other and help everybody. Ṭarīqah is to make people live as human beings. Humanity is not to harm anybody. The first teaching of ṭarīqah is Adab. For this, we are training people to get rid of bad manners and take good manners.", "Even one atom is rewarded. Nothing goes without reward; nothing is forgotten. This is a favor from Allah.", "May Allah keep you and your children, and make you hidāyah for others also. Inshā’Allah to be on the right way, way of our Prophet, way of Allah, inshā’Allah. And to be guidance for others.", "Inshā’Allah, we imitate Prophet ṣallAllahu ʿalayhi wa-sallam. Inshā’Allah, the best thing for the Muslim is to imitate Prophet ṣallAllahu ʿalayhi wa-sallam, and we imitate him, inshā’Allah."]
 edited_at: 2026-05-15

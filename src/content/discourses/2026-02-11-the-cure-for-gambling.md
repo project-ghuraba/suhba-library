@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Maysir", "Ithm", "Amwal", "Taqwa", "Obedience"]
 quotes_verified: ["Allah ʿAzza wa Jalla says, “Help in goodness. Do not help in evil.” Never help in evil!", "What is the cure for gambling? Unfortunately, there is no cure for gambling. May Allah protect everyone from it. Once it’s ingrained, there’s no escape. But the cure is not giving them money. They say, “They’re crying, whining, begging insistently.” You won’t give them. No matter what they do, you mustn’t give them the money.", "They have ruined the Islamic world with this gambling issue. It’s popping up everywhere. Inside the house, outside the house. Shayṭān has become bizarre in the end of times.", "Do not give your money to the safīh (foolish). They are safīh. Safīh means they are unreliable; you cannot vouch for anything they do! Therefore, do not disobey Allah’s command! Obey Allah’s command. Help them avoid sin, inshā’Allah."]
 edited_at: 2026-05-18

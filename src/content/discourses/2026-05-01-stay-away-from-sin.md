@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Sin", "Nafs", "Guidance", "Accountability", "Tazkiya"]
 quotes_verified: ["Evil is more pleasing to the human ego. Doing righteous deeds is difficult for them. They prefer things that are not beneficial to them. They constantly do them, they strive to do them. These things are much easier for them. But then there is an accounting for these things. There is an accounting in this world and an accounting in the hereafter.", "A person who does not perform righteous deeds in this world, who does evil, who commits sins, sees the punishment for it. Everyone sees this, but they somehow cannot learn a lesson, they do not.", "The commands of Allah ʿAzza wa Jalla are the most beneficial thing for humankind. It is beneficial both here and hereafter.", "An example of a sin is gambling. That is a sin. The person who does it will face its punishment in this world, before the hereafter. No gambler ever becomes rich in this life. All their possessions, wealth, and fortune are taken from them. And on top of that, they will face punishment in the hereafter because they committed a sin. It is one of the major sins."]
 edited_at: 2026-05-15

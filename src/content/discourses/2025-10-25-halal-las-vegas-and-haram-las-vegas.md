@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ḥalāl", "Ḥarām", "Gambling", "Sincerity", "Suhbah", "Dunyā", "Dajjal"]
 quotes_verified: ["People who want happiness should not look for appearances, but look for the reality of things. You must look for the wisdom in everything you see.", "Gambling is the worst habit for a person. Because when someone gets involved with gambling, they cannot leave it. Maybe they can get rid of other addictions, like alcohol or drugs, but with gambling, it is good if even one in a 10,000 can save himself. May Allah save us from this bad habit and from these evil people."]
 edited_at: 2026-05-19

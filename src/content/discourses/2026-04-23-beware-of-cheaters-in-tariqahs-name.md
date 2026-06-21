@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Spiritual Deception", "Ikhlas", "Shari'ah Compliance", "Satan's Plots", "Vigilance"]
 quotes_verified: ["In everything you do, you must intend for it to be purely for Allah. When you do this in everything you do, Allah rewards you for every breath, every minute and every second. He rewards you and He will be happy with you.", "“O my Lord, You are my aim and Your pleasure, Your happiness is my wish; it’s what I want.” Mawlānā was his whole life following this saying. And until the end of his life, he was following the same promise; not saying anything else.", "Mawlānā Shaykh never followed or did anything to make people happy and make Allah unhappy. Everything he did was according to the way of Allah, to make Allah happy with him. Because he was the successor of Prophet ṣallAllahu ʿalayhi wa-sallam. He’s going on the same way; no any difference, nothing against this way.", "This is the way our Prophet ṣallAllahu ʿalayhi wa-sallam and his successors: Sayyidinā Abu Bakr, ʿUmar, ʿUthmān and ʿAli. They were all in this way and continued on this way.", "we are warning people not to accept anybody who’s not following sharīʿah.", "be careful. Especially nowadays, there is what’s worse than that: the internet. They are showing themselves as if they are representatives of us and for ṭarīqah. They take a picture and go around saying, “I am the closest one to Shaykh. I am the most knowledgeable. I am the most beloved one for him,” and after that, they cheat people.", "Allah says, the plan of shayṭān is weak. So, inshā’Allah, may Allah keep us safe from his plots. May Allah bless you, inshā’Allah."]
 edited_at: 2026-05-13

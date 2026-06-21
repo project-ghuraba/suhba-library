@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Shaytan", "Suhbah", "Tariqah", "Iman", "Guidance"]
 quotes_verified: ["Shayṭān is the greatest enemy. Allah ʿAzza wa Jalla commands, do not take him as a friend. Consider him an enemy. An enemy can never become a friend; that is, regarding shayṭān.", "Be careful. Do not befriend shayṭān. Do not follow his way. Stay away from him. Stay away from his soldiers. He is only concerned with how much he can corrupt societies and how much evil he can inflict. He never thinks of anything else. He is an enemy of humanity, let alone Muslims. He wants people to do even more evil.", "They ask, “What is ṭarīqah?” and say, “There’s no need for ṭarīqah.” Those who say that have no benefit in their knowledge. No matter how many thousands of books they write, no matter how many students they teach, if they lack faith, they are all in the hands of shayṭān.", "Be with those who are on the way of Allah. Be with those who are on the way of our Prophet ṣallAllahu ‘alayhi wa-sallam. Hold on to both, not just one, because if you don’t, shayṭān will snatch you."]
 edited_at: 2026-05-18

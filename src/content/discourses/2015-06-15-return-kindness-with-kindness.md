@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ihsan", "Huquq Al-Ibad", "Nafs", "Tariqa"]
 quotes_verified: ["Ego and Shaytan push people towards the bad way. People do not value the good done and are not thankful. Then they ask, “Where did this trouble come from?” Allah Jalla Jalaluh sent Islam and tariqa to save people from this bad habit.", "If good is returned with good, great. If not, Allah gives according to the person’s intention and your station rises in return. And people who return good with harm, both their world is ruined and their hereafter is ruined more.", "There are things Allah forgives and things He does not forgive. Allah forgives His own rights. If a person’s sins are as much as a mountain, whatever it may be, He forgives, but he does not forgive people’s rights. When you do harm in return for good, wrong people, and oppress them, you can only be saved if they forgive you. You cannot be saved any other way.", "Return good with good and stay away from harm. Goodness brings goodness and harm brings nothing but harm."]
 edited_at: 2026-06-15

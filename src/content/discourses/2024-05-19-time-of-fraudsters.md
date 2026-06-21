@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Fitna", "Ghaflah", "Akhirah", "Tawakkul", "Nafs"]
 quotes_verified: ["No matter if they know or not, people who do badness will get into big trouble in Akhirah. Just like they caused trouble to people in this world, they will get into trouble in Akhirah. The troubles caused in this end of times won’t go without questioning.", "Those who forgot Allah, who follow their egos and shaytan will certainly regret it. They will regret doing so on the day when their regret will be useless. May Allah protect us.", "What can we do? We are living in the end of times. There is no conscience anymore, there is no mercy. May Allah not take mercy out of our hearts inshā’Allāh. May Allah protect Ummati Muḥammad ṣallAllāhu ʿalayhi wa-sallam. And may they come to the right way. May there be Barakah inshā’Allāh."]
 edited_at: 2026-05-18

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Divine Knowledge", "Human Limitations", "Tawḍuʿ", "Shukr", "Suhba"]
 quotes_verified: ["Not only a person, if whole mankind acquires knowledge, it is as much as water that remains on a needle when it is put into and taken out of an ocean. The Hadith of our Prophet says so.", "Everything is from Allah. You should know it so that you are thankful.", "If there's no permission of Allah, neither technology, nor electricity, nor machinery can be of use. Nothing can work if Allah doesn't give His secret. What you see now is nothing next to Allah. There are knowledges much beyond these.", "The more you learn still it is very little. This shows the greatness of Allah and the weakness of mankind, shows how limited people's knowledge is.", "Knowledge of Allah, it is like ocean, and you cannot come to limit of this knowledge."]
 edited_at: 2026-05-13

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawbah", "Hisab", "Ghaflah", "Akhirah", "Rahmah"]
 quotes_verified: ["There is an accounting with Allah. Before the reckoning comes, while you still have breath, while you are in this world, if you ask Allah for forgiveness, Allah will forgive you. Your reckoning will be over. That is, if you repent, seek forgiveness, and ask for forgiveness for your sins, Allah will forgive you.", "Don’t miss the day of forgiveness. Travel the world and go while you are still healthy and able, but do not stray from the way of Allah ʿAzza wa Jalla. Do not stay away from the mercy of Allah ʿAzza wa Jalla. Allah’s mercy is abundant.", "The Hereafter is near, not far. Some say the Day of Judgment is very far away. Even if the Day of Judgment is far away, your qiyāmah is when you close your eyes then open them.", "People will go towards the Day of Resurrection in a state of shock. Those who do good will thank and praise Allah for having done good. Those who are far from Allah in dunyā will regret it in the hereafter. That is the place where even regret for what they have done will be of no use."]
 edited_at: 2026-06-08

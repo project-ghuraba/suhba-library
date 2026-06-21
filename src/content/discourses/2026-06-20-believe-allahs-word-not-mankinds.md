@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Iman", "Qiyamah", "Qadar", "Tawakkul", "Suhbah", "Taqwa"]
 quotes_verified: ["People think that everything will continue forever, that nothing will happen. But the Day of Judgment is coming; Allah ʿAzza wa Jalla says that the sky will split open, the stars will scatter, and the seas will burst and overflow.", "There is nothing to fear. Everything is waiting for Allah’s command; nothing will happen until Allah ʿAzza wa Jalla’s command comes. It will happen when the time comes.", "If you are going to fear, fear Allah, and nothing else.", "Whether a meteorite strikes, a volcano erupts, or an earthquake occurs - all of these happen only by the command of Allah ʿAzza wa Jalla. This is what needs to be known. This is what īmān is. Īmān is believing that everything is under the command of Allah ʿAzza wa Jalla."]
 edited_at: 2026-06-20

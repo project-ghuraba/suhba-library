@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hikmah", "Ikhlas", "Yaqin", "Suhba", "Hudūr"]
 quotes_verified: ["Everyone is suitable or created to be suitable [to] bring wisdoms from Divinely Presence. Not looking and saying from books that wisdoms - you are only going to be like cassettes.", "Sincerity, first condition which taking you to certainty. And when you are coming to certainty you should find sources of wisdoms through your heart. But sincerity it is not easy to reach to that sincerity. No market you can ask and you can buy it. But only you can find it through sincere people of the Lord Almighty Allah. And sincere people, they are Holy men. Holy men, they are wise men. You may find sincerity through themselves and, when you are going to be with them, that sincerity coming from that one on you also. Or you can't learn it through reading books. No.", "You must look after [for] sincere people. And you must be time by time with association with them and it's giving to you sincerity and then you may reach to certainty. Certainty is most important thing for believers.", "Wisdoms making you to approach from [to] Divinely Presence. And we are in need for that wisdoms. And in our time, people they are in need for that wisdoms only. Knowledge -­ we have enough knowledge.", "As angels they have wings, mankind's wings - that is wisdoms. And according to your wisdoms, you may approach from [to] Divinely Presence.", "Therefore, you must try to reach wisdom sources through your heart. And the main condition for that it is to be sincere. Sincerity."]
 edited_at: 2026-05-12

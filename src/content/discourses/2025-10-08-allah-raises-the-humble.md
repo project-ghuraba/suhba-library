@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawāḍuʿ", "Takabbur", "Nafs", "Suhba", "Adab"]
 quotes_verified: ["Our Prophet ṣallAllahu ‘alayhi wa-sallam says, “Man tawāḍaʿa lillāhi rafaʿahu, wa man takabbara waḍaʿahu,” aw kama qāl. He who humbles himself for the sake of Allah, Allah elevates him and raises him.", "Arrogance is the greatest fault for a person, and it is a sin; it is not a good thing. That is why, most people act arrogantly. Being arrogant is never acceptable in the sight of Allah, nor is it acceptable in the sight of our Prophet.", "Among Muslims, to say, “I am a teacher, I am a Shaykh, I am a Wakīl (representative), I am this, I am that,” and then act arrogantly is indecorum and useless. It multiplies one’s sins and diminishes his good deeds.", "The most important thing for the people of ṭarīqah is to be humble and to possess humility. There’s no need for someone without humility to enter the ṭarīqah in the first place."]
 edited_at: 2026-05-19

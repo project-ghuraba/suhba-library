@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Infaq", "Rizq", "Barakah", "Israf", "Sadaqa"]
 quotes_verified: ["When something happens, the brothers always ask us, “Shall we keep provisions at home? How much should we keep? What shall we do?” Mawlānā Shaykh Nāẓim told to keep food at home. May Allah protect us, any situation may happen. Therefore, people should always have provisions for 40 days or two months.", "They say food goes bad. You must give it to the poor and needy so that it doesn’t go bad. You take yourself under guarantee, and from what you don’t want - there are many poor and needy people.", "Wasting is not good at all. Barakah goes away, the rizq of people and the country goes down.", "If people buy as much as they need and don’t waste, all country won’t be in need. There will be no poverty.", "Keep rizq for a month or two months. And if it gets old, give it away to the poor for them to benefit. You will have thawāb, and their rizq will have come through you. Allah is ar-Razzāq. But He may give to some people through your hands to bring benefit to all. That is a great favour of Allah ʿAzza wa Jalla.", "Covering others’ needs is a great benefit to you. It is a favor from Allah to you. A giving hand is better than a taking hand. It is said in ḥadīth sharīf. Be the giving hand inshā’Allāh."]
 edited_at: 2026-06-10

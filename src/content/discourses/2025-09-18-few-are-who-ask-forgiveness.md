@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawbah", "Nafs", "Maghfirah", "Iman"]
 quotes_verified: ["Allah ʿAzza wa Jalla says, the ego commands evil. We must not give it any opportunity. We must not make any concessions. We must distance ourselves as much as we can from evil and sin.", "Of course, there is no person who is sinless, nor can we be without sinning. Allah ʿAzza wa Jalla says, “I created mankind to sin then ask for forgiveness so that I may forgive them.” In that respect, mankind are always sinners. There is no one who does not sin.", "There are many sins, both minor and major. They exist so that people seek forgiveness for them. The wisdom of Allah ʿAzza wa Jalla is beyond comprehension. But He shows us the way. You commit a sin, ask for forgiveness, and that sin is both erased and reward is written instead of it. Such is the generosity and bounty of Allah ʿAzza wa Jalla."]
 edited_at: 2026-05-21

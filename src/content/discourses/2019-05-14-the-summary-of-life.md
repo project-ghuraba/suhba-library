@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Da'wah", "Amal Salih", "Najat", "Sunnah", "Purpose Of Life", "Akhirah"]
 quotes_verified: ["A person who takes from the way of Prophets and has the attributes of Prophets does well near Allah. Doing well means salvation."]
 edited_at: 2026-05-13

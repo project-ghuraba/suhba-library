@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Aql", "Nafs", "Hidayah", "Shariah", "Istiqamah"]
 quotes_verified: ["Most people in the world are not on the right way. If you follow them, you will stray from the right way. People on the right way are few", "You must look at what is right. Are these people on the right way? Are their actions good? Will their actions go unpunished? Act accordingly; don’t trouble yourself, don’t destroy yourself. The person who is showing you the way doesn’t know the way himself, he’s lost his way; don’t follow him. Don’t say, “So many people are following him, so he must be on the right way.”", "Our Prophet ṣallAllāhu ʿalayhi wa-sallam said: “The ḥalāl is clear, the ḥarām is clear; and there are also things that are doubtful.” Don’t follow things that are doubtful. Follow the ḥalāl way, the way that avoids the ḥarām. Because in this time—although people were created this way before—following their egos is easier for people. It is more difficult for a human being to avoid the ḥarām.", "Your good way is clear; stay away from the bad way. Even if the whole world goes down that way, it will not benefit you; it will only bring you harm.", "Find the true way for yourself and do not deviate from it. They say, “All these people are going down this way, so it must be the right one.” Because the herd is going, everyone follows. One person jumps off a cliff, and those behind him continuously throw themselves off. Allah ʿAzza wa Jalla has given you mind, He has warned you; do not follow them."]
 edited_at: 2026-06-18

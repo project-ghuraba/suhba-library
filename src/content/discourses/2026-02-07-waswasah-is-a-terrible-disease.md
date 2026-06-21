@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Waswasah", "Shaytan", "Taysir", "Salat", "Hikmah"]
 quotes_verified: ["Many people lack wisdom. Allah ʿAzza wa Jalla says to make things easy. Our Prophet ṣallAllahu ‘alayhi wa-sallam says to make things easy. Don’t make things difficult.", "Don’t get involved in any waswasah. This is a terrible disease.", "Our religion is easy, show ease. Don’t make it difficult."]
 edited_at: 2026-05-18

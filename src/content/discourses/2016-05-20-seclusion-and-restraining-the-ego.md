@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Khalwa", "Nafs", "Mujahada", "Istiqamah", "Madad", "Tarbiyah"]
 quotes_verified: ["Let us restrain our ego and not let our ego restrain us.", "So just because you completed one seclusion does not mean you are done with everything. What is important is its continuity: not doing that, not following the ego. It is struggle with the ego. Children practice before starting a race. These forty days are something like that.", "It is not something to be exaggerated, praised, or be proud about because our ego is used to comfort. Blame, excuses, and everything exists for itself, but it does not accept any fault for itself. It does not accept fault and it does not accept harm. It says there is none better than itself.", "May Allah make us all successful in training our ego. It is a tough task. It needs madad (support). InshaAllah himmat (help) reaches us from Allah Jalla Jalaluh and our Holy Prophet ṣallAllāhu ʿalayhi wa-sallam."]
 edited_at: 2026-05-19

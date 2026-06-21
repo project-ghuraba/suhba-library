@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Shaytan", "Khamr", "Maysir", "Kufr", "Akhir al-Zaman"]
 quotes_verified: ["They say alcohol is the mother of sins. And gambling is an illness. When one is afflicted with it, it is nearly impossible to be saved from it.", "When you harm others, you are harmed too.", "We are fed up with it. Yā Allah, this world has reached its last resort. People are not done ruining. They want to hit the bottom even more. They want to smash people. They want to prevent them from breathing. They want to make them lose their humanity, to make them slaves for them. This is what they want. May Allah protect people and help them."]
 edited_at: 2026-05-16

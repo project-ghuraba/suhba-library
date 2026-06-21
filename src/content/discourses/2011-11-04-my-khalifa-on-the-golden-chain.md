@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Khilafah", "Silsila", "Mahdi", "Adab", "Ummah"]
 quotes_verified: ["He (Shaykh Mehmet) is my Khalīfā. He has been granted through our Grandshaykhs and Rasul salawātullahi salām ‘alayh. He is on our Golden Chain. He may give any order to everyone through East and West. I am weak, I can't carry more, but he is ok. And I hope to reach to Mahdi ‘alayhi salam. He is from his wuzarā (Mahdi ‘alayhi salām’s grand viziers).", "O people, keep your ways, keep orders, holy orders of Heavens and keep your honour. And be proud that you are Seal of Prophets' ummah (nation). Keep right way; don't go like this, like that. Straight!"]
 edited_at: 2026-05-10

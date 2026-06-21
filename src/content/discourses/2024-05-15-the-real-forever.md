@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Akhirah", "Awliya", "Suhbah", "Hidayah", "Barakah", "Himmah"]
 quotes_verified: ["Allah makes people be with their loved ones.", "Those who are on the way of Allah ʿAzza wa Jalla are in profit. And those who left the way of Allah ʿAzza wa Jalla are in loss. There were Pharaoh and Nimrod. There were various people, good and bad. The good ones were in profit. People who had followed them were in profit. Those who follow that way are clever and mindful people. And those who go out of that way are heedless and short of mind.", "Whoever that is, no matter if they say he is a scholar or a learned man, unless he is on the way of Allah ʿAzza wa Jalla, he doesn’t have a way. His way is not the way. Following him brings eternal disappointment to people. May Allah protect us."]
 edited_at: 2026-05-14

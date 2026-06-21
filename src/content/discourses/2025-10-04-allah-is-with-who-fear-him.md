@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Taqwa", "Ihsan", "Suhba", "Adab", "Iman", "Tawbah"]
 quotes_verified: ["Allah ʿAzza wa Jalla says, indeed, if you want Allah to be with us, follow the way He has shown and fear Allah. Fearing Allah means if you’ve committed something wrong, you appear before Allah in shame. What you must fear is committing something wrong and then not repenting. This is what’s bad. If you want Allah ʿAzza wa Jalla to be with you, and if you want Him to help you, fear Allah. Fearing Allah means doing good to people. It means avoiding harming people.", "Allah ʿAzza wa Jalla loves those who do good. Muhsinīn means those who help people. He loves them. Ṭarīqah, Islām and sharīʿah all command this.", "Allah ʿAzza wa Jalla loves those who do good. Muhsinīn means those who help people. He loves them. Ṭarīqah, Islām and sharīʿah all command this.", "Respecting all the Companions, the Ahlu l-Bayt. Respecting the Awliyā and Mashāyikh is the way that Allah loves and wants. Those outside of it satisfy their own egos and do what their egos dictate. Therefore, we must be careful. People must not be deceived."]
 edited_at: 2026-05-19

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dunya", "Akhirah", "Qana'ah", "Suhbah", "Taqwa", "Fitna"]
 quotes_verified: ["You have to be careful while in this life. You must be with good people. Because we are living in the end of times. People of today are greedy. They deceive a lot of people saying that so-and-so became rich, or that person became rich like that, just to deceive people.", "We need to be careful while living in dunyā. Be content with whatever Allah has given you and work on making a living with it. It will be barakah to you.", "Fraudsters and cheaters have reached a much more advanced level in our time. Especially when they see naive people, they suck their blood, they show no mercy. Therefore, whether he was a brother, a murīd, a Muslim, you must be careful from him. He can be in the guise of a brother. He can also be in the guise of a scholar."]
 edited_at: 2026-05-12

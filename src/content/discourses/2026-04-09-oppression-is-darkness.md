@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhulm", "Suhbah", "Tawakkul", "Taqwa", "Akhira"]
 quotes_verified: ["Do not associate with the oppressors, do not incline towards them. The fire will touch the person who inclines towards them.", "The world is filled with oppression. There is no trace of justice anywhere. In no country – some people here say, “There is justice in Europe.” That is the biggest lie. They only show what they want to show, they paint a picture as if there is justice. But in reality, their other face is not like that at all.", "You must be very vigilant. Don’t dwell too much on who does what and why, who is right or wrong. Allah ʿAzza wa Jalla gives everyone their punishment and reward.", "Protect yourself. Do not interfere in the actions of others. Otherwise, you will become complicit in their oppression. Then, the fire of Hell will touch you too, and it will harm you. Therefore, protect yourself."]
 edited_at: 2026-05-15

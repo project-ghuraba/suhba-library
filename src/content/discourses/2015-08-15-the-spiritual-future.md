@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Spiritual Future", "Murshid", "Suhbah", "Humility", "Nafs", "Tarbiyah"]
 quotes_verified: ["Allah Almighty, He make the future in such a way that it is reachable. He didn't forbid the future from us. He say here is the future - every morning, you have a new future. Every morning you wake up, you have a new future, a new day.", "The understanding is the most important key here because without the key, there is no access to anything. When you have this key - so the key is the understanding. If I can understand, that's mean Allah Almighty He give me the key. If I cannot understand, that's mean I don't have the key.", "You have to be humble to Allah Almighty. Look for your shaykh. Look for your shaykh, how he was the shaykh? Where he live? Are he living in the castles? Are he living in the palaces? Are he living in luxury? Are he was living like this? No, your shaykh he was humble, he been humble, he been humble. He trying to be more humble. He trying to be more and more humble.", "You can cheat everybody but you cannot cheat Allah Almighty. This is important things. You have to have your conscience. You have to have your heart and you have to know with whom you are dealing.", "You cannot rule nothing. You cannot rule yourself. Are you able to say you can rule yourself? Are you able to say this? No. If you have headache, you will take tablet. How you are ruling the world? If you have blood pressure you will take tablet immediately. How you are ruling the world? Allah Almighty He is the Absolute Ruler. You are, you must learn to be humble to your Lord."]
 edited_at: 2026-05-10

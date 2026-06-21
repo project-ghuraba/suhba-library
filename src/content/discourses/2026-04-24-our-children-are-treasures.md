@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Fitnah", "Tarbiyah", "Ghaflah", "Shaytan", "Du'a"]
 quotes_verified: ["Your money and your children are as a test for you. It means you must teach them to be out of fitnah; money or children or family. You must guide them with good manners and good teaching, or to spend without looking at money as your aim, but only considering it as a means.", "You must be careful about children. You must teach them good manners from childhood until they grow up. And to make them grow up in places or with a friend that’s on the same way, way of Allah.", "Starting three years, you must be careful with your boy or girl. You must teach them good manners, good things with other people also. If you find someone to teach them or like a small school or something, you must make them be happy with that.", "Muslims are sleeping. The sleepiest people are the Muslims. All humans sleep but the sleepiest are Muslims. They like to rest; to not be tired, laziness comes upon them. Even in danger, they are not doing anything."]
 edited_at: 2026-05-13

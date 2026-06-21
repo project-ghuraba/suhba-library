@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dawam", "Karāmah", "Ṭarīqah", "Dhikr", "Suhbah", "Nafs"]
 quotes_verified: ["Those who are steadfast are the people whom Allah loves. Allah has bestowed His favor upon them. And they have continued on this way.", "Many people sometimes enter this way, then either worldly preoccupations or something else arises and they do not continue. Continuing is a great favor, a grace from Allah ʿAzza wa Jalla.", "This way is sometimes not easy, sometimes difficult. Sometimes things happen that cause a person to give up and run away because of the test. Anything can happen to a person. Therefore, those who persevere, who are steadfast, have won.", "You should remain steadfast and hold firmly to this way. By holding firmly, we mean that a person should perform their awrād (duties), dhikr, and lessons as much as possible. At least attend dhikr gatherings every three weeks. If they cannot attend, they can do it at home with their family. This much is sufficient to continue on the way.", "Consistency is important, it is praiseworthy, and it is an act that Allah ʿAzza wa Jalla loves."]
 edited_at: 2026-05-15

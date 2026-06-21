@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Huquq Al-Ibad", "Mizan", "Tawbah", "Qiyamah", "Adl"]
 quotes_verified: ["Even the smallest good deed, even as small as an atom, will be rewarded for it. He will see its benefit. This is the Power and Majesty of Allah Azza wa-Jalla. Nothing is lost. No good deed is lost in the sight of Allah.", "A person will surely see the result of everything he does. Allah ʿAzza wa Jalla says this.", "If a person seeks forgiveness from Allah for that evil deed or sin he had done, Allah ʿAzza wa Jalla will forgive it if it is not a violation of the rights of another person. If it violates another’s right then forgiveness is only possible if that violated person grants their forgiveness.", "A person must be careful. He must not infringe upon the rights of others. The same applies to animals. Doing harm to an animal, such as causing it suffering is also a violation of its rights. May Allah protect us."]
 edited_at: 2026-05-16

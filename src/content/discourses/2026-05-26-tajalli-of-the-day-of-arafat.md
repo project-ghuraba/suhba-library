@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Arafat", "Tajalli", "Hajj", "Dhikr", "Suhbah", "Shari'ah"]
 quotes_verified: ["Those who disbelieve, who do not recognize Allah, who do not want Him — Allah is not in need of anyone!", "Allah ʿAzza wa Jalla bestows these blessings so that they may earn reward and attain His mercy. Allah is not in need of anyone, nor does He need anyone’s worship or charity. Allah ʿAzza wa Jalla is not in need of anything. He only gives these beautiful things so that they may receive them.", "There are people who think they are something because of their possessions, money, weapons, and guns. They have no value whatsoever. If Allah didn’t give them a breath, they would perish. They would become corpses; nothing else.", "In our ṭarīqah, everything done is in accordance with the Sunnah, the sharīʿah and ṭarīqah; nothing else. Therefore, don’t look too much at things you don’t know. Do what your Shaykh, your murshid, does. There’s no need for anything else."]
 edited_at: 2026-05-27

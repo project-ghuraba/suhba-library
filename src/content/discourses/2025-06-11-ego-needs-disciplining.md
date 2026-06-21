@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Nafs", "Adab", "Hajj", "Shukr", "Suhbah"]
 quotes_verified: ["Allah ʿAzza wa Jalla says, those who are on the right way should be straight. Uneven rows are something that Allah does not like. What Allah loves is for people, believers to be straight and upon order and discipline.", "People shouldn’t look for faults in anyone. Faults and incompleteness are in yourself, in us. Faults and shame are in us."]
 edited_at: 2026-06-10

@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhul Hijjah", "Farḍ", "Sunnah", "Worship", "Shaytan"]
 quotes_verified: ["Allah ʿAzza wa Jalla has granted these days to His servants so that they may receive more blessings and earn more rewards. These days are blessed for Muslims, believers, and those who know the right way.", "Some people confuse farḍ and sunnah acts. They neglect the farḍ and perform the sunnah act instead. Some don’t fast Ramaḍān but fast during Dhū al-Ḥijjah or Muḥarram. However, no sunnah can replace a farḍ.", "First, you must fulfill the farḍ. If you then perform the sunnah and the nāfilah, you will have gained twice.", "Even if you perform Sunnah throughout your whole life, they can never replace one farḍ. Not only can they not replace it, but there is also accountability for abandoning it.", "Allah ʿAzza wa Jalla swears by these ten days, the ten days of Dhū al-Ḥijjah. He honors these blessed days by swearing upon their name. There are certain special days and nights like this. These are days and nights that Allah ‘Azza wa-Jalla has bestowed upon our Prophet ṣallAllāhu ʿalayhi wa-sallam and his Ummah."]
 edited_at: 2026-05-18

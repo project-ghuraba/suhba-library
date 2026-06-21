@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Dhikr", "Asma Al-Husna"]
 quotes_verified: ["We, the Ummah of Muḥammad, have been granted ninety-nine names, plus the Greatest Name (Ismu l-Aʿzam).", "Some names are exclusive to Allah ʿAzza wa Jalla and are not given to anyone else. Some can be used by ordinary people and prophets, but some are entirely special.", "All ninety-nine names bestowed especially upon us, the Ummah of Muḥammad ṣallAllahu ʿalayhi wa-sallam are barakah. But as with everything, Allah ʿAzza wa Jalla has reserved the greatest, most honorable, and most beautiful names as a gift for our Prophet ṣallAllahu ʿalayhi wa-sallam.", "Even if the tongue is not engaged, the heart constantly recites “Allah, Allah,” so a person remains in a state of perpetual remembrance without even realizing it.", "The barakah of Allah ʿAzza wa Jalla’s blessed name strengthens a person’s īmān and body; light descends upon the heart and body through that name."]
 edited_at: 2026-05-08

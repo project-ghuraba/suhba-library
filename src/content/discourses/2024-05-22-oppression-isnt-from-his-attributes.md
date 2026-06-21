@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Divine Attributes", "Justice", "Oppression", "Akhlaq", "Tawbah"]
 quotes_verified: ["Oppression comes from kufr (disbelief). A person who believes in Allah doesn’t oppress anyone and doesn’t cause suffering to anyone, because Allah is Merciful.", "Oppressing is not from the attributes of Allah. Ḥāshā! (far from it). Justice is from His attributes. His attributes are the beautiful ways shown and taught to people by our Holy Prophet ṣallAllahu ʿalayhi wa-sallam. Those who apply them attain the pleasure of Allah. Who don’t apply them but make oppression will be the cause of wrath of Allah.", "Oppression is all kinds of injustice. All kinds of insolence and badness are oppression. Badness you do to everything and mankind, even to the earth you walk on is counted as oppression. Because Allah ʿAzza wa Jalla has certainly given a beautiful life to everyone. Who use it badly oppress themselves and oppress others.", "The way of Allah ʿAzza wa Jalla and our Holy Prophet ṣallAllahu ʿalayhi wa-sallam is the way of light and justice. It is a way without oppression."]
 edited_at: 2026-05-20

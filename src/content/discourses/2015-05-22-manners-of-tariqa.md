@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tariqa Adab", "Dhikr", "Tawbah", "Suhba", "Mercy"]
 quotes_verified: ["Our tariqa is the Naqshbandi Tariqa. The procedure, manner, and zikr of our tariqa is silent. We also do it silently when we do the khatm (congregational zikr). The Khatm Khwajagan is one part in the night of zikr. This is done according to the procedures coming from our Naqshbandi Masters, all the way from our Holy Prophet ṣallAllahu ʿalayhi wa-sallam, coming from Hadrat Abu Bakr.", "Our Shaykh Mawlana’s door, the door of Rumi (Mawlana), is open to everybody.", "Our door is open to whoever comes. It is Allah’s door and it is open to everybody.", "Our Holy Prophet ṣallAllahu ʿalayhi wa-sallam says, “If a person commits the same sin 70 times a day and repents 70 times, Allah forgives.”", "The door of repentance is open to all. There is no problem if the person does not insist. Insisting means not repenting. Allah forgives after repentance. Moreover, angels do not immediately write a sin committed by a person. They wait for a couple of hours to pass. If one does not finally repent, the angel on the right says, “We waited for so many hours and he did not repent. You can write it now.” But if he repents until that hour, his repentance is accepted and sins are not written."]
 edited_at: 2026-05-20

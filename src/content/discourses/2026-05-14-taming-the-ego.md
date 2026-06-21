@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Nafs", "Tazkiyah", "Ikhtiyar", "Mujahadah", "Salvation"]
 quotes_verified: ["The wisdom and creation of Allah ʿAzza wa Jalla cannot be comprehended by the mind.", "There is free will; everyone possesses free will. Allah ʿAzza wa Jalla has given that free will to man. One can go either way. Those who control their ego are saved. Those who follow their ego cannot be saved. Their end will not be good.", "Those who follow their ego and shayṭān become their slaves, and their end will not be good. That way, the way of the ego, is not good.", "The ego desires all kinds of ease or prefers evil more. But just as a wild animal can be tamed, so too can the ego.", "A person who controls their ego, however, becomes beloved among people; they do nothing but good. May Allah make us all among those who discipline their ego, inshā’Allāh."]
 edited_at: 2026-05-14

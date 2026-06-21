@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Islām", "Divine Will", "Tawakkul", "Raḥmah", "Riḍā"]
 quotes_verified: ["As the poet said: 'Mevla’m görelim neyler, Neylerse güzel eyler', 'Let’s see what God does. Whatever He does He does it best.'", "Islām is submission. You must submit to Allah. There’s no need to overthink", "There is no need for worry or fear. He is Arhamu r-Rāhimin, the Most Merciful of the Merciful. There is no one more merciful than Him.", "For the one who surrenders [to Allah], everything in life comes and goes easily. For the one who does not surrender, there is constant torment, suffering, and discomfort."]
 edited_at: 2026-05-15

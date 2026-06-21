@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Ramaḍān", "Worship", "Barakah", "Īmān", "Du'a"]
 quotes_verified: ["When you give, Allah gives. Therefore, there’s no need to hesitate.", "His generosity is great. We are also in need. We are in need of His generosity. The more He gives us, the more we will ask for, inshā’Allah. May He give, not diminish, but increase, inshā’Allah. May our good deeds, charity, and īmān increase."]
 edited_at: 2026-05-18

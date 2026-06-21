@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Taharah", "Ni'mah", "Shukr", "Barakah", "Sunnah"]
 quotes_verified: ["Cleanliness is the foundation of Islām. It is for ablution and ghusl. We cannot do without it. There is both physical and spiritual life with it. In physical life, certainly, nothing can be without water.", "Our Holy Prophet ṣallAllahu ‘alayhi wa-sallam in his holy ḥadīth sharīf cursed those who urinated in flowing water, in rivers and so. Cursing is not an easy thing. They were directly cursed.", "You cannot wash with petrol or diesel. You cannot wash with alcohol. They don’t make you clean. They are not clean. You can’t use them. But with this blessed water, both your ablution and ghusl is made. You receive spiritual rizq then.", "Our Holy Prophet ṣallAllahu ‘alayhi wa-sallam said not to waste water."]
 edited_at: 2026-05-16

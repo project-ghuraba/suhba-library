@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Karāmāt", "Akhir az-Zaman", "Mahdi", "Consequences"]
 quotes_verified: ["Sayyidinā Aḥmad Al-Rifai, the Pīr of Rifai Ṭarīqah, has great karamāt. He was in Ḥajj once. People heard a voice coming from the grave of Prophet ṣallAllahu ʿalayhi wa-sallam, saying, “My grandson has come. Come kiss my hand.” The white holy hand of our Prophet ṣallAllahu ʿalayhi wa-sallam came out and Sayyidinā Aḥmad Al-Rifai kissed it.", "Inshā’Allah, with the barakah of our mashāyikh, you take knowledge, real knowledge from Prophet ṣallAllahu ʿalayhi wa-sallam, from mashāyikh and Awliyā’ullāh.", "The holy book, Qur’ān ʿAẓīmu sh-Sha’n tells everything about this world and the next world.", "Every time, we have somebody who claims he is the savior of humanity. That he gives a good service; serving humanity. But when they’re doing something, it’s for their benefit, to make more money, to be richer. It’s mainly for this.", "Believers and those following the way of Allah and Prophet ṣallAllahu ʿalayhi wa-sallam don’t worry about anything. If you are like this, Allah makes your heart satisfied and you don’t worry about anything. Then, you will always be safe, inshā’Allah.", "What’s happening now is because of what people have been doing. Whatever they’re planting, they’re harvesting. If you plant wheat, barley, potatoes, this is what you’ll harvest. But if you plant bad things, bad things will come out; it won’t be useful for anything."]
 edited_at: 2026-05-08

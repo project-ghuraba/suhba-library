@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Fitnah", "Shaytan", "End Times", "Vigilance", "Salvation"]
 quotes_verified: ["Fitnah means something that harms people. Fitnah is from shayṭān. The shayṭān doesn’t want people to rest. He wants to lead them all to hell. And the way to hell passes through fitnah.", "The way of fitnah leads to hell. Fitnah is something that harms. Allah ʿAzza wa Jalla has cursed it. Our Prophet ṣallAllahu ʿalayhi wa-sallam said there is a curse upon those who instigate fitnah.", "One must be careful. Some people think they are doing good but instigate fitnah. Because of fitnah, they harm people. First and foremost, they harm themselves.", "You mustn’t fall into fitnah. You must be vigilant. The shayṭān is luring you into a trap. The shayṭān’s helpers are luring you into a trap so that all the good deeds, thawāb and rewards you have will be taken away. And on top of that, they will burden you with a great deal of sin so that you are guaranteed to go to hell. May Allah protect us."]
 edited_at: 2026-05-15

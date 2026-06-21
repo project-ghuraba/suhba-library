@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Hajj", "Fard", "Niyyah", "Ibadah"]
 quotes_verified: ["If you postpone fard, it’s uncertain whether you will be able to perform it later. But if you make the intention now and take a step, Allah ʿAzza wa Jalla will accept your fard according to your intention, and that fard will be lifted from your shoulders.", "Even a single prayer performed there (Makkah and Madina) earns you as much reward as all the prayers in your life. Fasting is already difficult there, but you will be performing the fard prayers in the Kaa’ba. You will pray in our Prophet ṣallAllahu ʿalayhi wa-sallam’s Mosque, Masjid Al-Nabawi. Each of these is worth a lifetime, both spiritually and materially."]
 edited_at: 2026-05-08

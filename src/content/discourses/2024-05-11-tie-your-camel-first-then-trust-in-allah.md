@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Tawakkul", "Qadar", "Asbab", "Submission"]
 quotes_verified: ["What Allah wills will happen. Everything has its time, or its happening. Therefore, if a person wants to be comfortable and live without worry, he must rely on Allah. He must submit to the will and destiny of Allah ʿAzza wa Jalla. Destiny is the secret of Allah. He must surrender to it.", "You should follow Allah’s work with the specialties that He has given you. That is relying on Allah. It is not: relying upon Him and sitting around doing nothing. You must do. Then, you must be pleased with what happens. You must accept what happens next."]
 edited_at: 2026-05-10

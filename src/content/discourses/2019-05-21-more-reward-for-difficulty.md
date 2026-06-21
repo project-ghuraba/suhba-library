@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Thawab", "Ibadah", "Nafs", "Iman", "Sabr"]
 quotes_verified: ["Our Prophet is saying, “Al-ajru ala qadari n-naṣab.” The more difficult the situation is, the more reward is given for it.", "People shouldn't think it is their fault when they can't pray. They say they can’t pray and leave prayer. It is wrong. You should make effort, because it is an order. It is an order, and you can't escape. You must do it. “It is hard for me.” If a person leaves everything that is hard, nothing will work out. Neither here, nor hereafter will it work.", "These difficult situations in this world mostly happen to people in difficult places. They get more rewards and same in Ākhirah. There are hardships in marriage, with children, with neighbours and people. But as we said, when you get along with them for Allah's pleasure, Allah will give you its reward."]
 edited_at: 2026-05-20

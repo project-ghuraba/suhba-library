@@ -14,6 +14,8 @@ status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
 version: 1
+source: ""
+type: suhba
 topic: ["Wasatiyyah", "Ghuluw", "Ahlu S-Sunnah", "Fitnah", "Murshid", "Suhbah", "Tariqah"]
 quotes_verified: ["Allah ʿAzza wa Jalla says, be an ummah in a middle state. Middle state means don’t go too far to one side or the other; be in the middle. Don’t be too strict, don’t be too lenient, don’t be too harsh. Everything should be in the middle state. Now, the people of madhhab, the people of our Prophet’s ṭarīqah, whom we call the Ahlu s-Sunnah wa al-Jama’ah, are in the middle. Those outside their way have strayed from the way.", "Going to extremes is harmful. Extremism is not good. By being moderate, you benefit yourself, benefit others, and find comfort. You preserve your religion.", "Those who lean towards the Ahlu l-Bayt are Ahlu s-Sunnah wa al-Jama’ah. Those who lean towards the Companions are Ahlu s-Sunnah wa al-Jama’ah. Those who curse the Companions are the extremists. Those who curse Ahlu l-Bayt are those who go to extremes also.", "The way of ṭarīqah is the middle way. Therefore, following it is beneficial for all Muslims. Otherwise, they say, the one without a murshid, his murshid is shayṭān. That situation harms people. It is good to be in the middle at all times, both for dunyā and ākhirah."]
 edited_at: 2026-05-19
