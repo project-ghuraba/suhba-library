@@ -11,7 +11,7 @@ location_country: "Germany"
 youtube_url: "https://www.youtube.com/watch?v=n_emLLb6qlA"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-27-mankind-will-harvest-what-they-plant.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Karāmāt", "Akhir az-Zaman", "Mahdi", "Consequences"]

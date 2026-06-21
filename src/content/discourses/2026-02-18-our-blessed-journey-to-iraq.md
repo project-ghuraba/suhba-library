@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=AHSwAPZ2lBA"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-18-our-blessed-journey-to-iraq.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ziyarah", "Awliya", "Himmah", "Iman", "Suhbah", "Barakah"]

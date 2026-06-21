@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=SAC48rMbOTU"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-05-knowledge-is-to-know-allah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ma'rifah", "Ilm", "Niyyah", "'Ulama", "Farḍ"]

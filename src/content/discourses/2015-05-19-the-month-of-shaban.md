@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "http://depo.hakkani.org/video/20150519_Saban_Ayi.mp4"
 image: "https://r2.suhbalibrary.org/suhbas/2015-05-19-the-month-of-shaban.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Sha'ban", "Salawat", "Barat", "Prophetic Love"]

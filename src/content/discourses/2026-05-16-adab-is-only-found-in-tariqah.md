@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=ZWgtNYYK3ao"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-16-adab-is-only-found-in-tariqah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Tariqah", "Sunnah", "Suhba"]

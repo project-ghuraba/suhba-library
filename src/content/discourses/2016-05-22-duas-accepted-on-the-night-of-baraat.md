@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "http://depo.hakkani.org/video/20160522_Zarar_Kotulugu_Yapanadir.mp4"
 image: "https://r2.suhbalibrary.org/suhbas/2016-05-22-duas-accepted-on-the-night-of-baraat.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Bara'at", "Dua", "Dhikr", "Iman", "Guidance"]

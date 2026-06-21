@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=nwpfdJYamW0"
 image: "https://r2.suhbalibrary.org/suhbas/2024-06-11-benefit-from-his-generosity.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dhul Hijjah", "Divine Generosity", "Divine Mercy", "Barakah", "Spiritual Rewards", "Guidance"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=R_BUqvX5yNs"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-16-our-years-shouldnt-be-wasted.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Qiyamah", "Dhikr", "Tawbah", "Mahdi", "Muharram", "Ajal"]

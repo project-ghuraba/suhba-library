@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=Cc3mqQLZiGU"
 image: "https://r2.suhbalibrary.org/suhbas/2024-05-11-tie-your-camel-first-then-trust-in-allah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Tawakkul", "Qadar", "Asbab", "Submission"]

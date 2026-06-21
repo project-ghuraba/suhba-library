@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=bJ0oi7eb1NQ"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-07-never-respond-to-the-ignorant.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Sunnah", "Nafs", "Shaytan", "Hikmah"]

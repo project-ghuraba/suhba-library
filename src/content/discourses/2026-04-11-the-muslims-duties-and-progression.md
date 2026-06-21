@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=-HfijH-l1GQ"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-11-the-muslims-duties-and-progression.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Istiqamah", "Ibādah", "Jannah", "Akhlaq", "Tawfiq"]

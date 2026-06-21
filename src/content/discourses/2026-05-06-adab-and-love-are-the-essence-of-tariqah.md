@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=7B3kKOYQyDI"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-06-adab-and-love-are-the-essence-of-tariqah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Love", "Ṭarīqah", "Awliya"]

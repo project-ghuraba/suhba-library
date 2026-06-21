@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=pps1Pz-4Tbk"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-27-a-true-believer.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Iman", "Tawakkul", "Akhlaq", "Suhbah", "Nikah"]

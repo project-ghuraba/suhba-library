@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=HM3dgeqimjI"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-25-one-scale-to-know-the-truth.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Truth", "Fitnah", "Caliphate", "Leadership", "Vigilance"]

@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=mXhgvLhcU44"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-13-know-every-night-as-laylatu-l-qadr.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Laylatu L-Qadr", "Ramadan", "Adab", "Islam", "Qur'an"]

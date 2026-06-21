@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=E3XCxYpUWKk"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-11-oppressors-suffer-here-and-hereafter.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Oppression", "Sabr", "Rahmah", "Divine Justice", "Akhirah", "Dunya"]

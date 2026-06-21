@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=Wl7ZjD-JyK0"
 image: "https://r2.suhbalibrary.org/suhbas/2024-05-15-the-real-forever.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Akhirah", "Awliya", "Suhbah", "Hidayah", "Barakah", "Himmah"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=Y0tdsg7a7EU"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-20-avoiding-evil-is-our-duty.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Sayyi'at", "Rahmah", "Taklif", "Hidayah"]

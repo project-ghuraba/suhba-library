@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=QuaafZdNL58"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-04-think-good-of-people-but-dont-be-cheated.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Husn Az-Zann", "Vigilance", "Wisdom", "Sunnah", "Deception"]

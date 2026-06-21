@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=36MMuPj8S4Q"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-05-division-in-tariqah-is-unacceptable.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ṭarīqah", "Unity", "Adab", "Suhbah", "Shaytan", "Hikmah"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "http://depo.hakkani.org/video/20150615_Iyilige_Iyilik_Yapin.mp4"
 image: "https://r2.suhbalibrary.org/suhbas/2015-06-15-return-kindness-with-kindness.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ihsan", "Huquq Al-Ibad", "Nafs", "Tariqa"]

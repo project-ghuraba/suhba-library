@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=qM7RzYRCEY8"
 image: "https://r2.suhbalibrary.org/suhbas/2025-09-15-discipline-your-childrens-egos-early.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Nafs", "Tarbiyah", "Salat", "Khidmah", "Adab"]

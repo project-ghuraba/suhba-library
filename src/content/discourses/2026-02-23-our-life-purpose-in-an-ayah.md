@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=a9Laexhvm9M"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-23-our-life-purpose-in-an-ayah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Life Purpose", "Ibadah", "Salat", "Khushu'", "Waswasah", "Facilitation"]

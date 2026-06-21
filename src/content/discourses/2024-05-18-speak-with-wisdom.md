@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=HXS51xe7SrY"
 image: "https://r2.suhbalibrary.org/suhbas/2024-05-18-speak-with-wisdom.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Hikmah", "Adab", "Dawah", "Sabr"]

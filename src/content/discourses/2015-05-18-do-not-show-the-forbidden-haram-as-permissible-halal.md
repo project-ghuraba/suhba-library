@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "http://depo.hakkani.org/video/20150518_Harami_Helal_Olarak_Gostermeyin.mp4"
 image: "https://r2.suhbalibrary.org/suhbas/2015-05-18-do-not-show-the-forbidden-haram-as-permissible-halal.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Halal", "Haram", "Shukr", "Wasatiyyah", "Tazkiyah"]

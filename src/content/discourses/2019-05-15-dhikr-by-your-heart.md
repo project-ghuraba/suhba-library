@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=JCOZGrZOK_A"
 image: "https://r2.suhbalibrary.org/suhbas/2019-05-15-dhikr-by-your-heart.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dhikr", "Tariqa", "Iman", "Awliya", "Karama"]

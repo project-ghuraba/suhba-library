@@ -11,11 +11,11 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=tiZ_Fgm6zgU"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-20-beware-of-causing-fitnah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Fitnah", "Niyyah", "Murshid", "Salat", "Adab"]
-quotes_verified: ["Stirring up or causing fitnah is not a good thing. Fitnah is a bad thing. Even if it seems good – there are some things that, even if you are right, you shouldn’t do.", "When Mawlānā Shaykh Nāẓim was in Ḥajj, he wouldn’t pray behind the imāms at the Ka’bah. Because their madhhabs and beliefs were flawed and incorrect. Many fatwas have been issued stating that one shouldn’t pray behind them; however Mawlānā Shaykh Nāẓim says, “You should intend to pray behind the true imām; the imām in front of you is merely a figurehead.” Its value depends on your intention; you are there for the sake of Allah.", "When you stand behind any imām, do not cause fitnah; if it is prayer time, pray behind him. If you are in Ḥajj, it is the same way. Wherever you stand, make your intention for the sake of Allah.", "Indeed, our Prophet ṣallAllāhu ʿalayhi wa-sallam said, *“Niyyatu l-mar’i khayrun min ʿamalih.”* “The intention of a person is better than his deed.”"]
+quotes_verified: ["Stirring up or causing fitnah is not a good thing. Fitnah is a bad thing. Even if it seems good – there are some things that, even if you are right, you shouldn’t do.", "When Mawlānā Shaykh Nāẓim was in Ḥajj, he wouldn’t pray behind the imāms at the Ka’bah. Because their madhhabs and beliefs were flawed and incorrect. Many fatwas have been issued stating that one shouldn’t pray behind them; however Mawlānā Shaykh Nāẓim says, “You should intend to pray behind the true imām; the imām in front of you is merely a figurehead.” Its value depends on your intention; you are there for the sake of Allah.", "When you stand behind any imām, do not cause fitnah; if it is prayer time, pray behind him. If you are in Ḥajj, it is the same way. Wherever you stand, make your intention for the sake of Allah.", "Indeed, our Prophet ṣallAllāhu ʿalayhi wa-sallam said, “Niyyatu l-mar’i khayrun min ʿamalih.” “The intention of a person is better than his deed.”"]
 edited_at: 2026-05-20
 ---
 

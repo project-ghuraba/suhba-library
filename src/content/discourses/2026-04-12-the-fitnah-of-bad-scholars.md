@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=7piniPq0hHI"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-12-the-fitnah-of-bad-scholars.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Fitnah", "Iman", "Ulama-us-Su'", "Madhhab", "Tariqah", "Sunnah"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=-bXZQC7EmwA"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-09-oppression-is-darkness.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dhulm", "Suhbah", "Tawakkul", "Taqwa", "Akhira"]

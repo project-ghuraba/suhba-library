@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=M42pWMC040k"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-14-the-greatest-honor-is-being-from-his-ummah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ummah", "Shafa'ah", "Rahmah", "Shukr"]

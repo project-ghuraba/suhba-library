@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=GjF0PpdsR70"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-19-fast-according-to-your-country.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ramadan", "Ru'yah al-Hilal", "Fiqh", "Jam'iyyah"]

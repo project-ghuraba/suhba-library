@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=cOLW_ADnBtA"
 image: "https://r2.suhbalibrary.org/suhbas/2019-05-13-a-wind-from-under-the-throne.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ramadan", "Siyam", "Taqwa", "Jannah", "Nafs", "Ni'mah"]

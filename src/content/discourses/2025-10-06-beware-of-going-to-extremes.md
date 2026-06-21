@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=jpx8jh_QQ4o"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-06-beware-of-going-to-extremes.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Wasatiyyah", "Ghuluw", "Ahlu S-Sunnah", "Fitnah", "Murshid", "Suhbah", "Tariqah"]

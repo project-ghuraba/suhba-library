@@ -11,7 +11,7 @@ location_country: "England"
 youtube_url: "https://www.youtube.com/watch?v=LMp4rJZCjAA"
 image: "https://r2.suhbalibrary.org/suhbas/1987-05-13-wings-of-wisdom.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Hikmah", "Ikhlas", "Yaqin", "Suhba", "Hudūr"]

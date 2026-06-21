@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=Bur9AMDLL6s"
 image: "https://r2.suhbalibrary.org/suhbas/2024-06-15-the-holy-day-of-arafah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["'Arafah", "Bid'ah", "Murshid", "Ibadah", "Ḥajj", "Suhbah"]

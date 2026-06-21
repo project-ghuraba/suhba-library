@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=yHDvGgp-JBM"
 image: "https://r2.suhbalibrary.org/suhbas/2025-06-10-hajj-is-for-the-destined.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Hajj", "Qadar", "Shukr", "Niyyah", "Barakah"]

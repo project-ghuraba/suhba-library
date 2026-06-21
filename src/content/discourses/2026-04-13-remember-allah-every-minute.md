@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=B3PLQ5rGYco"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-13-remember-allah-every-minute.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dhikr", "Muraqabah", "Amal", "Akhira"]

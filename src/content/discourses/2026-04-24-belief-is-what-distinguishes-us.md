@@ -11,7 +11,7 @@ location_country: "Germany"
 youtube_url: "https://www.youtube.com/watch?v=j8yMwmlxNlU"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-24-belief-is-what-distinguishes-us.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Jum'ah", "Iman", "Sabr", "Suhbah", "Adab"]

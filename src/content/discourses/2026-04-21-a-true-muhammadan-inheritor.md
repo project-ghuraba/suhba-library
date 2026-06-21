@@ -11,7 +11,7 @@ location_country: "Netherlands"
 youtube_url: "https://www.youtube.com/watch?v=yYbEKGoWU10&t=883s"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-21-a-true-muhammadan-inheritor.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Wilayah", "Suhbah", "Niyyah", "Fitnah", "Sabr", "Da'wah"]

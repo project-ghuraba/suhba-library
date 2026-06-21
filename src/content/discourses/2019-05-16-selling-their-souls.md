@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=9X197LabBao"
 image: "https://r2.suhbalibrary.org/suhbas/2019-05-16-selling-their-souls.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Suhba", "Misguidance", "Akhirah", "Religious Authority", "Traditional Knowledge"]

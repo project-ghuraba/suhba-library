@@ -11,7 +11,7 @@ location_country: "Germany"
 youtube_url: "https://www.youtube.com/watch?v=-a4bgiZ88k8"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-24-our-children-are-treasures.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Fitnah", "Tarbiyah", "Ghaflah", "Shaytan", "Du'a"]

@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=rpDzSRd8-Q4"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-23-do-not-seek-responsibility.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Amānah", "Nafs", "Ulama", "Humility", "Dunya", "Leadership"]

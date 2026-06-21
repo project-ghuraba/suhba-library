@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=DPzDN6lodcs"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-03-happy-are-the-ones-on-the-way-of-allah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Suhbah", "Iman", "Dunya", "Akhirah", "Shukr", "Tawakkul"]

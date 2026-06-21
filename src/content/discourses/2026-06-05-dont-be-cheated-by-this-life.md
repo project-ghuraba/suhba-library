@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=cYFTL2tTXdk"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-05-dont-be-cheated-by-this-life.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dunya", "Akhirah", "Iman", "Aql", "Zuhd"]

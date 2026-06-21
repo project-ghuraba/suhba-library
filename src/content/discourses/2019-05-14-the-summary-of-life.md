@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=cX3J6AxnbWc"
 image: "https://r2.suhbalibrary.org/suhbas/2019-05-14-the-summary-of-life.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Da'wah", "Amal Salih", "Najat", "Sunnah", "Purpose Of Life", "Akhirah"]

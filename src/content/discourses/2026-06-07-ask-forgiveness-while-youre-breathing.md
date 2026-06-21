@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=W0tFqvv-KuE"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-07-ask-forgiveness-while-youre-breathing.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Tawbah", "Hisab", "Ghaflah", "Akhirah", "Rahmah"]

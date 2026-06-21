@@ -11,7 +11,7 @@ location_country: "Argentina"
 youtube_url: "https://www.youtube.com/watch?v=U4agH_U85NI"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-15-secret-difference-of-material-and-spiritual-love.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Mahabbah", "Suhbah", "Awliya", "Tawhid", "Perfection"]

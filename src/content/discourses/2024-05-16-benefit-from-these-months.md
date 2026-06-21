@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=1thiGGDpeFI"
 image: "https://r2.suhbalibrary.org/suhbas/2024-05-16-benefit-from-these-months.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ashhuru l-Hurum", "Thawab", "Qiyamah", "Ibadah", "Taqwa", "Taqarrub"]

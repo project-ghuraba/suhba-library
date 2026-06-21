@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=USPsVNtkoVA"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-15-continuity-is-the-greatest-karamah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dawam", "Karāmah", "Ṭarīqah", "Dhikr", "Suhbah", "Nafs"]

@@ -11,7 +11,7 @@ location_country: "England"
 youtube_url: "https://www.youtube.com/watch?v=QjtBjRkJeMA"
 image: "https://r2.suhbalibrary.org/suhbas/1984-06-11-who-is-son-of-adam.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Bani Adam", "Wilayah", "Nubuwah", "Adab", "Qalb"]

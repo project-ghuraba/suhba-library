@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=BxEjEhRa77g"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-16-one-night-equal-to-a-lifetime.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Laylatul Qadr", "Murshid", "Iman", "Barakah", "Suhbah", "Ibadah"]

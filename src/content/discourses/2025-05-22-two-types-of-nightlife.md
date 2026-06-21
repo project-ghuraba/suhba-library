@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=DClenUEgeKU"
 image: "https://r2.suhbalibrary.org/suhbas/2025-05-22-two-types-of-nightlife.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Tahajjud", "Adab", "Thawab", "Shaytan", "Dunya"]

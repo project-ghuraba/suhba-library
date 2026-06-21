@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=_IBMyJgG6mk"
 image: "https://r2.suhbalibrary.org/suhbas/2025-06-15-an-order-to-obey-uli-l-amr.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Obedience", "Ūli L-Amr", "Shukr", "Ibtila'", "Ridha"]

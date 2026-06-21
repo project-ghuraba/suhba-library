@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=h9Rzrd6iRrs"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-16-be-grateful-for-the-favor-of-iman.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Shukr", "Īmān", "Ṭarīqah", "Sharīʿah", "Ni'am", "Nafs"]

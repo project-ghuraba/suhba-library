@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "http://depo.hakkani.org/video/20160519_Sabani_Serif.mp4"
 image: "https://r2.suhbalibrary.org/suhbas/2016-05-19-honourable-shaban.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Shaʿbān", "Salawat", "Tawbah", "Baraka", "Ummah"]

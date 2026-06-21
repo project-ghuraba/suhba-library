@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=mnrC65A6fNM"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-07-love-the-prophet-more-than-yourself.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Prophetic Love", "Maqam", "Shafa'ah", "Ummah", "Shaytan"]

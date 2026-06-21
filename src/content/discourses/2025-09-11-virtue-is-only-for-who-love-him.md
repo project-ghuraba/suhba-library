@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=sAijoQr4OVU"
 image: "https://r2.suhbalibrary.org/suhbas/2025-09-11-virtue-is-only-for-who-love-him.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Hubb al-Nabi", "Fadhilah", "Shafa'ah", "Rabi' al-Awwal", "Shaytan", "Suhbah"]

@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=jmpt8H8R_uY"
 image: "https://r2.suhbalibrary.org/suhbas/2015-05-12-the-importance-of-the-sunnah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Sunnah", "Adab", "Salat", "Tarīqah", "Prophetic Love"]

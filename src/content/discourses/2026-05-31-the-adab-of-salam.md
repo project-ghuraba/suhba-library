@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=QpgJLaRRatQ"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-31-the-adab-of-salam.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Salām", "Sunnah", "Farḍ", "Riḍwan Allah", "Ikhlaq"]

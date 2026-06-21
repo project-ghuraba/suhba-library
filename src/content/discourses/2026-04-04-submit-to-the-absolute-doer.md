@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=fdx_YcrabTM"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-04-submit-to-the-absolute-doer.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Islām", "Divine Will", "Tawakkul", "Raḥmah", "Riḍā"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=BZa-j3fu4U8"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-04-intend-to-go-to-hajj.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Hajj", "Fard", "Niyyah", "Ibadah"]

@@ -6,12 +6,12 @@ date_hijri: ""
 speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
 speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
 location_venue: "Shaykh Nāẓim Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
+location_city: "Lefke"
+location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=4ACd28s5vnI"
 image: "https://r2.suhbalibrary.org/suhbas/2015-05-13-dont-imitate-them.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Muslim Identity", "Tolerance", "Tariqa", "Kufr"]

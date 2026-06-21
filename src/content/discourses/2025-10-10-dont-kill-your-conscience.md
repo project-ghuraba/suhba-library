@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=nDWepAAueaw"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-10-dont-kill-your-conscience.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Conscience", "Nafs", "Iman", "Hidayah", "Insaniyyah"]

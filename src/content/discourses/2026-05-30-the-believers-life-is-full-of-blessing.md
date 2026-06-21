@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=QpgJLaRRatQ"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-30-the-believers-life-is-full-of-blessing.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Akhirah", "Dhikr", "Adab an-Nabi", "Shafa'ah", "Barakah", "Taqwa"]

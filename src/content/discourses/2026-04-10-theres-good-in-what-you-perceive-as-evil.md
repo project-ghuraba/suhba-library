@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=bO2A26DaeSY"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-10-theres-good-in-what-you-perceive-as-evil.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Qadar", "Tawbah", "Hikmah", "Tawakkul", "Suhba", "Shaytan"]

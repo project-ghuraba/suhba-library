@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=L2tmnkYrLbk"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-14-the-greatest-name-of-allah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Asmaul Husna", "Ism-ul Azam", "Dhikr", "Du'a", "Barakah"]

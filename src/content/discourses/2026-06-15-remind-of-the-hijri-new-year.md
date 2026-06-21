@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=UerOjUsHanU"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-15-remind-of-the-hijri-new-year.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Hijra", "Muharram", "Ashura", "Barakah", "Mahdi"]

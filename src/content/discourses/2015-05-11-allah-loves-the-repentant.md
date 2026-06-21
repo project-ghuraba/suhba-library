@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=mthrJ2S0c_I"
 image: "https://r2.suhbalibrary.org/suhbas/2015-05-11-allah-loves-the-repentant.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Tawbah", "Divine Love", "Forgiveness", "Sincerity", "Major Sins", "Spiritual Test"]

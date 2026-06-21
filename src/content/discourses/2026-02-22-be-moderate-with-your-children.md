@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=S1crKYkFxd8"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-22-be-moderate-with-your-children.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Wasatiyyah", "Tarbiyah", "Adolescence", "Prophetic Guidance", "Rahmah", "Suhbah"]

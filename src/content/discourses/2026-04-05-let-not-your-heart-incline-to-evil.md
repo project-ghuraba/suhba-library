@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=fdx_YcrabTM"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-05-let-not-your-heart-incline-to-evil.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Iman", "Dhikr", "Shaytan", "Istiqamah", "Divine Protection"]

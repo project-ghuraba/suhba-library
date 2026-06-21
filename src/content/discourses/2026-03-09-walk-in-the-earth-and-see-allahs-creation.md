@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=AjQK-p9b3jo"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-09-walk-in-the-earth-and-see-allahs-creation.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Tafakkur", "Sunnah", "Divine Providence", "Sadaqah", "Iman", "Suhba"]

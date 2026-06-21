@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=L4kL5JUc_Zo"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-22-blessings-increase-through-gratitude.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Shukr", "Ni'mah", "Sadaqah", "Duha", "Iman", "Shafa'ah"]

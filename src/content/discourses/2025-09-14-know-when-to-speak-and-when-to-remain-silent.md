@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=Rf7kVMl5lDA"
 image: "https://r2.suhbalibrary.org/suhbas/2025-09-14-know-when-to-speak-and-when-to-remain-silent.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Suhba", "Tawbah", "Kalam", "Hikmah"]

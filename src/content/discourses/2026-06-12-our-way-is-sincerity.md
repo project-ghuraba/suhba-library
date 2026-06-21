@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=xlPAGYT5-mY"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-12-our-way-is-sincerity.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ikhlas", "Suhbah", "Himmah", "Shirk", "Barakah", "Iman"]

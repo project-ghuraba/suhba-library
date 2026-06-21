@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=7QOoHPfh8uM"
 image: "https://r2.suhbalibrary.org/suhbas/2025-09-26-how-to-stay-steadfast-on-the-right-way.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Istiqamah", "Sunnah", "Murshid", "Mahabba", "Tariqah", "Fitnah"]
