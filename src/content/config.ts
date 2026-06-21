@@ -73,7 +73,7 @@ const discourseSchema = z.object({
     'verified|level 5',
   ]).optional(),
 
-  youtube_url: absoluteUrl.optional(),
+  youtube_url: z.union([absoluteUrl, z.literal('')]).optional().transform(v => v || undefined),
 
   image: absoluteUrl.optional(),
 
