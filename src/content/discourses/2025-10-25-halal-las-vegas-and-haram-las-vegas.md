@@ -11,7 +11,7 @@ location_country: "Argentina"
 youtube_url: "https://www.youtube.com/watch?v=8gzDPBkc5Fs"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-25-halal-las-vegas-and-haram-las-vegas.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ḥalāl", "Ḥarām", "Gambling", "Sincerity", "Suhbah", "Dunyā", "Dajjal"]

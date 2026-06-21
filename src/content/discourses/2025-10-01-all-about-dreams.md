@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=jO7FE9UcYIU"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-01-all-about-dreams.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dreams", "Tafsir", "Divine Wisdom", "Spiritual Protection", "Shaytan"]

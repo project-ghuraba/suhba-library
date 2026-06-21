@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=DzcgVN-3oa8"
 image: "https://r2.suhbalibrary.org/suhbas/1986-06-06-kissing-the-hand.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Respect", "Wali", "Sunnah", "Tradition", "Scholarship"]

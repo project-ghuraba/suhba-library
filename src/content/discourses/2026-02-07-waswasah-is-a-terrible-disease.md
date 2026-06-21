@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=zbVTWH3vG6A"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-07-waswasah-is-a-terrible-disease.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Waswasah", "Shaytan", "Taysir", "Salat", "Hikmah"]

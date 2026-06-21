@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "http://saltanat.org/videopage.php?id=17161&name=2017-06-10_tr_TheValueOfAlFatihah_SM.mp4"
 image: "https://r2.suhbalibrary.org/suhbas/2017-06-10-the-value-of-al-fatihah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Fatiha", "Spiritual Gifts", "Shifa", "Dua", "Shukr"]

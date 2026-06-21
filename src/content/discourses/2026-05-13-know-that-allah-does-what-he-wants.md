@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=sWrV661kq-s"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-13-know-that-allah-does-what-he-wants.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Qadar", "Iman", "Hikmah", "Adab"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=mJX9APqTJBs"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-29-whats-most-important-in-life-is-allahs-pleasure.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Riḍā Allāh", "Īmān", "Nafs", "Suhbah", "Qanāʿah"]

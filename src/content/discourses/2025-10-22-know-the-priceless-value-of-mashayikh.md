@@ -11,7 +11,7 @@ location_country: "Argentina"
 youtube_url: "https://www.youtube.com/watch?v=2M5LaUTVBMk"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-22-know-the-priceless-value-of-mashayikh.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Mashāyikh", "Suhba", "Awliyā", "Barakah", "Tarīqah", "Ma'rifa"]

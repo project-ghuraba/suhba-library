@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=1o7redU0FxU"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-06-if-you-love-allah-follow-the-prophet.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Hubb Allah", "Ittiba' Rasool", "Insaniyah", "Najāt", "Fitna", "Iman"]

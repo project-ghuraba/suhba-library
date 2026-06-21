@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=trO1KpmOgRg"
 image: "https://r2.suhbalibrary.org/suhbas/2015-05-14-allahs-endless-knowledge-oceans.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Divine Knowledge", "Human Limitations", "Tawḍuʿ", "Shukr", "Suhba"]

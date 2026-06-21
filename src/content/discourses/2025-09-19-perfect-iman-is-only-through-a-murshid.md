@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=5WM4nSgcd4I"
 image: "https://r2.suhbalibrary.org/suhbas/2025-09-19-perfect-iman-is-only-through-a-murshid.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Iman", "Murshid", "Tariqah", "Suhba", "Shaytan", "Shafa'ah"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=wREwLSRH74w"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-03-keep-prayer-brief-in-congregation.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Sunnah", "Suhbah", "Salat", "Jam'iyyah"]

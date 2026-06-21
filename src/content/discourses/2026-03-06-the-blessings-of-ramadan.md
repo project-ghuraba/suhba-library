@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=8lNymFflRBc"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-06-the-blessings-of-ramadan.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ramaḍān", "Ghazwah", "Ahlul Bayt", "Islām", "Barakah", "Mahdi", "Suhbah"]

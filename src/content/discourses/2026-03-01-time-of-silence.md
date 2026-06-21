@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=HPTgfTd_QUk"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-01-time-of-silence.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Sukut", "Sunnah", "Akhir Zaman", "Mahdi", "Adab"]

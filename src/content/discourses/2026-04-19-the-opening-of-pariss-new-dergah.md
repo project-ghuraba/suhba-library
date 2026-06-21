@@ -11,7 +11,7 @@ location_country: "France"
 youtube_url: "https://www.youtube.com/watch?v=EgdvnxdNfPg"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-19-the-opening-of-pariss-new-dergah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Suhbah", "Zawiyah", "Khidmah", "Iman", "Hidayah", "Jazaa"]

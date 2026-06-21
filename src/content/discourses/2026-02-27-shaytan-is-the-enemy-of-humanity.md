@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=hra-jiVK0bI"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-27-shaytan-is-the-enemy-of-humanity.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Shaytan", "Suhbah", "Tariqah", "Iman", "Guidance"]

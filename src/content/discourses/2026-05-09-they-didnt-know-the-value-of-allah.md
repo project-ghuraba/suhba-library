@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=rTLbEyJNx7Q"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-09-they-didnt-know-the-value-of-allah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Tawhid", "Shirk", "Adab", "Tafwid", "Nafs", "Mahdi"]

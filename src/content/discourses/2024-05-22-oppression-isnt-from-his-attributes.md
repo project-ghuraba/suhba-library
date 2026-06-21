@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=cDY1dLxZigA"
 image: "https://r2.suhbalibrary.org/suhbas/2024-05-22-oppression-isnt-from-his-attributes.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Divine Attributes", "Justice", "Oppression", "Akhlaq", "Tawbah"]

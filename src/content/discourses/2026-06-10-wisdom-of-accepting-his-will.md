@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=_TJ9VNg4vts"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-10-wisdom-of-accepting-his-will.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Taslim", "Hikmah", "Qadar", "Shukr", "Inner Peace"]

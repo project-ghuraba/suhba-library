@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=t-W6m1kKLSM"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-17-teach-children-the-fear-of-allah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Taqwa", "Hikmah", "Tarbiya", "Akhlaq"]

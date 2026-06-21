@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=2ak2bNRLnCE"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-17-tayyu-z-zaman-a-karamah-of-mawlana.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Karāmāt", "Awliyā", "Suhbah", "Steadfastness", "Tasarruf", "Guidance"]

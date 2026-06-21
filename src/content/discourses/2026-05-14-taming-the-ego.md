@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=QOmlzv2PIJk"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-14-taming-the-ego.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Nafs", "Tazkiyah", "Ikhtiyar", "Mujahadah", "Salvation"]

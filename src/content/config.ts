@@ -62,7 +62,16 @@ const discourseSchema = z.object({
 
   location_venue: nfcString.optional(),
 
-  transcript_quality: z.enum(['draft', 'reviewed', 'verified']).optional(),
+  transcript_quality: z.enum([
+    'draft',
+    'reviewed',
+    'verified',
+    'verified|level 1',
+    'verified|level 2',
+    'verified|level 3',
+    'verified|level 4',
+    'verified|level 5',
+  ]).optional(),
 
   youtube_url: absoluteUrl.optional(),
 

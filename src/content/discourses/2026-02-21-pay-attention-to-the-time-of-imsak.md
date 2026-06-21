@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=MnK2At_dL8U"
 image: "https://r2.suhbalibrary.org/suhbas/2026-02-21-pay-attention-to-the-time-of-imsak.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ramaḍān", "Imsāk", "Fasting", "Niyyah", "Prayer Times", "Tawbah"]

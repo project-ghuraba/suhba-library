@@ -11,7 +11,7 @@ location_country: "France"
 youtube_url: "https://www.youtube.com/watch?v=fM_RwIX_j2w"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-18-the-lie-of-the-french-revolution.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Nafs", "Khilafah", "Mahdi", "Fitna", "Zulm", "Suhbah"]

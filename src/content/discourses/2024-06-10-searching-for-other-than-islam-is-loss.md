@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=aZUM1VI89YQ"
 image: "https://r2.suhbalibrary.org/suhbas/2024-06-10-searching-for-other-than-islam-is-loss.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Islam", "Guidance", "Akhirah", "Shaytan", "Suhba"]

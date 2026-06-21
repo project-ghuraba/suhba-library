@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=6_RZxsGw-2g"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-12-awareness-about-hijamah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ḥijāmah", "Tibb Nabawi", "Health", "Adab"]

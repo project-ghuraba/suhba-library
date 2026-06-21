@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=wb7sT-NiUQM"
 image: "https://r2.suhbalibrary.org/suhbas/2024-05-17-the-beautiful-worship-of-hajj.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Hajj", "Fard", "Tawbah", "Purification"]

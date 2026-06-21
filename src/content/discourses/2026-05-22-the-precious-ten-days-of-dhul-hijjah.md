@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=26grtmnuE2A"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-22-the-precious-ten-days-of-dhul-hijjah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dhul Hijjah", "Arafah", "Qiyam ul-Layl", "Shafa'ah", "Adab", "Shukr"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=8IohdM1yQvY"
 image: "https://r2.suhbalibrary.org/suhbas/2025-09-16-marriage-is-by-allahs-wisdom.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Qadar", "Zawāj", "Dunyā", "Shukr", "Tarbiyah", "Suhbah"]

@@ -11,7 +11,7 @@ location_country: "England"
 youtube_url: "https://www.youtube.com/watch?v=dajbce_34_o"
 image: "https://r2.suhbalibrary.org/suhbas/1984-08-02-the-first-step.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Tawhid", "Ubūdiyyah", "Mīthāq", "Nafs", "Hamd"]

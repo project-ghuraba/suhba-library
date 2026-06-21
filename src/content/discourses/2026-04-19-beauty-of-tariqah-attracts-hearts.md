@@ -11,7 +11,7 @@ location_country: "France"
 youtube_url: "https://www.youtube.com/watch?v=LVOKn7AXKMY"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-19-beauty-of-tariqah-attracts-hearts.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ṭarīqah", "Jamal", "Da'wah", "Hidāyah", "Suhbah", "Masjid"]

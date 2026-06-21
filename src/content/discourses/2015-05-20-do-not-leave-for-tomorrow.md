@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: " http://depo.hakkani.org/video/20150520_Yarina_Birakma.mp4"
 image: "https://r2.suhbalibrary.org/suhbas/2015-05-20-do-not-leave-for-tomorrow.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Nafs", "Ihsan", "Dua", "Shaytan", "Timeliness"]

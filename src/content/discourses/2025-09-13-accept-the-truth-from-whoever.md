@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=qkYnSWAMGYc"
 image: "https://r2.suhbalibrary.org/suhbas/2025-09-13-accept-the-truth-from-whoever.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Hikmah", "Nafs", "Ilm"]

@@ -11,7 +11,7 @@ location_country: "Argentina"
 youtube_url: "https://www.youtube.com/watch?v=GgbT7yII4e8"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-24-like-the-heart-of-sayyidina-ibrahim-alayhi-s-salam.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Iman", "Prophethood", "Tawhid", "Miracles", "Hajj", "Abdāl"]

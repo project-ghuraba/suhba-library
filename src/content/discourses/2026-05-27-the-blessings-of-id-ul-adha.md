@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=O5lNVKWH2z4"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-27-the-blessings-of-id-ul-adha.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["EidAlAdha", "Hajj", "Qurban", "Madhhab", "Barakah"]

@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=FDtpg2yErI8"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-14-what-is-paradise.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Jannah", "Dunya", "Akhirah", "Suhbah", "Iman", "Amal Salih"]

@@ -11,7 +11,7 @@ location_country: "England"
 youtube_url: "https://www.youtube.com/watch?v=3a5KHRx6G6Y"
 image: "https://r2.suhbalibrary.org/suhbas/1987-05-13-guard-your-eyes.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Adab", "Gaze", "Marifa", "Wisdom", "Tazkiya", "Suhba"]

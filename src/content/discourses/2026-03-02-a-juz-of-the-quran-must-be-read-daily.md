@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=uQhMb1ZGOZE"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-02-a-juz-of-the-quran-must-be-read-daily.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Qur'an", "Ramadan", "Tilawah", "Wird", "Barakah", "Tariqah"]

@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=gCCaQduG5pw"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-07-never-forget-the-favor-among-you.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Gratitude", "Murshid", "Guidance", "Thawab", "Nafs", "Adab"]

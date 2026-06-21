@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=fz-1QpEgZtg"
 image: "https://r2.suhbalibrary.org/suhbas/2018-06-15-keep-your-prayers.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Salat", "Shawwal", "Dhikr", "Fitnah", "Istiqamah"]

@@ -11,7 +11,7 @@ location_country: "Germany"
 youtube_url: "https://www.youtube.com/watch?v=XoNu3xETfaM"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-25-how-to-attain-spiritual-cleanliness.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Taharah", "Halal", "Nafs", "Tazkiyah"]

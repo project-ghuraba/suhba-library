@@ -11,7 +11,7 @@ location_country: "Germany"
 youtube_url: "https://www.youtube.com/watch?v=6pbgQSYIDBc"
 image: "https://r2.suhbalibrary.org/suhbas/2026-04-28-material-things-are-left-in-dunya.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dunya", "Akhira", "Jannah", "Shaytan", "End Times", "Mahdi"]

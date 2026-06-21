@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=w5E1T4cl0RU"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-03-highlights-of-guidance-for-dunya.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dunya", "Ikhlas", "Tarbiyah", "Intercession", "Ibadah", "Suhba"]

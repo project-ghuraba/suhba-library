@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=mZc8IiEnFRo"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-08-the-sunnah-of-itikaf.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["I'tikaf", "Sunnah", "Ramadan", "Niyyah", "Ibadah"]

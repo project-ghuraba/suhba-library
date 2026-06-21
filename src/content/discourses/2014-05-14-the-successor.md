@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=CHvNhsaRY-Q"
 image: "https://r2.suhbalibrary.org/suhbas/2014-05-14-the-successor.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Khilafah", "Bay'ah", "Tariqah", "Suluk", "Muridun", "Awliya"]

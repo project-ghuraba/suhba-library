@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=YniEgjyJdw8"
 image: "https://r2.suhbalibrary.org/suhbas/2024-05-27-no-obedience-to-those-disobeying-him.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ita'ah", "Irada", "Ma'siya", "Shaytan", "Akhirah"]

@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=Q01fcmBoIBY"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-26-wake-up-from-heedlessness.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ghaflah", "Qiyamah", "Nafs", "Accountability", "Vigilance"]

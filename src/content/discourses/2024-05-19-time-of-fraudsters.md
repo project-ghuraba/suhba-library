@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=DEibXCybt6k"
 image: "https://r2.suhbalibrary.org/suhbas/2024-05-19-time-of-fraudsters.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Fitna", "Ghaflah", "Akhirah", "Tawakkul", "Nafs"]

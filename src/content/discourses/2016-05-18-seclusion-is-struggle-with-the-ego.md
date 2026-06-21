@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "http://depo.hakkani.org/video/20160518_Halvet_Nefisle_Mucadeledir.mp4"
 image: "https://r2.suhbalibrary.org/suhbas/2016-05-18-seclusion-is-struggle-with-the-ego.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Khalwat", "Nafs", "Jihad al-Akbar", "Suhbah", "Fayd"]

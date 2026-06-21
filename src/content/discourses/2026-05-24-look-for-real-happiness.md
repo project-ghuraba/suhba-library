@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=Zg0reqr69QI"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-24-look-for-real-happiness.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Iman", "Happiness", "Dunya", "Akhirah", "Dhu Al-Hijjah", "Suhba"]

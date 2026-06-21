@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=PPOIo_SuskU"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-01-stay-away-from-sin.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Sin", "Nafs", "Guidance", "Accountability", "Tazkiya"]

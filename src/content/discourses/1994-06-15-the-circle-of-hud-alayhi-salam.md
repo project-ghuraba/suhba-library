@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=bYO15wLSKss"
 image: "https://r2.suhbalibrary.org/suhbas/1994-06-15-the-circle-of-hud-alayhi-salam.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Iman", "Dhikr", "Awliyaullah", "Divine Justice", "Tazkiyah", "Muharram"]

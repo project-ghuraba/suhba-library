@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=PHOc4mq-01c"
 image: "https://r2.suhbalibrary.org/suhbas/2026-05-10-the-reality-of-hajj.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Submission", "Tawakkul", "Hajj", "Du'a", "Divine Wisdom"]

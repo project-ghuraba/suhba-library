@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=RIkknkMEvoE"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-11-gardens-of-paradise-in-dunya.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Suhba", "Sunnah", "Fard", "Ahlus Sunnah wal Jama'ah", "Spiritual Growth"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=MXhPCgtss8E"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-09-the-first-lesson-in-tariqah.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Ṭarīqah", "Adab", "Nafs", "Sunnah"]

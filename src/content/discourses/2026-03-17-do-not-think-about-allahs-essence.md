@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=XqnjaAUzupo"
 image: "https://r2.suhbalibrary.org/suhbas/2026-03-17-do-not-think-about-allahs-essence.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Dhāt", "Tafakkur", "Iman", "Ibadah", "Akhirah", "Suhbah"]

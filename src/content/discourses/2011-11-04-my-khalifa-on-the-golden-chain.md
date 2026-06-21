@@ -11,7 +11,7 @@ location_country: "Cyprus"
 youtube_url: "https://www.youtube.com/watch?v=iysEuG2c3TU"
 image: "https://r2.suhbalibrary.org/suhbas/2011-11-04-my-khalifa-on-the-golden-chain.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Khilafah", "Silsila", "Mahdi", "Adab", "Ummah"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=ywYkcF9VkLI"
 image: "https://r2.suhbalibrary.org/suhbas/2025-10-04-allah-is-with-who-fear-him.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Taqwa", "Ihsan", "Suhba", "Adab", "Iman", "Tawbah"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=PeN8U8G7vh4"
 image: "https://r2.suhbalibrary.org/suhbas/2026-06-18-dont-follow-the-herd.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Aql", "Nafs", "Hidayah", "Shariah", "Istiqamah"]

@@ -11,7 +11,7 @@ location_country: "Türkiye"
 youtube_url: "https://www.youtube.com/watch?v=Eldu1E_GHv8"
 image: "https://r2.suhbalibrary.org/suhbas/2025-05-19-to-become-a-wali.jpg"
 status: "published"
-transcript_quality: "verified"
+transcript_quality: "verified|level 3"
 language: "en"
 version: 1
 topic: ["Wilayat", "Istiqaama", "Dhikr", "Zuhd"]
