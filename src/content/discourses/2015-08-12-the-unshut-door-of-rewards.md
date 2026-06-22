@@ -1,24 +1,25 @@
 ---
-title: "The Unshut Door of Rewards"
-slug: "2015-08-12-the-unshut-door-of-rewards"
 date: 2015-08-12
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-08-12-the-unshut-door-of-rewards.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-08-12-the-unshut-door-of-rewards.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-08-12-the-unshut-door-of-rewards
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Unshut Door of Rewards
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Charity (sadaqa) is very important. Our Holy Prophet (SAW) says, “With sadaqa, upcoming troubles are made lighter.” He also says they become trapped before occuring. This is very important too. We read and it says in the Hadith of our Holy Prophet, “When giving alms, also make intention for your parents.”

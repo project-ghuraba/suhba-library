@@ -1,24 +1,25 @@
 ---
-title: "The Clerics of Dajjal"
-slug: "2016-07-31-the-clerics-of-dajjal"
 date: 2016-07-31
-date_hijri: "27 Shawwal 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "unknown"
-location_city: "unknown"
-location_country: "unknown"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-07-31-the-clerics-of-dajjal.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 27 Shawwal 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-07-31-the-clerics-of-dajjal.jpg
+language: en
+location_city: unknown
+location_country: unknown
+location_venue: unknown
+quotes_verified: []
+slug: 2016-07-31-the-clerics-of-dajjal
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Clerics of Dajjal
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

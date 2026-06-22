@@ -1,24 +1,25 @@
 ---
-title: "Do Not Be Heedless"
-slug: "2015-01-23-do-not-be-heedless"
 date: 2015-01-23
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-01-23-do-not-be-heedless.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-01-23-do-not-be-heedless.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-01-23-do-not-be-heedless
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Do Not Be Heedless
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Do not be heedless in this world. What does heedless mean? It means to forget Allah. Do not act unwarily. If you are unwary, your foot might suddenly slip and you might find yourself in a disastrous situation. Be careful. Shaytan sets a trap in everything. Saying, “I am a scholar, I am a hoja, or I am a haji,” does not help. People loose immediately when they become arrogant.

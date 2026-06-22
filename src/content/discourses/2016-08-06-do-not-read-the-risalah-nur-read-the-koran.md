@@ -1,24 +1,25 @@
 ---
-title: "Do Not Read the Risalah Nur, Read the Koran"
-slug: "2016-08-06-do-not-read-the-risalah-nur-read-the-koran"
 date: 2016-08-06
-date_hijri: "3 Zulqida 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Eyüp Sultan Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-08-06-do-not-read-the-risalah-nur-read-the-koran.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 3 Zulqida 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-08-06-do-not-read-the-risalah-nur-read-the-koran.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Eyüp Sultan Dergah
+quotes_verified: []
+slug: 2016-08-06-do-not-read-the-risalah-nur-read-the-koran
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Do Not Read the Risalah Nur, Read the Koran
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullahi wa Barakatuh,

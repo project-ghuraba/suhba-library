@@ -1,24 +1,25 @@
 ---
-title: "The Importance of Hajj"
-slug: "2022-05-13-the-importance-of-hajj"
 date: 2022-05-13
-date_hijri: "12 Shawwal 1443"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2022-05-13-the-importance-of-hajj.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 12 Shawwal 1443
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2022-05-13-the-importance-of-hajj.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2022-05-13-the-importance-of-hajj
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Importance of Hajj
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 As-Salāmu ‘Alaykum wa Raḥmatullāhi wa Barakātuh.
@@ -45,12 +46,12 @@ Some people are neglecting it. They say, “I will do it afterwards when I get o
 
 Of course, there are many more restrictions now. Whoever is able should go. And when those who cannot go make intention for it, the responsibility will be lifted then if they don’t go. They will not have committed a sin for not being able to make it.
 
-Intention is important. Make intention to go when you can. Allah ﷻ gives according to people’s intentions. “ُهِ لِمَ عَ ُُنْ مِ ُُر يْ خَ ُُدِ بْ َعلاُ ُةَّينِ ”, The intention of the servant is better than his deeds. There is this Hadith. It is a special virtue for this Ummah. If you don’t do something but intend for it, it will be written for you with the permission of Allah ﷻ.
+Intention is important. Make intention to go when you can. Allah gives according to people’s intentions. “ُهِ لِمَ عَ ُُنْ مِ ُُر يْ خَ ُُدِ بْ َعلاُ ُةَّينِ ”, The intention of the servant is better than his deeds. There is this Hadith. It is a special virtue for this Ummah. If you don’t do something but intend for it, it will be written for you with the permission of Allah.
 
-We are saying from now that there is still a chance. There are about two months, or less than two months until Hajj. They’ve made it late this year so that those who can afford it can go. The permission is from Allah ﷻ. May you have good Duas. May Allah ﷻ allow those who haven’t been yet to go insha’Allah.
+We are saying from now that there is still a chance. There are about two months, or less than two months until Hajj. They’ve made it late this year so that those who can afford it can go. The permission is from Allah. May you have good Duas. May Allah allow those who haven’t been yet to go insha’Allah.
 
 Wa min Allah at-Tawfiq. Al-Fatiha.
 
-There are recited Qur’an Khatms from everywhere. Shukr to Allah ﷻ, they’ve sent them from all over the world. There are Qur’an Khatms, Yasins, Surahs and Ayat, Tasbihat and Salawat. We gift all of them firstly to the soul of our Holy Prophet ﷺ and his ﷺ family, to the souls of his ﷺ Sahabah and all the Prophets, the souls of the Mashayikh, the souls of all of our late relatives, especially our Shaykh Mawlana Shaykh Nazim, Hajjah Anne, Hala Sultan, all the Sahabah, Ahlu l-Bayt, to the souls of all of our late relatives. For goodness to come, and evil to be gone.
+There are recited Qur’an Khatms from everywhere. Shukr to Allah, they’ve sent them from all over the world. There are Qur’an Khatms, Yasins, Surahs and Ayat, Tasbihat and Salawat. We gift all of them firstly to the soul of our Holy Prophet and his family, to the souls of his Sahabah and all the Prophets, the souls of the Mashayikh, the souls of all of our late relatives, especially our Shaykh Mawlana Shaykh Nazim, Hajjah Anne, Hala Sultan, all the Sahabah, Ahlu l-Bayt, to the souls of all of our late relatives. For goodness to come, and evil to be gone.
 
 Li-Llahi Ta’ala l-Fatihah.

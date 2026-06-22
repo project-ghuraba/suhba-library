@@ -1,24 +1,25 @@
 ---
-title: "For the Malaysians"
-slug: "2015-02-15-for-the-malaysians"
 date: 2015-02-15
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "unknown"
-location_city: "unknown"
-location_country: "unknown"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-02-15-for-the-malaysians.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-02-15-for-the-malaysians.jpg
+language: en
+location_city: unknown
+location_country: unknown
+location_venue: unknown
+quotes_verified: []
+slug: 2015-02-15-for-the-malaysians
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: For the Malaysians
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Inshallah we will say a couple of words. We are here for the first time to address you. We will speak for about five to ten minutes. Thank you for gathering here. Alhamdulillah we are coming from a long distance, but we are happy to be here for the sake of Allah. Many people do not know why they are in this life. Alhamdulillah the shaykhs (mashayikh) explained to us why Allah created us and the wisdom behind it. It is a great kindness of Allah to be human. Yet most people do not know this favor. In fact, they ask why we are here in this world. Allah has sent you and created you as the highest in the world among creation. You do not know this though. Why do you not know? Because you are not looking for a guide. We are following in the footsteps of our Holy Prophet (s.a.w) and he is our guide. He is the most honored and the most generous. Yet people are ignorant. They say they graduated from university and earned a Ph.D. I do not know what they call it here, I do not know the terminology much. We were with Mawlana Shayh Nazim Hazretleri once. Someone came and said, “My son is doing his Ph.” Mawlana asked, “What?” So he did not care.

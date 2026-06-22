@@ -1,24 +1,25 @@
 ---
-title: "Research Before You Believe"
-slug: "2022-06-10-research-before-you-believe"
 date: 2022-06-10
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2022-06-10-research-before-you-believe.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2022-06-10-research-before-you-believe.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2022-06-10-research-before-you-believe
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Research Before You Believe
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 As-Salāmu ‘Alaykum wa RaḥmatuLlāhi wa Barakātuh.
@@ -49,12 +50,12 @@ This is something that has always happened. [Compared to] whatever took place ba
 
 The state of the present time is such that they announce all the lies, defamation and slander to everyone on the internet. This is the worst. A person posts that someone did something. And while that person is not related to him at all, he gets confused. But people are interested in such things. They come and tell us that this has happened and that has happened. That is nonsense news. It is wrong to believe that. If you believe that, your actions will bring loss. You’ll do things that don’t bring any benefit. And what is even worse, you will have committed a sin. It is nothing that you’ll be bad in front of this and that in this world. There is a greater punishment for it, you commit a sin.
 
-As we said, telling lies have been there since very old times. And nowadays, it is much worse. If something was told but never took place in old times, people would shame it and they wouldn’t accept it. But people nowadays wait for such news wondering what has happened, in order to be entertained. Do you know how someone feels while you are entertaining yourself? There is a thing called conscience that Allah ﷻ created for people. People who have conscience are good people. People without conscience are bad people. Conscientious people are the ones who respect others’ rights, who accept their rights. And people without conscience are oppressors, merciless and wicked people.
+As we said, telling lies have been there since very old times. And nowadays, it is much worse. If something was told but never took place in old times, people would shame it and they wouldn’t accept it. But people nowadays wait for such news wondering what has happened, in order to be entertained. Do you know how someone feels while you are entertaining yourself? There is a thing called conscience that Allah created for people. People who have conscience are good people. People without conscience are bad people. Conscientious people are the ones who respect others’ rights, who accept their rights. And people without conscience are oppressors, merciless and wicked people.
 
-May Allah ﷻ protect us from their evil, because a person who falls in such a condition becomes oppressed. His right is taken away. You can take the right of the oppressed here; You are powerful, noisy and have nonsense tools in your hand through which you can spread fake news. You think that you gain something that way, whereas one curse from that oppressed one can be a means of harm to you and everything and everyone you love. Because the Dua of the oppressed one reaches Allah ‘Azza wa Jalla directly; there is nothing to stop it in between. While you are happy that the poor man couldn’t do anything to you, you have to think about the things that may happen to you. May Allah ﷻ protect us. May He ﷻ not let us take anyone’s right insha’Allah.
+May Allah protect us from their evil, because a person who falls in such a condition becomes oppressed. His right is taken away. You can take the right of the oppressed here; You are powerful, noisy and have nonsense tools in your hand through which you can spread fake news. You think that you gain something that way, whereas one curse from that oppressed one can be a means of harm to you and everything and everyone you love. Because the Dua of the oppressed one reaches Allah ‘Azza wa Jalla directly; there is nothing to stop it in between. While you are happy that the poor man couldn’t do anything to you, you have to think about the things that may happen to you. May Allah protect us. May He not let us take anyone’s right insha’Allah.
 
 Wa min Allah at-Tawfiq. Al-Fatiha.
 
-There are recited Qur’an Khatms that came from all over the world. And today, they’ve sent from Sayyidina Imam Rabbani as well. As we said, they sent Qur’an Khatms, Yasins, Surahs and Ayat, Tasbihat and Salawat from all over the world. Insha’Allah we dedicate them firstly to the great soul of our Holy Prophet ﷺ, his Ahlu l-Bayt and Sahabah, to the souls of all Anbiya, Awliya’ and Mashayikh, the souls of all our late relatives, especially to our Shaykh Mawlana Shaykh Nazim, Hala Sultan, wa sairi Sadatina (and to the rest of our Masters); for goodness to come and evil to be gone. May Allah ﷻ accept all their good intentions. May they be the means for happiness here and hereafter. May He ﷻ protect them from the evil of this time. May Allah ﷻ increase their ranks insha’Allah.
+There are recited Qur’an Khatms that came from all over the world. And today, they’ve sent from Sayyidina Imam Rabbani as well. As we said, they sent Qur’an Khatms, Yasins, Surahs and Ayat, Tasbihat and Salawat from all over the world. Insha’Allah we dedicate them firstly to the great soul of our Holy Prophet, his Ahlu l-Bayt and Sahabah, to the souls of all Anbiya, Awliya’ and Mashayikh, the souls of all our late relatives, especially to our Shaykh Mawlana Shaykh Nazim, Hala Sultan, wa sairi Sadatina (and to the rest of our Masters); for goodness to come and evil to be gone. May Allah accept all their good intentions. May they be the means for happiness here and hereafter. May He protect them from the evil of this time. May Allah increase their ranks insha’Allah.
 
 Li-Llahi Ta’ala Al-Fatiha.

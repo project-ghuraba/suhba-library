@@ -1,24 +1,25 @@
 ---
-title: "See the Good as Good and the Bad as Bad"
-slug: "2016-10-07-see-the-good-as-good-and-the-bad-as-bad"
 date: 2016-10-07
-date_hijri: "6 Muharram 1438"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-10-07-see-the-good-as-good-and-the-bad-as-bad.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 6 Muharram 1438
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-10-07-see-the-good-as-good-and-the-bad-as-bad.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2016-10-07-see-the-good-as-good-and-the-bad-as-bad
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: See the Good as Good and the Bad as Bad
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

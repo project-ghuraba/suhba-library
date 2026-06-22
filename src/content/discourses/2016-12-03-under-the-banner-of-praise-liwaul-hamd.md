@@ -1,24 +1,25 @@
 ---
-title: "Under the Banner of Praise (liwa’ul Hamd)"
-slug: "2016-12-03-under-the-banner-of-praise-liwaul-hamd"
 date: 2016-12-03
-date_hijri: "3 Rabiul Awwal 1438"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Eyüp Sultan Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-12-03-under-the-banner-of-praise-liwaul-hamd.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 3 Rabiul Awwal 1438
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-12-03-under-the-banner-of-praise-liwaul-hamd.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Eyüp Sultan Dergah
+quotes_verified: []
+slug: 2016-12-03-under-the-banner-of-praise-liwaul-hamd
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Under the Banner of Praise (liwa’ul Hamd)
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullahi wa Barakatuh,

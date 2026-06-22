@@ -1,24 +1,25 @@
 ---
-title: "Tariqa and People of Tariqa"
-slug: "2015-02-11-tariqa-and-people-of-tariqa"
 date: 2015-02-11
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-02-11-tariqa-and-people-of-tariqa.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-02-11-tariqa-and-people-of-tariqa.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-02-11-tariqa-and-people-of-tariqa
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Tariqa and People of Tariqa
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Sohba is one of the essential pillars of tariqa. Tariqa’s purpose is also to show people the beauties of the religion of Islam. Tariqa is the essence of Sharia. Sharia and Tariqa are not separate. Sometimes people who do not know criticize [us] as people of tariqa and view [us] negatively. Whereas during Ottoman times, everybody had a tariqa and everybody was involved in a tariqa. It had no negative connotation, but these Ahl-e Kufr who want to destroy Islam, slowly and with sly plans made everybody afraid of tariqa. Fake shaykhs of all kinds were prevalent for some time, or people who claimed to be in tariqa came out and did unappropriate things. They did not slander people once or twice but many times. Thank Allah tariqa is a very beautiful thing. It teaches people good manners and adab to help each other and to love each other.

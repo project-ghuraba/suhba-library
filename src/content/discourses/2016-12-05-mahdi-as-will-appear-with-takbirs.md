@@ -1,24 +1,25 @@
 ---
-title: "Mahdi (as) Will Appear With Takbirs"
-slug: "2016-12-05-mahdi-as-will-appear-with-takbirs"
 date: 2016-12-05
-date_hijri: "5 Rabiul Awwal 1438"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-12-05-mahdi-as-will-appear-with-takbirs.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 5 Rabiul Awwal 1438
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-12-05-mahdi-as-will-appear-with-takbirs.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2016-12-05-mahdi-as-will-appear-with-takbirs
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Mahdi (as) Will Appear With Takbirs
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

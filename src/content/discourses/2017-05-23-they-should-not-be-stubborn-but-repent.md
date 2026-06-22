@@ -1,24 +1,25 @@
 ---
-title: "They Should Not Be Stubborn but Repent"
-slug: "2017-05-23-they-should-not-be-stubborn-but-repent"
 date: 2017-05-23
-date_hijri: "27 Shaban 1438"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2017-05-23-they-should-not-be-stubborn-but-repent.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 27 Shaban 1438
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2017-05-23-they-should-not-be-stubborn-but-repent.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2017-05-23-they-should-not-be-stubborn-but-repent
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: They Should Not Be Stubborn but Repent
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

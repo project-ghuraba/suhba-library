@@ -1,24 +1,25 @@
 ---
-title: "Tekkes and Zawiyas During the Ottoman Period"
-slug: "2014-12-21-tekkes-and-zawiyas-during-the-ottoman-period"
 date: 2014-12-21
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2014-12-21-tekkes-and-zawiyas-during-the-ottoman-period.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2014-12-21-tekkes-and-zawiyas-during-the-ottoman-period.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2014-12-21-tekkes-and-zawiyas-during-the-ottoman-period
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Tekkes and Zawiyas During the Ottoman Period
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Tariqa stand with discourse and the congregation. It is almost the same with all tariqas. Discourses are important in our Naqshibandi Tariqa though. Tekkes and zawiyas were removed after the Ottoman period. They realized that these things were around even though the Ottoman state was gone. It is dangerous if these stay. That is why shaytan is cunning, it did not fit him, and he did not want it. He left the people both ignorant and wanted to keep them away from the manners of Islam. That is why he removed these zawiyas and tekkes. However, they were useful for the state, for the Islamic state.

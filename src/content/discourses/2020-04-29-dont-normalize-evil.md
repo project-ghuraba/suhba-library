@@ -1,24 +1,25 @@
 ---
-title: "Don’t Normalize Evil"
-slug: "2020-04-29-dont-normalize-evil"
 date: 2020-04-29
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2020-04-29-dont-normalize-evil.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2020-04-29-dont-normalize-evil.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2020-04-29-dont-normalize-evil
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Don’t Normalize Evil
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 The Holy Prophet says,“ Shaytans are chained in Ramadan. They are not let free upon people.” Sadaqa Rasulu-Llah, for whatever Rasulu-Llah is the same as the order of Allah. It is the truth. People do now see again that the world is horrible. So jinn shaytans are chained, but human shaytans, shaytans from mankind, are worse. These disregard Allah, the prophets (AS), books, and humanity. They care for nothing. What they want to do is “fasādu l-arḍ,” which means causing corruption on earth, to corrupt every sort of thing such as mankind, religions, and all good aims. Unfortunately, they have not changed. They are worse than Satan. They claim something, and then stubbornly take it further, and insist on it. May Allah protect us from their evil. May Allah protect Muslim children. Their purpose is evil, and the end of one with evil purposes is something horrid. He receives no benefit from his purpose, but it turns against him instead, and harms him. And whomever he tricks becomes a partner of that person’s sins until the Day of Judgment.

@@ -1,24 +1,25 @@
 ---
-title: "Dunya is Worthless"
-slug: "2021-12-18-dunya-is-worthless"
 date: 2021-12-18
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2021-12-18-dunya-is-worthless.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2021-12-18-dunya-is-worthless.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2021-12-18-dunya-is-worthless
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Dunya is Worthless
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,
@@ -41,8 +42,8 @@ Grandshaykh used to say that people have enemies which are: Nafs/ego, Hawa/desir
 
 Therefore, when you don’t value Dunya, when you control your ego and don’t follow it, and when you don’t follow your desires, you defeat these enemies and you will be at peace. But if you are a prisoner of these things and do as they like, you will never be at peace. Whether you have the whole world or nothing, it is the same.
 
-This is even more important for people of this time. They should not forget it because there are many troubles. And the way to get rid of these troubles is not to value them. You should trust in Allah ‘Azza wa-Jalla. Allah ﷻ is Powerful over everything. Allah ﷻ is Al-Razzaq. If we have our Rizq, we eat. There is no need to torture yourself by saying, “This and that has become so expensive”. Don’t forget Allah ﷻ by worshiping Dunya. Allah ‘Azza wa-Jalla won’t send anyone to Akhirah unless their Rizq is over. If your Rizq is over, then you die. If you have Rizq, you live on.
+This is even more important for people of this time. They should not forget it because there are many troubles. And the way to get rid of these troubles is not to value them. You should trust in Allah ‘Azza wa-Jalla. Allah is Powerful over everything. Allah is Al-Razzaq. If we have our Rizq, we eat. There is no need to torture yourself by saying, “This and that has become so expensive”. Don’t forget Allah by worshiping Dunya. Allah ‘Azza wa-Jalla won’t send anyone to Akhirah unless their Rizq is over. If your Rizq is over, then you die. If you have Rizq, you live on.
 
-May Allah ﷻ protect us. May the troubles be gone insha’Allah. May we be together with Allah ﷻ. He is Powerful over everything. Allah ﷻ is the One who makes everything difficult to be easy. “ُلً هْ سَ ُُبَ عْ صَ لاُُل عَ جْ َي” – Allah ﷻ is the One who makes difficult things easy. And when it is easy, nothing harms a person and he is at peace. May Allah ﷻ give us happiness here and hereafter. May He ﷻ not let us be in need of anyone.
+May Allah protect us. May the troubles be gone insha’Allah. May we be together with Allah. He is Powerful over everything. Allah is the One who makes everything difficult to be easy. “ُلً هْ سَ ُُبَ عْ صَ لاُُل عَ جْ َي” – Allah is the One who makes difficult things easy. And when it is easy, nothing harms a person and he is at peace. May Allah give us happiness here and hereafter. May He not let us be in need of anyone.
 
 Wa min Allah at-Tawfiq. Al-Fatiha.

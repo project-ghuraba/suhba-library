@@ -1,24 +1,25 @@
 ---
-title: "They Are Living"
-slug: "2015-02-08-they-are-living"
 date: 2015-02-08
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-02-08-they-are-living.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-02-08-they-are-living.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-02-08-they-are-living
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: They Are Living
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Thank Allah sohba is a good thing. Prophets gave sermons to everybody. Guidance and sohba is to invite to goodness. Shaykh Mawlana’s life passed with guidance, sohba and goodness. May Allah raise his station (Amin). Someone said it yesterday too... It is not a big deal for a foreigner to say, “May Allah have mercy on him (May he rest in peace),” for Shaykh Mawlana. A foreginer (not from Tariqa) may refer to him as passed away, but it is not from adab (manners) for an ikhwan or a mureed to say so. We need to say, “May his station be raised,” and, “Qaddasallahu sirrahu.”

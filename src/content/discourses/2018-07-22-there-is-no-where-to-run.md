@@ -1,24 +1,25 @@
 ---
-title: "There is No Where to Run"
-slug: "2018-07-22-there-is-no-where-to-run"
 date: 2018-07-22
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2018-07-22-there-is-no-where-to-run.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2018-07-22-there-is-no-where-to-run.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2018-07-22-there-is-no-where-to-run
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: There is No Where to Run
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Those who are not Muslims start worshipping things they find; what they do is in vain. What they do is rebelling against Allah. Allah ‘azza wa jalla created everything; there is no other creator. Worship is only for Him. Now people reject Him. Already those who reject Him are unbelievers (those who cover the truth, k ir). They are against Him. Going against Him is an ill manner, because there is nowhere to run other than to Him. They think themselves clever, and all their lifelong, they claim that they are researching. Research is not necessary—Allah shows His signs clearly, every sign indicates Him and nothing else!

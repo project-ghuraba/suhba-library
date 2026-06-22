@@ -1,24 +1,25 @@
 ---
-title: "Do Not Think About the Essense of Allah"
-slug: "2014-11-06-do-not-think-about-the-essense-of-allah"
 date: 2014-11-06
-date_hijri: "13 Muharram 1436"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2014-11-06-do-not-think-about-the-essense-of-allah.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 13 Muharram 1436
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2014-11-06-do-not-think-about-the-essense-of-allah.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2014-11-06-do-not-think-about-the-essense-of-allah
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Do Not Think About the Essense of Allah
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

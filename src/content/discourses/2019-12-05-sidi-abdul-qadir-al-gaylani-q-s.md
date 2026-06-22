@@ -1,24 +1,25 @@
 ---
-title: "Sidi Abdul-Qadir Al-Gaylani (q.s.)"
-slug: "2019-12-05-sidi-abdul-qadir-al-gaylani-q-s"
 date: 2019-12-05
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2019-12-05-sidi-abdul-qadir-al-gaylani-q-s.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2019-12-05-sidi-abdul-qadir-al-gaylani-q-s.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2019-12-05-sidi-abdul-qadir-al-gaylani-q-s
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Sidi Abdul-Qadir Al-Gaylani (q.s.)
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Waṣ-ṣalātu wa s-salāmu ‘alā Rasūlinā Muḥammadin Sayyidi l-Awwalīna wa l-Ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā,

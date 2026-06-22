@@ -1,24 +1,25 @@
 ---
-title: "Regarding Wahhabis 2"
-slug: "2015-08-31-regarding-wahhabis-2"
 date: 2015-08-31
-date_hijri: "16 Zulqida 1436"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "unknown"
-location_city: "unknown"
-location_country: "unknown"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-08-31-regarding-wahhabis-2.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 16 Zulqida 1436
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-08-31-regarding-wahhabis-2.jpg
+language: en
+location_city: unknown
+location_country: unknown
+location_venue: unknown
+quotes_verified: []
+slug: 2015-08-31-regarding-wahhabis-2
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Regarding Wahhabis 2
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 An incident occured. They recorded some of it anyway. Inshallah they will upload it. Our brothers were very saddened by this issue. However, Hazrat Prophet (SAW) has a hadith: There is good in what happens. Allah Azza wa Jalla says:
