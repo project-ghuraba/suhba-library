@@ -1,24 +1,25 @@
 ---
-title: "The Mindless Person"
-slug: "2015-10-15-the-mindless-person"
 date: 2015-10-15
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-10-15-the-mindless-person.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-10-15-the-mindless-person.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-10-15-the-mindless-person
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Mindless Person
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Allah Azza wa Jalla states: “Laqad khalaqnal insana fi ahsani taqweem.” “We created humans in the best form, in the most perfect fashion,” says Allah Azza wa Jalla. If a person knows that Allah created oneself in the most perfect form and in the highest qualities, that person’s end is well. But the end of people who do not know that, associate partners with Allah, and do not recognise Allah is bad. Some people say we come from monkeys now. They become like monkeys anyway.

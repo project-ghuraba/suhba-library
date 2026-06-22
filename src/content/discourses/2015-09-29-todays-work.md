@@ -1,24 +1,25 @@
 ---
-title: "Today’s Work"
-slug: "2015-09-29-todays-work"
 date: 2015-09-29
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-09-29-todays-work.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-09-29-todays-work.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-09-29-todays-work
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Today’s Work
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Vesselatu Vesselamu ala Resuluna Muhammedin Seyyidel evvelin vel ahirin.

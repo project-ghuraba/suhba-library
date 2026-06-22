@@ -1,24 +1,25 @@
 ---
-title: "Don’t Miss the Matters of Akhirah"
-slug: "2022-04-15-dont-miss-the-matters-of-akhirah"
 date: 2022-04-15
-date_hijri: "14 Ramadan 1443"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2022-04-15-dont-miss-the-matters-of-akhirah.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 14 Ramadan 1443
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2022-04-15-dont-miss-the-matters-of-akhirah.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2022-04-15-dont-miss-the-matters-of-akhirah
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Don’t Miss the Matters of Akhirah
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 As-Salāmu ‘Alaykum wa Raḥmatullāhi wa Barakātuh.
@@ -39,10 +40,10 @@ A big example of this is Mawlana Shaykh Nazim. During his last days, it was one 
 
 Matters of Akhirah are that much important for mankind. We shouldn’t miss the smallest things from them. Mawlana Shaykh Nazim would never miss such things and he didn’t want to miss them. He used to do all of the Sunnah, Fard and Mustahabb. People assume that the gold, silver and jewels of this world are important. Whereas, those things are important. It is required for us not to miss any of them. They are the things that take people to higher stations and higher ranks. To do them brings great strength, great benefit and a lot of goodness to people. Allah ‘Azza wa Jalla gave them, so we should benefit from them.
 
-People should do as much as they can. It is better than nothing, if they do something. Therefore, do as much as you can. May Allah ﷻ always let us attain this beautiful beneficence and beautiful Thawab insha’Allah.
+People should do as much as they can. It is better than nothing, if they do something. Therefore, do as much as you can. May Allah always let us attain this beautiful beneficence and beautiful Thawab insha’Allah.
 
 Wa min Allah at-Tawfiq. Al-Fatiha.
 
-There are recited Qur’an Khatms, Khatms of Yasin, Salawat, Ayat and Tasbihat. And there is charity and goodness done. May Allah ﷻ accept them. We dedicate them firstly to the soul of our Holy Prophet ﷺ, to his Ahlu l-Bayt and Sahabah, to the souls of all the Anbiya, Awliya, Asfiya, Mashayikh, to the souls of all of our late relatives, to the souls of all Muslims. May their good goals be reached. May they be happy here and hereafter. May the sick be cured. May the debts be gone. May there be strength for our Iman.
+There are recited Qur’an Khatms, Khatms of Yasin, Salawat, Ayat and Tasbihat. And there is charity and goodness done. May Allah accept them. We dedicate them firstly to the soul of our Holy Prophet, to his Ahlu l-Bayt and Sahabah, to the souls of all the Anbiya, Awliya, Asfiya, Mashayikh, to the souls of all of our late relatives, to the souls of all Muslims. May their good goals be reached. May they be happy here and hereafter. May the sick be cured. May the debts be gone. May there be strength for our Iman.
 
 LiLlahi Ta’ala l-Fatiha.

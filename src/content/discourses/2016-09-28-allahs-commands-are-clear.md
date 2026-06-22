@@ -1,24 +1,25 @@
 ---
-title: "Allah’s Commands Are Clear"
-slug: "2016-09-28-allahs-commands-are-clear"
 date: 2016-09-28
-date_hijri: "26 Zulhijja 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "unknown"
-location_city: "unknown"
-location_country: "unknown"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-09-28-allahs-commands-are-clear.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 26 Zulhijja 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-09-28-allahs-commands-are-clear.jpg
+language: en
+location_city: unknown
+location_country: unknown
+location_venue: unknown
+quotes_verified: []
+slug: 2016-09-28-allahs-commands-are-clear
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Allah’s Commands Are Clear
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

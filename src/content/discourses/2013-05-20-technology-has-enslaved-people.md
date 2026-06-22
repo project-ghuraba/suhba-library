@@ -1,24 +1,25 @@
 ---
-title: "Technology Has Enslaved People"
-slug: "2013-05-20-technology-has-enslaved-people"
 date: 2013-05-20
-date_hijri: "10 Rajab 1434"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Eyüp Sultan Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2013-05-20-technology-has-enslaved-people.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 10 Rajab 1434
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2013-05-20-technology-has-enslaved-people.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Eyüp Sultan Dergah
+quotes_verified: []
+slug: 2013-05-20-technology-has-enslaved-people
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Technology Has Enslaved People
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullahi wa Barakatuh.

@@ -1,24 +1,25 @@
 ---
-title: "Virtues of the 15th of Shaban"
-slug: "2016-05-21-virtues-of-the-15th-of-shaban"
 date: 2016-05-21
-date_hijri: "14 Shaban 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-05-21-virtues-of-the-15th-of-shaban.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 14 Shaban 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-05-21-virtues-of-the-15th-of-shaban.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2016-05-21-virtues-of-the-15th-of-shaban
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Virtues of the 15th of Shaban
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Again Inshallah we will speak a little about the virtues of this night of blessing (baraka). Inshallah tonight there are three recitations of Sura Yasin. Everybody can read it where they are. Of course it is not being read in some places. I do not know for sure if they read it in our mosques, but the beautiful tradition of Shaykh Mawlana and the Sunna of our Holy Prophet (SAW) is to read three Yasins and make intention for one for a lawful (halal) livelihood, one for health and appetite, and one for a good long life honored with iman and Islam. Then there is a short dua afterwards.

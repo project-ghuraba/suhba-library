@@ -1,24 +1,25 @@
 ---
-title: "Struggle in Life"
-slug: "2018-04-25-struggle-in-life"
 date: 2018-04-25
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2018-04-25-struggle-in-life.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2018-04-25-struggle-in-life.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2018-04-25-struggle-in-life
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Struggle in Life
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

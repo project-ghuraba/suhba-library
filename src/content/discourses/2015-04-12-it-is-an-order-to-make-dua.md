@@ -1,24 +1,25 @@
 ---
-title: "It is an Order to Make Dua"
-slug: "2015-04-12-it-is-an-order-to-make-dua"
 date: 2015-04-12
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-04-12-it-is-an-order-to-make-dua.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-04-12-it-is-an-order-to-make-dua.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-04-12-it-is-an-order-to-make-dua
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: It is an Order to Make Dua
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Wassalatu Wassalamu ala Rasulina Muhammadin Sayyidul Awwalin wal Akhirin,

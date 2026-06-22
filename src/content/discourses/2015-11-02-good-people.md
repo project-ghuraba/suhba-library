@@ -1,24 +1,25 @@
 ---
-title: "Good People"
-slug: "2015-11-02-good-people"
 date: 2015-11-02
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-11-02-good-people.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-11-02-good-people.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-11-02-good-people
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Good People
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Thanks be to Allah. It means that Allah looked on us with compassion (marhamat). Because Allah (JJ) says, “I make people go through what they deserve.” Thank Allah people with faith and compassion are leading us. These are people who serve for Allah and are on the way of Allah.

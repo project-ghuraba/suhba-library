@@ -1,24 +1,25 @@
 ---
-title: "The Importance of Sadaqat Al-Fitr"
-slug: "2022-04-17-the-importance-of-sadaqat-al-fitr"
 date: 2022-04-17
-date_hijri: "16 Ramadan 1443"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2022-04-17-the-importance-of-sadaqat-al-fitr.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 16 Ramadan 1443
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2022-04-17-the-importance-of-sadaqat-al-fitr.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2022-04-17-the-importance-of-sadaqat-al-fitr
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Importance of Sadaqat Al-Fitr
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 As-Salāmu ‘Alaykum wa Raḥmatullāhi wa Barakātuh.
@@ -37,10 +38,10 @@ One of the duties to be carried out in the holy month of Ramadan Sharif is Sadaq
 
 You must give it regardless of being poor or rich. But poor people can give as much as they can. And for the rich ones, there is a limit; they should give not below but above that limit. They can give as much as they want. They said it is 40 TL this year. It can be less for the poor ones such as 2kg of barley or wheat which is around 10-15 TL. But for average people, it is 40 TL. They have calculated it as 40 TL based on 2kg of raisins or its equivalent. That is for people with an average income. And the rich ones can give more. It won’t be in vain.
 
-Nothing goes in vain. The more people can give, the more it is accepted in the presence of Allah ﷻ. It is loved. Allah ﷻ loves the generous ones. “ُُل يخِ َبلْاوَ ُِاللَّه ُُب يِبحَ ُُم يرِكَ لْا ُِاللَّّ ُُو د عَ ”, “Al-karīmu ḥabību Llāh wa l-bakhīlu ‘aduwwu Llāh.” The generous one is the beloved servant of Allah ﷻ. And the stingy one is the enemy of Allah ﷻ. It is a Hadith Sharif. Therefore, people should give as much as they can. This is charity. Your money won’t be wasted. Whatever you give will go, and what you don’t give will stay. Therefore, this is something to be done in the month of Ramadan until the Eid prayer.
+Nothing goes in vain. The more people can give, the more it is accepted in the presence of Allah. It is loved. Allah loves the generous ones. “ُُل يخِ َبلْاوَ ُِاللَّه ُُب يِبحَ ُُم يرِكَ لْا ُِاللَّّ ُُو د عَ ”, “Al-karīmu ḥabību Llāh wa l-bakhīlu ‘aduwwu Llāh.” The generous one is the beloved servant of Allah. And the stingy one is the enemy of Allah. It is a Hadith Sharif. Therefore, people should give as much as they can. This is charity. Your money won’t be wasted. Whatever you give will go, and what you don’t give will stay. Therefore, this is something to be done in the month of Ramadan until the Eid prayer.
 
-Zakat can be paid later. But it is special in this month by the wisdom of Allah ﷻ, because the Thawab in Ramadan is greater, as Allah ﷻ says “I give without account.” Therefore, this is its wisdom. Until the Eid prayer, it is counted as Fitrah. And afterwards, it becomes Sadaqah. Like that, you won’t delay your Sadaqah until Shawwal, and the virtue of Shawwal is not like that of Ramadan. It is ten to one. In Ramadan, it is more than seven hundred to one.
+Zakat can be paid later. But it is special in this month by the wisdom of Allah, because the Thawab in Ramadan is greater, as Allah says “I give without account.” Therefore, this is its wisdom. Until the Eid prayer, it is counted as Fitrah. And afterwards, it becomes Sadaqah. Like that, you won’t delay your Sadaqah until Shawwal, and the virtue of Shawwal is not like that of Ramadan. It is ten to one. In Ramadan, it is more than seven hundred to one.
 
-May Allah ﷻ let us succeed in doing charity and giving. May He ﷻ let us devote ourselves to that and give easily, because some people find it difficult to give. May Allah ﷻ not make us from them. May He ﷻ make us from the generous ones.
+May Allah let us succeed in doing charity and giving. May He let us devote ourselves to that and give easily, because some people find it difficult to give. May Allah not make us from them. May He make us from the generous ones.
 
 Wa min Allah at-Tawfiq. Al-Fatiha.

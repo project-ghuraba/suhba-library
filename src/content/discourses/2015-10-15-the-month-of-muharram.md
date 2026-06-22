@@ -1,24 +1,25 @@
 ---
-title: "The Month of Muharram"
-slug: "2015-10-15-the-month-of-muharram"
 date: 2015-10-15
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Eyüp Sultan Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-10-15-the-month-of-muharram.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-10-15-the-month-of-muharram.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Eyüp Sultan Dergah
+quotes_verified: []
+slug: 2015-10-15-the-month-of-muharram
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Month of Muharram
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 May Allah make our gatherings continuous Inshallah. Today, the month of Muharram has started thank Allah. Muharramul Haram (the Sacred Muharram) is a great and honorable month for Muslims. Between the first and tenth day of this month is a very virtuous period. You can fast during these ten days. The station of those who fast for ten days will be higher in paradise. Our Holy Prophet says, “Fasting in the end of the year and the beginning of the next year is like fasting the whole year.” Those who cannot fast can fast like this.

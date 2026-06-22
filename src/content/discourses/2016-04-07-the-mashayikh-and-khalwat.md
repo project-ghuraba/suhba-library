@@ -1,24 +1,25 @@
 ---
-title: "The Mashayikh and Khalwat"
-slug: "2016-04-07-the-mashayikh-and-khalwat"
 date: 2016-04-07
-date_hijri: "29 Jumadal Akhira 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-04-07-the-mashayikh-and-khalwat.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 29 Jumadal Akhira 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-04-07-the-mashayikh-and-khalwat.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2016-04-07-the-mashayikh-and-khalwat
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Mashayikh and Khalwat
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

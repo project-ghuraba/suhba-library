@@ -1,24 +1,25 @@
 ---
-title: "One of Forty Dajjals"
-slug: "2016-08-08-one-of-forty-dajjals"
 date: 2016-08-08
-date_hijri: "5 Zulqida 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "unknown"
-location_city: "unknown"
-location_country: "unknown"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-08-08-one-of-forty-dajjals.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 5 Zulqida 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-08-08-one-of-forty-dajjals.jpg
+language: en
+location_city: unknown
+location_country: unknown
+location_venue: unknown
+quotes_verified: []
+slug: 2016-08-08-one-of-forty-dajjals
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: One of Forty Dajjals
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 - Assalamu Alaykum wa Rahmatullahi wa Barakatuhu dear viewers. At the moment we are with a shaykh of the Naqshbandis, Hazrat Shaykh Mehmet Adil in the Beylerbeyi Badawi Tekke. Firstly, we would like to thank Shaykh Efendi very much for accepting this inteview. Thank you very much my Master.

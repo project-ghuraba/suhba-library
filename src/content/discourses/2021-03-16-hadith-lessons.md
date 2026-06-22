@@ -1,24 +1,25 @@
 ---
-title: "Hadith Lessons"
-slug: "2021-03-16-hadith-lessons"
 date: 2021-03-16
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Beylerbeyi Bedevi Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2021-03-16-hadith-lessons.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "hadith"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2021-03-16-hadith-lessons.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Beylerbeyi Bedevi Dergah
+quotes_verified: []
+slug: 2021-03-16-hadith-lessons
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Hadith Lessons
+topic: []
+transcript_quality: verified|level 2
+type: hadith
+version: 1
+youtube_url: ''
 ---
 
 Madad Ya Rasulullah, Mada Ya Ashab-e Rasulullah, Madad Ya Mashayikihina. Dastur. ------------------------------------------------------------------

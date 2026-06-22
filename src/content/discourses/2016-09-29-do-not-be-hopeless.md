@@ -1,24 +1,25 @@
 ---
-title: "Do Not Be Hopeless"
-slug: "2016-09-29-do-not-be-hopeless"
 date: 2016-09-29
-date_hijri: "27 Zulhijja 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-09-29-do-not-be-hopeless.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 27 Zulhijja 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-09-29-do-not-be-hopeless.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2016-09-29-do-not-be-hopeless
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Do Not Be Hopeless
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh, Auzu Billahi Minashaytanir Rajeem. Bismillahir Rahmanir Raheem, Wassalatu Wassalamu ala Rasulina Muhammadin Sayyidul Awwalin wal Akhirin, Madad Ya Rasulallah, Madad Ya As’habi RasuLillah, Madad Ya Mashayikhina, Sheykh Abdullah Daghestani, Sheykh Nazim al-Haqqani. Dastur. Tariqatunas sohba, wal khayru fil jamiyya. Authu Billahi Minash-shaitanir Rajim. Bismillahir Rahmanir Rahim.

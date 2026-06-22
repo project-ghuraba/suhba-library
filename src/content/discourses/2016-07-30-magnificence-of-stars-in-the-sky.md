@@ -1,24 +1,25 @@
 ---
-title: "Magnificence of Stars in the Sky"
-slug: "2016-07-30-magnificence-of-stars-in-the-sky"
 date: 2016-07-30
-date_hijri: "26 Shawwal 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "unknown"
-location_city: "unknown"
-location_country: "unknown"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-07-30-magnificence-of-stars-in-the-sky.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 26 Shawwal 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-07-30-magnificence-of-stars-in-the-sky.jpg
+language: en
+location_city: unknown
+location_country: unknown
+location_venue: unknown
+quotes_verified: []
+slug: 2016-07-30-magnificence-of-stars-in-the-sky
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Magnificence of Stars in the Sky
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 We are looking at the sky from here Mashallah. People see the magnificence of Allah (JJ) when they look at the sky. We used to sleep outside sometimes when we were young, and you would look at the sky and see thousands of stars. People can never guess stars are large things when young. People understand Allah’s greatness better with knowledge when they are grown up.

@@ -1,24 +1,25 @@
 ---
-title: "Oppression Has Reached Its Summit"
-slug: "2018-04-20-oppression-has-reached-its-summit"
 date: 2018-04-20
-date_hijri: "04 Shaban 1439"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2018-04-20-oppression-has-reached-its-summit.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 04 Shaban 1439
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2018-04-20-oppression-has-reached-its-summit.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2018-04-20-oppression-has-reached-its-summit
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Oppression Has Reached Its Summit
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Waṣ-ṣalātu wa s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa l-ākhirīn.

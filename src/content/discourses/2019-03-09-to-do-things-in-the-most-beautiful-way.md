@@ -1,24 +1,25 @@
 ---
-title: "To Do Things in the Most Beautiful Way"
-slug: "2019-03-09-to-do-things-in-the-most-beautiful-way"
 date: 2019-03-09
-date_hijri: "02 Rajab 1440"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2019-03-09-to-do-things-in-the-most-beautiful-way.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 02 Rajab 1440
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2019-03-09-to-do-things-in-the-most-beautiful-way.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2019-03-09-to-do-things-in-the-most-beautiful-way
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: To Do Things in the Most Beautiful Way
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Waṣ-ṣalātu wa s-Salāmu ‘alā Rasūlinā Muḥammadin Sayyidi l-awwalīn wa l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā,

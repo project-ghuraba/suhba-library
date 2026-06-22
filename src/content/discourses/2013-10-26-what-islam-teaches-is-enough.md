@@ -1,24 +1,25 @@
 ---
-title: "What Islam Teaches is Enough"
-slug: "2013-10-26-what-islam-teaches-is-enough"
 date: 2013-10-26
-date_hijri: "21 Zul-hijja 1434"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Eyüp Sultan Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2013-10-26-what-islam-teaches-is-enough.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 21 Zul-hijja 1434
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2013-10-26-what-islam-teaches-is-enough.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Eyüp Sultan Dergah
+quotes_verified: []
+slug: 2013-10-26-what-islam-teaches-is-enough
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: What Islam Teaches is Enough
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullahi wa Barakatuh,

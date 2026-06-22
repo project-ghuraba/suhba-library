@@ -1,24 +1,25 @@
 ---
-title: "Faith Comes Into Leaf From the Heart"
-slug: "2015-10-28-faith-comes-into-leaf-from-the-heart"
 date: 2015-10-28
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-10-28-faith-comes-into-leaf-from-the-heart.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-10-28-faith-comes-into-leaf-from-the-heart.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-10-28-faith-comes-into-leaf-from-the-heart
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Faith Comes Into Leaf From the Heart
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Allah Azza wa Jalla gave everyone a heart. Faith (iman) comes into leaf from the heart. For faith to leaf out, continuous worship and following Allah's orders is required. If these are done, faith strengthens and the heart is lit (with nur).

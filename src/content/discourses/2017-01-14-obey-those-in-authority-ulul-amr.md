@@ -1,24 +1,25 @@
 ---
-title: "Obey Those in Authority (ulul Amr)"
-slug: "2017-01-14-obey-those-in-authority-ulul-amr"
 date: 2017-01-14
-date_hijri: "16 Rabiul Akhir 1438"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Eyüp Sultan Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2017-01-14-obey-those-in-authority-ulul-amr.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 16 Rabiul Akhir 1438
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2017-01-14-obey-those-in-authority-ulul-amr.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Eyüp Sultan Dergah
+quotes_verified: []
+slug: 2017-01-14-obey-those-in-authority-ulul-amr
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Obey Those in Authority (ulul Amr)
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullahi wa Barakatuh,

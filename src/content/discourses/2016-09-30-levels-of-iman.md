@@ -1,24 +1,25 @@
 ---
-title: "Levels of Iman"
-slug: "2016-09-30-levels-of-iman"
 date: 2016-09-30
-date_hijri: "28 Zulhijja 1437"
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "unknown"
-location_city: "unknown"
-location_country: "unknown"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2016-09-30-levels-of-iman.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: 28 Zulhijja 1437
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2016-09-30-levels-of-iman.jpg
+language: en
+location_city: unknown
+location_country: unknown
+location_venue: unknown
+quotes_verified: []
+slug: 2016-09-30-levels-of-iman
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Levels of Iman
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Assalamu Alaykum wa Rahmatullah wa Barakatuh,

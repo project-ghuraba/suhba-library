@@ -1,24 +1,25 @@
 ---
-title: "Allah is With Us"
-slug: "2015-10-03-allah-is-with-us"
 date: 2015-10-03
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Eyüp Sultan Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-10-03-allah-is-with-us.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-10-03-allah-is-with-us.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Eyüp Sultan Dergah
+quotes_verified: []
+slug: 2015-10-03-allah-is-with-us
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Allah is With Us
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 What was the name of the holy one (Shaykh Effendi laughs here)? Niyazi Effendi (An old deranged (majzub) called Niyazi visits Shaykh Effendi and makes some requests from him). May Allah be content with him. He said nice things. Hadrat Shaykh Mawlana says majzubs might be good but there is no need to argue much with mazjubs. Because you never know what they will do. They say, “Even mountains cannot lift people of states (hal).”

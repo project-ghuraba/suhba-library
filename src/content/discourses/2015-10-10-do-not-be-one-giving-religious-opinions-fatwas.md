@@ -1,24 +1,25 @@
 ---
-title: "Do Not Be One Giving Religious Opinions (fatwas)"
-slug: "2015-10-10-do-not-be-one-giving-religious-opinions-fatwas"
 date: 2015-10-10
-date_hijri: ""
-speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
-speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url: ""
-image: "https://r2.suhbalibrary.org/suhbas/2015-10-10-do-not-be-one-giving-religious-opinions-fatwas.jpg"
-status: "published"
-transcript_quality: "verified|level 1"
-language: "en"
-version: 1
-source: "hakkani.org"
-type: "suhba"
-topic: []
-quotes_verified: []
+date_hijri: ''
 edited_at: 2026-06-20
+image: https://r2.suhbalibrary.org/suhbas/2015-10-10-do-not-be-one-giving-religious-opinions-fatwas.jpg
+language: en
+location_city: Istanbul
+location_country: Türkiye
+location_venue: Akbaba Dergah
+quotes_verified: []
+slug: 2015-10-10-do-not-be-one-giving-religious-opinions-fatwas
+source: hakkani.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Do Not Be One Giving Religious Opinions (fatwas)
+topic: []
+transcript_quality: verified|level 2
+type: suhba
+version: 1
+youtube_url: ''
 ---
 
 Allah Azza wa Jalla showed everything to people. Our Holy Prophet (SAW) said the lawful (halal) and unlawful (haram) are clear in most things. Sometimes there are doubtful things in between, but they are not that important. It is not much. The basics of what are halal and what are haram are clear.
