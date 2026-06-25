@@ -1,0 +1,44 @@
+---
+date: 2017-10-06
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2017-10-06-the-enemies-of-islam.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2017-10-06-the-enemies-of-islam
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Enemies of Islām
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-Ṣalātu wa s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr yā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa l-khayru fi l-jam‘iyyah.
+
+AllāhNone let us be on this way. The way is not easy. There are enemies on this way, enemies of this way. Before they used to say ego, desire, dunyā and shayṭān – there were four enemies. Now they've become four hundred. In order to take people out of the way, whatever fitnah there is, shayṭān is trying, ego is trying, dunyā also from other side, from every side. If AllāhNone doesn't help people, if they are not with good ones, they will lose their way. All kinds of things they are showing as good, are actually bad. Things being done since the time of our ProphetNone are not accepted in this last century. Who doesn't accept them, kāfir is kāfir anyway. He doesn't accept at all. Even those who claim they are Muslim don't accept what has been done. Muslims don't respect the ProphetNone. They don't respect awliyā’. They don't respect ṣaḥābah. They don't respect Ahlu l-Bayt. They are showing lack of adab to all of them.
+
+Islām is adab. Our ProphetNone says, "It is with adab. AllāhNone created meNone with best adab." We have to look at our ProphetNone and learn adab. These new people, as we said, who don't have a shaykh, definitely mess up at some point. And a shaykh must be a true shaykh. Who want to impress and gather more people, who follow the way pleasing to many, just gives what the egos want. That won't help any of them. Therefore, you should do what you know is right. You should do what you learned and saw as right so that AllāhNone is pleased with you. Otherwise, even if the whole world follows you, if AllāhNone is not pleased with you, it has no value. Moreover, you took all those people out of the way. You will carry as many sins as each of those people have. Therefore, you should be careful of that way. It is a dangerous way.
+
+Beware of the wrong ones. And the people who do it knowingly are even worse. Who are not aware should find out because they are taking so many people behind them. They should look if their words are right or wrong. They should think if those who are on our way, ‘ulamā’ of our way were like this or not. They are bringing up all kinds of things. There are these new people now, they are claiming they are from ṭarīqah then they are showing things which are neither in Islām, nor in ṭarīqah. They are saying things opposite to those in ṭarīqah and Islām. We should pay attention to it. May AllāhNone protect us. And they include Ahlu l-Bayt. They are using words as if they were said by Ahlu l-Bayt. Ahlu l-Bayt spoke the best. No bad word was said by them. They are from the pure descendants of our ProphetNone. And all of them were good people. Good people speak good words. Nowadays, when a problem occurs, all Muslims are put under fire. They are making up lies from nothing. A lie is the weapon of shayṭān, not a weapon of Muslims. We should be careful with lies.
+
+May AllāhNone protect us, in shā’a Llāh, because it is a dangerous thing. May AllāhNone give guidance to Muslims because they are many but with no worth. They are worthless because they are not on the right way. They are not following the way of our ProphetNone. If they did, their value would be different. As we said, may AllāhNone give guidance. May AllāhNone give understanding.
+
+Our way, the best way, al-ḥamdu liLlāh, but way of Islām, way of ṭarīqah also, al-ḥamdu liLlāh, this is the best way. But there is many enemy. When there is some precious thing, some good thing, enemy more and more. Before they was saying there is four enemy for ourself – first ego – nafs, dunyā – world, this hawá – the desire, and shayṭān. But now it's more, very, too many more. When you are going even you are following, you say, "I will follow Islām" – there is enemy from Islām more than non-Muslim, for believer, real believer. For this Muslim maybe they are two billions but no value for them. Because they are empty, they are following way of shayṭān. Nobody – very little people – following right way of ProphetNone, right way teaching of Islām. For this no value. If you are following real, you must follow real shaykh, real teacher for you. Not you are hearing from here to there.
+
+And there is people they are saying all what we learn since ProphetNone until now, all it is not good. Since twenty year, twenty five years, they are changing and they are making a new thing and saying this is right and it is real – against what ProphetNone teaching us. First thing from teaching of ProphetNone, the most important thing, good behave. Because heNone is said, "My Lord Allāh ‘Azza wa Jalla HeNone make me good behave, the best in good behaviour and I'm the best for this." You must learn from ProphetNone. But this people they saying, not respecting even. Before we saying they are not respecting awliyā’. After they are not respecting ṣaḥābah. Now they are not respecting ProphetNone. They are following only their ego. They are proud. They are not accepting anybody – only accepting people who are rubbish people, the who divide and they make this fitnah for Islām. They respect them – There is maybe five people from this people they respect them more than ProphetNone, more than Ahlu l-Bayt, more than ṣaḥābah. They only this what they are morning evening saying this one he said like this and that one he said like this – only this five people. We don't like to mention their names to not barakah not go away from here.
+
+This is and the whole this Islāmic world for this they don't have any value. Because if you are following you have, you happy to make people follow you, you must give them what they like and what ego like it is against teaching of ProphetNone, against AllāhNone order. So this people or other people also false fake shaykh, fake murshid, or fake this teacher. All they giving people what their ego like not what real Islām order, what ProphetNone like. So all this people following them and they are happy. We have millions of people they are following. But if you are make people to follow you and you have billion even it is no value in divinely presence. Nothing value. It is opposite – it is you have sin for each one they are going doing wrong thing, what you say to them what you told them. Each one you will be punished for this also. You are knowing and you are making this people following you and this is many of them from using Islām to destroy Islām, to destroy belief of people.
+
+And there is many kind of people also they are saying, "We are sufi, we are something like this." And they saying also many thing Islām not accept this also. And no one from ṭarīqah, mashāyikh, accept this. Especially they still every time they saying 'reincarnation'. This is the most ridiculous thing for people, believer, to say this for our Lord Allāh ‘Azza wa Jalla. His Mightiness you cannot reach. No atom, less than atom you cannot reach His Mightiness. HeNone cannot do soul for everybody? They said this soul coming from here, going, coming to other one. From other one to other one, this is ridiculous. Because this belief, who are not believing in a life after death. Our real belief, our life, real life it is after death. This is like dream from for eternity it is like dream like one second or less than one second this life. So what they say, this people, it is ridiculous and nobody from ṭarīqah, nobody from Islām accept this. And then say lie for people – "Mashāyikh they accept this." It is not acceptable at all. Who say this and believe, his belief it is in danger. He must be repent and make tawbah astaghfiru Llāh.
+
+Because we hearing every time every time but sometime we must repeat this for people to hear, to listen carefully. We are saying openly this. For people no any declaration, any tafsīr. Yes this is real like this. AllāhNone make us with real good people. AllāhNone save this ummah from the enemies. Enemy everywhere attacking us from outside, from inside but Allāh HeNone is protect. We are asking protection from AllāhNone.
+
+Wa min Allāhi t-tawfīq, al-Fātiḥah.

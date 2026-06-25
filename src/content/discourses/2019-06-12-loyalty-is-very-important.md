@@ -1,0 +1,50 @@
+---
+date: 2019-06-12
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2019-06-12-loyalty-is-very-important.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2019-06-12-loyalty-is-very-important
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Loyalty is Very Important
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa-l-khayru fi l-jam‘iyyah.
+
+One of the most important commands in Islām that is loved by our ProphetNone, is good manners. They say, "Ḥusnu l-khuluq." Good manners consist of many things. Many things are to be done. The most important is to be loyal. To be loyal means that if you promised something, you keep your word, you stand by who you are, you keep your promise in the way you gave it. It is a big feature, a great attribute. It is one of the best attributes of Mashāyikh and of our ProphetNone. When you connect to someone, to stay connected and not upset them, not to let them down by your actions, this is the meaning of loyalty.
+
+But unfortunately this doesn’t happen. People promise to do something and to be your servant when they are in hard times. As soon as they get a little strength, they forget their promise and their loyalty. Unfortunately, it is human character. People who come to ṭarīqah should pay attention to this. Loyalty is important. Because in the end Allāh ‘Azza wa-Jalla can turn a person where he came from or even worse. There are many examples of this in Qur’ān. The biggest example is the richest person in the world, Qārūn. I think Qārūn was a brother-in-law of Mūsá ‘alayhi s-salām. He was a poor man with many children. And he would pray at night, he would pray because of poverty and hardship. He asked Mūsá ‘alayhi s-salām: "Teach me alchemy so that my children get some food and don't starve." And he was praying all night long. So he was given that knowledge. He started using it and such wealth came to him as the world has never seen. Just the keys to his treasures seven beasts couldn't carry them.
+
+Then Mūsá ‘alayhi s-salām came to him and asked him to pay zakāh. He refused and said, "I did it all and became rich because of my own knowledge." Even though he had asked Mūsá ‘alayhi s-salām to pray for him in order to get out of poverty and the wife and children find comfort. He said, "No, I learned it by myself. I won't give zakāh." "Are you the one who says so?" said Allāh ‘Azza wa-Jalla and drowned him under ground. He went under the ground with all his wealth and couldn't be saved. The people who were with him guarding his money – there were over a thousand soldiers to protect it – they went down with him.
+
+As we said, when there is no loyalty, AllāhNone can bring a person back to the beginning and make it worse. But as we said, unfortunately, it is widespread. It is very important. Loyalty is among the best qualities. We should keep and pay attention to it. People are living at the end of times now. Also there is politics and elections and things like this. They have taught people not be loyal to anyone. Whoever brings you more benefit, go for him and leave the others. This is wrong. Of course, truly good people don't do this. And most of the time the people don't deserve loyalty. Therefore, all people have forgotten what is loyalty. It is very rare. May AllāhNone help us. May HeNone not send bad people to us. May AllāhNone improve everyone, in shā’a Llāh.
+
+Also there is an Arabic saying, a proverb. "In akramta l-karīma malaktahu wa-in akramta l-la’īma tamarrada." If you help a loyal person, he will be your servant. If anything happens, out of loyalty he will say, "This man helped me so I owe him. I can't do anything against him." A person without loyalty will act even worse towards you once you treat him kindly. He becomes worse. Sometimes such people deserve evil not good. The more you help them, the worse they get. Don't help such people. Helping is good but some people don't deserve it. As in the case of Mūsá ‘alayhi s-salām, the man went to Hell. There is such a thing too. We should be careful. Such people need to be punished. They are shayāṭīn. You should always hit them on their heads. Otherwise, they won't understand. The more you help, the more they kick and bite you. May AllāhNone improve everyone.
+
+In Islām the good behave very important, very important thing because Prophet ṣallá Llāhu ‘alayhi wa-sallam the was the first good behave. And there is thing, many kind of thing for good behave: to be helpful for people, to be polite, to be anything. But the most important one – to be honest for who you oath, for you somebody you follow him. You must be very honest for him. Wafā’ in English? Loyalty. Loyalty it is very important because this is attribute of prophets and attribute for mashāyikh also.
+
+Mawlānā Shaykh, forty years, he whole life, from beginning to, when he follow his Shaykh, he was loyalty for him. For other people also who are he love them. They was loyal also. This is very important thing. But these days people they are not, most of them they are not loyalty because when they come to somebody and say, "Oh, we are with you, we are love you, we are this, that. Can you make this?" And they was completely poor, nothing, but later when become little bit standing in their feet, becoming little bit they have money, you saw them doing very bad thing. They are completely different from one before. Of course this is bad character. In our world many people like this. We are not...
+
+We are okay know this but sometimes when they are going so far this is also, AllāhNone will ask for them. They thought they are, can be nobody make anything for them. This for people from beginning but these days is more. In Qur’ān also many place they mention about this, especially one, the famous one with Qārūn, the most richest ever one in this world, history of mankind. He was the most richest one. His beginning, he was, I think, brother-in-law for Sayyidunā Mūsá ‘alayhi s-salām. Very poor man, very poor man and he was looking after many children, he has many children. And he was worshipping day and night. Whole night was worshipping and say for Sayyidunā Mūsá ‘alayhi s-salām, "O Sayyidunā Mūsá, I am very poor and you see your nephew, my children, they are very poor. Can you make du‘ā’ for AllāhNone to teach me [alchemy] alchemy – alchemy who changing copper to gold.
+
+So Sayyidunā Mūsá ‘alayhi s-salām he saw him he is 24 hour praying, very poor man, he is good, everything very good. He praying for him and AllāhNone give him. And he is doing, doing, doing, doing. Who this, his fortune it was unbelievable. Even his keys, it was seven camels only keys cannot carry this, the key of his treasures. After this Sayyidunā Mūsá ‘alayhi s-salām – he see not coming, not praying, and not. Saying maybe he is praying in his house. Asking for zakāh because there is zakāh even in time of Sayyidunā Mūsá ‘alayhi s-salām. "Where is this?" and he say, "O Qārūn give your zakāh." He said, "What zakāh?" "This your money." "Oh no. This I make this by myself, by my knowledge. I made this fortune for this treasure all from my knowledge I do this." This is what he was answering for Sayyidunā Mūsá ‘alayhi s-salām. And Sayyidunā Mūsá ‘alayhi s-salām, he was angry prophet. You cannot imagine, "What, how you you you, you are? Who are you? You was poor and you are dying from hunger. After you coming to us saying, "I do this by myself?" Going, making du‘ā’ for AllāhNone [to] curse him and he was, with his money, with his treasure, with his palace, with his guards – he was maybe more than thousand guards guarding this fortune for himself – all going down for under ground, finish. No any benefit for this.
+
+So to be loyal, it is very important, very good. Because if you are not loyal, AllāhNone also curse you. You become worse than before. He was ten times worse than before because before, when he was poor man, he was believer and he was praying, but now he come not believer and come to Jahannam to Hell. So it must be loyal. But also there is saying – you must be, not be this people, not must be polite with this people. Don't help them because Arab saying also: "In akramta l-karīma malaktahu wa-in akramta l-la’īma tamarrada." Meaning is not ḥadīth, it is saying from Arab, saying if you give, you host, or you make good for good people, you own him. He is yours. He cannot come against you. But if you are give for who not good one, not loyal one, he become worse. He become worse. So it must be all time in miserable. If you know this people, don't help them. Even now we have many people they are want to go some place, they married. After when they in UK or Germany or other place, they make very bad thing for people and left them.
+
+So be careful. Don't help this people because you not helping, you are making bad for them. Turkish saying, "Şeytan azapta gerek." Shayṭān must be to hell on [all] time. You must, you must leave him rest. All time must give him hard time. Only this people they understand for this. This is ṣuḥbah, sometimes it must be like this because they say ṭarīqah, ṭarīqah also must giving, teaching adab. Not all time to be... if you leave some people, they won't with good behave. Some people you must force them, you must give him hard time. Not everybody you can do same thing for him. AllāhNone help us. AllāhNone AllāhNone help us to not be like this people. This people they are never become good people at all. All time until they die don't trust them.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

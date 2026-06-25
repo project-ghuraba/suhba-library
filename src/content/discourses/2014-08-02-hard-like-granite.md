@@ -1,0 +1,74 @@
+---
+date: 2014-08-02
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2014-08-02-hard-like-granite.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2014-08-02-hard-like-granite
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Hard Like Granite
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahumma salli wa sallim ala Nabina Muhammad alaihi salam salatan tadumu wa tughda ilaih mammarra layali wa tul ad dawam Allahumma salli wa sallim ala Nabina Muhammad alaihi salam salatan tadumu wa tughda ilaih mammarra layali wa tul ad dawam Allahumma salli wa sallim ala Nabina Muhammad alaihi salam salatan tadumu wa tughda ilaih mammarra layali wa tul ad dawam
+
+Masha Allah, masha Allah for salatu salam of Rasulullah. May Allah make it all the time in our heart, going on and on and on and on. This is the reason of our happiness, to praise Sayyidina Muhammad sallallahu alaihi wa sallam. Now there is a new group of extremists. They are extreme in everything, they say don't praise Sayyidina Muhammad, don't do this, don't do that, don't do, don't, don't, don't, and then they become dark, dark, dark, dark, and they become dark like black stone.
+
+And the black stone is very famous, the granite. You cannot break it, you cannot make a shape of it. It is very hard to deal with such a stone. They become as the stone. We are Alhamdulillah, soft, soft, soft, because of praising of Rasulullah and getting very nice flavour of the roses, flowers, the smell of nice smells and all kinds of beauty is growing in our hearts because it's very soft. But in the granite, nothing will grow up, nothing. It is a strange stone. Allah Almighty He create that stone for purpose.
+
+Of course some people can deal with it but not all people can deal with it. Allah Almighty He make the nature of earth with several type of stone, earth, or some kind of marble stone and, so many kinds deserts, sea, and when you look for the humanity, it's exactly as earth because they say we been created from earth. So you see some people, they are hard like stone. And Allah Almighty, He put them in the stone area. Some people their heart like desert. He put them in the desert. Some people they are green, he put them in upper land. Some people they are hot, they put them in equator. Some people they are very far away, He put them Down Under.
+
+This is how Allah Almighty. He make it nations and people and characters because the character is also very important things to deal with. And if your nature and characteristics build-up is for desert you cannot tell that guy, or that people, or that nation you have to change and you have to be as green land that they are using the water as they like and they can enjoy the green and walk on the grass. Maybe one day they will like it but on second day say, 'where is my desert? Where is my heat? How can I live here?' They feel depressed, they feel depressed because Allah almighty, He create them there.
+
+And the funny things, they say, in India the child can eat spice. Yahu, whole nation eating spice. Of course he will eat spice and he will be enjoying it. And say this is the taste of the food with the spice. But to bring one boy from anyplace - my mother she was punishing us with the spice. Imagine you are punishing Indian boy with the spice. What do you think? It's effective? 'Mama more, can I have more please'. We be very scared, 'aww, we say bad word', my mother she would put some spice on our tongue to not say it again.
+
+But now the new extremers, they say everybody must be stone, must be granite. Must be because 'I am granite, you have to be granite. My characteristic is granite, you, all of you have to follow me as granite’. Yahu the earth put it all together, press it, cannot be. It will be mud, cannot be. 'No no, no, no, no, you have to try harder and harder and harder’. And then, you see the picture today. You look for the picture today. It's really a mess. It's really mess because everybody thinking he is granite but he end up as earth, he end up as I don't know, small stone, he end up with water, he end up with any kind of this, what Allah Almighty He give to him.
+
+He act as granite and he fail and he make the hatred coming on him. This is very important to know because so many people they are confused, today. Today people they are very confused. I think the knowledge was not available in the history as today. Everybody, any question in his mind he can ask the Google and he will get some kind of answer. And this is to show you how you are nearer to the information. Allah Almighty, he make it so simple to be nearer to info. Say, 'call info, info, info', and they are advertising for you to say 'Ah, don't be ignorant, yes, there is way to get the info'. There's way to get the information.
+
+With all this today people they are the most confused people. The most confused people, it is not clear anymore. It is not clear at all. Now we see one country bombing one city hard. You see the drama there, the people, and you see how and you look from this concept. You see, say 'we are right'. You see for that side, say 'we are right'. Yahu, who is right. Then, you look at other Muslim countries, say they're against the government, or with the government. If you're against the government, you have this punishment, with government, you have this punishment. The people between, they stuck either to go for government or to go against government.
+
+So what happened? The people they say: inna lillahi wa inna ilaihi raji'un (2:156). How, which way to choose? And then you go for another place in the name of Islam, we are destroying the houses of Allah Almighty. Allahu Akbar! Another thing, a new thing, akhir zaman. It is end of time. In the name of Allah you destroy Allah's house. In the name of Allah you destroy the maqam that these people they been doing much for Islam, and they been sacrificing for Islam and you say 'oh, destroy him, that is not important'. I have very nice story about this. Everybody knows Mimar Sinan, the famous architect of the Blue Mosque. Very famous, and he was such an engineer that when he put dome of the Blue Mosque and the Sultan asking him, 'if earthquake happening what will happen for this dome?' And he say 'Insha Allah when Qiyamah approaching this dome will not break only it will be rolling, grn, grn, grn, grn. It will not break'. And this man he was having thousands of projects, thousands in such a short period of his life, maybe he was living for 90 years.
+
+It's quite long, but for thousands of projects in those days and every project, it is like 'wow', it is not building houses bungalows, tk, tk, tk, tk.. no, it is not bungalows. And there is no machinery or concrete. Everything with patient, with love and they been putting every stone with love, you know, like these people and even there was one story about one man he was carrying the stone and he was going up and then throw the stone again, he was carrying the stone.
+
+Mimar Sinan telling him 'what you are doing? Say, 'O my master I was having last night some kind of dream so I come dirty and I couldn't have chance to take ghusl so that's why I didn't waste my time to give my service, that's why I was just taking the stone upstairs but I didn't put it because I have to clean myself first, then I took this stone'. This is how they were building these houses. And this is how they were doing this worship to Allah Almighty.
+
+And then this architect one of his projects, it was bringing the water for the areas in Istanbul. So he was carrying all the water and making it easy for people. And the Sultan he was so happy for this service of him and he was telling him 'I will give you special permission for your water to come to your house so you don't have to go and send your people to take the water from the station of the water'. And he say 'this is very big kindness of you.' Say 'no, you make big service, so it is your right to bring this water for your house'. After a while the sultan pass away.
+
+The new sultan came and days after days was passing, and the ministers of the new sultan, they say, 'Ehm, why Mimar Sinan he have water for his house, what is his speciality? What he done to get this special permission to get his water for house? And the previous sultan was telling Mimar Sinan 'I will give you in writing for your right', and he say 'your majesty, it is big honour but I don't think I need such a paper to give me this right'. This Sultan say,'okay, if you are not willing to get this paper it's okay'. So he didn't take this paper.
+
+After a while this water become for him as cursing. Everybody says, 'why Mimar Sinan having this water in his house, and the rest of the people getting water from the station?' And finally he give up, he say, 'I cannot argue and I cannot present. If the people don't know, if the sultan doesn't know my service I have to give up'. And he give up and he let the water to go away from his house. So after he passed away and after this they discovered what he is doing. He doesn't (just) deserve water in his house, he deserve to make his house a swimming pool. 'Mehmet only bringing water for his house'. And this is how the people they forget. How the people they forget the appreciation. Alaysa l-jaza'u l-ihsan illa l-ihsan, this is hadith sharif. If someone he make goodness for you you have to return at least with goodness for him. At least. Equal goodness, at least. And these people they been sacrifice their whole life there, for people, for their spirituality, for the people to keep on their belief, to keep on in aqida, to keep on continue to make this religion to keep going on and on and on, to give this life on and on.
+
+Now that you are in power so you, 'uh, we don't need these people'. This is big mistake. This is big mistake. The people, Allah Almighty He put some kind of light inside the people and they can see. Maybe you are now coming as granite, getting everywhere to be dark, to be hard, but Allah Almighty, He find the way for small earth in that granite to grow up.
+
+There was one nice story also about one man, he was against Rasulullah sallallahu alaihi wa sallam. The new history not old history and Allah Almighty He give him a son and he is a lover of Rasulullah. We cannot win. This is Allah Almighty, He is absolutely controlling, absolutely. Everything in His hand, don't think something in your hand. We are only puppets going around. You know this the one with the rope. Allah Almighty He have hidden rope and He take us for wherever. It is time to think it is not time for info. Info, you don't know which one right, and which one wrong.
+
+Now Allah Almighty he give you mind and then he give you heart to ask. If you are not connecting to heart to ask you have your Sheikh to ask. It is important to have a sheikh, it is important to have a murshid. It is important to have somebody in your head to ask, and at least if this question or this answer doesn't satisfy you, at least you done your duty and you asked. And very important, at least it make your mind to work, at least it make your heart to work. At least it make it clear, maybe you don't like it at the end of day, it's clear. Because we need to be clear, now is time to be clear.
+
+That's why Maulana Sheikh in those days he is advising to keep up in your house, that means to keep up in your circle. No need to go for that side or that side or that side. All the side they are zalim, oppressors. All of them oppressors. Today’s system is built on oppressors. It is today's manifestation. So that's why we have to be careful. We have to be thinking what is coming to us and not to immediately make judgement. No, when you make the judgement then, you can be wrong.
+
+No, you ask your heart, you ask your mind and you ask your Sheikh and you'll get the right answer. Today is the time to make tasbih, hasbunallahu wa n'imal wakil. It is important because we don't have any wakil, we don't have anyone to look after us except Allah Almighty. It is dark time, maybe we are in peace, Alhamdulillah, but there is no guarantee that we keep in peace. There's people they been rich, they been happy life, good business and now they don't have richness, they don't have happy life, they don't have houses and they don't have nothing and they don't know what to do. And we ask Allah Almighty to not put us in such a situation because you never know. It was having First World War, Second War, and now the third is coming. You cannot run away from it, it is coming. This Rasulullah, he tell about this. And what happening is preparation for what's coming. It's very important now to build up your self. Now is the time to train yourself in spirituality. It is no time to go out and say this is right, this is wrong, no. Now it is time to build up your spirituality, and to build up your children's spirituality, family spirituality and community spirituality.
+
+It is not time to say this one right or this one wrong, no, no, no, no, no. It is very dangerous to choose because all of them they are oppressors. All of them oppressors, they say la ilaha illa'Llah Muhammadun Rasulullah and he kill children, la hawla wa la quwwata illa Billahi l-Aliyyi l-Azim. He destroy the mosque say Allahu Akbar! Allahu Akbar! Allahu Akbar! La hawla wa la quwwata, it is drama-comedy, it is painful comedy, it is worse comedy, it is the rubbish comedy. This is what we can name it. It is not things for laughing but anybody else looking from the outside they say 'yah, they are doing the kafir job, very easy, without spending any money'. For free, for free. La hawla wa la quwwata illa Billah.
+
+We ask Allah Almighty to protect us in this time and to make us in strong spirituality and to make us with ikhlas, with sincerity to Allah Almighty, to Rasulullah and to our Sheikh, Sheikh Muhammad Nazim al Haqqani, and to our sheikh, Sheikh Muhammad that he is now guiding us for the Light, he is guiding us insha Allah for Mahdi alaihi salam time and he is the one will give us to Mahdi alaihi salam hand.
+
+Wa min Allahi t-taufiq bi hurmati l-Habib bi hurmati l-Fatiha
+
+Subhanim Allah Sultanim Allah Nabim Muhammad alaihi salam Subhanim Allah Sultanim Allah Nabim Muhammad alaihi salam Subhanim Allah Sultanim Allah Nabim Muhammad alaihi salam
+
+wa salli Ya Rabbi wa sallim ala jami al anbiya wal mursalin wa aali kullin ajma'in wa l-hamdu Lillahi Rabbil Alamin al Fatiha
+
+Video Link: http://saltanat.org/videopage.php?id=12098&name=2014-­‐08-­‐ 02_en_HardLikeGranite_SB.mp4

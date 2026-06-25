@@ -1,0 +1,42 @@
+---
+date: 2018-05-22
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2018-05-22-the-most-merciful.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2018-05-22-the-most-merciful
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Most Merciful
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa raḥmatu
+
+Llāhi wa barakātuh. A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr yā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa l-khayru fi l-jam‘iyyah.
+
+Allāh ‘Azza wa Jalla states, A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. "Inna Llāha yaghfiru dh-dhunūba jamī‘an innahu huwa l-ghafūru r-Raḥīm" (39:53). AllāhNone forgives all sins. He does not say, "I forgive this and I don't forgive that." He says, "I forgive all sins." AllāhNone is forgiving. Allāh ‘Azza wa Jalla forgives as long as you repent and ask for forgiveness.
+
+Once AllāhNone forgives, people also forgive. Well they may forgive. Some people hold a grudge and do not forgive. It is envy. Because of their envy they say, "I won't forgive. Let him suffer his punishment on the Day of Judgment," or, "Let him suffer here." There are such people. Leave that aside, some people do not forgive when a mistake is made. The other person is repentant of course. If the mistake involves the rights of others, of course the person either can forgive or is unable to forgive or cannot forgive. And sometimes someone else has forgiven them. So for example, a murīd made a mistake, and his Shaykh forgave him. Others might not be able to tolerate this. This is from the ego. It is from a disease of the ego. It is envy. Envy – not to forgive is the character of shayṭān. Forgiving is the character of AllāhNone. We are obliged to abide by Allāh'sNone attributes, not shayṭān's. Whatever shayṭān does, we stay away from.
+
+It happens. Sometimes even during Mawlānā's time, many people, not too many but some people, because Mawlānā was being tolerant – as a result of their envy many left this way and got out. Of course not many but some people. It means it was no use for them. It was harmful. For it to be useful, so for this reason, when you see a good being done, when you see tolerance, do not see it as bad. See it as good. Because everyone has an ego. Everyone has the ability to make a mistake. Everyone can make a mistake. It was not just that man who made a mistake. Forgiving that man who made a mistake is a goodness for you too. He should say, "When I, AllāhNone forbid, also make a mistake, AllāhNone will forgive me too if I repent. These people might forgive me also." If not, if you condemn him: "This man became bad as such, made such evil," our Holy ProphetNone says, "If a person condemns another, certainly that fault might be in him too." So if you see a fault or a defect, do not condemn the person. Feel for them. If they repent be happy since they repented from their mistake. Do not feel sad since he repented AllāhNone will forgive him now and not punish him. It is better. Let HimNone not punish. Because we do not want anybody to get punished. May AllāhNone protect us. We also have an ego. If he gets punished we could also get punished. Therefore, as we said, during this Ramaḍān we should forgive and be happy for those who are forgiven. We should not feel sorrow. As we said, to be happy is Allāh'sNone attribute. Our Holy ProphetNone says, and there are so many ḥadīth that show how much Allāh ‘Azza wa Jalla is happy. HeNone is so happy when man repents and asks for forgiveness. Of course some people follow their ego. They think they are angels without sins, and do not commit any sins. No, all of us make mistakes. May AllāhNone forgive us all, in shā’a Llāh.
+
+Allāh ‘Azza wa Jalla saying, "Inna Llāha yaghfiru dh-dhunūba jamī‘an innahu huwa l-ghafūru r-Raḥīm" (39:53), ṣadaqa Llāhu l-‘aẓīm. AllāhNone He said AllāhNone He forgive everything. HeNone is the most who forgive. What you done, when you regret and you ask forgiveness, HeNone forgive you. This good tiding because many people, every people they make mistake, they make wrong thing and but the end AllāhNone forgive us. Not like human being they are not forgiving at all. Only forgiving for bad thing what they... If you do bad thing is ok you can continue but if you do good thing it is not good for them. For this Allāh ‘Azza wa Jalla forgive and people also must forgive for people who asking forgiveness from them.
+
+Because many people they are envious, they have bad attribute, they like this people to [be] punish[ed]. Even they regret and ask for forgiveness they are also they want them to [be] punish[ed] here and hereafter also. This attribute envious – attribute of shayṭān. He is envious. He is, he has every time hate, hatred in his inside. Who following shayṭān this people also same. They have the hatred and envious for people. But for Allāh ‘Azza wa Jalla every time HeNone is asking people to ask forgiveness, to forgive them. This attribute of AllāhNone so we are, we must follow attribute of AllāhNone. To be following what HeNone is do, what HeNone is like, and what HeNone want people to like. Not following shayṭān who every time want bad thing for people, not good thing. And this envious it is some, many time it's taking people to way of not good end.
+
+Because Mashāyikh also every time they have tolerance and they are forgive for people what they do from wrong thing but sometimes people in ṭarīqah even they are not like this and many, not many, some of them... Time of Mawlānā, because Mawlānā he was endless tolerance and forgive people – many of them, this people they left and this coming disaster for them – to left this nice and light way, way of mashāyikh for their ego. Because all of us we have ego. If AllāhNone saying, "INone am forgive him," we must be happy because we are, we can do same mistake. We can do some wrong thing what this man or woman done. And AllāhNone forgive them so also we are, we must be happy because every time we can be in mistake and AllāhNone, we are happy AllāhNone HeNone will forgive us. Not to angry for AllāhNone when HeNone forgive all people. No. We are, we must be happy because all life, our life, every minute we can do mistake, we can do wrong thing and it is be good tiding for us. We must follow this, not saying for people, "Why you are forgive this?' We forgive because AllāhNone HeNone very happy. ProphetNone saying when somebody asking forgiveness – forgive. To forgive him from AllāhNone. AllāhNone He is very happy. HeNone said, ProphetNone he give many example for this. As one bedouin, he is traveling in desert and he has everything in his camel. And when he sleep, his camel run away. When he wake up – only in desert. In desert nothing you can survive because water, food, to walk, you cannot walk. You must be have this camel and this camel he was running away. He was hopeless, this man. Looking they are here, and after he tired. He was sitting or sleeping. Suddenly his camel coming for him and ProphetNone saying this, from his happiness this bedouin he said, "O my servant I'm your Lord. Thank You for You" – for AllāhNone. He make it wrong. [He meant] to say, "O my Lord, I'm your servant." He said, "O my servant, I'm your Lord. Thank you very much from this." From his happiness he said this.
+
+AllāhNone He is more happy than this when somebody asking for forgiveness from HimNone. Look how it is big thing and AllāhNone He is the most mercy Merciful. So we must be happy. We must try to be, to try to forgive people, to not be angry all time. Every people they are can do wrong. Nobody like angel in this life. Only angel without mistake. So we are here, AllāhNone create us to make mistake, to make wrong – to forgive us. AllāhNone forgive us, all of us, in shā’a Llāh.
+
+Wa min Allāhi t-tawfīq, al-Fātiḥah.

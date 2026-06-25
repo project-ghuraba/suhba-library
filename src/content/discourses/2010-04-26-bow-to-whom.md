@@ -1,0 +1,58 @@
+---
+date: 2010-04-26
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-04-26-bow-to-whom.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-04-26-bow-to-whom
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Bow to Whom?
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allah Allah, Allah Allah Allah Allah Aziz Allah Allah Allah, Allah Allah Allah Aziz Allah Allah Allah, Allah Allah Allah Allah Subhan Allah Allah Allah Allah Allah Allah Allah Sultan Allah!
+
+Allahumma salli wa sallim wa barik ala Sayyid al Awwalin wal Akhirin Sayyidina Muhammadin wa alihi wa sahbihi wa man tabi`ahum bi ihsan ila yaum ad-deen. Baarak Allah, zadahullah izzan wa sharafa nuran wa surura, wa ridwanan wa sultana. Thumma assalamu alaikum Ya Ahl al Nawbati bi alihi buldan min insi wa jaan, thumma salamu alayka Ya Sahib al Imdad, thumma salamu alayka Ya Sahibi wa Sayyidi wa Mawla'i Qutb az-Zaman, al mutasarrif mutbakaan ala hadhih 'd-dunya Madad Ya Sahib al Imdad, Assalamu alaykum. wa rahmatullahi wa barakatuh.
+
+We are saying: Audhu Billahi min as shaytani' r rajim Bismillahi'r Rahmani'r Rahim. Must be. Now, I am not in myself. My will and all my being is under the holy arranging through heavenly people for Earth. Therefore what you are hearing is not from me but what has been sent to me. I am only speaking. I don't know anything. I am only a transmitter. That is something that on the Day of Promises Allah Almighty was saying, astaidh Billah nahnu qasamna.
+
+O our ulamas, teachers, we are beginning and saying, audhu Billahi min as shaytani'r rajim, running away from shaytan and its junud, soldiers. I am running away and all of you must run away also. Don't leave to come closer to you, don't make friendship with shaytans. Worst friendship that a person may make is friendship to shaytan and its followers. And we are saying: Bismillahi'r Rahmani'r Rahim. Bismillahi'r Rahmani'r Rahim, O our Lord You granted us such an endless treasury from pre-Eternal up to Eternal, we are thankful to You, bowing to You from pre-Eternal up to Eternal, O our Lord.
+
+O People, O People. Don't do ruku, don't bow to yourself or to anyone except Allah Almighty. Yes, our Salafi ulamas and also perhaps tonight coming another bombarding on those ulamas that are not claiming to be Salafi or not to be Wahabi teachers. All, from east to west, from Far East to Far West, all over the world this is the sayfu'l qati`a, sharpened sword. The Lord of Heavens is ordering to bow only to the Lord of Heavens and we are doing. O ulamas Ahl as Sunnah wal Jama`a, O Salafi ulamas, O ulamas of Shi'a Shi'a ulamas, are you reminding people to bow to their Creator, to Allah Almighty only. What you are saying? Ordering or not? You may speak from early morning up to late of night but I am never hearing you say 'O our listeners, O our people, O our Muslims stand up and bow to your Lord Almighty Allah. Allahu Akbar! Are you saying? You saying this? I am asking. What they are sending to me that is what I am only saying to you. You are understanding Arabic. And you must be much more, your understanding horizon must be so wide.
+
+You are saying that through Holy Quran we are finding in 14 places, to bow. Masha Allah, you are such alim, such learned people What does it mean? If making Allah Almighty 14 places that you must bow. That means even for every holy verse you can do one bowing. How many holy verses through Holy Quran? You must know it. Four thousand, four hundred and fourty four, Yes? That showing 16, 4-4-4-4. If we are calculating, it is going to be 16. 14 through Holy Quran, one at the beginning you must make sajdah. Who sent us Holy Quran and you must do when you are making khatm, finishing for that 2 sajdah, making a heavenly stamp. 16.
+
+From where you are bringing? I don't know. Coming to me. I am not preparing something to address people to make for me like this (clapping). No. I am a finished person, but, as you know O ulamas, kullun muyassirun lima khuliqa lah. Everyone is suitable for his heavenly identity because everyone has been responsible with something. Everyone, leave Mankind. Look Azamatu'l Haqq the whole greatness. Absolute, Glorious Greatness.
+
+Look, O those who are claiming 'We are doctors or we are ulamas’. That reality is perhaps never coming to your minds because it is not something of mindly-production. Such things belong to hearts O People, and hearts are an unknown piece from Mankind. Impossible to know it except, for who is saying: ma wasi'ani ardi wa la sama'i lakin wasia'ni qalbi abdi al-mu'min. You must know it if you are ulamas. Allah Almighty, that means no one is knowing real identity of heart and so on they are coming tadulluni, guiding me on a reality that means everyone among Mankind has a special personality. Never making 2 persons same in existence among Mankind. Each one has a special personality that means everyone from Mankind, their identity is different 100 %.
+
+Yes? Anything wrong, ulamas? This is tazeem, glorifying of our Lord. You must say 'Yes'. We are mudhdhakkir, only a reminder. Don't think that I am knowing. No, what they are saying I am transmitting to you. Accepting, accepting. If not accepting.. Why they are not accepting? Because their hearts are closed down, ghulfun, locked down. Therefore they are not understanding or listening. Yes, open your hearts and you will find another, another, other oceans for understanding. For everyone there is a special identity. That is signaling Azamatu'l Haqq, Most Glorified Greatness of our Lord, Allah Almighty. Therefore saying this through your hearts, 'I am granting to you’. From where coming? From Him coming. And from Him there is some relationship by means - bi'l wasitah. Some without means. The Lord of Heavens, the Creator of Mankind using sometimes for His servants to make them to understand through prophets. But prophets are not in need for a means. Yes, they have means for heavenly beings to earthly material being. Must be that because without those means we may burn. As these lamps running in them electricity. Without wires you touch it, taking away. Therefore we are using this. And from heavenly beings or from heavens, all of them, have a special creation. Prepared so as not to be touched by this power or their physical being will be destroyed. No they have. The power is coming through angel. Archangel Gabriel is taking those wires from heavens to the hearts of prophets. If he is not coming and that power coming it can't enable anyone here and it is a special being from heavens for special people on Earth.
+
+Holy Command is to bow. Are you saying O ulama, ‘O people, when you are hearing or reciting Holy Quran, you are coming in touch with heavenly declaration. Bow. To bow. Bow! Only for Allah, Jalla Jalaluhu, Subhanahu wa Ta`ala, Allahu Akbar. La ilaha illa Llah, La ilaha illa Llah, La ilaha illa Llah, La ilaha illa Llah. Sayyidina Muhammadun Rasulullah Habibullah, Nur Arshillah. So many secrets through Holy Command: Bow. Bow to whom? To That One Who created you, bow to Him. Teach people not to bow to anything O ulama Ahl as-Sunnah, ulama Salafi, ulama Shi'a and this Islamic World. Why not teaching people to bow?
+
+Yes, you are mostly people praying, bowing and making sajdah but we must try to make them for what we are bowing? For whom we are bowing? When we are bowing? Where we are bowing to? Are you saying as Allah Almighty saying: wa dhakkir. Wa dhakkir O ulamas. Look, east and west. Worst friend of people, who is that one? Say! Say Allah's command Say. Men, to whom they are bowing? Ask them, 24 hours to whom bowing? To whom working, to whom serving? These, Mankind, you taught them Muslim scholars? And Christian scholars? And Isra'ili scholars? Say, that we taught our people to bow to Allah only. Did you say that thing? No.
+
+You are saying like this, like that for dunya, ad dunya jeefah. For what you are speaking of dunya? You must try to take away from dirtiness of this world because people are just like PICA (pilot in command aeroplanes) aeroplanes come 1st, 2nd one, PICA coming down. From above coming (down). People now are asking instead of far distances, closer distance. They are asking to come into that dirtiness. Why you are not preventing it? Ad-dunya jeefah, dirty 24 hours, what we are doing, all of us? We are bowing to Allah? Don't think that bowing is only through prayings. No. 24 hours you must bow to the Holy Command of Heavens. That is heavenly declaration from beginning from first prophet, up to the Seal of Prophets, Sayyidina Muhammad (sas) that he a`addat amanah, the Seal of Prophets delivered the whole truth.
+
+O people, ulamas, ulamas, hmm? Such ulamas? You are not fearing the Day of Ressurection, Allah Almighty is going to ask you to where were you directing people? Dunya. Or may ask why you were not teaching to where they must direct yourselves? Why you are bowing to dunya wa ma fiha, and everything in it? And the end of the world as the Seal of Prophets was saying. What saying, ulamas? For sajdah. And you are saying, 'We are ulama, we are doctors'. One hadith I am saying to you, you may give any meaning if I am saying I am giving a wrong meaning, then you may say, 'you are wrong'. min alamaat as sa`a, the signs of Qiyamat whoever may be at that time from the Nation of Sayyidina Muhammad (sas) O ulamas, you may think something on it, where is qiblah? Qiblat akhir zaman, the last days' ummahs their qiblah, that Muslims are turning towards Ka`aba. One word saying the Seal of Prophets, nisa'uhum qiblatuhum aw qiblatuhum nisa'uhum, wrong? Wahabi ulamas what you are saying? Wrong? Shaykh saying wrong? I am not saying but you are saying, ‘Shaykh saying something we never about’. Yes!
+
+I am also not knowing but who is making me to address all people on Earth now. And I am nothing. O ulama, Salafi ulama, marhaban. Yahu, there is flute. Bamboo is of two kinds, bamboo for sugar, second bamboo is empty. Empty bamboo going to be flute. But full sugar cane can't be, no. I am such a person, like flute. I am shouting, but you are full ones, you must give what you have through yourself from sweetness and pleasure and lights, you must give to people. You must make people taste from Holy Quran Those who are reciting Holy Quran and getting in pleasure. Look all around the world, how many people are getting pleasure from Holy Quran? All people running after cane that is empty. All of them.
+
+Why you are not directing people to say your life is not a good life because you are against Shariatallah. You are not good servants. Why you are not saying? Say from top to end all people, 'Don't fear. If Allah Almighty protecting a person whole nations can't do anything to him, but, if Allah Almighty asking to give a punishment to a Nimrod, sending to him one mosquito, it is enough’. May Allah forgive us.
+
+O People we must try to bow to Allah Almighty only and everyone that is representing the Lord of Heavens on Earth, you may bow to them. Worst bowing, one, is shaytan. And second dunya, and third, hawa and fourth, your ego.
+
+Astaghfirullah, tawba Ya Rabbi. Tawba Astaghfirullah, forgive us. Ighfirlana wa'rhamna Ya Rabb. Ya Rabb....Fatiha. Alhamdulillah wa shukr Lillah..
+
+Video link: http://saltanat.org/videopage.php?id=8002&name=2010-04-26_en_BowToWhom.mp4

@@ -1,0 +1,54 @@
+---
+date: 2012-06-01
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-06-01-ablution-is-spiritual-cleaning.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-06-01-ablution-is-spiritual-cleaning
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Ablution is Spiritual Cleaning
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salamu Alaikum. Madad ya Rasul Allah, Madad ya S Abdullah Faiz Daghestani, madad ya S. Muhammad Nazim al Haqqani, dastur! Tariqatuna sohbah wa l-khayri fil jamia' We may say a few words for sohbat. Mawlana's sohbats are already enough for everyone but we also, because we do (sohbat) upon his order & with his barakah/blessings, it becomes a very big thawab, blessing for all of us, with the permission of Allah. What we do is not even one in a thousand, or million compared to his sohbats.
+
+There are countless virtues Allah granted to the nation of Muhammad (sas). And all the prophets would pray to be from the ummah of the Prophet(sas). And there are a few of them, whose prayer Allah accepted. They will descend in the end of times & take from the fadhila of being ummah of Muhammad (sas). And one of these grants, gifts of Allah Almighty to ummah of Muhammad(sas) is ablution/wudhu. Prophet (sas) distinguishes his nation from the other nations by wudhu on the Day of Judgement. Says, "Al-Ghurr-ul-Muhajjalun- from the trace of ablution". It is mentioned in Quran as the people who shine like nur, all white. Because the parts of your body washed in ablution all show as nur/light- your face, feet, hands, head..wherever wudhu touches, that part becomes nur. Other ummah/nations don't have this.
+
+When you are making wudhu.. There is Hadith about this. When you wash your hands, all the bad things you did with your hands & all the sins with it are shed from your hands, just like all the dirt goes away when you wash. You wash your face..Allah knows, probably you looked here there... Even if you did things, upset people, when that water comes & washes your face that also goes away with the water, sheds away. Just like the zahir, physical dirts being washed away, the spiritual/batin ones also are shed. And when you wash your arms they are also cleansed, dirt washes away. You do masah/wipe your head, ears, nape- all goes, nothing remains. When you wash your feet, their dirt also washes away. If you went for sin, or if you went to a bad way it is spiritually cleansed by wudhu. Of course also physically cleansed.
+
+Therefore the (used) water of wudhu.. One should try to not splash back the water on himself, on his clothes. But people they look & say, "this is clean water, what happens if it splashes back on us?" There must be a wisdom that it is said the wudhu water not splash back on you.
+
+Ablution/wudhu has countless fadhila/virtues. When a person is starting an important work or duty, even if he doesn't pray, he should definitely have ablution. When he is going somewhere-going to an important place, etc he should have ablution so that it becomes easier on him, he looks lovely to people, doesn't arouse hatred. The fadhila/virtues of ablution, as we said before, and some of these virtues for..
+
+When one gets angry... Now when one gets angry he loses control of his behavior. And mostly he regrets afterwards. Sometimes regrets too much because he did very bad things, sometimes less. It says, when you get very angry, make ablution. For sure it takes away that anger, rage.
+
+There is a fadhilah for every step you take when you have wudhu. A person who has wudhu is less likely to do bad things. This sohbat came today, in this Juma about ablution. And when making ablution you should be careful. You may do it fast but definitely do it complete. Meaning, it shouldn't be performed incompletely. It should definitely reach above the elbow. Should do his head, face, all of it, beard also, if he has beard.You make khilaal of the beard-combing it with hand. It is sunnah also, when one has long beard. And the most important is the part with feet. Ok, some people may have an excuse & rarely they can do masah of the feet (not washing). And this is only as imitating another madhab. But in our madhab, Ahlus Sunnah wal Jamaah, doing masah is very very rare. Don't say "we imitate them & do the same thing". Those people, when they were healthy & had strength they would wash their feet maybe 15-20 times a day. Therefore it can't be like "we saw it this way so we do like this". Even if you saw it this way, they don't accept this way of doing it. So for this, definitely wash your feet. And wash it well so that the sins may be washed away, forgiven with the permission of Allah.
+
+And after the ablution..Also ablution has sunnah, fardh & mustahab acts. Pay attention to them also. How long does it take to perform ablution anyways? 1 or 2 minutes. And there are many sunnah acts in it. There are mustahab-recommended, fardh.. For all, different reward given-each one starting from 10 thawab. There is no end to Allah's Bounty & Generosity, grants as much as He likes. But in the least, you get 10 thawab. And for sunnah, you get 100 shahid thawab. Because sunnah of our Prophet (sas) becomes 100 shahid thawab in the end of times. And people are not aware of some sunnahs at all.
+
+And we heard from Mawlana 2 years ago, that after you finish performing wudhu to drink one drop of water is also sunnah.And you drink it while standing, like zamzam. And then you say Kalima Shahaadat. You can recite "inna anzalna". These are also from the sunnah. And you can learn about them, no need to mention all of them here. Today we speak about, how we make sohbat here. Only for barakah of Mawlana. Because our sohbat even not one part from million or billion from his sohbat. But when he order to make sohbat, when you sit here also you get big reward for this. Because order of Mawlana Shaykh, and sohbat to make order of Prophet & Islam, to teach what we must learn.
+
+Today, Subhan Allah we speak about wudhu/ablution. Ablution, it is big gift from Allah for ummat al Muhammad (sas). To be ummah to our Prophet (sas)- most of the Prophets, they were making praying to Allah to make them from ummat Muhammad (sas). Some of them, Allah accept. And when akhir zaman Mahdi (as), near Qiyamat they will be come as from nation of Prophet (sas), not as prophets. Even when Isa (as) coming, he not going to make imam in Muslim in Jami..Because he said, if I make this maybe they, people (think I am) prophet now. I am just from his nation, ummat Muhammad (sas). And Allah give, because why they want to be ummat Muhammad (sas)? Because very big honour. Honour and gift, many many gifts.. Allah know how many gifts. Nobody Allah.. nobody but Allah knows this.
+
+One of this gift, ablution. Ablution from other nation, they don't have ablution. For this, in Quran also they said for nation of Prophet (sas) "Al-Ghurr-ul-Muhajjalun", meaning light & white in their face & their body from ablution. And this, when you make ablution, Prophet (sas) said "when you clean each part; like face or mouth..What you do, this if you have dirt on your face, going. But if you have spiritual dirt, also going. How it is, maybe becoming angry to somebody your face like this. Or you see something not must look, it is also like this. When you wash your face it is going, cleaning. And after wash your hand, also going if you catch something or make something with your hand. Also this going with washing. For your head, for you feet also. If you go to bad place, all by this washing it is coming clean. Spiritual clean. And for this you become light.
+
+And there is, when you make ablution this water of ablution you must not coming on you. Why this is not? For this, Because you make clean everywhere. It's coming not good. Not najasat (filth) but it is not good to come to you. For this you make like, without touching you. The reason of this, this is. This is spiritual dirtiness. Spiritual dirtiness, it is more bigger than real one. For this they not like to take wudhu and the water coming on you. Water of wudhu special. But if it is coming from.. you not touch this water, it is ok. This is makruh/disliked, not haram or making wudhu useless. Just to be careful for this. And for wudhu, there is many fardh & sunnah. This is for each part, sunnah; Many sunnah, many mustahab. And when you do this, for each one you take 10 reward from Allah. For sunnah, or for fardh, or for every part. Not for wudhu 10 reward, no. For each one, each sunnah you do, you take this. Even in, we are in last days of dunya. Prophet (sas) said "when you make one sunnah, making 100 shahid ajr". Even like this.
+
+For this you must make your wudhu complete. You can make it fast but you must make it is completely wet where you make wudhu. And make it until here, until here..Specially for foot, you must wash it. But maybe very old or ill people; very ill they cannot do, they have excuse. Even somebody if he has hand broken, he cannot..it is like this. But not for people who going everywhere & when coming to wudhu, just making like this on feet. You can, this no. Because this people, when they was young or they was in good health, they wasn't lazy to do anything for wudhu. Maybe 24 hour with wudhu, Alhamdulillah. And when you live, you Alhamdulillah learn, everytime you learn new thing. We learn before 2 years Mawlana Shaykh, he said after wudhu you take water. While you are standing up after wudhu, & with Basmala we drink this water. Like zamzam you make it, not sitting, when you standing up. You say Ashadu an la ilaha illa Allah wa ashadu Muhammadan abduhu wa Rasuluhu. After you can read inna anzalna. This is all sunnah and mustahab.
+
+This is gift, and very.. you feel when you are, if you are angry, there is Hadith, you must make wudhu. When you make wudhu, coming down this anger. With angry, many people they are regretted. Some of them, very bad regretted. Some of them little bit. Because you can't do, you not know what to do when you are angry, very angry. But by wudhu, this taking off. And there is hundred or maybe thousand benefit for wudhu. This is for Juma insha Allah, gift from Allah. Alhamdulillah we are from ummat al Muhammad & we have this good gift. Allah keep it with us all the time.
+
+Allah give Mawlana Shaykh long life insha Allah, with sahha & afiyah. Wa min Allah at-tawfiq, Al Fatiha. Bayat.
+
+Video Link: http://saltanat.org/videopage.php?id=4130&name=2012-06- 01_tr_AblutionIsSpiritualCleaning.mp4

@@ -1,0 +1,42 @@
+---
+date: 1900-01-01
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/1986-00-00-umirtu-an-uqatilan-nas.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 1986-00-00-umirtu-an-uqatilan-nas
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Umirtu an Uqātila N-Nās
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Lā ḥawla wa lā quwwata Illā biLlāhi l-‘alayyi l-‘aẓīm. By the name of Allāh Almighty, All Merciful, Most Beneficent and Most Munificent.
+
+What is the honor for a person? Honor and to be honorable is to accept truth. That is honor for people, for everyone. Who accepting truth, he has been honored by accepting truth. And which things making a person dishonorable? To refuse truth. And truth every time, it is like sun on the skies. Truth is not hidden, always is clear. And do you think that Abū Jahl, the biggest enemy to Prophet, he wasn't knowing truth? His conscience was declaring truth that Muḥammad, peace be upon him, just brought truth, absolute truth, no doubt truth but his ego coming and preventing him. Everyone knows, through his conscience, everyone knowing what is truth. But his ego cursed. Therefore, ego cursed because preventing people for accepting truth. And therefore, only our egos, nafs, making people dishonorable. And therefore, Allāh Almighty ordering to His servants to fight their egos. And Prophet was saying "I have been ordered - "umirtu an uqātila n-nās ḥattá yaqūlū lā ilaha illā Llāh".
+
+You must understand what is the aim for the last message through Beloved Muḥammad, peace be upon him. You must look what he brought, for what he fought, for which thing he gave his life, whole life. You must not be fanatic egoist. Fanatic people - egoist people. You must accept what is truth. And he, Prophet, peace be upon him, was summarizing his prophethood and saying "I have been ordered to fight people until they accepting to say Lā ilaha illā Llāh." There is no God but Allāh. That is truth. But only Prophet is not going to fight.
+
+We are saying, claiming that we are followers the sunnah of Prophet, Ahlu s-Sunnah. And so many people in our time also claiming that they are keeping sunnah only. But their ego rising on them and putting reins their mouth and making that them as a donkey. What is the reason? Main sunnah, the famous sunnah, as Prophet saying "I have been ordered to fight people until they accepting that there is no God but Allāh." And you, everyone as a follower of our Beloved Prophet (saw), you must keep sword for fighting. You must keep sword in your hand to fight until your ego saying there is no God but Allāh. Because your ego, or every ego, going to say: "There is no God but me, only me." Therefore saying Shaykh Ḥasan, "me, me, me, me, me, me." They are singing me, me, me, to me. Now he is coming, Shaykh Ḥasan. You must listen that song. Yes.
+
+Saying to you "You must not accept a god except me. And I am your Lord. Because no one accepting us except..." He never commanding on anyone, except commanding to you and saying "You must be obedient servant to me only and I am your Lord. You must accept me as your Lord." And we are saying "O my God. Yes, sir. What you are ordering? I am ready." Everyone, that is our characteristic. Therefore, you must accept truth. If you are saying "My ego is angel", you are liar. Your ego is not angel and never going to be on the level of angels. But you may say it is devil. Real devil, more than shayṭān is devil our egos. You must be very careful. Therefore, Prophet saying "a‘dá ‘aduwwaka nafsuka l-latī bayna janbayk." The most terrible and dangerous devil is between your chest, here. And we are keeping it. Prophet, all Prophets, coming with truth. But whole truth through the wisdoms of Muḥammad, peace be upon him (saw).
+
+And you must accept this. If you are not accepting, you are never reaching to the level of humanity, not going to be honorable person in Divine Presence. Therefore, we must fight to our ego and to say "Get away. I am now with truth." Your ego making 100,000 traps or tricks for you for changing your mind and for changing your heart also. Don't think that it is an easy one for fighting. No. But it is so difficult. You may fight every army on earth but they may be easy in front of your ego. It is so difficult. How it is not going to be difficult? And Prophet saying that it is the most biggest enemy, biggest devil. And you are looking after it so carefully. You are using every means to make your ego pleased, to make in pleasure. Who can say "I am not trying to make my ego in rest and pleasure and enjoyment"? Everyone and every problem and every crisis and every war, fightings, every bad things growing through, after that point that everyone asking to make his ego in excellent condition, in best enjoyment to give him everything that he may ask.
+
+This world is not enough for an ego, for a person. If anyone has been given asking for another one. But if you are given to you, leave whole world - if you are given to you this London, and taking all people from it and give to him "Take, this London for you and take everyone", up to nighttime he's going to mental house. Should be crazy. Because looking like this, like that, no one in an empty city, dead city, ghost town. Yes, doctor. You know, understanding such a thing. Too much people coming to you about ghosts. Psychiatry. Yes. They should go, they should run among streets and roads and from there up to there looking where is... Someone here? No one here. Yā Hū, we gave to you this London. Take it. We are going away another London. He is not asking to be alone. He's asking also to be whole London for him and all people to be under his command. Yes, ego is not happy by himself only. No. But if I can be able, I am imprison him in empty town, ghost town, to look after him from every side ghosts, also devil, our ego.
+
+Therefore, it is so difficult one for fighting. Until we are going to be victorious on him, you can't be a person who accepting truth. No, makes you dishonorable always. When your ego saying "Now I am surrendering as you saying. I am declaring that there is no God but Allāh", and you have been honored here and hereafter. Yes. Therefore, in our time a lot of people, they are claiming that they are asking for truth, they are looking after truth. But what is the benefit if truth shining as a sun, but yet you are denying, you are not declaring? Do you think that as long as you are going to be under your ego's control, you are accepting truth? No.
+
+And we have now in our time also, Islām just brought truth, absolute truth. You can't find in Islām except truth. Never anyone can object on the principles that Islām just brought as beliefs, as worshipping, as characters. No one can say any objection. If they are objecting that Islām just fought, Islām just fought on devils. Because every Prophet when coming with truth, if people knowing and keeping truth, no need for Prophets. For what Prophets come? Coming for give people, all of them, accepting truth. And Prophet, the last Prophet Beloved Muḥammad (saw) just came, just has been sent as a Prophet when his nation through the darkness of ignorance. Ignorance and too darkness they were. And they were in a condition, worst condition through cruelty. Who can imagine a tribe burying an innocent girl under sand? Which community give such a cruelty? It means their hearts were as rocks. And some no-mind people defending such people. For what Muḥammad, peace be upon him, fighting? He must fight for those people. They are devils, representing devils, representing and practicing the rules of devils. You are not going to fight? You must give your neck to cut it? But so many foolish and fanatic people in our time also too much objecting. Why? Islām fight. How he's not going to fight? He is coming as a Prophet with truth. And they are objecting and refusing truth. And they are yet insisting that they should do everything from cruelty. And no one saying to them "No." Why those governments making prisons and punishing people? Let them in their freedoms - they may do everything, if it is true.
+
+http://saltanat.org/videopage.php?id=16164&name=1986-00- 00_en_UmirtuAnUqatilanNas_SN_a.mp4

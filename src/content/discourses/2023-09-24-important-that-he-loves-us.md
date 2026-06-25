@@ -1,0 +1,50 @@
+---
+date: 2023-09-24
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2023-09-24-important-that-he-loves-us.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2023-09-24-important-that-he-loves-us
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Important That He ﷻ Loves Us
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+Bismi Llāhi r-Raḥmāni r-Raḥīm. "Wa-la-qad ṣarrafnā fī hādhā l-qur’āni li-n-nāsi min kulli mathalin wa-kāna l-insānu akthara shay’in jadala" (18:54). Ṣadaqa Llāhu l-‘aẓīm. Allāh ‘Azza wa-Jalla is saying that HeNone explained everything in Qur’ān ‘Aẓīmu sh-Sha’n. "Every problem, every goodness; WeNone described them in Qur’ān ‘Aẓīmu sh-Sha’n and sent it to humanity and to everything else. There is everything in Qur’ān ‘Aẓīmu sh-Sha’n. All of them accepted it. Jamā‘ah, people, birds, atoms, earth, mountains and stones accepted it except for mankind. Mankind objected to it the most." Mankind objects to everything from AllāhNone. Allāh ‘Azza wa-Jalla says they are the ones who don't accept the most. We see it all the time. It has been the same since the beginning. Mankind has been this way since Ādam ‘alayhi s-salām. If all of them accepted, there would be no problem at all.
+
+But Allāh ‘Azza wa-Jalla sent people to this world as a test for them – to accept the truth. People who accept this truth become beloved servants of AllāhNone. Who don't love Ḥaqq are disliked servants of AllāhNone. Does AllāhNone not love? "INone don't love," says Allāh ‘Azza wa-Jalla in Qur’ān ‘Aẓīmu sh-Sha’n. We can't interfere in the business of AllāhNone. AllāhNone loves whom HeNone loves and dislikes whom HeNone dislikes. When the first order of Allāh ‘Azza wa-Jalla came to our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam, "Wa-andhir ‘ashīrataka l-aqrabīn" (26:214). "Notify your tribe about this order. Before that, notify your relatives." Such an order came to himNone. Our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam gathered all of them and asked them what they knew about himNone. Certainly, our Holy ProphetNone was a perfect person. HeNone was perfect before the prophecy and heNone was perfect afterwards. There was no change. All of them replied, "We know youNone very well. YouNone are the person we love very much."
+
+HeNone started hisNone speech, "Will you believe if INone tell you something?" They said they would. "What will youNone tell us?" So our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam started telling beautiful words from AllāhNone and shared the orders. All of their hearts were softened. All of them were ready to believe until hisNone uncle, a person called Abū Lahab, stood up and started shouting and swearing, saying bad words at our Holy ProphetNone. This is what Allāh ‘Azza wa-Jalla says. Most of mankind don't accept. When he did this, the rest ran away from the gathering. They remained in unbelief and only later many of them became Muslim. For example, a person like Abū Lahab, is cursed in Qur’ān. There are sūrahs against him, both him and his wife. Because he was oppressing our Holy ProphetNone since the first day and remained hisNone enemy until he died. The biggest enemy of our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam was hisNone uncle. But, he was harmful to himself. He is in hell forever. And that curse is still going on.
+
+But our Holy ProphetNone is the one on the highest station in the universe forever. Those who follow himNone have high stations too. They live with honour. They become beloved servants of AllāhNone. Therefore, do not question the orders of Allāh ‘Azza wa-Jalla. "Why is this so? It is written so and so in Qur’ān." Some people dare make judgments with their little minds. Therefore, we must pay attention to this.
+
+We are in the holy month of our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam. We are in the month of hisNone birth. Don't fail to respect himNone. Don't let anything come to your heart. Shayṭān can send waswasah (whisperings) to your heart. But beware of speaking it out loud. Don't say, "Why is this so? Why is that so?" Otherwise, all your life will be spoilt and you will be in loss forever. May AllāhNone protect us.
+
+Allāh ‘Azza wa-Jalla saying, Bismi Llāhi r-Raḥmāni r-Raḥīm "Wa-la-qad ṣarrafnā fī hādhā l-qur’āni li-n-nāsi min kulli mathalin wa-kāna l-insānu akthara shay’in jadala" (18:54). Ṣadaqa Llāhu l-‘aẓīm. This verses from Qur’ān āyah saying, "Everything AllāhNone explain in Qur’ān." Qur’ān, it is the word of our Lord Allāh ‘Azza wa-Jalla, our CreatorNone. It is very... Everything in it. Nothing out of this. And Allāh ‘Azza wa-Jalla saying, "WeNone explain everything in this Qur’ān. Nobody can object for this Qur’ān. But people, most of them not accept this. They are not happy with this, not following this." But who are following, he will be happy. Who not following, no he will not be. And who following, AllāhNone love them. Who not following, not accept, he, AllāhNone not happy with them, HeNone is, HeNone not love them.
+
+Allāh ‘Azza wa-Jalla say in Qur’ān, "INone don't like who are not believer." How HeNone is not love them and give them everything? They have car, they have plane, they have money, they have land, they have everything. It is not problem for this — who love, who not love. It is important — this all nothing, not forever. Only short period and they will be good, left and go without anything – everybody. And we are, we cannot object for Allāh'sNone word. HeNone love or HeNone not love, you cannot say "why?". This "why" for us – forbidden. For believer, for mu’min people, forbidden to say anything against Allāh ‘Azza wa-Jalla what HeNone said. Maybe for learning it can be, but not for objecting. This what they do, the most people. This is not good for you. AllāhNone... Nothing affect Allāh ‘Azza wa-Jalla.
+
+For this, we are following order of AllāhNone, to be beloved for HimNone. The most happiness for human being, not only for believer, to be beloved for Allāh ‘Azza wa-Jalla. If HeNone love him, everything love him. If not love him, nothing be good with him. And this many, what we saying, most of people objecting. Saying this, saying that. Even Prophet ṣallá Llāhu ‘alayhi wa-sallam... This when beginning order coming from Allāh ‘Azza wa-Jalla to tell people about Islām, about īmān, about to call them to Allāh ‘Azza wa-Jalla. First order to himNone, "First tell this for yourNone relative, the nearest people to youNone. Tell them about this order of AllāhNone, about this good thing. They will be happy if they accept." And Prophet ṣallá Llāhu ‘alayhi wa-sallam, all of them, they was loving himNone because heNone was perfect from before prophecy even. Everybody love himNone because heNone very honest, very polite. Anything good behave, heNone was... has Prophet ṣallá Llāhu ‘alayhi wa-sallam.
+
+So they come together. Prophet ṣallá Llāhu ‘alayhi wa-sallam come, "INone will tell them. INone will tell you very important thing for you. My relative, first INone must tell you. Come here." They was gathering in one place. And heNone ask them, "How you know meNone? INone am honest or do you hear any lie from meNone or do you see any bad thing INone do, you hear about meNone or anything?" They said, "No. YouNone are the most perfect one. YouNone are most honest one. And we are, we love youNone. What you, youNone will tell us?" HeNone beginning to tell them about īmān, about Islām. And they was happy, all of them, their heart become soft. They nearly already they will be take shahādah and be Muslim. Suddenly this, hisNone uncle, Abū Lahab, coming, shouting, swearing, just saying bad word about Prophet ṣallá Llāhu ‘alayhi wa-sallam. And he say: "How youNone do, youNone saying this, how this...?" And so everybody was unhappy and they left without take shahādah or to be Muslim.
+
+All the nearest one, they was. Only very few of them, they was already Muslim. But for other, they was disaster for many of them who not take shahādah. But hisNone mission, it was to tell truth, to make people to be happy but as Allāh ‘Azza wa-Jalla [saying] most of people objecting. So if anyone objecting for good thing, don't follow him. Follow only way of AllāhNone. Allāh ‘Azza wa-Jalla will be happy with you. So with this, Prophet ṣallá Llāhu ‘alayhi wa-sallam, heNone was billions and billions from hisNone time until Qiyāmah following himNone, loving himNone. But the nearest one who was uncle, he was cursed, he and his wife forever. And the slave or anyone who was weak and they don't have anything, they was praised and beloved for AllāhNone forever.
+
+So don't be object for Allāh's ‘Azza wa-Jalla word. This is very important, very dangerous for to say something. Of course, as we said, shayṭān can whisper in your heart but don't say with your tongue what you think. If you are in your heart, waswasah for everybody. Many people they are coming asking, "What I have this waswasah?" No, no problem. In your heart, it is test from AllāhNone. So but don't say, "I think this... my heart... coming in my heart..." Never say this. Just say, "Astaghfiru Llāh." It is okay, no problem for you. AllāhNone keep us in way of Prophet ṣallá Llāhu ‘alayhi wa-sallam. AllāhNone, in shā'a Llāh, love us. We are trying to love HimNone but more important, HeNone love us, in shā'a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah. Video Link:

@@ -1,0 +1,58 @@
+---
+date: 2012-04-30
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-04-30-from-dust-to-precious-stones.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-04-30-from-dust-to-precious-stones
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: From Dust to Precious Stones
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Shaykh Bahaudin: Salam Aleikum. Masha'Allah from day to day I become believing in myself. And I have a lot of good comment coming, "masha'Allah, masha'Allah! Looking good!" If you insist I am sitting here! And if you don't insist also I'm sitting here, this is very good place to sit. La Hawla wa La Quwwata illa Billah Al Aliy Al Azim.
+
+I think tomorrow I will leave this place because the real honor of this place will come. Shaykh Mehmet Effendi, he is "Shukr Ya Rabbi, shukr Ya Rabbi Al Hamdulillah!" I've been all the time "tawba Ya Rabbi, tawba astaghfirullah". So when you look at me remind you to say "tawba Ya Rabbi!" When you look at him you say "Shukr Ya Rabbi." So I am happy to be in tawba side. At least I will be reminder, because I am full of sin. And I say "tawba Ya Rabbi, tawba astaghfirullah" "tawba Ya Rabbi, tawba astaghfirullah tawba YaRabbi, tawba astaghfirullah." But Shaykh Mehmet effendi (qas) Al 'Aliy. He is "Shukr Ya Rabbi, shukr Ya Rabbi Al Hamdulillah!"
+
+Shaykh Adnan Effendi, he is the holy Shaykh, the lightening Shaykh. Shaykh Hisham Effendi he is the one distributing. He has such a Himma, that's in English, he have such a power that he can go anywhere and distribute. He is not lazy person at all. Even he had a blood pressure, he is tired, have headache, I know him since I was a kid, he is still having headache, headache. I see him all the time but with all this. He is, when it is coming for Tariqa, he is the first one to run, Subhan Allah!
+
+Me I am.....I am the best one among them! Nothing Maqam, but how to live. And Al Hamdulillah I am not Shaykh. Al Hamdulillah I am just.... there is between the serious things they put small sketch or put small funny things to entertain people when the big talk & the big guys coming. So I am this one. Now it is space here, little bit space here, so I am filling this space for the Grand Shaykh. Shaykh Mehmet, Shaykh Adnan & Shaykh Hisham, they are the grand ones, very big. I am the one just make you to feel, "ok now we are ready for them." So that's why I am here. I am not to be a Shaykh or to say, no no! I have a lot of things to do now, I am going to work.
+
+After this, but because your heart is asking & I have a lot of good comments coming from the internet watchers. Allahu Akbar Shaykh Nizamuddin, you know it is a very good feeling! Al Hamdulillah! Why not? Why not? If I am making one servant of Allah (swt) to smile and I make one servant of Allah (swt) to say "Al Hamdulillah! That gave us good feeling". That's why we'll be happy. I will be happy because the things that have been given through me it will be reward for me much much higher. Subhan Allah! So that's why I keep sitting on this chair now, I don't want to leave. I am saying "I don't want to leave, I will to be here, but I will be not here tomorrow, after tomorrow, after tomorrow....
+
+Because the real honour of this chair is coming! I don't think he will sit on the chair, he sits down because he is the most humble person & he is the most Baraka person. Mawlana used to say about Shaykh Mehmet Effendi "when the baraka coming from Heaven it is distributed through him." Yes this is his Maqam, this is his Maqam. He is not easy, he is not easy... I am the easy one. Because I am like you, normal stone, it's ok! Less responsibility. Nobody will say "you are like this, you are like that. I am ordinary." They are not the easy one, let them think. Let them think. I don't think, I just say.
+
+Al Hamdulillah! With this entrance it is kind of good entrance for me. And I don't know for them how it will be, but I think they must be happy. They must be happy. Because I remember once Mawlana Shaykh he was giving very nice sohbah to Shaykh Adnan. It was in London. And he was saying "Ya Shaykh Adnan, what you think, a precious stone if it is in the crown of the King it will say, I am behind or I am in front, or I am here or I am the most presentable one? Do you think that stone will complain?" Shaykh Adnan say" I don't think so." Say" tell me why?" He was asking him. Say "Ya Sayidi because all of them in the crown. They are in their place in the crown" If you are in the crown, you cannot say "I must be the big one here, to be showing off." You are in the crown, you are already there. After this you don't need. And he say Allah Almighty "when He (swt) put our murids in their Maqam." That means the stone is being placed in the crown. Maybe it can be small stone, maybe behind, but it's in the crown.
+
+Al Hamdulillah! Very important to know your place. When you know your place, you are happy with your place. When you don't know your place you are not happy at all. Because it is empty under you. But Al Hamdulillah, I believe that Mawlana Shaykh he put everyone of us in his place. Al Hamdulillah! We come from dust to crown! Because tomorrow I am leaving this chair so I am making you to feel happy! It's a gift. Shaykh Nizamuddin it's a gift! What we can say, nothing! We are as they want. As they put us, as they ask. When we surrender we can be anywhere. But when we are fighting for it we have kick in our... Allah Almighty, He (swt) Knows what He (swt) is doing. Don't interfere! He (swt) gives us a space to play in it but beyond that space don't interfere, it is not our job. We will be sad, we will be knocking our head in the wall. Knocking our head in the wall. Say "Ya-Hu this is not the place to pass, you have your space." Al Hamdulillah! Your space to play.
+
+Even in Tariqa, even in religion, even in dunya life, even in your work, even in your family, even in every step in your life, you have a space. Very small space. You know as a human we occupy 1sq.m, It is not more than this. Each of us, having 1 sqm, one. Maybe somebody is a little bit taller, maybe 2sqm, like Nabil. It is not more than 2m, lets make it 5m. Ok we make it more Yalla! We are on sale now we can give more, gift! But cannot be more than 5 sqm. And we say "we are ruling the world!" Ruling this, ruling..."What you are ruling Ya-hu? You are only rolling".... That's why Allah Almighty He (swt) Knows what He (swt) is doing. And we don't know what Allah Almighty doing, & we try to force Allah Almighty to do what we want. It's impossible...it's impossible.
+
+Al Hamdulillah! If we know our place, if we know our sitting place or the meter that we are occupying, it will that we can be humble. And when we are humble we can concorde the people's heart. And with this one we can rule. Allah Almighty He (swt) give the way for ruling. But when you are tyrant, and when you are insisting in something and you say it should happen. Maybe once it will happen, the second it will never happen! I all the time give advice for my children when I am with them. I am telling them "look if you want to continue in your life happily, you have to follow your GrandFather's Way. Your GrandFather first he make the people to love him. He give this one for them. And this feeling it is bringing the people's emotional side for Mawlana Shaykh. Now you are Mawlana's Shaykh grand-children. The people they will love you because they love your GrandFather, but! After that it is your job to continue from there.
+
+It's not your GrandFather's job. Your GrandFather he give you a door. He make these people to love you & respect you, in the way they love him & respect him. But after that you have to do it by your own. So you have to train yourself to be as your GrandFather." And this I am saying this as a nasiha/advice for my brothers also. The same, we are in the Way of Mawlana Shaykh we are doing everything for Mawlana Shaykh, because we are in love with Mawlana Shaykh & the people when they look at you, they look at you in the love of Mawlana S. When they are looking Mawlana Shaykh love, so try to give them that love. It is you, train yourself to be as Mawlana Shaykh. So that's why you will be in the crown as precious stone. From dust to precious stone. We are going up,up & up! Al Hamdulillah!
+
+With Mawlana S. you'll never be down. Never! No way! Never at all. Mawlana Shaykh he is the one promising to shift us up & up & up! He is the life for us! He is everything for us. He is very precious for us, I am not saying for me, for us! Al Hamdulillah! And he is upstairs in his Khalwa in his seclusion but still giving the power, still giving the power. Never stops! This is the difference between normal human & with Waliyullah. The one Allah Almighty accepting them to be His (swt) people that He (swt) love them & He (swt) distributes His (swt) Mercy ocean through them & His (swt) Power through them.
+
+Like Shaykh Mehmet Effendi you get the Baraka from him. Shaykh Hisham you get power to go round. And Shaykh Adnan Effendi to get the Holy looking. That's why Shaykh Adnan Effendi he keeps talking "Zat Al Buht Al Muhammadiya" he is there. If he is there what you expect him to tell you, other things? No. Shaykh Hisham he is in different place, different stage. He tell you from his place. Shaykh Mehmet Effendi he is in different stage, he tell you from other place. I am even not there, I am telling you from different stage. Al Hamdulillah so that's why, as I told you Mawlana Shaykh he put me in such a corner to look from that hidden corner. And that hidden corner to tell you all these kinds of secret.
+
+I am ignorant person, I don't know anything. And I am happy to be ignorant, not as word, but as I want to learn. I am hungry to learn. I am hungry to learn & I want to learn. Mawlana Shaykh advice for me it was"my son don't be as the glass, cup of glass. If you are cup of glass, you have one shape, never changes. Be as the water of that glass. Any shape you can take it. So that's why I am trying to be as the water." And he was telling me another advice saying "if you are a glass & having water in it, don't be full water. Make it very less water so as much as water coming in, you can get. As much water coming in... So anybody giving you knowledge, anybody giving you things you just take it. Don't say I am full there is no space. No!Be empty cup. You can get as much as they put."
+
+One advice, Sultan he give advice. Sultan! He is.. He is the one giving the wisdom. He is the one giving you how to digest things. Very important! Trillion of talking, trillion of words but which one to choose? Which one to take & which one is suitable for you? Very important, because if something is not suitable for you, you don't care, you don't listen to it. But when you have real things coming and this is for you, immediately "O good very nice, I feel very nice!" Because suits you. Al Hamdulillah.
+
+So insha'Allah tomorrow Shaykh Mehmet effendi will be taking over this place. And you will be having eating less, sleeping less, spending less and talking less. I don't want to say.... Al Hamdulillah that I am tawba Ya Rabbi, tawba astaghfirullah! So that's why it's ok. That one also ok. What do you think? Not me perfect! I will learn the language insha'Allah! And I am saying Wa Min Allah Al Tawfiq Bi Hurmat Al Fatiha.
+
+Al Fatiha.
+
+Video Link: http://saltanat.org/Blog/tabid/271/PostID/658/From-Dust-to-Precious-Stone-Tozdan-K-ymetli-Ta-a-en.aspx

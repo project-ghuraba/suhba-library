@@ -1,0 +1,44 @@
+---
+date: 2013-01-08
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-01-08-ya-tilki-ya-yilan.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-01-08-ya-tilki-ya-yilan
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Ya Tilki Ya Yilan
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Shukur, Shukur to Allah Almighty that He (swt) accepted us to stand in His Divine Presence. The greatest honour for a person is Allah Almighty accepting that person in His Divine Presence. This is the greatest honour, there is not any honour other than this. We may say Bismillahi r-Rahmani r-Rahim. Ya Rabbi, qawwi da'fana fi ridak. May You strengthen our weakness, O Lord. We are Your weak servants. O Lord, may You not leave us in this weakness. May You grant us strength. May You grant us joy. May You make us have himmat so that with this himmat of ours we may do & keep Your honourable servanthood.
+
+The greatest honour for mankind is service to Allah Almighty. What is the meaning of doing any service other than this? Let's say, a man has a donkey. He keeps feeding his donkey, or his horse all the time. He takes care of it very well-wakes up to take care of it in the morning, wipes it, washes it..What is it? An animal. He takes great care of it. Ok, what about yourself- cleaning yourself? You take great care of cleaning your horse. How do you arrange yourself? Where is your cleanliness, your purification for He Who is your Master, Who is your Creator, Who is your Lord? The people of this time in their society, high society life in their invented language now, do not use water either for their bottoms or for their upper parts. We would call the people who have no purification/tahara "the ones with dingleberries".
+
+What is the meaning of dingleberry? Now in this season there is grass everywhere. And after some more time passes barley, wheat will grow. Sheep & goats eat these with great joy. They like the greenery very much. They eat from this side & from the other side they can't hold their thing (poop). We would call them "sheep with dingleberries". Meaning they eat & from the other side defecate at the same time. The animals don't know about tahara/ purification. How can they know? They would call them "sheep with dingleberries". And now people also, they eat & don't clean their bottom parts. They don't do tahara/cleaning. What does it mean? They become "people with dingleberries."
+
+Cleanliness is the base of our religion. Tahara is the pillar of religion. A person who has no tahara has no value. If one dies without tahara, he dies being far away from his religion & faith. May Allah not make us from those with dingleberries. We should be clean. Ad-Dinu Nadhafa, religion is cleanliness. You should be clean, your life should be clean. You, yourself should be honest. Your work should be honest. You should not have fights & disputes. You should be organized, you should have tahara. You should be skillful. You should not be evil. A person who has no tahara is like sheep with dingleberries. A person who has no "religion factor" in his life, with their expression, has no value. It means maziyyat/merit, right? It is something that honours man. What is it that gives man the most honour in dunya? Is it the abundance of his wealth? Is it the abundance of his money? Is it his occupation- is it that he has a great job? None of these can give man the real honour. Because all of these are temporary & do not belong to him. A person who can't arrange himself, who has no merit, is considered in the 4-legged class. Or he leaves with the dingleberry ones. Astonishing.
+
+Ad-Dinu Nadhafa. Religion means cleanliness. You should be clean - in your work, in your doings, eating, drinking, in your talking & dealings; you should be true & clean. What is the order of religion for us? It says "Be clean. Be true ones". But no, there is no one who pays attention to cleanliness. Whole world have become people with dingleberries. If you say "be true", there is no true one left. Let us tell a story so that our sohbat becomes cheerful.
+
+A fox was friends with a snake. They hung out together, went to places together. Finally they reached a river. The fox was going into the water to cross to the other side. The snake said: "O My friend, We came all the way here together but now, I can't enter into this water. I am scared". "What can we do then?" "The water will carry me away. You are a fox. You can move fast & cross it. But the water will carry me away". "Then what can we do? How can we go together?" The snake said "I may hold on to you like this & we cross together, then we can separate & each one of us go on his way". Fox being the fox, said "Ok, no harm. We can do like this". Then they crossed the water like this. After they got out of the water, the fox said: "Ok, you may get off me now & we walk together again". "No, I can't come loose. It is not my habit. I can't let go of my victim. La budda. Not possible I will overcome you, you are my provision".
+
+The fox said "Ok, what can we do?", like "inna Lillahi wa inna ilayhi rajiun". The fox faked a cry. It said: "I accompanied you all this way.." & started crying. The fox said "Let us say goodbye for one last time, let me see your beautiful face. Come & show me your face". And the snake is stupid. The other one is the fox! So the snake came out & stood like this right across its face. It said "Let me look" cut its head off. Then the snake started to come off like this. It started to come loose. When it came loose, the fox didn't leave it of course- made it all straight like this. Then it said "O my friend, being a true one is like this- you have to be all straight like this to be a decent one. This is how you can be a true one, now you are all straight. You wanted to cheat me & eat me but it didn't turn out like this. Now you have become all straight. So come loose now" & it made the snake loose & laid it like this. "Now you became decent, how good you turn out to be now". Kicking it also with its back feet, it left. "Being a true, decent one is like this".
+
+These people also, fell into this situation- there is no true man left. Everybody wants to be foxy, tricky. For this they run away from religion because religion does not accept foxiness! Religion accepts lion-ness! It doesn't accept to be foxy ones. You should be a lion if you want to have religion. On the other path, all the unbelievers have some kind of foxiness. Being foxy brings no result. The fox is describing to be all straight. It says "The right path is like this, all straight". The people now have no other job than planning foxiness to each other. Everyone is a fox in some way. Hey walk straight, walk right! "We can't walk right. Shaykh Effendi, what is the time we live in now? In this century it is the high society life. We live what we want in this high society life. We will do all kinds of foxiness". Then they make you as a snake. And the fox eats you & lay you down all straight. This is your end.
+
+Snake, fox- Everywhere is filled with men with fox attributes, with snake attributes. Therefore they don't want, they don't want the truth, the religion because does a man of foxiness want religion? He doesn't. Or a man who bites, does he want religion? He doesn't. Therefore the people of the 21th century have become miserable- Some are foxes, some are snakes. Islam will come & the man, our humanity will rise. Otherwise this world is finished. They will fight, crush, finish each other. May Allah make us far apart from them. Keep your religion! Be honourable & you will find honour in dunya as well as in akhirah. Aman Ya Rabbi, tawba Astaghfirullah. Tawba Astaghfirullah. Fatiha.
+
+Is this good? This is good. Is it not so? It gave the exact photocopy of today's people. Is that what they call it? It showed their exact identity. The situation of people who live in this time is exactly like this. May our day be khair. May goodness/khair come to us. May Allah Almighty not expel us from His servanthood. Ya Rabbi, You know. May You make our end turn to be good. May Allah protect us from wars, battles, earthquakes. May our day be good, may our homes be joyous. May our hearts be happy with faith, O Lord. May He (swt) grant all of us His way. may You send servants who will gather to Your way, O Allah.
+
+Video Link: http://saltanat.org/videopage.php?id=6205&name=2013-01- 08_tr_YaTilkiYaYilan.mp4

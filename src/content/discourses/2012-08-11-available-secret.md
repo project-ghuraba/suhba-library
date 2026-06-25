@@ -1,0 +1,54 @@
+---
+date: 2012-08-11
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-08-11-available-secret.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-08-11-available-secret
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Available Secret
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As Salamu Alaikum wa Rahmatu Allahi Ta'ala wa Barakatuh. Very official! Must be very official. I bring the salam of Mawlana Sheikh for all of you. And I just asked permission from him also because normally if there is no support, there will be no benefit of the talk. That's how we are believing in Awliya, how we believe in our Sheikh and how we believe in Grand Sheikhs. Because without the support it will be even one drop will not come. I'm a very boring person. So you cannot stand me here for ten, fifteen minutes. It will be difficult for you and for me. But because we take the Madad from Mawlana Sheikh, so it will be good talk. Alhamdulilah. Very good talk.
+
+You must first smile! Why? Because the smile makes the ear to open. And then makes the heart to open. You must be all the time trying to be happy, because the happiness is bringing the good energy, the good mood and the good Tajali of Allah Almighty. This is one secret so many people they don't know. But it's very common. It's available. Available secret! Available secret, but so many people think it's a secret, but it's available. Alhamdulilah.
+
+That's why first you must be happy. Because Allah Almighty He give you a life. And He give you a human life, and He dress you as Bani Adam. If he dress you as a donkey what you will do? Do you have any choice? To say: "I want to be- my eyes should be very beautiful, my body should be all full of muscles. "Oh my Iady I will be very fit, and attractive." No way! This is Allah Almighty. He says you are like this. You are like this, you are like this, very quickly. We are seven billion. Imagine the speed of the shape. So this is only one creation of Allah Almighty. Imagine you have the ants. At least the ants they are standard! But for us Alhamdulillah He gives everyone his own shape, his own beauty, and I know everyone have his own beauty. There is no ugly one. Alhamdulillah. Allah Almighty never make anyone ugly. Everyone has his own beauty.
+
+This is - one day Sayyidna Ibrahim(as) he was lost in the desert, and he was so thirsty, and he went inside the desert and he was almost dying, and then he finds small tent, very small tent, like... very small tent and saying: "Alhamdulillah, I am safe." He enters the tent and he finds a very dark colour man. But he was scared from him. He looked a bit scared. And he said: "Ya Ibrahim!" (Ibrahim): "How do you know me?" He says: "We know." "Allah Almighty doesn't look for the shape, Allah Almighty looks for the heart." So this is Allah Almighty He's looking. "Don't look at me. Don't be scared from me. I am from Ibadu Allahi s-salihin. I am responsable for this desert, and I am here to save you. What do you want, water or milk?" (Ibrahim) said: "No, I want water." So that's why the life coming from water, ma'a ul-hayat. And he just hit with his feet and one spring coming from the desert. And Sayyidna Ibrahim drank from that water, and he said: "After that I didn't feel thirsty." Alhamdulillah. Because it was Paradise water.
+
+And there is another funny story I like to say to you, similar. One man he lost in the desert and he finds one tent also and when he entered the tent he found a very old lady, and very ugly! And she says: "My son, I think you are lost and you want water." Saying "please, some water." And she has one cup only and it have handle. She put water for him and she give the water to him, and he take the cup and he look at the lady and he look at the cup and he says if this lady drink from the right side, it should be this side. If she drink from the left side, it should be this side. He looked at the lady again and he says ok, I drink from the handle, she never drink from the handle. So he starts to drink from the handle, and that old lady she says "Oh, you are like me my son. Oh, you don't like where the people drink. I am also drinking from this side! So this is the funny part of Sayyidna Ibrahim Alaihi s-salam. Every story have a parallel.
+
+We are saying that Allah Almighty He put the beauty for everybody, but you have to search for it. You have to look for it. Some people they have sense of humor. Some people they are serious beauty. Some people they are tall. Some people they are short. Allah Almighty he make seven billion, as we know, different kinds of people. And this give the one, seven billion one. Very important. Seven billion one. You have trail of ants even if they are looking standard, but everyone have own life, own character, own eating, and own style of life, and own beauty.
+
+Alhamdulillah, Allah Almighty He honored us to be human and to be Bani Adam and with this one we must be - with this one only we must be - very happy. With this one we must be very happy, because here the point is to know. When you know, everything is ok. But when you don't know, you start to hit your head on the wall. "Why this one is not like this? Why this one is not like this? Why you don't do this one correct? Why you don't do this not correct? According to me it is correct, according to you it's not correct." So you start to argue, because you don't know. That's why Allah Almighty He say in the Quran"Hal Yastawy Alathina ya'lamuna walathin la ya'lamun". It means never being equal the ones they know and the ones they don't know. Never equal. Never equal.
+
+So that's why Mawlana Sheikh he is teaching us to be as the water. To not have the shape of the glass. The shape of the glass, it is one shape. You cannot change it. But the water, it can be in this shape, it can be in another shape. It can be in the other shape. But this doesn't mean the water it is losing the essence of being water. He says don't lose the molecule of water. When you are in the cup, when you are in the pot, when you are in the small drop, it is still a molecule of water. Mawlana Sheikh he has very nice teaching, saying: be water and do not lose the molecule of water. Very important. Shape is ok. Maybe I have beard, maybe I don't have beard, but Alhamdulillah Allah Almighty He grant us Iman. This is the molecule of water. Very important. Molecule of water. If you are making sajdah this is the molecule of water. If you are giving sadaqa, this is the molecule of water. Maybe somebody he doesn't wear as Muslim. Maybe he cannot practise as proper Muslim. Maybe he cannot- he doesn't know, but the molecule is there. He is believer. He try to pray. He try to do his best. He try to do this. He try to..and he still getting the molecule of water, pure. But the shape sometimes is different. So we cannot put everyone in my shape. This is my shape. I cannot put you in my shape. That's why we are seven billion individuals, alone. Even your mother, that she gave birth to you, she eating alone. Imagine, she is eating alone, she is breathing alone. You-finish! You out. You are individual now. The duty is finished.
+
+Very important. Alhamdulillah to know, it's very important to know. If you know, you are very satisfied. If you don't know here is boiling. Boiling, boiling, boiling, boiling, boiling. Plus, you make the other boiling. And for nothing. Breaking heart, breaking people. No. Allah Almighty, He wants us to be calm, He wants us to be soft. He wants us to not lose the molecule of water. That's Iman. There is- the Iman never have shape but the Sharia' have shape. When you complete two of them together, it will be perfect matching, the perfect shape. But as we are amateurs- I consider it like this.
+
+As we are believers of Allah Almighty and we are trying to do our best. Every night we say this: 'Amana r-Rasulu', and we say 'La Yukalifu Allahu Nafsan Illa Wusa'aha'. Allah Almighty. "Why?" Some people they say: "Why every night you say Amana r-Rasulu? You don't have any other Surat to say?" No, but this is particularly for Isha prayer. This is the Ayah. You cannot change. Maybe have better, maybe have other Ayah, but this one should be here. Why? To remind us: 'La Yukalifu Allahu Nafsan Illa Wusa'aha'. It says Allah Almighty never order anybody to do what he cannot do. You cannot tell a small kid, a two year old kid, take this fifty kilos or five kilos. So you have to give him five grams, fifty grams, he can handle it, he can carry it. So we are as akhir zaman - now we are akhir zaman - this is end of the time. End of the time we are the most weak servants for Allah Almighty, as a Muslim, as a believer. So that's why, even somebody say: "Ashadu An La Illaha Illa Allah Wa Ashadu Anna Muhamadan Rasulu Allah", this it will be the safe card for him in this dark age.
+
+It is a dark age. Now we are in the darkest age. But if you see someone following you he doesn't know what to do, but he is still following you with love, that's ok, accept him, catch him in the air. Catch him in the air. Don't say: "No, you have to be like this." No, no, no, it is there!
+
+Today it is 'Ghanima'. Today it is spoils of war. Today whatever you catch, whatever you get. Haja Anna she has very famous story about this 'Ghanima'. She says there is one caravan going, and they pass from a magical valley, and this valley appears every one thousand years. And this caravan - it was midnight - and they wanted to settle there. And when they settled there, some of the caravan people they look, ahhh! There is so many jewelry and golden in that valley, let’s put on our camels. Some of them they say: "Oh, we are very tired. Tomorrow we take as much as we want." But this appearance only from midnight until sun rising. And when the sun rise it
+
+becomes normal valley, nothing else. So this is ones that they put on their camel they're winning, but the ones they being lazy, nothing.
+
+So with this one I say Wa Min Allahi t-tawfiq, that may Allah - I know that we are in the valley that Allah Almighty He made it appear every thousand years and now it is the time that we can generate from this Ghanima. And with all this love that Allah Almighty He put in your heart for Allah, for Prophet (saws) for Mashayikh azam, it is big Ghanima. And with this one we must be happy, and we must continue in our more happiness, not less, more and more and we try to distribute for all who we know.
+
+Wa Min Allahi t-Tawfiq Bi Hurmat Al-Habib, Bihurmat Al-Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=4774&name=2012-08- 11_en_AvailableSecret.mp4

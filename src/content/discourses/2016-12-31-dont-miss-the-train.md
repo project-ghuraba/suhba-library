@@ -1,0 +1,58 @@
+---
+date: 2016-12-31
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-12-31-dont-miss-the-train.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-12-31-dont-miss-the-train
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Don't Miss the Train
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām.
+
+Mā shā’a Llāh. We are reaching end of the year. We are beginning the New Year. Everybody been excited to have the New Year. And everybody having new plans according to the New Year. And the big companies, the govermental, the individual, everybody has big plans for the new year. They say, we are hoping that the new year will bring something good for us. This is being; hoping all the time. We are built on hope.
+
+The human builds on hope. What you hope, what you expecting and what you getting. Very important. So many people they say We hoping that this year will be good year for us. And the expectation is not as we are hoping. And what we are getting is worse [than] what we are planning. It is going all the way as you don't figure it out.
+
+I was thinking why Allāh Almighty he put one end and one beginning. It was all the time in my mind and it [I] was all the time thinking about it. Because you have to think about things [that have] been happening. We are all the time getting things in our mind but we are looking for answer. If Allāh Almighty sends the answer to heart that means; the correct answer. And the answer was, you have to know your beginning and you have to know your end point. And Allāh Almighty He is repeating this circle in your life every year. Actually it is the start of the circle of the hour and then the circle of the day and the circle of the week and then the circle of the month and then the circle of the year. Very important. Because to know your beginning and to know your end.
+
+Allāh Almighty why he make these New Year things shining? So many people they are saying maybe it is some kind of Jewish or Christian or non-believer or non... It is not traditional but we are looking for the wisdom of it. If is so shiny that's mean have a message for the humanity to go back to Allāh Almighty. What is your result? Because if there is no cutting off result then we think that we are going on and on and on and on. But when Allāh Almighty He make the line of result then you figure out your calculation, what you done.
+
+Is very important in our life because we have to take Rasūla Llāh (saw) was saying, try to get the wisdom from everything. Don't ignore. When you ignoring it is not good because you ignore the wisdom also in it. Yes, today the world is, will be celebrating will say, yes we enter the New Year, we enter this. Yes. It has been known that it is New Year, it has been known calculating since histories. Allāh Almighty he put the calendar. Everything is the hand of Allāh Almighty. Allāh Almighty he is the Master of everything. Don't think that you are the master of everything, no. Cannot be, the Master of everything is Allāh Almighty. Allāh the One ruling. Allāh the One is making everything to go on. That's why it is very important also, there is very important point for everybody the understand.
+
+They say "don't miss the train." The train will never wait for you. Allāh Almighty he sends good chances or good opportunities or good things in your life, very important. This is the most important things in our life. And then when you lose, when you lose that opportunity you will say, I wish I was getting that chance. I wish I was using that chance. I wish that I done this. But what they say the English? It's too late. This is very famous word the English they use. It's too late. When it is too late, it is really too late.
+
+This also you have to take wisdom from the English man when he say to you 'too late' You have to jump at good opportunities. You have to be clever to get what Allāh Almighty he offers you. And you have to look with wisdom. Because when you look without wisdom then you are a loser. Because they say the opportunity doesn't hit twice. It will have another one but don't think it will be bright as the first one. That's why when you have the good opportunity, you have to jump on it. You have to get it. You have to grab it because they say 'why?'
+
+In Turkish they have a saying; I open my mouth and let the apple to jump in my mouth, never happened. If this apple will come to your mouth even it will be rotten. Because the good apple you have to grab it from the tree. Because it is solid, done and ready. But when it falls down from the tree, it will be rotten. It will be not [a] good apple. Because the tree is trying to get rid of it and get the new apple. Very important, this is. So many people they say "I will sit there open my mouth and I'm waiting for apple to come to my mouth." If it comes, if you are lucky and come to your mouth this apple it will not be fresh apple and be not be a good apple. What do you think doctor? Have worms inside. This is very important, that is why if you have opportunity and you have something that Allāh Almighty He is offering you.
+
+Allāh Almighty He is giving to you on a golden plate. Because whatever Allāh Almighty He give to you is being given by golden plate. And when you say "Eh I don't want it eh, I don't like it eh, I don't think it is for me, eh it's like this." Then the important point in this talk is, don't miss the train. Because the time it is so short. One year it has passed like one day. You say, yesterday we are celebrating 2016 today we are celebrating 2017. Tomorrow what we will celebrate? Are we able to celebrate also? This is another question. Because Allāh Almighty He make minus, minus, minus. And He make plus, plus, plus. And you never know what tomorrow will bring. This is, today the world is boiling. This we have to know. Don't be blind. You have to be ready for Allāh Almighty's next order, next generation. Now they have some cracks in the political or in the geographic things in the world. And these cracks are all the time been getting a new shape of the world. Mawlānā Shaykh he used to say don't think the people that they are ruling the world at the moment they are the true ruler. No. They are ruling according to Allāh Almighty will.
+
+Because you plan something and Allāh Almighty He plan something else. You make trap and trick in somewhere and Allāh Almighty He make bigger trap an trick for those. This is nothing can say I'm hundred percent controlling the global, no. Cannot be, it's impossible. It's impossible. Maybe you control some areas, maybe you control some key points. Maybe you control some part but not the place that will be control hundred percent. This is belonging to Allāh Almighty.
+
+That is why as we are believers Al-ḥamdu liLlāhulillah that he give us this opportunity to be believer in Him. And to be in love in his Rasūla Llāh (saw) and to follow the Murshid that make us to understand how to love him and how to love Rasūla Llāh (saw) and how to love Allāh Almighty and how to obey what's going on. They say why the Muslim they are the most relaxed people. Very important question. Europe [has] never been relaxed. America [has] never be relaxed, communist [has] never be relaxed. Because they think they are the one ruling and adjusting things and doing something in the good way.
+
+Now you look for the world it has the most gold. The most technology and the most money and the most comfort and everybody it is having crisis, crisis, crisis, crisis, crisis. Ya Hū, factorings workings, people workings, food more than enough and still saying crisis. That means you are not qualified to rule this world. Allāh Almighty He put [a] system for you and say, no this system it doesn't fit with us because with this system we have a lot of things that it is not good for us. We have to make so many bad things. With this system we cannot. This system is give you to be merciful, to be humanistic and to be good one.
+
+We don't want this one. We want system to make us bad, no mercy and get everything as bad we can do. This is the system. And then you end up with by saying "We have a crisis" The world is suffering from crisis. The world is suffering from economic situation is not good. We have lost all these billions, these trillions, these catrillions, these... Ya Allāh Allāh, if you have all.. if it's lost where is gone? If it's lost where's [it] gone? Ha, it has been filling up somebodys' pocket. Actually it has not disappeared, it is with...
+
+Then Allāh Almighty will not be happy with this one and will have his own system to come. This is must know that everything is according for the programme. In factories, they have line of programme. Olden days they have this, it was... as a paper. So they put it in the machine. And this will be making programme this, programme that and as long as this paper going [in] machine is doing some kind of work according to the programme. If this machine has a programme to go on what you think this world doesn't have programme to go on? You think that you are ruling? No. If you are ruling you will be remaining forever. But because you are not remaining forever and you have [a] short life. This short life it shows you that you are not the ruler.
+
+In this history how many emperors been coming up, raising raising and finishing? How many countries come raising raising finishing? How many governments going going up and then finishing? I don't know. And they say, no todays' world has been fixed. And we have this geography and all of us we are agreeing with this one and this have human right and this right and that right. And now you see all the geographic things been changing and going like this going like that. So many countries new countries, old countries these countries and say it is nothing is stable
+
+We are all the time changable. This is Allāh Almighty He makes everything according to his will and according to His wishes. We are wishing that to keep with Allāh Almighty and we are wishing to keep our belief with Allāh Almighty and to keep our loyality to our murshid that he is the one saving us from such a bad things. May Allāh forgive us and make us to be strong here and here after. Wa min Allāhi t-tawfīq biḥurmati l-Ḥabīb, biḥurmati l-Fātiḥah. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Wa ṣallī yā Rabbi wa sallim ‘alá jami’i l-anbiyā’ī wal-mursalīn wa ‘alá kulli ‘ajma’ina wal-ḥamdu liLlāhi Rabbi l-‘ālamīn al-Fātiḥah.
+
+Video Link: http://saltanat.org/videopage.php?id=16600&name=2016-12-31_en_DontMissTheTrain_SB.mp4

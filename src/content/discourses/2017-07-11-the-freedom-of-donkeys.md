@@ -1,0 +1,52 @@
+---
+date: 2017-07-11
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2017-07-11-the-freedom-of-donkeys.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2017-07-11-the-freedom-of-donkeys
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: The Freedom of Donkeys
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum
+
+Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh
+
+Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām.
+
+Mā shā’a Llāh. That's good?
+
+M:Mā shā’a Llāh.
+
+Alles gut. Mā shā’a Llāh. We are trying our best yā Rasūla Llāh. We are weak servants. We are beyond weak. Even weaker and weaker and weaker and weaker. They say there is one insect, it is one kind of spider, very small. It is living in the sahara, in the desert. And if this small spider manage to bite somebody, this man will not have a cure and he will die. This is Allāh Almighty how He show you how you are weak. Even from very small insect huge man he will be collapse. This is one example. There is unseen things that can be finish the humanity. One day in the kingdom of the Ottoman they have the black illness. What they call? Plague coming to Istanbul. Half of Istanbul gone. And the Sultan asking: "Anybody from awliyā to finish this illness? This plaque is coming on us is like cursing." And one darwīsh he was majẓūb, he come in front of janāza (funeral) and say, "Yā Rabbi yā Rabbi we are begging You, we are making prayer for You, we are weak servants. If you don't have enough to feed these people, take them all." This kind of people they have permission to speak like this. This is also level. It was cut off like (he claps). Finish with that last janāza perfect prayer. Say Allāh Almighty He give permission for such a people.
+
+Today people they think everything is a standard. Yes, the standard is to say "ashhadu an lā ilāha illā Llāh wa ashhadu anna Muḥammadun ‘abduhu wa rasuluh." And the second standard is to pray five times. And the third standard to fast, the forth standard zakat, the five standard is ḥajj. This is standard, five. Five standard to be this is the standard. But beyond that it is optional. Everybody knows about the car. Say, oo this car it is very cheap. Why is very cheap? It is standard car. So somebody say, "ay the Rolls-Royce it is beyond the standard." And say, "oh and this is car, this is car." Yes it is car, this is car but are you able to buy that car? Ooo is very expensive. Doctor is very expensive. Why we go? We go for the cheap one. Yahu Allāh Almighty He may give you this mind to know about the car if it is standard or not, if it is cheap or not. Eh why we are running? Do you think the people they buy the cheap car because they are in love with that car? No. Because their budget is there. That's why they say, at least we are not going with the public transportation. Say public transportation is very good service but you don't know who is the one sitting next to you - are he is smelling or he is drunk; or he is good one or he is bad one? But I have my own car, even it is a standard car, still I'm free to do what I like in my car. Doesn't matter having so many buttons to look or to press but I still have my freedom.
+
+That's why when you are a Muslim you become a free man. Yes, so many people they say what's kind, what is the name? what is the meaning of Islām, Muslim? What is this? Nobody explain. "We are Muslim, we are Muslim. We are Muslim." Yahu ok explain. I'm Muslim. Explain. I'm Muslim..... Say if you are Muslim please explain. Are you able to explain? Yes al-ḥamdu liLlāh we are able to explain. The other they don't - "we are Muslim, Muslim..." Yahu all the feminist, communist muminist, what ever -mist, they have only one slogan. What is your slogan? "Our slogan, we want to be free. We are free, looking for freedom. I'm a free man. We are free woman, free animal, free dog, free donkey, everything should be free." Why? This because communism, humanism, I don't know what kind of hism... it is big slogan. What is your main slogan and what you are looking for? We are looking to be a free. Hunh? The freedom is Islām. The freedom, to be a free man is to be a Muslim.
+
+They say from where to be free? Haaa... Free from my ego, free from shayṭān, free from dunyā, and I can be as a human. I don't want to be a donkey being ride on. Very important. When they put you in this humanism, communism, socialism, I don't know what ism - that's mean "oo we prepare very nice donkey for us to ride on." And you can watch this in television. They say they have some governmental issue I don't know where. "Hey donkeys! Come! We have to destroy the country, destroy the system, destroy what they are doing - they are doing good or bad doesn't matter. We fire the car. We fight with the police. We fight with this one, we fight...." This is so many donkeys available. Only one say heehaw, all the donkey chuk chuk chuk chuk going. And they say, we are free people. No you are not free. You are not free.
+
+Allāh Almighty He doesn't give you the freedom as donkey freedom. You know if you free the donkey in the field and this field have watermelons, he will destroy all the watermelons. And do you say... yes why not? This donkey it's free. So what about the farmer that he was working under the sun and making all his effort to get some fruit to sell? We say "sell" but in the original it is the service for the humanity. Even he sell that he produce something for the market, for people to eat. This is service. And you live, the neighbour he left his ten donkeys to go for the watermelon field. It's a free, it's a freedom. "It's a free country, why you angry? How, why you angry? You don't need. They ate, they enjoy, they break little bit. Eh what they left over you can send to the market - if left over." This is the reality of the freedom today how they are making it to look nice and put it in advertisement and put it in the table of another ignorant people. Do you like if somebody making marching or walking against the government and your car parking there, your car to be in fire. Do you like it? I'm asking them, they they like their car to be fired? Or their shop to be demolished, or their window to be broken or to make unnecessary free movement. Nobody like it when it's coming to you. Say "why, why me?" But for you it's ok. "You sacrifice, doesn't matter. It's only car." "I still have paying my installment and you, you fire my car." "That's ok, continue paying, it's a freedom." What kind of freedom?
+
+This is - if you are Muslim, true, you never do such a thing because whatever is harm you, you cannot do it for others because Allāh Almighty put the conscience on you. To say, so many people, you don't have conscience? No I don't have. You have? Yes I have. What you have? I have little bit freedom. Yahu, it doesn't matter. We are for service of of humanity. What kind of service of humanity? What kind? They say "ayy terrorism it is ok because it doesn't affect us, it affects others. let them be in the trouble and we are ok." Don't think the fire will stay there. The fire it's moving all around. This is also advice for the rulers - Rule in the humanity way. Don't rule in egoistic way. Don't rule in shayṭān way. Don't rule as the shayṭān ordering you, no. Try to look for your Creator how He is generous to you, how He is giving more than you deserve. Don't be stingy, don't be in shrewd and want everything for you. You have only one mouth you don't have ten mouths to eat. You can eat one plate, you cannot eat hundred plates, you cannot eat thousand plates. This is not fair. Allāh Almighty will ask.
+
+Everything have end. When you look in the history you will see how many governmental or how many empires or how many kingdoms or how many republics or how many rulers been ruined, they gone. This is Allāh Almighty manifestation "wa yabqā wajhu rabbika dhū l-jalāli wa l-ikrām" (55:27) That is only the living face is Allāh Almighty face - that He is the Absolute Ruler. This is Allāh and He is making us to be the prisoner of the time. When our time up, not even the wealth of the universe can bring you back. I'm not saying the earth, the universe's wealth will not bring you back. This is Allāh Almighty - so strong, so strong, so strong. Now we are coming in end days. Don't think we are having, will have better days. No. Because everything now it is out of control, out of control. This is Allāh Almighty. He putting so many things for us to see and to say: "tawbah yā Rabbi, tawbah astaghfīru Llāh." We have to be in the mood of asking from Allāh Almighty to be mercy on us and to forgive us. We are asking forgiveness yā Rabbi. We are asking for the true forgiveness.
+
+We are weak servant, we are beyond weak. Allāh Almighty He is the Absolute Ruler and if you know who is the Absolute Ruler then try to ask for forgiveness. May Allāh forgive me and forgive us and to make us in the good path and to be for Allāh Almighty. May Allāh make us strong in our imān, make us strong in our faith to Allāh Almighty, and make us strong to Him and to Rasūlu Llāh and to keep with Mawlānā Shaykh that he is our the safe boat.
+
+Wa min Allāhi t-tawfīq biḥurmati l-Ḥabīb, biḥurmati l-Fātiḥah. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām.
+
+Wa ṣallī yā Rabbi wa sallim ‘alá jami’i l-anbiyā’ī wal-mursalīn wa ‘alá kulli ‘ajma’ina wal-ḥamdu liLlāhi Rabbi l-‘ālamīn al-Fātiḥah.

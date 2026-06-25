@@ -1,0 +1,50 @@
+---
+date: 2012-06-19
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-06-19-the-stick-for-the-disobedient.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-06-19-the-stick-for-the-disobedient
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: The Stick for the Disobedient
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+O servants of Allah (swt) you must follow the Book of Allah (swt) & the Sunnah of His Prophet (saws). Bismillah Al Rahman Al Rahim. O people of Egypt or people of the East & people of the West, the words of the Prophet (saws) are for everyone, for everyone. O nation of the Beloved! Of the attributes of the Prophet (saws) he teaches people goodness. If you learn, you shall be victorious in this world & in the Hereafter. If you do not learn, or you will be... in this world & in the Hereafter you will have the harshness of life. In the life of this world hardness & in the Hereafter the torment of hell. This is what the people of Haqiqa/Truth say. And we are the servants of the Lord & we say, Audhu Billah min al shaytan al rajim.
+
+O servants of the Lord the greatest advice to Muslims from Allah (awj) is Fa Astaizzu Billah/take refuge in your Lord min al shaytan al rajim/from the accursed devil. People now they do not listen to the words of Allah (swt) and His Prophet (saws). And they are following their desires which drive them to waste in this world & in the Hereafter. This is what the Prophet (saws) says. Bismillah Al Rahman Al Rahim. O people, this means if you see stinginess prevail, egoistic desires followed, and everyone favouring his own opinion, then you must keep yourselves. This means that you leave them. And now we are in a period of time and who gave the news of it is the 'true speaker'. A true speaker who gave news about the past & also about the future: the Prophet (saws).
+
+Do as you like! If you listen to the words of the Prophet (saws) you will be victorious in this world & you will be saved from the exhaustion that shaytan places in front of you, or shaytans. And now people they think that they are.... on the Sirata Al-Mustaqima/ the Straight Way. Hasha! No! They are not on the Straight Way. Where are the scholars of Egypt to explain to them this matter, that the people of Egypt are not on the Straight Way? And Allah (swt) ordered the servants to recite in every Rakaat to be guided on Sirata Al-Mustaqima/ the Straight Way. Is democracy or parliament Sirata Al-Mustaqima/the Straight Way? And elections? And that every person is proud of their ideas? Is this what the Prophet (saws) instructed? What the Prophet (saws) instructed is by order of his Lord (jwa).
+
+40 times everyday Allah (awj) ordered them to ask if they are on the Sirata Al-Mustaqima/Straight Way: "The Way of those on whom You have bestowed Your Grace" (1:7) The Prophets. Where is this, O scholars of Sham? Leave the majority of people, because you are the scholars. How are you going to stand on the Day of Judgment in front of Allah (awj)? "O My servants, what did you understand? I have sent to you Rasulan,A glorified Prophet (saws), To guide you to the True way. Everyday in Surat Al Fatiha, I taught you to say "Ahdina As-Sirata Al-Mustaqima" (1:6) "Sirata Al-Ladhina 'An`amta `Alayhim Ghayri Al-Maghdubi `Alayhim Wa La Ad-Dallina" (1:7) "Ahdina As-Sirata Al-Mustaqima (1:6) Sirata Al-Ladhina An`amta Alayhim..(1:7) and not on those on whom is Allah's (swt) Wrath. This everyday, for every matter, reciting a Fatiha is to ensure that matters will be on the Straight Way, "the Way of those on whom You have bestowed Your Grace; not the way of those who have earned Your Anger, nor of those who went astray" (1:7)
+
+People are devided in 3, the followers of the first generations of Islam, of the Prophets (as) and who follow them. And secondly the ones who went astray and the ones on whom is Allah's (swt) anger and the ones who went astray. I don't know to which group the people of Egypt belong. Are they from the ones on whom is Allah's (swt) Anger? Or have they gone astray? I don't think that they are on the Straight Way. "Ahdina As-Sirata Al-Mustaqima" (1:6) "Sirata Al-Ladhina An`amta Alayhim..." (1:7) These are the words of Haqq. For whom are they? For animals, or for the nation of the Beloved? How is it "Guide us to the Straight Way" (1:6) "The Way of those on whom You have bestowed Your Grace...(1:7) Who are they? The Prophets (as) the true ones, the witnesses & the good ones. "Not those who have earned Your Anger" (1:7).These ones, are the Jews & the ones who went astray are, are the people of the book.... the Christians. They are following... the people of Egypt they are following, they left the words of Allah (swt) and are following devils from people & jinn. How can they be victorious or succeed? They will not succeed. They will never succeed! These are the words of Allah (swt). They are not successful now, the Christians. They will not succeed are the Jews.
+
+Where are we? We are following the Christians or the Jews? The ones who are following the ones on whom is Allah's (swt) anger & the ones who went astray. We hope to be victorious in this world and to be in front of Al Haqq (awj) with a bright face. How? How can it be like this? How, O people of Egypt? Where are their scholars, and they are Muslims? Astaghfirullah! "Ja'a Al-Haqqu Wa Zahaqa Al-Batilu" (17:81) "Truth has come and falsehood has vanished" (17:81) Truth came with the Prophet (saws) of the end of times, & falsehood has vanished. Everyone who is against... is against the Prophet (saws) of the end of times and does not accept his words. How do they think they will be successful?
+
+This is the most astonishing thing that they call themselves Muslim Brotherhood. How can you, O Muslim Brotherhood, accept to go out to the squares of the cities and say, we are, we are.... the best to be ruling over you (Egyptian people)? How can this be? How do you believe in this? Democracy, parliament, elections - this is not in Islam. How do you say that you are Muslim Brotherhood? How do they say that they are Salafis? How can the majority of people say that they are Muslims? Audhu Billah! O people! O people "Ajtanabu At-Taghuta" (39:17) (Avoid the tyrants) There are tyrants. But tyrants are not everlasting among people to oppress them. And people who are following their desires, like the Prophet (saws) says"If you see people following their egoistic desires, devils & their like... Then they hope to have success? And Allah (swt) says"They will never succeed". They will never succeed, those who follow the tyrants. It is not possible for them to have success. Therefore the people of Egypt their matter is up in the air. There is no result for them. May Allah (swt) save us.
+
+This is now in all countries. O Egyptian scholars, Muslims, Muslim Brotherhoods & Salafis what do you understand from The Holy Quran? What do you understand from the message of the Prophet (saws)? How do you apply the words of Allah (swt) & His Prophet (saws)? I am sorry to be saying this, and I am a weak servant. My language is not Arabic. And what is understood from The Holy Quran is very clear & evident, like the light of the day. If you do not understand then you will never be successful. These are our words & I am a weak servant. I have reached the age of Itaq/over 80. I do not claim anything. I am a weak poor servant, but an inspiration came to me to remind you. And who understands & accepts will be victoriuous & who does not accept, woe to them from what they are doing! Aman Ya Rabbi, tawba Ya Allah (swt). Tubna wa Raja'na Ilayk.
+
+All The Holy Quran points to the preceding nations that all of them had Kings & Sultans. They do not have this rubbish of democracy. If you understand you'll be victorious,if you do not you will never succeed. Tawba Ya Rabbi! The Turks are like you. The people of Sham also are like you, Baghdad - all the Muslim countries are on your same way. Therefore you will never be successful.
+
+If you see stinginess prevail and each one favouring his personal opinion, then keep yourselves. (Hadith) This is an order, and woe to them for what they are doing. Astaghfirullah! Tubt Wa Raja't Ilayk. I am a weak servant,weak. O my Lord forgive me. Forgive my Muslim brothers from the East & West of the world. Let them understand meanings of The Great Holy Quran from the East & West of the world. May they see what happened to the previous nations, from the Muslims, what happened and how they ended.
+
+And Allah (swt), Allah Is the Forgiver & Most Merciful. Aman Ya Rabbi, tubna wa Raja'na Ilayk..."Ab`ath Lana Malikan Nuqatil Fi Sabili Allahi" (2:246) "Min Bani Isra'ila Min Ba`di Musa Idh Qalu Linabyin Lahum" (2:246) They did not say to him send us a parliament, a president! You are Arabs. If you do not understand, O people of Egypt, the stick is ready! It will hit you. It will hit you because of your dissention & because you are rejecting the Orders of Allah (swt) & the recommendations of The Holy Quran. Tawba Ya Rabbi, tawba astaghfirullah! I am weak servant O my Lord! Forgive me & forgive my brothers. Let us understand truly The Holy Quran. & Allah (swt) is witness on what we are saying.Hasbuna Allah wa Ni'ma Al Wakil. Fatiha.
+
+This is a deep ocean. It does not end, but this is enough. What I spoke is enough. For this, may Allah (swt) forgive me & forgive you, O my brothers! Astaghfirullah for me & for you & victorious are the ones who ask pardon.
+
+Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=4247&name=http://saltanat-video-600.s3.amazonaws.com/2012-06-19_ar_AlAsa.mp4

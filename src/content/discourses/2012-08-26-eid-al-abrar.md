@@ -1,0 +1,42 @@
+---
+date: 2012-08-26
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-08-26-eid-al-abrar.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-08-26-eid-al-abrar
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Eid Al Abrar
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Assalamu alaykum wa rahmatullahi ta'ala wa barakatuhu Ya salam...Today we are not fasting. Today we have Eid-ul-Abrar, this is the second Eid, Bayram.
+
+Alhamdulillah, mubarak for all of us, the one continues, keeps continuing. We just have our celebration with Mawlana Shaykh, and he gave us coins, he said, "Today is Eid-ul-Abrar, so you have your coins". So I got one coin and my brother got one coin. Alhamdulillah, maybe it will come for you also. Anybody who is fasting 6 days of shahru Shawwal will be considered as fasting the whole year. This is one of the biggest gifts of Allah Almighty. Just you can fast 6 difficult days because it's really weighted as one year. It is not a joke. They concentrate the year in 6 days. That's why if you are able to carry it, go ahead. If not it's okay also.
+
+Allah Almighty made a table full of everything. Everything available. And everyone can approach and get what he wants. This is Allah Almighty's generosity. Everything is available and Allah-matters -what Allah is offering, is available. Nobody can say, "Ya Rabbi, I was looking for this and You didn't give me". Nobody. Not at all. This is Allah Almighty's generosity. That's why Allah Almighty will never give even one small drop to anybody as excuse to say "Ya Rabbi, I was not knowing, I was not able to get, it was not available on the table. Imagine a table full of food, everything. Telling you, "Take what you want and no limits". There is no limit. There is no bill coming at the end of the food. No, it will come, reward is available and rewarding. This is Allah Almighty. Nothing can be like Allah Almighty. That's why who is following Allah Almighty's way will become as 'Sifatullah'. That Allah Almighty will dress him as Him, that's why, awliyaullah, the saints of Allah Almighty they are behaving like Allah Almighty. Not Allah Almighty, behaving with His generosity.
+
+The other day, I went to Mawlana Shaykh and said, Ya Sayyidi, they discovered the most generous one on the planet. "Who, who?" Mawlana Shaykh said. Of course, it's you! And then Mawlana Shaykh starts to cry. I said, I couldn't give nothing, I couldn't give anything. And said, Subhanallah, we're a little bit tired, a little bit... Aww I don't want to see people, to be with people oh, no... Mawlana Shaykh sacrificed everything for his people, for humanity. Everything. Alhamdulillah we are proud that we are around him. Alhamdulillah, said, you're the most generous one. This is generosity coming from Allah Almighty. Very important. That's why we have to be generous.
+
+And this morning I just went up and he was celebrating Eid-ul-Abrar with us so I got my coin and my brother also. And he was saying, "Shaykh Mehmet Effendi is the carrier. He is very powerful, he can carry, carry all. You... 'akhyar' ". Saying like, comme ci comme ca. Not really, not good, so that's why everyone coming to this side to be, comme ci comme ca. And he is saying that Shaykh Mehmet Effendi's job is really tough job. He is carrying. And now he is carrying with a tractor, but he is really, carrier. Our job is to entertain people to make the heart fresh and keep in line with Mawlana Shaykh. So that's why our side is the soft side, Shaykh Mehmet's side is the hard side, the powerful side. Normally he is the one who can shift up. He is the engine. And we are in the luxury side, sitting in the chair, just enjoying. Alhamdulillah that Allah Almighty makes such a wazifa for such a shaykh that it makes us relax, at least we enjoy the relaxation. Alhamdulillah.
+
+And then he said, "My son, I came to this world to not collect. Nobody's collecting from this world. Everyone is leaving and leaving everything and going. We are here to give. As much as we give, as much you take to the other side. This is the real bank. Here if you keep, you keep the burden for the other side. So that's why Mawlana Shaykh, Alhamdulillah, "Whatever comes to me, I give". And in youngest days of Mawlana Shaykh, he was never taking, because he came from a family that didn't take. They were givers. So one day, giving him, when he was doing dua at a maqam, etc. You know the people, they put some money. He never took it. He said "No, I am not in need". So when he went to Grandshaykh, Mawlana Shaykh Abdullah, he said, "Nazim Effendi, your hands should be like this. Anybody put, okay, anybody need? Say, okay". So since then Mawlana Shaykh's hand is like this. Putting, taking, nobody knows what is going on. This is Mawlana Shaykh. One minute here, one minute gone. One minute here, one minute gone. Alhamdulilah he said, "And till I kept my 2 hands open, Alhamdulillah, I didn't need anybody. Allah Almighty, He sent and Allah Almighty He took". And he said, "Alhamdulillah everyone asking me how you feed all these people? He is the One. No, it's not my business. If anybody coming to me, coming with his 'rizq' ". Coming with his food, coming with what is belonging to him. What is belonging to him, he must take.
+
+One day we had been in Spain tour with Mawlana Shaykh. So we go to Barcelona. Mawlana Shaykh's been taken somewhere, and I've been taken somewhere else. I was young in those days. And the young brothers said, 'Okay we have one place they are selling the best Espresso coffee in town, maybe in the world. Ajaib, we must take you there & you must drink a cup of coffee from there. I said okay, let's go so we went in the old city. And we went from that road to that road, it is nowhere. And it was in the old bazar, and the shop door was maybe only two & half metres wide. But it was tall shop. And we went... If you search for it, you cannot find it. So they come and they make, and it was all famous people's pictures in that shop. Unbelievable. So he made one Espresso coffee and I drink it, but it was very fantastic one. He deserved his reputation. But, I was thinking Subhanallah, if I didn't have my name written on that coffee, and it is belonging to me, how could I come to Barcelona, and to this shop? And how to get my Qismat? This is mine, my name is written on it. And it should be in this moment, it should be on this day, and it should be in this age, and it is perfectly tiny. You have to go there and drink it and you have to drink it in one minute, half a minute. Or even that is counted. So this is the qismat, Allah Almighty... provision. When Allah Almighty gives the provision so it is there. You have to go and pick it up.
+
+So that's why don't be worried, "I'm going there, might be hungry, might be without water, without bed. No, everything is arranged. This is heavenly program being arranged everywhere. They say when the child comes in the mother's womb, one angel coming and telling him the destiny of his life. Eating, age, illness, happiness, sadness, moneywise, business, everything and saying on this day you will be leaving. Everything's been said to all of us. So that's why when we start, the table is open. Allah Almighty never leaves anything for coincidences. Not at all. That's why everything has perfection. Alhamdulillah, that we are inside the perfection, but we don't realise the perfection. If humanity realised the perfection of Allah Almighty, we would never follow shaytan because we would be full of Iman. But Allah Amighty likes us to play, so everyone going in his own direction, but at the end of the day you say, Inna Lillahi Wa Inna Ilayhi Raji'un that means, the end of every- thing comes to Allah Almighty. Everything will come to Allah Almighty. So maybe go up, right, left, whatever, the final will be with Allah Almighty.
+
+Wa min Allhi tawfiq bi hurmat al Habib bi hurmat al Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=5002&name=2012-08- 26_en_EidAlAbrar.mp4

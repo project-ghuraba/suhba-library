@@ -1,0 +1,52 @@
+---
+date: 2016-03-19
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-03-19-surrender-to-your-murshid.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-03-19-surrender-to-your-murshid
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Surrender to Your Murshid
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-salamu alaikum. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahumma salli wa salim 'ala Nabina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. Allahumma salli wa salim 'ala Nabina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. MashaAllah.
+
+Hopefully, we keep our salatu salam to RasulAllah (saw). It is not easy to keep up with what you begin. It's very difficult. And alhamdulillah with the murshid, he is the one all the time helping you to keep up with what you begin. When you're surrendering to your murshid and your murshid, he is accepting your surrendering, because he also has to accept the surrendering. Today the people problem is nobody surrendering and nobody accepting the surrender one. This is two problems. One problem of to surrender and one to find somebody to accept your surrendering also. It is two sides. It is not one side.
+
+Alhamdulillah we are happy that we find a master that he's accepting our surrendering. And we are happy to surrender for such a master. That's why, when you are in tasawwuf... So many people "What is this tasawwuf teaching?" Now they start to wake up and think "What is tasawwuf teaching?" Where've you been? You were sleeping deep sleep because you've been feeding your ego, feeding your ego... At the end of the day, there is no space to feed your ego. It'd been fed so much. It's overloaded. And now ego saying "What? What we're gonna do with this food? I need some digesting." They say either you vomit, or we'll not talk about the second one. They say it is not wiseful to be eating more than what you need. And it is not wiseful also to drink more than what you need. And it is not wiseful to run more than you need. It is not wiseful to work more than you need. It's not wiseful to have wealth more than you need. But this is ok. But... But it is not wiseful also to be more powerful than you need.
+
+Now the world, or the systematic of the world, it is built up on feeding the ego. And today you look for the world and the world is suffering. They say "The world is suffering. We don't know what to do." Ya Hu, if you ask for production, you are thousand times over the production. If you ask for money, you are million times of the wealth. If you're asking for gold, you are mountains of gold. If you ask for jewelry, you have mountains of jewelry. If you ask for food wise, maybe you will have ten planets to feed the food that you produce. And they say "The economy is so bad, so bad. We don't know what to do. Economy is so bad." Say "We lose this amount. We lose that amount." Ok, there's some loss There is some loss. But this physical where is going on? If I'm losing, must be somebody else winning.
+
+We have one ton of water. We say this water been lost. Ya Hu, either it's going for garden, either it's going for tree, either going for ground. But it's going somewhere. This water is physical. Imagine how the people they are becoming foolish people those days with this instrument and with these facilities. Say "We lost a lot, you know. We lost a lot. You know. We lost". What you lost? "We lost billions." What? Why? "We lost billions". Ya Hu, one billion it is one room of money. Where is gone? "We lost. We lost". La hawla wa la quwwata illa billahi l-Aliyyu l-Azeem. If there is a loss, there is somebody winning this loss. It is not in your hand, should be somewhere. We are not negotiating this, it is not our matter. But at least, we put some light, some spot in some areas.
+
+We are spiritual people. They say "What this spirituality teach? What this tasawwuf teach?" If we are here, we are here to learn something. We are here to learn are we able to be sufi or not. The sufi is the one, he is not building his life for feeding his ego. It is so simple. His life being built for his soul. Because your murshid, he was all his life building his rank that Allah Almighty, He give to him. Because he will say "This rank, if Allah Almighty not given to me, I will not be able to work for it." Very important. Because here the people, they think they put turban and they have beard and they wear sunnah and they become big Awliya. No, it's not like this. Whoever it is, it's not like this.
+
+If Allah Almighty, He appoint for you a maqam or a rank, then you will be walking for it. You will be walking for it to receive it. This is the surrendering. And you'll be accepted as surrendered for your master. Then you will be walking for your maqam, your destiny. Yes. It is not by saying "Oh, I make riyada, I make this, I make services, I sacrifice my life. But I didn't get what I deserve." It's not like this. Nobody cares about what you do. It should be by your surrendering to your master. Because your master, he is surrendering to Allah Almighty. This is the true tasawwuf. If we are really want to be sufi, we have to understand the way of tasawwuf. We cannot create it in our mind by saying we are doing services and we lost in the stock market I don't know how many. No, it is not stock market. It's nothing to do with dunya. You have to understand. There's nothing to do with dunya. This is separate world. Higher world, more elite world, more having world of concept that having mercy, that having so many things that you cannot understand it in this world.
+
+This is, if you are want to be sufi, you want to be spiritual, you put your dunya beside and say "I'm not thinking in this side. I am having a new things". Because in dunya you will never surrender. You will never surrender. In dunya never surrendering. Did you see any merchant, he surrender for his customer? Never. He say "Oh this customer. Hot chicken! I have to look how to eat it." Say "I will give you only half of my chicken". "No, no, all." You look for maximize your profit and you will not be able to discount anything of your profit. Say "Yes, this is my life. I merchandise, I must take the full profit." Ya Hu, be mercy for this man. "No, no, no. He come hot chicken. Yummy-yummy." Some they are goats, some they are mutton, some they are cow, some they are ducks. So the merchandise, he is all the time looking as food. He will never look "Oh, I have to give them something. No,.. I have to take from them. I merchandise." This is dunya.
+
+But we are coming to spiritual, he look at you as his children. Do you think any father can make merchandise with his child? No, the father he's the one giving. Say "I have to support my child. I have to accommodate him. I have to guide him. I have to give him money. I have to give him advice for his future. I have to make him ready for life." This is the spirituality. This is the difference between the spirituality and dunya-wise. That's why, the son or the child will be all the time surrendering for his parents. Why? He know that his parents will never harm him. Of course, parents never harm children, especially their children. We're talking about the proper parents. Proper. Maybe there's exceptional. We are talking because the tasawwuf is proper. There is no fake. Everything should be according to Allah Almighty order, to RasulAllah (saw) order. That's why, it should be the best. "Addabani Rabbi fa ahsana ta'dib". That means "Allah Almighty He give me the best manners so I've been dressed the best manners to give the best manners." So when you talk about proper family, it has the best manners that Allah Almighty, He love and He know and He like.
+
+That's important things. That's why, when we are in tasawwuf, we have to know that everything is proper. And we have to be surrendering for our murshid. Alhamdulillah Mawlana Sheikh, he was not misbehaviour for our surrendering. It's very important also. Because when you have a murshid that he make misbehaviour for your surrendering, then it's a problem. He will not guide you for the right way. He will not guide you for the good way. But the one he's looking after you properly like Mawlana Sheikh, then you are relaxed. And this is important for us because we are surrendering our life, our everything for Mawlana, for our murshid. It's important also to know all this. You know all this. It is our duty to remind, to remind where you are stepping and your ground is solid. This is our duty to let you know that the ground's still solid. Alhamdulillah even after Mawlana Sheikh, he is in his maqam, he still keep for us ground, solid ground that he is happy with it and you should be happy with it.
+
+And no need to interfere with things that is not belonging to you. Let's just leave it. But you have to understand where to surrender and how to catch and how to continue what you begin. Because the beginning and the ending, it should be same. This is important. That's why Mawlana Sheikh, he keep insisting in this point. Because he doesn't want any losing among his murids, among his children. This is Mawlana Sheikh care and love for his children.
+
+May Allah forgive us and forgive me more than anybody and make us to be with Mawlana Sheikh, to be under his wing here and hereafter. Because hereafter it's more important than here. Here is only the jumping point. There it is the real to be with your master. May Allah forgive me.
+
+Wa min Allahi t-tawfiq. Bi hurmati l-Habib, bi hurmati l-Fatiha.
+
+Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam. Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam. Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam.
+
+Wa salli ya Rabbi wa sallim 'ala jami'a l-anbiyai wa l-mursalin wa 'ala kulli 'ajma'ina wal-hamdulillahi Rabbi l-'alamin al-Fatiha. http://saltanat.org/videopage.php?id=15359&name=2016-03- 19_en_SurrenderToYourMurshid_SB.mp4

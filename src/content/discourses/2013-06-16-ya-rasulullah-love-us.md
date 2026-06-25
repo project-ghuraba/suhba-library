@@ -1,0 +1,52 @@
+---
+date: 2013-06-16
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-06-16-ya-rasulullah-love-us.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-06-16-ya-rasulullah-love-us
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Ya Rasulullah, Love Us
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allahumma salli wa sallim ala Nabina Muhammad alayhi salam Salatan tadumu wa tughda ilayh Mammarra layali wa tul ad dawam Allahumma salli wa sallim ala Nabina Muhammad alayhi salam Salatan tadumu wa tughda ilayh Mammarra layali wa tul ad dawam Allahumma salli wa sallim ala Nabina Muhammad alayhi salam Salatan tadumu wa tughda ilayh Mammarra layali wa tul ad dawam
+
+Somebody want to sing 'Happy Birthday to You'. (Happy Birthday to you.) Thank you, thank you very much. I am so excited, being 50 years old now. Becoming wise man. Yes when you are 50 you are in stage to be wise, not child anymore. But I still feel deep inside me as a small child. And, I don't want to be grown up also because it have very big wisdom there. When you are child, you been forgiven, If you are praying and you have your small kid next to you, 3 years old been jumping, jumping, jumping with jamaat prayers nobody will be disturbed. A small child jumping. It's okay, no problem. But a man, 50 years old, like me, starts to jump, say, 'Oh, what's going on?' We know you are wise man, you are not kid. The kid is all the time been forgiven. And they say his name is 'kid', small boy.
+
+And we are asking, 'Ya Rabbi, keep us as small kids in Your Divine Presence’, because we have lot of mistakes in our life. A lot of sin in our life. A lot of, lot of, lot of mistaking in our life so we cannot claim and declare, 'Now we are wise people’. We have this age or that age, ok, you have come, come, come. Even the governmental law, if you are in this age you have this kind of penalty or punishment. If you are after 18, you have adult prison. Still keep 18. No, no. Time passed. Even in our world rules and regulations. You still going through age period, so that's why we say 'Ya Rabbi, You are Arhamur Rahimeen, the Most Merciful One, You are the Most Magnificent One and we are looking at You as small kids’.
+
+We never claim we are this age, that age and we know so much. Don't claim you know so much. If you claim you know so much, you will come like shaytan. 'I know better than this. What is this Adam that You create? I know better than him’. I am having 7 million wings, I don't know how many billion wings. ‘Cut his wings!’ Stop playing with Allah Almighty. If you are humble you'll be treated in the way you wish but if you are proud, also you will be treated as He wish. Don't show yourself, don't say, 'I am this, I am that'. Don't ever. I remember when we been kids and Mawlana Shaykh he was giving sohbah and he was addressing people, he was in the first seat and normally what people do, they say, 'My son must be next to me'. Me and my brother last, nobody know who we are. Why? Because he is the one. We are children. We don't have anything to do. This, Allah Almighty putting him in First Class. So many people must be next to him. It is not for me to be next to him. Later, can be next to him. If I am child, I have to sit with the children. This is divine humbleness. It doesn't say, 'If I become No.1 all may family should be No.1. No. If Allah Almighty will take them to be No.1, it's up to Allah, I will never push it. Upgrade. This is Allah Almighty. That's why, when I sit in my father's seat the first time, say I like this seat and even Shaykh Hisham say, 'This seat is becoming so old’. I'm telling him could be old but it have a lot of spirituality, doesn't matter.
+
+Maybe you can make a golden seat but it doesn't have this spirituality at all. And now maybe it is my, let me be a little proud about this not humble, almost 90 years coffee talk, almost 91 and I'm surprising about myself and say, if Mawlana Shaykh wants a stone to speak and not repeat the same sohbah, and not repeat the same sentence, he can put the stone and make it to speak from endless knowledge and I am the one most ignorant ones amongst my father's jama`a. I am one of the most unknowledgeable one in Mawlana's jama`a, maybe less practicing from Mawlana's jama`a, and he say, 'No you are my stone and you sit here and speak'. I don't speak to say, I speak.
+
+Speaking, everyone can speak, Allah gave speaking for everybody, maybe they speak okay, maybe they speak not okay, but why I'm speaking like this is just to say to my ego, "Hey you! Bahauddin ego, 'Don't be so proud' ". He can cut your wings as He cut for shaytan his wings. How many billion wings, I don't know. ‘Cut his wings! Take him down. Put him in earth’. Finish. This is Allah Almighty. Don't be proud that you can speak, or proud you can do this or that. So many billionaires in one night, become poor. Nothing left.
+
+They say in Arab, famous wisdom, talk. Say, if Allah Almighty want to make His servant rich, He will be pumping him the money from nowhere. He doesn't know, 'Why this money coming? Why this rizq coming?’ And then if He decided to bankrupt him, he will look under the pillow and if something left, that also He will take. idha `ata adhash wa idha akhadh fattash wa tahtash. That means, if He give you'll be shocked from what He is giving, but if He takes, He will look at the corner you never looked, He takes everything from there also. Even a crumb you'll not find. This is Allah Almighty. Don't play with Allah Almighty. If you sit here, you sit with adab, like me, I am very adab.
+
+If Mawlana Shaykh put you in the seat, be with adab, like me. But if he want to take you from that seat nobody have right to object. Not at all. When you object, 'Cut his wing!' 'Where's my wings?' Yahu, this is.. You are with Allah Almighty. You are facing Allah Almighty. What is meaning to have a shaykh, Sultan al Awliya? Complete Waliullah. Don't play with him. Don't play with him. I am saying this first for myself. To understand if I am sitting here, I am sitting by his order, in his blessing, in his madad. And he has thousands and thousand of sohbah and there's no repeating. Every sohbah is different. Every sohbah is different ocean. Actually Shaykh Adnan was right. Ocean behind the ocean, behind the ocean. Oceans, this is true oceans. We are lake behind the lake. Or drop behind the drop, behind the drop. That's why it is very important for our living purpose to understand and to behave with adab because the adab is the real benefit. Maybe you have everything but you are arrogant. Isn't worth anything, is zero. But maybe you have nothing like me and you have adab, thankyou, so you have so many things. This must give good example for you.
+
+Alhamdulillah, Allah Almighty give me 50 years of breathing, eating, enjoying and talking and I like to make summary about my things. Today is little bit more selfish sohbah coming. But what I understand, somebody tell me, 'I like you to wish something on your birthday'. I was thinking what to wish, maybe I was thinking a good car. I have. Maybe I wish to have a good job. That's okay also. Maybe I wish to have family, Alhamdulillah. Maybe I wish to have good children, Alhamdulillah. Maybe I have this, this. Finally I end up saying, oh this, I put aside. And only wishing that Sayyidina Muhammad (sas) to love me.
+
+We know we love him. And I say, it must be good wishing. If you want to wish, wish big. Don't wish small. Go for big one. If they tell you there is $100 and $1 million. Go for $1 million. Big. This is like to make understanding only. But with the spirituality, you go for the big one. Don't be humble, don't stand behind, go for big one. 'Ya Rasulullah, please love me, this is my wish’. If Rasulullah love you, everything will love you, everything. Big wish, say, 'I wish that Rasulullah love me'. And I feel, I feel! This insha Allah will happen. And I am wishing for all of you to wish like me, 'Ya Rasulullah love us. Ya Rasulullah we love you but you love us, we are nothing. But if you love us, we are something'.
+
+This is good wishing for birthday. This is good wishing for everyday. Why we are here? Eating? Everyone have food in his house. Dressing? Everyone having dressing. Home? Everyone have home. Why we are here? We have some purpose. 'Ya Rasulullah, love us'. How he love us? How we make Rasulullah love us? 'O our Sultan al Awliya, love us. And we know that you love us. Make it simple and easy for us'. And if Mawlana Shaykh is loving us, we know that everything is loving us. Alhamdulillah Ya Rabbi, shukr Ya Rabbi, Alhamdulillah. Shukr Ya Rabbi, Alhamdulillah, for my brother, tawba Ya Rabbi tawba Astaghfirullah, this is for me. I am the tawba one, don't forget this one. ‘Ya Rasulullah, it is nice to be loved by you. It is the best in everything to be loved by you’. Because Allah Almighty, He love Rasulullah. If Allah Almighty love Rasulullah, imagine the one that Allah Almighty loves, to love you. What a love. This is the love. The rest? Nothing.
+
+Allah Allah, this is my wish, for myself as egoistic desire and it is advice for you to go for the big target. Don't go for small. Don't go for small, because thinking small makes you small man. Thinking big makes you a big man. We want to be big people in front of Allah Almighty, in front of Rasulullah and to behave as they like, not to behave as our ego likes. That's why when you have this true love from Rasulullah, everything will be in place. Of course this is the perfection. Everyone is asking for perfection. If you are asking for perfection, this is the real perfection. Nothing else can be more perfect than this. Nothing, Absolute, nothing. With this wish we say, wa min Allahi tawfiq, bi hurmati'l Habib, bi hurmati'l Fatiha.
+
+Subhanim Allah, Sultanim Allah Nabim Muhammad, Alayhi salam Subhanim Allah, Sultanim Allah Nabim Muhammad, Alayhi salam Subhanim Allah, Sultanim Allah Nabim Muhammad, Alayhi salam
+
+wa salli Ya Rabbi wa sallim al jam`i al anbiya wal mursalin wa ale kulli ajma`in, wal hamdu Lillahi Rabbi'l Alamin al Fatiha.
+
+Video link: http://saltanat.org/videopage.php?id=8252&name=2013-06- 16_en_RasulullahLoveUs_SB.mp4

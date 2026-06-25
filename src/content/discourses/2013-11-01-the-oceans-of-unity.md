@@ -1,0 +1,58 @@
+---
+date: 2013-11-01
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-11-01-the-oceans-of-unity.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-11-01-the-oceans-of-unity
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: The Oceans of Unity
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+O beloved friends of Shah-i Mardan, please feel welcome. What does the Lord Almighty, the One and Only, speak? Our Lord speaks: wāhidūnī. He says: You must know of Me. You must know Me. wāhidūnī, you must worship Me alone. What does the Lord of Glory wish for in this world? wāhidūnī. O our Lord, You exist, You are One, You have Existence. We are Your weak servants, O Lord. You have created us, You are our Creator. And You have commanded: wāhidūnī - You must know about My Existence and My Unity.
+
+Come to us O Shah-i Mardan. Your lovers stand in awe of you. Let us say: Bismillahi r-Rahman, ar-Rahmani r-Rahim. Our Lord God commands us: wāhidūnī. Aman, ya Rabbi. wāhidūnī. You must profess My Unity. You must say, you must speak: lā ilāha illa-llāh. O our Lord, what lovely servants our Lord has sent to us. wāhidūnī. You must pronounce My Unity. You are One, You are the Only, You are our Lord. wāhidūnī. You must profess My Unity/tawhīd. I am your Lord, the Lord of Majesty and Magnificence. O Lovers of Shah-i Mardan, beloved friends of Shah-i Mardan, say this, speak this; wāhidūnī. This is what Allah Almighty loves and wants to hear. wāhidūnī. Speak of My Unity/tawhīd.
+
+O our Lord, You have Existence, You are One, the Possessor and Bestower of Power and Strength. O Lovers of Shah-i Mardan. Let us say: Lā ilāha illa-llāh. wahdahu, lā sharīka lah. Lā ilāha illa-llāh, wahdahu, lā sharīka lah. O Lovers of Shah-i Mardan, this you must say. This is what I want: wāhidūnī. Affirm My Unity. You have Existence. There is no other Lord but You. There is no other Creator but You. It is You alone who exists, who is One, who possesses and bestows power and strength. You alone are My Lord and Master. The Lord Almighty says: wāhidūnī. Affirm My Unity. That is what Allah Almighty wishes.
+
+We declare Your Unity, according to our means and condition. You have commanded: wāhidūnī. Declare My Unity! You have Existence, O Lord, You have Existence. O Lovers of Shah-i Mardan. open up, let your hearts open wide. Let there be gladness, let them be filled with joy. Let them be filled with faith. wāhidūnī. Affirm My Unity. It is You who are the One, I wish for you to say this. O Lovers of Shah-i Mardan, O Lovers of Shah-i Mardan. The highest rank a man can have is the rank of tawhīd, of Unity. Affirm My Unity, profess My Oneness. You are servants, and I give to you everything. Affirm My Unity, I am the One and Only, I am the sole Lord you have. Say: O Lord of Might and Glory, You have Existence. All Beauty resides in You. All Honour is found with You. You possess all the Beauty there can be, O our Lord.
+
+O Lovers of Shah-i Mardan, you must know what it is that I know. wāhidūnī. Affirm My Unity. Declare what I know. Come to us, O Shah-i Mardan. How lovely to declare the Unity of Allah Almighty. wāhidūnī. You must declare My Unity. You must declare that My Existence is One. May your hearts open up, may your feelings be joyful. O our Lord, grant us faith, and submission to Your Divine Will/Islam and intimacy with You. Do not leave us to the filth of this world, O our Lord. You have sent to us Shah-i Mardan in order to save us from disgusting filth and vileness.
+
+May our hearts open up wide. How, by what means? wāhidūnī. You alone have Existence, no one else but You. You alone, O My Lord, possess Unity and true Being. It is to You that our hearts should open and in You find contentment. wāhidūnī. You must be amidst My Being, My Uniqueness, My Joyfulness. O our Lord, O Lovers of Shah-i Mardan. Allāhu Dhū l-Jalāl addresses them: wāhidūnī. You must declare that I (Allah) alone exist. You do exist, O our Lord. The affirmation of Absolute Unity is for You, O my Lord. Do not leave us to be as rubbish. We do not want to become rubbish. We want to affirm Your Unity. Let us affirm Your Unity, O our Lord. Dress upon us some of the honour of that Unity, O our Lord.
+
+wāhidūnī. Declare My Unity. What have you got to do? You must declare My Unity. O Lovers of Shah-i Mardan. Come to us, come to the affirmation of Unity. Declare His Unity, wāhidūnī. You should declare My Oneness. You are One, You alone exist, You are the Lord of the Worlds - that you must say. When you declare My Unity, I shall give you everything. I have created the worlds, I have created all of Creation. Not for Myself, for you I have created them. Therefore, wāhidūnī. You must announce My Unity, so that you might find joy, and experience Divine Unity. O Shah-i Mardan, show us; the command you received is: wāhidūnī. Say of Me: You are One, You are Unique, there is none other than You, O our Lord. You alone possess Absolute Being and Absolute Beauty.
+
+O Lovers of Shah-i Mardan. May our hearts open up, may we be joyful. What do we need to do? What is the command? wāhidūnī. Affirm My Unity, none other exists beside Me alone. There is nothing that you will be wanting. O Lovers of Shah-i Mardan ask for the Lord of Might and Glory and know that He is One and that there is no other than He. wāhidūnī. Let our every breath declare Your Unity, Your Being and Your Unity. There is nothing that matches or resembles You, O our Lord. Say this, so I might be pleased and happy with you. When do I take pleasure in My servant? When am I pleased with My servant? You alone exist, there is no other. You are the Lord, You are the Lord of the Worlds.
+
+O our Lord, we are ill. We are ailing, inwardly and out. You have sent to us Shah-i Mardan to cure us of our illness. O Shah-i Mardan, wāhidūnī. Declare My Divine Unity. O our Lord, we have no strength. We are in a state of weakness. From your words, O Shah-i Mardan, we imbibe Absolute Power and Grandeur. Let us fill up with love, with ardent love. Our Lord has commanded: Declare My Unity! Let us wish for this. O our Lord, lā ilāha illa Anta, subhānaka, O our Lord, You are One, You have no equal and nothing resembles You, our Lord. O beloved friends of Shah-i Mardan, hasten to affirm the Unity of the Lord Almighty Allah. That has been commanded. wāhidūnī. We are but servants and we are weak, but our Lord has His lions. Our Lord and Master, who is the One and Only has His lions. With the help of those lions let us shine forth, like the stars in the heavens. Let us shine, let us be joyful, let us be light-hearted and find our honour. For there is no honour above that honour.
+
+Declare My Unity! Affirm My Absolute Divine Unity! And affirm My Absolute Divine Dominion! Declare My Divine Power and Grandeur, and say: Bismillahi r-Rahmani r-Rahim. For My Unity is contained in these words. What shall we do, O Lord? Here there is Shah-i Mardan. Turn to Shah-i Mardan, let him teach you. O Lovers of Shah-i Mardan. How lovely! What lovely faces they have! What good manners they have! What beautiful qualities they possess! O Lovers of Shah-i Mardan, beloved friends of Shah-i Mardan, wāhidūnī, declare My Unity. You alone exist, O our Lord, there is no other.
+
+O Lord of Glory! wāhidūnī. There is none other than You. Let us say: Bismillahi r-Rahmani r-Rahim. O Lovers of Shah-i Mardan. Hasten to declare My Unity. Say: There is no other but You. O Lord of Glory, grant us strength, Give us power and strength. Give us power so that we might love You, and respect You, for we are weak. O Lovers of Shah-i Mardan, we are weak servants. Send us one to deliver us from this weakness, who will plunge us into the Oceans of Unity, send to us Shah-i Mardan. I will send him, He says, if you wish for that. And then he will teach you what is meant by: wāhidūnī. Let him teach you about My Unity. Let him say: The Lord of Might and Glory, there is none other than He. It is He who is the Creator. It is He who is the Giver of Life. It is He who loves and He who makes love happen.
+
+O our Lord, may our hearts fill and overflow with Your Love. May no more heaviness be upon us. Let us find refreshment. Let us gain strength through the power of Unity. O our Lord, O our Subhān, our Sultān. O Lovers of Shah-i Mardan, listen, listen well and take your share. Therein lies benefit for you. al-Fātiha.
+
+O my Lord, You have bestowed on us, You have bestowed on us ardent love. Let us not grow weary, let us not become full up. Our Lord, no one can get enough of You. You are Subhān, You are Sultān. You have commanded: wāhidūnī, Declare My Existence and My Unity, affirm My Oneness, and I shall give to you. May Allah open things up for you. With what do hearts open up, what opens them up? With Bismillahi r-Rahmani r-Rahim. Say: Bismillahi r-Rahmani r-Rahim. May your hearts open wide, may you be joyful. We are Your weak servants who are in need of Your Forgiveness. If as much as a drop of Your gracious Bounty, of Your Grace comes to us, the whole universe is turned upside down. Let us be immersed in Your Unity. Let us be filled with Your Oceans of Oneness. With love and fervour, with Your Unity let us attain to You.
+
+wāhidūnī. You are the One, the Only, there is no other but You alone. Let us be filled, satiated. He alone fills and satisfies, nothing else will satisfy man. wāhidūnī. When you declare My Unity you will be satisfied. If you do not, you will never find satisfaction. O our Lord, forgive us. O Lovers of Shah-i Mardan. mā shā' Allāhu kān, wa mā lam yashā' lam yakūn. May the Oceans part, may the Gates of Mercy open wide, so that we might plunge into them. O Lovers of Shah-i Mardan, ask for it, ask from the Oceans of Unity. O our Lord, we are so weak. From our state of weakness we seek Your Grace and Bounty. Your Bounty has no limits, it has no before and no after. Let us be beautiful. Do not be ugly, He says. Let us be beautiful, O beloved friends of Shah-i Mardan. Let us be lovely. Do not be hideous in the Presence of our Lord. Where does our beauty come from? wāhidūnī. Come and enter into the joyfulness of the Absolute Unity of My Being. al-Fatiha.
+
+As-salamu ‘aleykum, O beloved friends who you are gathered here, may peace be upon you. May the peace of our Lord be upon us. Let us open up and be lovable, let us be lovely. al-Fatiha.
+
+Allah does not love what is ugly, He loves what is beautiful. Open the door and say: Bismillahi r-Rahmani r-Rahim. Say Bismillahi r-Rahmani r-Rahim. May the doors be opened for you, may all be lovely. O Lord of Glory and Grandeur and Majesty! For the sake of Your Beloved, open them up for us as well, O Lord, let us affirm Your Unity. For the sake of the Beloved of the Lord adorn us with Your Good Pleasure, O Lord. al-Fatiha.
+
+You are our Lord. You are our Absolute Lord and Master. We want to love You, to know You. Make us love Your Beloved who bears his load of ardent love. It is the love of Your Beloved that can open the gates leading to You. O Shah-i Mardan, do fill us with love and ardour. Seek the honour that the Lord of Glory will dress upon us. Open up. This blessed day of Jum‘a let us declare our tawhīd many times. Say: Lā ilāha illa-llāh over and over. That will lead you to the door.
+
+al-Fātiha.

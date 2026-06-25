@@ -1,0 +1,46 @@
+---
+date: 1900-01-01
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/1900-01-01-shaytans-generosity.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 1900-01-01-shaytans-generosity
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Shayṭān’s Generosity
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+No hells. As much as jealousy is in existence or living in the hearts of sons of Ādam, hells must be. Envy. Yes. Jealousy and envy, both of them worst. Envy... Kıskanmak mı haset? (Is ḥasad envy?) Envy... That is true. Envy - ḥasad. Jealousy from ḥasad. No ghīrah (protective jealousy). Ādam... Satan was in jealousy with Ādam - [which] means from the power of envy this coming. If no envy, no jealousy. And jealousy coming from envy. They are both worst in sons of Ādam. He (satan) knows secrets of nature, satan. He has such a knowledge, not getting to forget. He has been given. And from secret of nature, he knows very well. And he is one teacher for unbelievers. And through satan that giving to their hearts not divinely inspirations. Divinely inspirations for believers. But for unbelievers, their teacher is satan. Why he is going to teach sons of Ādam? You must not ask why. You must understand for why he is teaching sons of Ādam.
+
+Every technical improvement, step by step, catching the hand of scholars. And never going to be tired in laboratory. Yes. Sitting always with them. If not sitting with them, no one can sit one hour in laboratory. They [would] escape. Sitting with them, as much as satan sitting with everyone in cinemas, in pubs, in bad places, sitting with them and keeping them from saying. Even when they are coming out on street after midnight, yet with them standing, saying them "Stand up yet. Don't cut your hope. Perhaps, after one hour may open. Stand up." Not leaving them to go. Yes. If not with them one moment, they can't stop. That is terrible. But no one understanding. Even in laboratories sitting with them giving them ṣabr (patience). Saying them "Be patient I'm teaching you now so many things." Therefore, so many discoveries and inventions day by day growing up.
+
+You can't imagine what satan teaching people now, teaching scholars. For what? Don't ask for what. You must understand. He has been given knowledge for the secrets of nature and for the secrets of egos. And he knows very well how he can lead sons of Ādam into hell during this life and hereafter. Because he runs after sons of Ādam to make them to fall in hell during this life and after this life, for eternal. That is his purpose, one never changed. Iblīs, he never changed his direction. He may appear in so many disguises, in so many forms and so many times he coming as an advisor to you. Yes. Advisor? Always commonly coming as an advisor. "O ‘Alī Efendi I am teaching you something it should be so pleasure to you" saying. Another one, another one. That is his purpose. His enmity never going to be less - increasing and not coming down. Because he says "For Ādam and his children just I have been thrown away from Divinely Presence. Therefore, I must do my worst, not my best for them."
+
+And teaching people, teaching, teaching so that now he taught them such a little bomb that I don't think if it is like an egg. It may be not too big. The worst part of it that blowing, fuse. When... explosion, and millions of sons of Ādam going to be destroyed. Then he going to "Ha-ha-ha" - too, too much pleased. "Oh now this is my pleasure. This is my hobby. In my life, it is my hobby to destroy not one one - not ten ten - by hundreds, by thousands. I am asking to destroy sons of Ādam each others by millions". That now coming this. You can understand? Now in our time devils sovereignty on whole world. Every country making himself to be ready for killing each other, for destroying others. Now therefore, dunyā, this world coming to be into two pieces, two parts - as signed [as it was shown] to that division before 15 centuries ago - Prophet saying. Just came this now.
+
+And they are making themselves ready for each other. What's it, missiles? Preparing. And satan saying "Oh now, oh too much. I am looking to put fire from this side, from this side." And going to be destroyed from sons of Ādam, from seven, six ones. Allāhu Akbar. From every seven, six going to die, going to death. Therefore, satan was very generous teacher for teaching unbelievers. And people saying - also heedless, heedless Muslims also saying. Ibrāhīm, look here. They are saying "Çok geri kaldık." (We've lagged behind) Yes. Why Muslim world so many years background? Backward. Look Western countries, European people, how they are advanced. Yes. Their teacher satan. Not coming to Muslims to teach us. No. Never coming. We are saying a‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm They are not saying. If we are saying a‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm, he says that "I'm not coming to you. I'm teaching... I am What is?... tight-fisted to you, Muslims. I am not giving my secret to you. You sleep, I am teaching my students, too much students from unbelievers. I can find so many whom they are not saying a‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm." That is a secret wisdom.
+
+Ibrāhīm, understanding?
+
+This... It is an answer. So many foolish and heedless Muslims also asking "Why west countries improving, advancing? Why we are not advancing?" Satan is generous for unbelievers. But for Muslims, many of them they are also ignorant, ignorant for their religion but yet not giving them. Never giving because they are originally Muslim coming. Even they are leaving their religion, their beliefs, but not giving them also. He's saying "You are untrustworthy people. You are not originally. Something in your heart may be change. Therefore, I am not... Yes. I am not going to trust you." Then not giving. Only giving from such bad things from Western people, giving them and sending them to Islamic world to teach them badness and worst things and making them ‘ilmānī, that meaning secularist. But whole generosity for unbelievers in Western countries. Then Western countries ready now. They've reached the top point of their technology. Because their teacher's terrible.
+
+No one can know that Iblīs knows from knowledges. Then coming a destruction, whole destruction to this world. Therefore, he taught them to learn how they may be able to destroy each others kullīyan - wholly, completely. That is that Allāh Almighty saying "O sons of Ādam, lā taghtarrū bi iblīs Don't be cheated by satan or to satan, by satan. Always going to cheat you. Don't believe him, believe in Me. And I am saying to you, O sons of Ādam, that satan is your first and most dangerous, most terrible enemy." We are not listening. We are saying "You know, our best friend is teaching us everything, so many things." Therefore, when we are when saying knowledge is bargain. But wisdom is soul. And adab is the soul of knowledge. If no adab, that knowledge is most terrible balā’, affliction for sons of Ādam.
+
+And wait now. Allāh Almighty says "O sons of Ādam, wait." And I am waiting what is going to happen day by day. Then, O our brothers, our sons and sisters, daughters, we have been invited to Divine Presence. And we are in need to learn protocol, Divinely protocol. This good, better. Look to me, Ibrāhīm. Divinely protocols, they are adab. That is important. In satan, huge knowledges but no Divinely protocol with him. Therefore, he has been thrown from Divinely Presence. Don't be cheated by your knowledges, O scholars. If you are not learning Divinely protocol, then you are going to be with satan knowledge. No one can approach or coming closer, close from Divine Presence without Divinely protocols.
+
+And you never going to learn Divinely protocols illā min ahlihi, except from those that they have been given Divinely protocols. And Divinely presence people whom they are in Divine Presence, they are Prophets and angels and saints. And three of those ṭawā’if, groups, firstly they throw away from their hearts this dirty life's pleasures. You can't find through their hearts, min ḥubbu d-dunyā - any love for this world. Never. Prohibited for anyone who carries love of this world to enter Divinely Presence. The first protocol, Divinely protocol says that throw away from your heart the love of this world. Then come. They are looking - dikkat ile - too carefully looking to your heart. If even smallest love, they are saying "Go away". That is the first protocol. Then we shall continue on that point in shā’a Llāh. It is enough.
+
+And I am saying for every badness in our hearts, for love of this world, I am asking forgiveness from our Lord and saying Astaghfiru Llāh. Astaghfiru Llāh. Astaghfiru Llāh. min kulli dhanbin wa ma‘ṣiyyah min kulli mā yukhālif dini l-islām yā arḥama r-rāḥimīn biḥurmati l-Ḥabīb, biḥurmati l-Fātiḥah.
+
+http://saltanat.org/videopage.php?id=16494&name=0000-00- 00_en_ShaytansGenerosity_SN_a.mp4

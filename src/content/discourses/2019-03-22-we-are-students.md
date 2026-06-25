@@ -1,0 +1,50 @@
+---
+date: 2019-03-22
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2019-03-22-we-are-students.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2019-03-22-we-are-students
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: We Are Students
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa-l-khayru fi l-jam‘iyyah.
+
+People nowadays are confused about their creation. People ask us, "Why did AllāhNone create us?" There are philosophers. Most people wonder how they think and act and most people want to be like them. They advise people with their opinions and teach them. This one said this. That one said that. For thousands of years they have been asking, "Why were we created? How did we come here? How will we go?" Allāh ‘Azza wa-Jalla shows the easy way. AllāhNone sent HisNone Prophets. Since Ādam ‘alayhi s-salām 124,000 Prophets have come to all mankind.
+
+So, "Wa-likulli qawmin hād" (13:7). "We sent a Prophet to every nation," says Allāh ‘Azza wa-Jalla. Arabs were sent one. Persians were sent. Turks were sent. Allāh ‘Azza wa-Jalla sent to various nations. Of course, as there were 124,000, most are lost and forgotten anyway. Even since the time of ‘Īsá ‘alayhi s-salām until now nothing proper has remained. However, there is the Bible. There is an authentic Bible, but they hide it. They made up Bibles as they like and wrote them as they like. Therefore, there is a prophet from every nation. And those prophets came to communicate the orders of AllāhNone. Their first goal is to be a guidance for people. No need to tire their minds so much about the wisdom of AllāhNone. If they pay attention to what Allāh ‘Azza wa-Jalla is saying, they won't get so tired. They won't have to come up with ideas. They are destroying themselves and destroying others.
+
+Allāh ‘Azza wa-Jalla created mankind to learn, so that they learn this. " ‘Allama l-insāna mā lam ya‘lam" (96:5). Therefore, learning is from the cradle till the grave. And it is not over even in the grave. Our duty is to learn and ask for knowledge. We didn't come for other things in this world. They learn other things, of course, Allāh ‘Azza wa-Jalla is teaching. And they are getting their provision. They make effort and try. But the main duty of mankind is to ask for knowledge, to get knowledge. Knowledge is to know, it is knowing. And what should you know? You should know your CreatorNone.
+
+Throughout all our lives we are learning to know our CreatorNone. We ask for HisNone pleasure. Therefore, from the cradle till the grave it is farḍ to ask for knowledge. A person lives for 100 years. If you think, if there can be the knowledge of 100 years, it is still nothing. Next to the knowledge of AllāhNone it is not even an atom. All the knowledge of the universe is not even an atom. Therefore, to ask for knowledge is our duty. It is a life-long duty.
+
+We were coming to the airport yesterday. Someone asked Abidin Efendi what he does for a living. He said, "I’m seeking knowledge." The man was surprised. Nothing to be surprised about. To ask for knowledge is our most important job. There is nothing more important than this. When asked what you do, you should say, "I am a student. I am learning." May AllāhNone give us that beautiful knowledge. We look, there are tens of thousands students, tens of universities in this tiny place. They pretend to give knowledge. They are not teaching knowledge but rather ignorance. There are new universities everywhere. People are learning neither what they are shown, nor the true knowledge. They learn ignorance – to rebel against AllāhNone. Who rebels against AllāhNone is ignorant and stupid. Because you can't rebel against AllāhNone. You must be with AllāhNone. The knowledge that teaches about AllāhNone is the real knowledge. Everything else is ignorance. It has no benefit. Because they see that whole world is educated, everyone knows.
+
+And where is rizq (provision)? Rizq is with AllāhNone. If AllāhNone doesn't give you rizq, even if you have knowledge of the whole universe, you can't eat a bite more. That is important. To learn knowledge means everything. But our duty is, AllāhNone created us in order to know HimNone. There is an Ḥadīth Qudsī – "I am hidden... "Kuntu kanzan makhfiyan." “INone was a treasure that no one knew about. INone created mankind so that they might know MeNone.” They attain this knowledge, the jewel of knowledge, by knowing AllāhNone. Otherwise, they are busy with useless knowledge. They waste their lives. They are in doubt like philosophers, believing neither themselves nor others, and unable to make others believe. No one values them. They live without meaning and earn nothing but harm. They harm others too. Who knows AllāhNone and is with friends of AllāhNone, becomes useful to people, as he teaches the reality and the existence of AllāhNone. May we all deserve the true knowledge of AllāhNone. May Allāh ‘Azza wa-Jalla let us deserve it, in shā‘a Llāh. Allāh ‘
+
+Azza wa-Jalla HeNone created human being and, the most important from beginning of creation, people they are wondering why we are here? What is our purpose to be in this planet? And Allāh ‘Azza wa-Jalla HeNone is saying for us for what we are here but people they are not listening for HimNone. They are listening for these people who are claiming they are little bit clever, and sitting thinking – "For what we are in this? What we are doing here? How we come here? How this people will do? What we will do?" And these people after thousand of years they become famous. They become philosophers, they said about themself. And what they knowing and wondering, what they wondering about it, Allāh ‘Azza wa-Jalla sending Messengers, Prophets.
+
+From HimNone since Ādam ‘alayhi s-salām, since beginning of creation sending Prophets for each nation. Don't think it is only for Arab, for Jewish or... This for whole nations. Allāh ‘Azza wa-Jalla said, "Wa-likulli qawmin hād" (13:7). For each nation HeNone sent Prophets. Al-ḥamdu liLlāh we see in India, in China, in Russia, everywhere. AllāhNone, where is nation, AllāhNone sent for them Prophet to tell them for what they are, AllāhNone create them. No need to be, discover what it is. Saying Allāh Azza wa-Jalla; sending Messengers to tell people for what they are in this planet, in this world. Other...this...
+
+But many, the most of people they are following this people, the philosopher people are, they are who are showing people little bit. They saying, "We are showing good thing for people," but this good thing not enough for our purpose. Our purpose, Allāh ‘Azza wa-Jalla saying, to have knowledge. We are in this life to learn. Learn, from where? From... now they make it from four years for children, from beginning school from four years and in this four years they put the worse thing against nature, they are teaching this. This is not teaching. This is only making them to be more away from AllāhNone. But Allāh ‘Azza wa-Jalla, our studying beginning from baby, from baby until grave. So, no anything else you must learn. Only you must learn what Allāh ‘Azza wa-Jalla. This is farḍ obligatory for each Muslim, male or female. It is obligatory for each one. Not other one they can learn or not learn. What this meaning? This meaning learning about Allāh ‘Azza wa-Jalla. Because maybe this other learning, 10, 20 years they finish but our learning for about Allāh ‘Azza wa-Jalla not finish, we are die and this not finish. Our knowledge nothing compared Allāh ‘Azza wa-Jalla knowledge. All time we must be, our job in this life to be student, learner, learner for Allāh ‘Azza wa-Jalla to know HimNone. Because HeNone is saying also in Ḥadīth Qudsī, "I was hidden treasure and I create this creation to know MeNone." How they can know in whole this, in short time? Even billions of years you cannot know Allāh ‘Azza wa-Jalla. So, when they, somebody ask you what are you doing? What is your job? Our job? We are student.
+
+Yesterday I am coming airport there was with me one of our murīd. One asking him how, what are you do? He said, "I am student." And he was 60 year old. Who was, "How you are like this?" He said, "I am studying Islām." So this is our, no need, not shame. Until we are dying, we must be looking for knowledge, real knowledge, not this rubbish knowledge! Rubbish.. One we see here even in this part of Island there is maybe more than hundred thousand students coming for university. They are not learning anything. Only learning to be against AllāhNone and to waste their money, their time, and nothing else. In every place there is university. University not... who not teaching about Allāh ‘Azza wa-Jalla, it is not useful. No benefit for us. But if you are studying and also looking for knowledge of AllāhNone it is okay But without this, no any benefit. Only losing time, losing money, losing your health, and be away from your place.
+
+Allāh ‘Azza wa-Jalla HeNone is sending for people and not difficult. Whole time only be connecting, asking for HisNone mercy, for HisNone support to make you more close to HimNone. This is enough. But, people not looking for this. Only looking for philosopher and this now time, the worst time in history of human being. Because the it is end of time and it must be like this until Sayyidunā Mahdī ‘alayhi s-salām come and, in shā’a Llāh, we hope to... be very soon, in shā’a Llāh. AllāhNone send him to teach us more and more from love of AllāhNone and about Allāh ‘Azza wa-Jalla.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

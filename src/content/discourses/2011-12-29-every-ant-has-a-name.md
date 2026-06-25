@@ -1,0 +1,36 @@
+---
+date: 2011-12-29
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2011-12-29-every-ant-has-a-name.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2011-12-29-every-ant-has-a-name
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Every Ant Has a Name
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+...It holds a mirror to the future,all the way till the Day of Judgment. But this news - "Ma Qablakum" - You can find the news of the ones before you in Holy Quran in details-tafseelan, or in summary - ijmalan. You can find news from the future as well, through the power of prophecy,again with the prophethood-Risalat of our Prophet (sas). With His Message - Holy Quran, not only that he informs about the past, all the previous events of the past,but he informs about what is to come in the future as well.
+
+Now, they have brought me a lot of books. There are many writings in them. I said, "No one can understand these". It is not right to give them into the hands of the people because they have no foundation. What can a building with no foundation hold? A building has no value if it doesn't have a foundation. The Muslims now, even the ones who claim to be scholars, have no knowledge. Therefore, it is pointless to publish these books and give into their hands. It is useless. When I look, I don't understand them, either. I don't understand, either. If I don't understand, then it is not possible for a man who has not learned any teachings nor listened to any sohbats in this valley to understand such things.
+
+(To try reading) the huge work of Ibn Arabi Hz - The Futuhat al-Makkiyya. What is this? What can you understand from it? Even it's Turkish translation. Your Turkish is only enough to buy-sell chickens in the market. Do you have any Turkish beyond this? Do we have any Turkish left? We don't have any language left, either. They played with our language, as well as our religion. Therefore I don't have a word to speak to people by reading these books. I speak to them in a cursing manner, they-Holy Ones - make me speak this way. It is more than enough for them.
+
+G. You have been speaking (to us) since 1970s, since I have known you. And also, even before that. As to confirm & authenticate your words things are appearing in other sources. But as you said.. M. They don't understand. G. It is very difficult to understand. Who are we, to understand Ibn Arabi Hz? M. A man needs to be on Ibn Arabi's level to be able to understand it. G. Even Shaykh-al Akbar Ibn Arabi Hadrat didn't understand some of them. He said like this to Sadr al-Din al-Qunawi Hadrat -his student: O son, I don't even understand them - but do you see the boy passing in front of the house? It was Mawlana Jalal ad-Din Rumi passing through. He said, "Look, that one will understand!" M. Now, there is no man left who can understand the words of Mawlana (Rumi) Hadrat. Mawlana Jalal ad-Din Rumi Hadrat's words are very clear, compared to the writings, speeches & words of Ibn Arabi Hadrat's. The ocean that he was swimming in is different. What was given to Mawlana (Rumi) is different. G. What was given to the grandson of Mawlana is different, too. M.What is granted-given to everyone (naseeb) is different. In the Presence of Allah Almighty... Allah Almighty is Al-Mubdi'. Al-Mubdi' - The Originator. He does not make carbon copies, hasha. Never! Aman ya Rabbi. When it is said, "Ibda' - Al Mubdi'" there are no carbon copies. All are brand new. New, new, new... Everyone's personality & what is given to them is different. Here, our Ali Riza Bey comes. He searches through my... I am a man of trash level. You come & try to find something in the trash. What can you find in the garbage? Trash! G. I find an ocean (in you). But I don't understand it.
+
+M. O our Lord, forgive us. "Fahimna ya Rabb" they say - "Make us understand". It goes too high - Fahimna ya Rabb. "O our Lord, make us understand". You don't have the authority to address this way. We don't have the authority to address Him (swt) this way. One needs to go down - down, down, down... "Go down! Who are you, to ask this question?" Allah Almighty has granted mankind a trust, according his level. It is special-particular to him only. And if you find one of them, the words that he will speak to you are not from what he knows. It is according to your level. He looks... The steward or the groom looks: "This one is a very old donkey - has lost all his teeth, no teeth left. Therefore don't give grain to this one. Don't give barley or wheat because he has lost all his teeth. Put some hay in a bowl for this one and give it to him, so that he can drink it. No grain to him because he has no teeth. Look, I also took out my dentures. Can't eat other things. If there is soft food available we throw it in our mouth. We can eat that. We are using false teeth. It is according to everyone's ability. My ability is not the same as his. His ability is not the same as that one's
+
+Al Fard Al Samad! Allah Almighty, Al Mubdi' - Every person's model is different. He does not make carbon copies. He is not "just like his father"! Can be twins - This one's personality is different, that one's is different. Allah does not make carbon copies. He is Al Mubdi'! He originates, you understand? Subhan Allah, one ant is not the same as another ant. They have personalities. And, they also have names! They also have their life path - through which path it will walk, what things it will do.. This ant goes like this, that ant goes like that, that one like this... Everyone's target has been appointed. Because He is the "Ibda' - Originator", no thing resembles another. This one's tasbih is also different, that one's different! Wa min Allahu tawfiq! O our Lord, forgive us. Fatiha.
+
+G. O Mawlana, Allah Almighty says "Ask. We understand. Our perception is limited but we are asking, 'O our Lord, open our perception for the honour of the Golden Chain, that starts from our Prophet (sas) & coming through Sayyidina Abu Bakr Siddiq (ra). Rabbi-'shrah li sadri - O My Lord, expand my chest for me. O our Lord, for this reason we are in your Presence. If you want,you can give. M. Don't make me open my mouth & swear. Because I will start now.. What do they call him? There is a (Hoja) that addresses common people. I can be like him & be put to (prison) if I start cursing. I don't know if you were born when I saw him. I think you were born. Ali Riza Bey.. We met him in London. Bismillahi r-Rahmani r-Rahim. Ya Rabbi Shukur, ya Rabbi Shukur. Fatiha. G. It is 2 pm. M. Fatiha. Allah grants us according to our level. Everybody speaks according to his perception, understanding. No blame. G. But this, what you said, that no ant in the universe resembles another, they are different. Each one has a different program. But within the Big Hologram-Holograph the reality in all of their formation is not the same? Is it not a part of the Divine Unity? M. When you say "reality"there is zahir-apparent & batin-hidden. There is pre-eternal & eternal. There is present. Allah Allah... Welcome to you!

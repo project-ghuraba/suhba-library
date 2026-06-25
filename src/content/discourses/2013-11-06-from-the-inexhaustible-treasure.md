@@ -1,0 +1,44 @@
+---
+date: 2013-11-06
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-11-06-from-the-inexhaustible-treasure.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-11-06-from-the-inexhaustible-treasure
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: From the Inexhaustible Treasure
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+May it be Bismillahi r-Rahmani r-Rahim. May our end be a good end. May our work and doings be for Allah. O our Lord! Our Subhan, our Sultan! May our every work be Heavenly, may it be for Allah. May the doors of Heavens open, may our every work be good. O yaran Shahi Mardan! May the doors of Heavens open! What beautiful doors are they - the doors of Heavens. Let Shahi Mardan come in and let it be - let the doors of Heavens be opened.
+
+Let us ask for every kind of beauty from our Almighty Lord. O our Lord! May You dress us too with the blessings of this holy month O Lord. Let us ask - let us ask from our Lord. May the beautiful doors open. May the doors of our Lord, of the Heavens open. May we be mardan (real men). Let us say Bismillahi r-Rahmani r-Rahim. Let us ask from our Lord. O our Lord! You are Who are the Owner of earths & Heavens, we ask - we ask from our Lord. Come in, O servants of Allah - let us plead with Shahi Mardan. Let us ask from the endless treasures of our Lord. O our Lord! Our Subhan, our Sultan! May Shahi Mardan open His doors.
+
+Ask, O servants of Allah! Ask from the endless treasures of Allah, let us ask. Salamun Qawlam mir Rabbir Rahim.(36:58) (Peace a word from a Merciful Lord). Come in O servants of Allah, let us ask. May the doors of our Lord open for us. Our Lord's doors do not close, may they open for us O Shahi Mardan. We ask from Your never closing doors, Ya Rabbana! We await Your grants - we ask from Your never-ending, never finishing, everlasting Kindness/lutf, Ya Rabbana! O yaran Shahi Mardan. O yaran! We ask from the Bounties, the never-ending Bounties of our Mawla Who sends support from Heavens, Whose help reaches from Heavens. Let us ask. Let us not stop asking - let us ask always, always O yaran.
+
+Let us ask from Our Mawla Al-Muta'ali (the Transcendent). Let us not get tired of it, O yaran Shahi Mardan. Let us not get tired of it- let us not get tired of the Grants, the Bounties and the Ihsan of Janabu Rabbu-l Izzat. How can you ever get tired of it? Marhaba O yaran. Our yaran are asking from Your never-ending treasures - we are asking from the Bounty, from the Generosity, from the Majesty, from the Honour, from the endless Bounties of our Lord. Let us ask from the never-ending, never finishing, never closing doors of bounty, O yaran Shahi Mardan. We ask from His never-ending treasures, O yaran Shahi Mardan. The treasures of our Lord - our Subhan, our Sultan - is never-ending, never finishing, everlasting. Let us plead to our Mawla, O yaran Shahi Mardan- Grant us from Your never-ending treasures, O our Lord! Let us never get tired of, never get fed up with, never get weary of the Power/Taqat of our Lord O Shahi Mardan! His grants are unlimited, His grace is unlimited. You are our Lord. May You grant us O Lord. O our Lord! Our Sultan, our Subhan, our Sultan. O yaran Shahi Mardan! The never closing doors belong to Allah Almighty. Let us ask, let us beg, let us crave - let us ask from the never-ending treasures of Al-Haqq and see how much He will grant. O yaran Shahi Mardan. His door never finishes. His door never closes. O yaran Shahi Mardan. May our hearts open. May the doors of Light open. May the doors of Light open. O our Lord, You know. The treasures of Heavens, the fortunes of Heavens belong to You only O Lord, may You grant us. There is no limit to His grant - You have unlimited grants, O our Lord. Come in O yaran Shahi Mardan. Let us plead, let us beg- Let us ask from, let us beg for the unlimited grants, unlimited ihsan, unlimited grace of our Lord. May we not get tired of, get fed up with Your grants, O Lord. There is no limit to the grants of our Lord. The never-ending grants belong to Allah Almighty, ask from them. O yaran Shahi Mardan.
+
+Once You grant, You grant without measure O our Lord. You grant without measure. There is no end to Your grants, to Your grace. Let us say O Shahi Mardan- The never-ending grants belong to You only, to You only O our Lord. May You grant us, bestow it upon us. O our Lord, our Yaran. There is no limit to what we ask from You, O our Allah. Let us open up O yaran, O who love their Lord! Let us open up, let us be in joy. Let us find joy in His ihsan & in His grants. Let us not stop, let us open up. May our desire (for them) not end. May Your grants not end, may Your doors not close. They are always open- the granting doors of Allah Almighty are always open.
+
+O yaran, Shahi Mardan! Sahibu-l Ihsan! O Shahi Mardan. Let us ask from Allah Almighty- our Yaran- He may grant all things. Let us ask. There is everything with Him, there is everything. Let us not get tired of asking, O yaran Shahi Mardan. You are Subhan O our Lord, You are Sultan O our Lord. Let us beg from Allah Almighty. Let us not get tired of, not get fed up with asking, let us keep asking. We ask, then Allah Almighty grants. "The servant asks and I grant. Take it" He says. "Take, O My servant. Since you are asking, take it. My treasures do not ever finish, My doors do not ever close that you should not ask for it! My granting doors are open. Ask! Ask from the Heavens!" Allahu Akbar! Allahu Akbar! Allahu Akbar wa Lillahi l-Hamd. Ask and take O yaran Shahi Mardan. Our Lord, there is no end to Your grants. May You grant us, O our Lord.
+
+O yaran Shahi Mardan. How beautiful are You. How plenty is Your Ihsan. The doors of Heavens are in Your Hand- they are in Your Hand, You may open them. Plead for it. "Fas'al bihi khabira". "Ask from Your Lord" it says. "Whatever you want, ask from Him. He is Allah-He is our Lord Who is Jalla Jalaluhu, Amma Nawaluhu wa La Ilaha Ghayruhu. Open! Open Your Doors!". "Fas'al bihi khabira". "Ask from Allah Almighty" it says. Let us ask. Fas'al bihi khabira. "Ask from Me" it says. How beautiful it is to ask from You, O Lord. How nice it is. How nice it is to take from You the things we speak of, O yaran Shahi Mardan. Your grants are endless. May You bestow upon us also from Your grants. May You grant us from Your endless grants also, O Lord. Allahu Allah Allahu Rabbi ma li siwahu. Illa Hu. (We want only You) May our hearts open. May our hearts find joy. Our Lord- our Subhan, our Sultan. How beautiful are Your grants. How beautiful are they, Ya Rabbana. You don't get enough of granting. Your grants do not finish with granting, O our Lord. You are Subhan, You are Sultan. You are Subhan, You are Sultan. Allah Jalla Jalaluhu is the Absolute Owner of the never-ending, never finishing treasures. Allahu Akbar Allahu Akbar Allahu Akbar wa Lillahi l-Hamd. Fatiha.
+
+The never-ending, never finishing treasures belong to You, O Lord. May You grant us power, may You grant us uns/familiarity. May You grant us from the never-ending treasures of Your Divine Bounty, O Lord. Let us plead, let us ask. Our Lord is Al-Qadir and Al-Muqtadir/the All-Capable of everything. Ask! O our Lord- our Subhan, our Sultan. You are Who are our Al-Qadir & Al-Muqtadir Lord. Let us ask- let us ask from our Lord. Let us overflow! Let us ask for whatever there is in the Creation. O our Lord. O our Lord. You are Who are our Al- Qadiru-l Al Muqtadir Lord. Let us say "Ya Hu". Our Allah is Subhan, He is Sultan. He is the Owner of never-ending, never finishing treasures. Let us ask. Ask from Allah Almighty. Ask and your Lord grants. The servant asks and our Lord grants. He is not stingy - Our Lord is not stingy. There is no limit to His grants, to His blessings. If you recite one Bismillah, He may grant you the whole jehan/universe - the virtue of the Bismillah. Allahu Akbar! Allahu Akbar wa Lillahi l-Hamd.
+
+Let us ask. O yaran Shahi Mardan. Let us not get tired of, not get fed up with asking. Our Lord may grant anything. And we should ask for it. Fatiha.
+
+This is a short sohbat. Ask, ask from your Lord. He is the Owner of measureless bounty. There is no end to His bounty, it has no boundaries. He is Allah! Jalla Jalaluhu, Jallat Azamatuhu wa la Ilaha Ghayruhu. O our Lord! For the honour of Your Habib-i Kibriya we ask from Your Divine Bounty, from Your never-ending Bounty Ya Rabbi. We wait for it, O our Lord. Men & Jinn expect from Him. Allahu Allah. Men & Jinn expect from Him. Earths & Heavens wait for His grants. They all ask from Him.Let us ask & take, from His never-ending treasures.
+
+Fatiha.

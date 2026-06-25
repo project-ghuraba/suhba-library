@@ -1,0 +1,68 @@
+---
+date: 2016-01-29
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-01-29-richness-only-for-allah.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-01-29-richness-only-for-allah
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Richness, Only for Allah
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-salamu alaikum wa rahmatullahi wa barakatuh
+
+Audhu billahi min ash-shaytani r-rajim Bismillahi r-Rahmani r-Rahim As-salatu wa s-salamu ala Rasulina Muhammadin Sayyidi l-awwalina wa l-akhirin madad ya RasulAllah, madad ya Sadai Ashabi Rasulillah, madad ya Mashayikhina dastoor, Shakyh Abdullah Daghistani, Shaykh Muhammad Nazim al-Haqqani, madad Tariqatuna as-sohbah, wa l-khayru fi jam'iyyah.
+
+Allah Azza wa Jalla created this world, and human beings. Gave everyone their provision. Some people aren't happy with their provisions. They want not provision, but income at every opportunity. Whoever wants provision, Allah is the Provider. Whoever believes in Allah, wants provision from Allah. In old times there were people, who were much richer than today's people. There are two people. One of them used Allah's favour in a bad way and said, "I made it", and that provision caused him trouble.
+
+Qaroon was Musa's (as) brother-in-law. He was poor. He was worshipping, he had a family and children. He woke up at night and worshipped. He prayed at night. When he said, "we are short of money" to Musa (as), Musa (as) taught him the science of alchemy, to make gold. He was making gold from lead. It is a science. Allah is able to do everything. There is science for everything. He (jj) taught it to the prophets (as).
+
+Musa (as) taught him this science, because he felt sorry for him. He had children, he worshipped but he had no money. After learning it, he started collecting goods day and night. "Give your zakat", said Moses (as). "I wont give it. You desire my possessions", he said. See how ego makes you blind, makes you crazy. Musa (as) taught him that science. "I was only given it because of knowledge I have" (28:78). Qaroon said, "I got it with my own knowledge" but actually, Musa (as) taught him that science.
+
+He had so many possessions, he became so rich that even 40 mules couldn't carry the keys to his treasures. They fell down because of the weight of the keys. Even the mules, camels fell down. That much. It wasn't just possessions, his treasures, the keys to the storage that held the gold. What happened in the end? He opposed Moses (as,) he refused to give his zakat. Allah wasn't happy with him, Allah punished him. "Now for this knowledge that you have, get under ground", He said. He sank under ground. People around him used to envy him, saying, "Qaroon is such a lucky man". He has so much gold, so many possessions, so many slaves, so much land, so many horses, he has cows, animals, everything". People envied him. "Don't ever be deceived by this" Muslims there were saying. This is a man, who rebelled against Allah, he didn't have a good ending. Allah made him to sink. So this wealth given to him wasn't a blessing but caused him trouble.
+
+There is a second personality, the holy Sulaiman (as). Allah gave to him also, gave to him wealth in this world, Next to Sulaiman (as) nobody had that much wealth. His prayer was to be the wealthiest among people, not for himself, but to give people a lesson. Everything was at his command. Even the birds, bugs, all were at his command. They obeyed his orders. He used to hear and know what they said.
+
+Once when going to war, he was passing some place where ants began saying to each other, "Beware, Sulaiman and his armies don't crush you". Sulaiman (as) heard this. He thanked Allah and smiled. How strong is the voice of an ant? You can't even see the ant, how can you hear it? What Allah wants, He makes at His command. He (jj) made the devils and jinn his (as) slaves. They were all his slaves. When he went from one place to another, for example, in the desert, there was a Hudhud bird.
+
+A Hudhud bird's speciality, it was able to see where there was water. When it put its beak to the ground, it would tell how deep the water was. Following this, Sulaiman (as) was ordering the devils, jinn. They immediately would dig that place. It isn't like today's drilling. They did ponds, pools, in one hour so that the whole army could drink. Sulaiman (as) had so much power. He thanked Allah. He thanked Allah for his blessings. He invited the whole world to Islam, to Allah's order. Nobody opposed it.
+
+This Hudhud bird, one day got lost along the way. They came somewhere in the desert, everybody was thirsty. "Call the Hudhud bird, let it find water" he said. They said it wasn't here. Sulaiman (as) was angry, he said, "Either I'll torture him badly or cut him. It better have a good excuse, so that I can forgive him". The Hudhud bird had gone to the land of Sheba. Bilquis was the Queen of Sheba. The devils and jinn hadn't told Sulaiman (as) that there was such a beautiful country; so powerful, so big. They hid it. Hadn't said there was such a sultanate. They wanted to leave them non-believers. When the Hudhud came back Sulaiman (as) asked, "Where were you?" It told him about the Sultanate almost as big as his own.
+
+After that he sent a letter saying: "In the name of Allah, the entirely Merciful, the especially Merciful" (27:30). He took that land also, with Allah's name. They all surrendered. Sulaiman (as) became the Prophet whom everyone loved and praised, until the Day of Judgement. The other one keeps sinking, yet to this day, to teach a lesson to people. Because it is Allah's order. When He says "Sink you, into the ground". That order continues. Everyday it is going deeper. These treasure hunters can't find it. They shouldn't search. Allah knows, how many thousand metres underground it is. This is how the world is. Had Qaroon lived one million years he would have had enough money. Sulaiman (as) was the same way. But one was stupid, he destroyed himself for nothing. The other one was sent to people as a prophet by Allah, to show the right way. He showed it for people to learn a lesson from him. If Allah wants, He makes the richest man a prophet also. Richness isn't a bad thing, if you use it in the way of Allah. But, if you listen to your ego, after making some money you forget Allah, the Prophet and religion, that money isn't good. It is bad, trouble. This is a big lesson for all of us. We have think on it.
+
+Allah Azza wa Jalla He created human beings, everything, He created, He is the Creator. Sometimes, people they asking if there is any other creatures in this universe. Of course, it must be, because it is not shop, you create and [then] finish. Allah, He continues. He has, not million, billion and countless creatures, countless planets. Suns, moons. He is the Creator. You cannot imagine. And He is showing you His mightiness and His greatness. But, not with your knowledge you can find another people. No. If He want, He can make you to meet. But if He don't want, with your knowledge, with your technology you are just making movie to cheat people.
+
+So Allah Azza wa Jalla, in this, our planet we must be now, He created people and give some of them richness, some of them poorness, some of them half, normal. So, from beginning of this world many of people, they was more rich than our time people even. And there is two of them especially, for example for people. To make their life more easy, more for understanding why they are here, what they must do. One of them, was brother-in-law, was husband of Musa (as) aunty. His name was Qaroon. He was a very poor man and he was a good worshipper. He was a dervish and very poor and he was working, day time, night time, not sleeping, only worshipping until morning. He has many children and they were very poor people. Musa (as), asking for dua for him and he teach him knowledge to make lead [into] gold. They are calling it simya, alchemy.
+
+When he learnt this, day and night, he left worshipping. Only working to make this, collecting gold. Making very hard, not stopping and he become the richest man in the world, maybe [of] whole time, or I don't know. But, his treasure, there was 40 camels [they] cannot carry, not his fortune, treasure, only key of treasure. Only key of treasure, 40 camels they were becoming very hard to move. It was like this, the richest one, but he was so stingy for people. For himself, he was doing everything, thousands of women, thousands of men, army and other things. Every thing what his ego liked, he brought.
+
+When Musa (as) asking for zakat, for money of Allah, he must pay from his treasures, he said "No". "This I know, I learnt by myself and I do it" In the Quran, he said this:
+
+"Innama ūtitohu ala 'ilmin 'indi" (28:78) I was only given it because of knowledge I have. Musa (as) he was teaching him, this knowledge to make it. People around him, the other people who are not have something like this, they said, "he is very lucky man, this Qaroon". "Big, huge luck he has", "ladhu ḥaḍin 'aḍim" (28:79) Other people who were knowing and following Musa (as) strongly in belief, they said "Don't be like this man, he is not following order of Allah. Don't be happy with him. And when he was arguing and making fitna also against Musa (as), making very bad, accusing Musa (as), Allah punish him. And make his place sinking on [into the] earth.
+
+Allah ordered: You sink on [into] earth and his army and this all what was with him was underground. Until now, Maulana was saying, it is still, going down. And the other people who was wishing to be like him, they were happy, "Alhamdulillah, we didn't be like him". This, for who are following their ego, they will regret, if they forgetting Allah. Other one, Sayyidina Sulaiman (as), he has a huge army. Allah was giving him everything, giving him also, kind of miracle. He only make people to be believers. He was going from one side to other side. Nobody can stop in front of his army. He speak with animals, with birds, with insects, even when he was once going from one place to another place there were ants and they were saying to each other "Go down to your house, to not crush you Sulaiman and his army". He was smiling and thanking Allah.
+
+There was also bird, called Hudhud. This bird, it was a special bird. When flying, [it was] knowing where is water and going down, putting his beak on earth and telling how many metres down, the water. When they telling this, Sulaiman ordering shaitan and jinns, Allah give them [as] slaves for him. They were digging and bringing water in one hour, for everywhere. It must be like a lake, water coming and all this army drinking, washing and making wudu and praying. So, it was like this.
+
+Allah Azza wa Jalla He was saying, this story in Quran. This Hudhud, once, he was not there. They came to the desert and everybody was thirsty and Sulaiman (as) asking "bring this Hudhud to show us where is water". They said "he is not here". Where he is? Nobody knows. Sulayman (as) he said, getting angry, "I will punish him, or I will cut him. Or, he must be giving good excuse, where he is". And when he come, he telling about Saba and Bilquis. He said, "This is a huge country, a huge sultanate and very rich and they are not knowing Allah. Not knowing anything from Islam, or belief of Allah. Only they are worshipping fire.
+
+After this, Sayyidina Sulaiman, he sent a letter for this lady, Queen and tell her, Bismillahi r-Rahmani r-Raheem: "innahu min Sulayman wa innahu Bismillahi r-Rahmani r-Raheem" (27:30) From this letter "Bismillahi r-Rahmani r-Raheem", all this Sultanate became Muslim and these shaitan and jinns was hiding this Sultanate from Sulayman (as). They are not happy to make people to be [in] Islam or to be believers. Only, Sulaiman (as) what wisdom he was saying: "O my Lord, give me richness, nobody after me [will] have this richness". So after Sulaiman (as) nobody rich like him. This is to show human beings examples for richness. It is not for pleasure, only for Allah it must be. One, everybody cursing him, Qaroon. Other one, Sulaiman (as), everybody happy with him. When they said 'Sulaiman (as)' everybody they are happy and they are blessed. So richness sometimes good, like Sulayman (as), to not forget Allah. Only to do it for Allah. But, sometimes richness [is] very bad, like Qaroon. He was worshipper, after, he became kafir and he became not believer and Allah curse him and he has punishment.
+
+So, we have a short life especially these days, the end of time. It is end of time Who says it is too much time left for qiyama, it is not true. And governments, all governments, all media, all newspapers, everything, the first thing they are speaking about [is] economy. "Economy like this, economy like that, this must be..." And people they are forgetting Allah, only looking for economy now. Don't forget this. Allah when He is giving, He is Razzaq, [for] what you will have, you must be thankful and not follow your ego. And you must be thinking about this, thousands of examples from old times and Allah keep us in right way to not follow our ego, insha'Allah.
+
+Wa min Allah a-Tawfiq Al Fatiha.
+
+Video Link:

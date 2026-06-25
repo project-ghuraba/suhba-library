@@ -1,0 +1,64 @@
+---
+date: 2010-04-04
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-04-04-a-guide-to-truth.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-04-04-a-guide-to-truth
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: A Guide to Truth
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Dastur.. Madad La ilaha illa Allah, La ilaha illa Allah La ilaha illa Allah Sayyidina Muhammadun Rasulullah Habibullah, Nur Arshillah, zidhu Ya Rabbi izzan wa sharafa nuran wa surura, ridwana wa sultana raghman ala anf man lam yaqbaluhu Madad, madad. Dastur, madad Ya Sahib al Imdad.
+
+And we are saying assalamu alaykum, Ibadallah. Maybe all of us are servants, some of us are obedient servants and they have been honoured. Some of them disobedient servants, no honour for them. Madad Ya Sahib al Imdad, Ya Sayyidi, Ya Qutb al Arifin Ay Ibadallahi as-Salihin. And we are saying: Audhu Billahi min as shaytan ar rajim, Bismillah ar Rahman ar Rahim. We have nothing. We have nothing. Everything belongs to our Lord, Allah Almighty but shaytan is trying to make people not to accept anything from heavens. They are saying 'We are working and with our efforts we are reaching so many things from this world'. It is okay, but if you are saying 'This is mine', are you saying true or you are lying?
+
+Salary, if it belongs to you, you are saying 'This is for me'. Why you are leaving and going? Why? Take it with you. Why lying? But shaytan is making people to be liars. From the beginning up to the end, shaytan is trying to make people liars. Unbelievers, all of them are liars because they are denying reality. When they are denying reality they are becoming liars. You, to whom belong your belongings? You can say, 'I am for myself, this body belongs to me. I am keeping this and it is for me'. If you are not lying then why you are leaving your dead body? Why they are taking you from your bed, from your chair, from your throne, from your plane, from your yacht? Why are they not leaving you there?
+
+Why you are leaving all of them and they are taking your dead body? What you were saying 'This is mine', leaving it there, taking your dead body and you were denying. Your whole life you were saying, 'Everything for me'. Where is even one ring that they are leaving on you. Taking it from you. Why you are not crying when your dead body is lying in the coffin? Hmm? Why you are not shouting, “Don't take this ring from my hand”. Or why you are not saying when they are asking from ladies their earring. “Whole life it was on me, why not leaving on me?” No one is hearing you and even if they are hearing you, no one is listening to you. Even if listening, they are not obeying you. Finish.
+
+"I was a king" or "I was a queen". Maybe, but your servants are taking from your heads your necklace and so many things. How you are claiming 'this for me, that for me, this belongs to me, that belongs to me'? But people are drunk ones and their multiplication is wrong. They must try their calculating machine once again. "It was for me but now I have nothing". That is the point where shaytan is the most liar-one through Creation. Most dangerous and liar-one among Creation. Shaytan is saying...One for you keep more of rings, of earrings, up and down, keep. Why? If you are Salafi ulamas marhaban for you sir, kayf ahwalikum? Say 'Alhamdulillah'. You are unhappy, I am looking to you. Why? I am servant, you are servant. But you are claiming above servanthood, to be Salafi ulamas. Imtiaz, privileged ones, you are saying, “We are Salafi ulamas, privileged ones, we are not like common people. Our level so high, no one can reach our levels”. Your egos saying to you to say this and urging you to accept that no one can be over your knowledge level. That is 100% foolishness and ignorance.
+
+What was the Seal of Prophets, peace be upon him, Sayyidina Muhammad (sas) saying? All of us are from Adam's generation and Adam also is created from earth. No difference. No one can say that this is not true, no. All of us are generation of Adam who was created from earth so that all of us are from earth. Why you are becoming so proud saying 'We are Salafi ulamas'? And others what they are saying? They are not ulamas? Why you are making a tamiz, that differentiation? Why? How many can you add from your-level-people? Yes, you are always carrying a book like this and going and coming. What is that? 'This belongs to Salafi ulamas'. No, knowledge is not from here, real knowledge is from here.
+
+There was one sultan and he liked to sit with ulama and discuss with them, mudhakirah, not discuss, remembering/rememberance, like this, and he was such a sultan. Collecting ulama and sitting and they were memorizing, trying to make munaqashah discussion, ilm ul-jadl, (dialectic) argument. Such a sultan that if he was hearing about anyone, inviting that one and sitting with him and asking to learn more. If an alim like Salafi ulamas coming with their books under their arms he would say, "No, that book you are bringing to make a discussion with us through our knowledge assembly, yes, we know that book that you are carrying. We are not asking something from that book, I am asking what is granted to you from heavenly centres. What they sent to you and taught you through your heart. These books we know of them but my maqsad, purpose is that I like to know what you have been granted of heavenly knowledge that you are bringing in Earth-written books? I am asking something of your soul reaching to heavenly levels and what you learned there. If you have, tell us. As for these books, we have also, we know it”.
+
+Yes, that is important. Salafi ulamas are bringing their books under their arm. We know those books also but ‘We are asking something’, saying that sultan, like his majesty, we are asking to listen to you what is granted to you from heavenly levels, that is what we are asking. Not what is written or pressed through books. That is important. Therefore it is very important for those who are asking to learn much more because they reached through their levels.. through their levels they are knowing, but asking higher. As the Lord of Heavens saying,
+
+wa fawqa kulli dhi ilmin alimun (12:76) They are asking over one level another level so that they are knowing more. At another level they are knowing more because their horizons through knowledge oceans, are changing. And in their understandings they are going to be changed. They were asking from that one what is unwritten. Unknown. Don't say that you can put knowledge in a boundary. No. Knowledge like oceans. You can't reach end of it, you can't reach depth of that ocean. Subhanallah, Sultanallah. O People, why are those people having such a knowledge now making this declaration through east and west, among believers and unbelievers, among Muslims and Christians and Jewish people? I am not adding Buddhist, no they are so simple things. Allah Allah.
+
+We are asking something that is not yet spoken about. Not yet open because knowledge treasures are endless treasures. Don't say 'We are Salafi ulamas'. Beyond Salafi ulamas no alim? Why you are insisting to say Salafi and what is your subject, what you are asking to say to people? Write it down, make a book and send it to me also. Maybe I can learn something. It is okay, wa fawqa kulli dhi ilmin alim. But you are stopping your knowledge level only one level and not accepting. If you are not understanding, saying, 'This is nothing. We are not accepting, that is mafqud', being lost. O People who are claiming 'We are ulamas, we are knowing so many things'. Please teach us. Don't make a copy from other books, no. If you are Salafi ulamas, they were not making copy. If you are making copy, you must reach up to Seal of Prophets (sas).
+
+Bring us something different from your understanding and from your knowledge. It is not enough to put an abaya on your shoulders or to put hattah on your heads and then to put eyeglasses on your eyes. It is not enough. We are asking if you know something about Islam that may be for all nations desired, there is another word, they are asking to know but they can't express this. So many billions of people are knowing something but they are not able to make it clear, to make it in words and to ask, or to learn because knowledge is oceans without reaching any shore. No one can reach the deepest water of it.
+
+When you are say you are Salafi ulamas then beyond Salafi ulamas you are denying oceans of knowledge. Who is giving to you such an authority to make a huge ocean of Islam only for Salafi ulamas? What about other people? That is an important point that every night those ones are making me to ask "What does it mean when they are saying 'Salafi ulamas?' What they are asking to teach people through their knowledge? How they are going to train people for obedience?" Write it down and bring it. If we are not finding similar matters through other books then we shall follow you.
+
+That means that after the Seal of Prophets there are also waves of inspirations reaching to some ones, say? Say, don't fear. Or, you must follow. Whom you must follow? The Lord of Heavens saying,
+
+wa kunu ma as sadiqin (9:119) Say to me now, all followers of Salafi ulamas, which one, leave those who passed away but must be now also sadiqin, True ones. Without making any trick must be now because Quran Karim addressing to the Nation of the Seal of Prophets (sas). Holy Quran was not only for Sahaba but up to end of the world. Say! That is a Command. Why you are not broadcasting morning and evening, "O People, you must be with Sadiqin" (Truthful ones). You find anyone? I am not saying for muluk or wuzara. I am not discussing about kings, or sultans, or emperors, or ministers. No. I am simply asking did you find among those people? Say to me, this is an open question. May hear his majesty, here or there and I may ask them, 'Why you are not asking for a True One, O majesty? Who is your guide on truth? Say his name so we may follow him. You must follow, we may follow you also.
+
+Why you are not saying? Only you are speaking bid`a, shirk, leave that, say to me because we are not knowing what shirk is, what is bid`a, what is haram, what is kufr, but sadiqin, True Ones are knowing. Say it to us so that we run to him to learn. May Allah forgive us. O People, we are in danger, through dangerous valleys and the most responsibility is on ulama through this time as they are claiming “We are scholars, doctors”. I am asking so many doctors, countless doctors, wa kunu ma as sadiqin. All doctors, what is your understanding when Allah Almighty saying this? It is only for Sahaba or Tabi`een or Tabatabi`een? No responsibility on us? Nothing that we are doing for this?
+
+That is the real base of Islam, that is the power of Islam because Sahaba they were with the most True One in Divine Presence, that is Sayyidina Muahmmad (sas). And their building up to today is standing up with its magnificence, showing Islam's glory and magnificence. And we are saying Ibn Masud (ra) Abu Huraira (ra), Muadh Ibn Jabal (ra) Sayyidina Umar (ra), Sayyidina Uthman (ra), Sayyidina Abu Bakr (ra), Sayyidina Ali (ra) karram Allahu wajh, alayhi salam. Yes they are really followers, asdaqu'l qa'ileen most true ones through the whole Creation. His name is written on the saaqu'l arsh, saaq, main pillar of heavenly Throne. His name is written, La ilaha Illa Allah Muhammadun Rasulullah (sas). Say, why you are fearing! Why you are coming and saying to make like this is shirk. What is shirk? Never understanding what is shirk! We are not mushrik! But we have been ordered to give our highest honour to most honoured one through Creation. Allahu a`lam ma naqulu Wakil.
+
+O our Lord, ya Rabbi ighfirlana w'arhamna, tub alayna, Ya Tawwab, tub alayna aslih sha'nana, Ya Salihin. For the honour of Your most honoured one in Divine Presence Fatiha. I will play and and Salafi ulamas may dance.
+
+dum dum dum dum,
+
+Playing not only for non-Muslims, we have islamic also. Don't think that dancing for non-Muslims Non-Muslims are playing with their ladies, we are not permitted to play with our lady, No.. O Jalalatu likes them so much. And Salafi ulamas they love.. but they are showing us under their eyeglasses they are looking and saying, 'If that lady can be for me'. dum dum dum dum dum dum dum dum
+
+Fatiha
+
+Video Link: http://saltanat.org/videopage.php?id=6471&name=2010-­‐04-­‐04_en_AGuideToTruth.mp4

@@ -1,0 +1,50 @@
+---
+date: 2019-05-27
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2019-05-27-dont-waste-your-provision.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2019-05-27-dont-waste-your-provision
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Don’t Waste Your Provision
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa-l-khayru fi l-jam‘iyyah.
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. "Kulū wa-shrabū wa-lā tusrifū" (7:31). says Allāh ‘Azza wa-Jalla. Eat and drink but don't waste. Wasting is a quality disliked by AllāhNone. Wasteful people will certainly finish badly in dunyā and in Ākhirah. People nowadays... This is not Allāh'sNone order but the order of shayṭān: "You should waste in order to succeed." We look at some place, when they don't waste, people say the economy stops or slows down. They say such and such spending is required for the economy to grow and work. It is wasteful but what can you do? It is their time now. This must happen. Nevertheless, Muslims should watch their consumption.
+
+Food is very important. You should show respect for food. When you eat at home, you may not like old bread. If you don't, then make less. Don't make a lot and throw it away. Throwing food is not being grateful but rejecting it. It is not shukr to AllāhNone but kufr to AllāhNone. AllāhNone gave so much food and you throw it into the garbage and ask for fresh bread. If it is old, you throw it away. It is a big misbehavior. People carry the punishment for this in this world already. Who doesn't value food; if food is mistreated, you won't find it afterwards. You will look for it but won't get. It is so widespread, what can we do? Don't buy too much. If you bought too much, don't throw it away. If you couldn't finish it, put it aside. Pets can eat it or you can give it to people who have animals. If you gave away enough, you can give to stray animals too. But when you throw in the garbage that is different.
+
+AllāhNone forbid, if you lose the provision once, it is hard to get it back. This is a matter of experience. We see it a lot. There are many people who went bankrupt. They struggle to do something, but nothing works out. You should stay away from such people. No benefit comes from them. Because there are some situations which happen as punishment. When punishment comes, you want to help them but you may get from that punishment too. Because they are being punished, even if those who help them are not punished, their actions will be wasted. That is why, you should use your provisions properly.
+
+Distribute it for charity. If you want to show your generosity by doing useless ḥarām things, that is not generosity, that is squandering. You will get punished for that. That is why, may AllāhNone protect us, daily bread is valuable. Before a morsel reaches your mouth, so many angels have brought its barakah from heaven. Those angels work in order to put the barakah of soil into every growing seed. It doesn't happen without cause. Don't think you plant and it’s done now. If those angels don't work, nothing happens. That is why, in respect and gratitude to AllāhNone, you must take care of the food HeNone gives. You should clean your plate without leaving anything on it. That is the sunnah of our ProphetNone.
+
+We went to an Islamic conference. We ate and cleaned our plate. The others left food on their plates. Why? Because they think if you don't leave food, it is a shame – as if you were greedy and couldn't stop. Some food must be left. Just look, it was a Muslim meeting and, as we said, even there shayṭān's words ruled. Our ProphetNone says not to leave anything on the plate. Mawlānā used to say – take as much as you can eat and don't be impudent. Do not leave anything on your plate. Eat, take. Not enough? Take more. But when you don't finish what is on your plate and throw it away – that is not good.
+
+May AllāhNone keep us from being wasteful. May AllāhNone make our food lasting, in shā’a Llāh. May our hidden and apparent food last, in shā’a Llāh.
+
+Allāh ‘Azza wa-Jalla saying Bismi Llāhi r-Raḥmāni r-Raḥīm, "Kulū wa-shrabū wa-lā tusrifū" (7:31). Eat and drink – don't waste. Don't be waste[ful]. AllāhNone HeNone not like people who are wasting. But now the economy in this world, it is in hand of shayṭān and they said you must spend, you must waste for economy to be alive. If you not doing this, economy will collapse and finish. Look AllāhNone what He, what AllāhNone saying and shayṭān what he said. And they really, they put themself in trap they cannot go out of this. But for us, we are not obligatory to follow them. We must be, we must be not waste good thing; not waste – specially for eating, drinking. You must be respect for your provision and you must look after this because it is favour from AllāhNone. AllāhNone give us this and all this – until one meal coming to you, how many angels looking? From raining – each rain coming angel with rain and who... when growing vegetable or plant also with angel growing. Don't think it's growing by this machine or others. All this need angels. And if you are respect it, will be AllāhNone give barakah. If not wasting, you give barakah.
+
+You respect each piece of bread, each peach of food, AllāhNone happy with you. But if you are not, it is many times it is taking from people the richness, this provision giving from them because they are wasting. AllāhNone punish them here before Judgement Day. We see many people, we see they was millionaire and they broke. After, they need for piece of bread – asking but no cannot find. Sometimes people even, when broken people you help them, no benefit because AllāhNone just punish them. You try to help them, to make them again to be like before. It is difficult, difficult because this provision... When becoming angry for you once, only you have this chance, this luck, only in your life you have it once. If you keep it, it will be continue but when run away from you, you cannot catch anymore. For this, if you are, even you are rich, don't waste what you have. Especially respect for food and... yes – food and thing you eat or don't throw. Don't make too many and throw to dustbin for dirt, with dirt. If you have, you can make as much you can eat. No. Maybe you have more you cannot, you cannot eat this – you can give for poor people. If there is no poor people also you mustn't throw for dustbin. You must keep for animal and say, "I couldn't eat this but I give this ṣadaqah for animal." You keep it, don't throw in dustbin – the most dangerous thing for people, for especially because people now they are looking the most for their pocket, their money. If you throw this, you cannot find anymore. AllāhNone punish you and you will be not find this anymore. Mawlānā Shaykh also all time saying, "Take what you can eat. Don't leave in your plate." This is sunnah of Prophet ṣallá Llāhu ‘alayhi wa-sallam to clean plate.
+
+But unfortunately Muslim they are wasting this more than other people, non-Muslim. Especially we see in petrol- Muslim, they they have, if any guest coming they prevent and they have thinking they have obligatory to be generous with guest. Maybe three guests coming, they bring big sheep full of rice and what will eat this people? Maybe one leg only. If they are too much eater they can eat one one leg only. Other they thought they take this – throw in dustbin. So now they are all suffering. We last year was in Ḥajj. All people all this country they was the richest people in the world but we are seeing all they are complaining from economy, from this... This is from AllāhNone.
+
+And once we have been in gathering for this Ṣūfī people and they give food. And we clean dishes but I saw other dishes they are have, they put, let little bit of food in plate. They said it is custom here to leave something. If you do it like this, it is shame for as [if] you are hungry – who clean, you are eating everything, you not leave any. And this was Ṣūfī gathering. And even in this, shayṭān was his, shayṭān order coming over Prophet ṣallá Llāhu ‘alayhi wa-sallam order. Subḥāna Llāh, this is real ignorant for people. But they are no... they read this better than me and you and understanding but still... The most waste people – Muslim people. And for this, you see misery or all around the country of Muslim. Especially not respecting food or bread or what we can eat. If anything happen, quickly throw in dustbin. Yāhū there is animal they can eat this. There is poor people they can, you can give. No. Must in dustbin, no nothing anymore.
+
+AllāhNone keep us in respecting HisNone ni'mah provision, HisNone gift and not to be from this people, musrifīn, wasting people. Very important this because our life it is... to be rest in your life, if you have more from Allāh'sNone gift you are more happy and you be, [those] around you also happy. This is what we are, in shā’a Llāh, intend for people. We are, we want good wishes for people and to see people not suffering from poorness, from... And poorness it is not good and the the biggest reason for this – to not respect ni'mah. AllāhNone keep us in respecting HisNone ni'mah and thanking for HimNone for each atom from HisNone ni'mah. AllāhNone make HisNone ni'mah whole time on us. AllāhNone give barakah for it, in shā’a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

@@ -1,0 +1,42 @@
+---
+date: 2023-04-25
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2023-04-25-the-end-of-the-ummah.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2023-04-25-the-end-of-the-ummah
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The End of the Ummah
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh. A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+Allāh ‘Azza wa-Jalla is the one who created everything. HeNone created time and space. But HeNone is beyond time and space. Time and space were passed on to the created beings. They are meant for the creation. What is for AllāhNone, HeNone knows Himself. Only HeNone knows Himself. We cannot know HisNone condition. We know as much as HeNone lets us know. Allāh ‘Azza wa-Jalla created the universe. Everything in it has its life and appointed time. Just like a person has a lifespan, everything has a lifespan. When their lives are over in this world, they will be gone. But the power of AllāhNone will go on. AllāhNone is al-Qādir. AllāhNone is the Creator. Creator means HeNone always creates, not only us, but also those before us and those after us; all over the universe there are creatures known only to AllāhNone. HeNone knows how and what they are. And HeNone shows you as much as HeNone wants. What HeNone doesn't show you cannot know.
+
+People only know as much as Allāh ‘Azza wa-Jalla allows them to know. The more HeNone says we will learn, the more we know. Only AllāhNone knows how many thousands of years have passed since the time of Ādam ‘alayhi s-salām until now – people say various things – but something like seven or eight thousand years. Before our Holy ProphetNone, there were perhaps six thousand years. And now, the time of the children of Ādam ‘alayhi s-salām is coming to an end. Qiyāmah is approaching. After us, AllāhNone will do whatever HeNone wants. Certainly, HisNone attribute is Khallāq. HeNone is al-Khāliq. HisNone attribute of creating is continuous. HeNone is always creating. It is not like HeNone created us, and stopped. With every rain drop, an angel descends. An angel is created. With every snowflake, an angel descends. And it remains on earth. They are creatures too. They are Allāh'sNone creatures. The number of Allāh ‘Azza wa-Jalla's creatures is incalcuable. It must have millions and billions of zeros.
+
+But our own time, time of this ummah is coming to its end. Because our Holy ProphetNone said, "The distance between me and qiyāmah is as close as two fingers. As close as ‘Aṣr and maghrib prayers are, as close as the sun is to setting after ‘Aṣr, Qiyāmah is that near." Therefore, this world has taken everything there is to take. It has taken its decoration and ornament. And from now on, its end is coming. Qiyāmah is approaching. Therefore, people are oblivious to whether Qiyāmah is approaching. "Wa-hum fī laghwun mu‘riḍūn," says Allāh ‘Azza wa-Jalla. No one thinks about anything except their own entertainment. Aware or unaware of it, they are busy with this world. They have forgotten about the next world (ākhirah). But there is ākhirah. Don't forget about ākhirah.
+
+Besides, the time of this ummah and the children of Ādam ‘alayhi s-salām is coming to end. Everything has an end, and our time is coming to end. Allāh ‘Azza wa-Jalla knows what HeNone will do after that end. And this is what we believe in. Shukr to AllāhNone, this belief is the belief of Ahlu s-Sunnah wa-l-Jamā‘ah. When the time is near, signs will appear. Mahdī ‘alayhi s-salām will come. The Dajjāl will come. Dābbatu l-Arḍ (Beast of the Earth) will come. Each of them will come, one by one. And then Qiyāmah will occur. May AllāhNone not separate us from belief. May AllāhNone protect us from the trouble, fitnah of the end of times. Its fitnah is very difficult. Many people lose their footing and are destroyed. May AllāhNone protect us. May AllāhNone protect all of us, in shā’a Llāh.
+
+Allāh ‘Azza wa-Jalla, HeNone create everything. And HeNone create time and place. Time and... where sitting, ya‘nī, day and time and everything. Because, but this time and place not for HimNone, only for creature. Allāh ‘Azza wa-Jalla, HeNone not in need to this. HeNone create them. So, HeNone create for to creature, not for HimNone. No time, no place, nothing; we don’t know anything about "how" and "what" for Allāh ‘Azza wa-Jalla. And we not allowed to ask for this. No need to ask for this, also. Important thing: AllāhNone make this for creature. And everything HeNone create. HisNone attribute, Creator. Khallāq, meaning who create. And this attribute, it is continuously. Not only create one, our planet, and we only, in this whole universe, we have this. No. HeNone has countless creatures, countless planets, countless life, different kinds of life in this universe. And the universe, this, nobody know how it is big, how it is... where it is.
+
+But we are only saying, everything, as coming to exist, and they will finish, also. They have time to birth, time to death. As planet, as sun, as moon, as insect, as animal, as human being – Everything they have time, age. As we are now living in end of age of son of Ādam ‘alayhi s-salām. This, from Ādam ‘alayhi s-salām until now, approximately maybe seven thousand, eight thousand, nine thousand, I don’t know. There is many different sayings about this. Maybe more, maybe less. But it is important thing: time of this ummah or time of this human being who they are coming from Ādam ‘alayhi s-salām, coming to end. Day of Resurrection, coming, approaching for this ummah. Because, Prophet ṣallá Llāhu ‘alayhi wa-sallam saying: ‟INone am the last messenger, and between meNone and between Qiyāmah, like sun after ‘Aṣr – near to end, sun, coming to sunset. It is like this, between meNone and between Day of Resurrection.” Which it is... and when you see this, maybe between ten thousand or less or more thousand years until now, coming from Ādam ‘alayhi s-salām. And time now is going, finished.
+
+And everything in this. AllāhNone, for this, HeNone gave this knowledge for people to do this technology, all everything, to finish their time. HeNone give them, in this one century, HeNone give us ten thousand years more, knowledge from ten thousand years. And it is people they are thinking they are clever and they are doing this by themselves. This, only they can do what AllāhNone allowed for them to do, not more. And Allāh ‘Azza wa-Jalla, HeNone has knowledge which we are... cannot compare for even one drop from ocean. Not even one drop. When put one nail and take, how much water coming, it’s less. And even not see this, what knowledge, all this technology, all this, what they are proud for this. Only Allāh ‘Azza wa-Jalla, what HeNone allowed, little bit, and it is enough to, human being and to make them think they are something. But, al-ḥamdu liLlāh, we are... The believer must not be trust for this people. They must trust for AllāhNone, not technology. Technology, everything what AllāhNone allowed, it will work. When it is time to stop, everything it will stop.
+
+And this time coming because, we are, as we said, end of ummah. Which it will be, also big signs to, like Mahdī ‘alayhi s-salām, like Dajjāl, like Antichrist, and many thing it will be come, and it is time not so far, in shā’a Llāh. So we are... we must be careful not to fall in with wrong people, in wrong place. We must be aware. We are... This time very dangerous time, fitnah and other thing. When you are with Mawlānā, what he said, to be with your jamā‘ah, you will be safe, in shā’a Llāh. This is, in shā’a Llāh, we have this good tiding and it will come good time, here and hereafter, in shā’a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

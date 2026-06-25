@@ -1,0 +1,24 @@
+---
+date: 2011-02-22
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2011-02-22-important-matters.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2011-02-22-important-matters
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Important Matters
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+M. When do the jinn come? G. At night, when sleeping. M. If coming when you are sleeping, it is not jinn. They don't come when sleeping, they come when awake. You understand? That is a nightmare that is coming on you. Do you have baby dolls in your room? G. No. M. Are you sleeping alone? G. Yes. M. Sleep together with someone. You understand? How will we answer when asked: "Were you too afraid of My servant to tell the truth?" Therefore that imam, which one was it? Famagusta's, he (only) has a mustache. Even the priests of the other nations are bearded. They haven't changed their clothes. Why do they change? Thank you, may you be granted to make hajj. I make dua for you. Don't go to doctors when you get pregnant - Midwife is enough. If not, handicapped kids are coming to me. Always bringing handicapped kids. All (because of) these doctors.. They put a tool on their stomach & make a mess. Then they bring them to us "make dua that he is straightened". You ruined him & how will we straighten? Be careful about this, Hajji Effendi. Warn people. Before a midwife would deliver all babies in a village, in a town. Now doctors, straight away "machine, rip open her stomach & take it out." Man knows from where he will come out. A baby is not born from the stomach. What comes out from stomach is incompleteness. It is a sin to rip open the stomach of mothers & take out the baby. The baby knows from where he will come out. He comes out from where he entered. Who listens? No one understands. Ok daughter, enough. May Allah grant you safety. G. There are illnesses: anxiety, anger, aggression.. M. Because they slaughter the animals in zulm-cruelty. It transmits from animals to them, through their meat. No animal gives it's meat as halal for them. They slaughter them without "Bismillah", so they don't give it's meat as halal. What is slaughtered against Shari'at again doesn't give it's meat as halal. It causes illnesses in them. The animal says: "Whoever eats from my meat, may it become haram for him". G.No one thinks like this anymore. M. They have all become like animals. Because all animals die in zulm. There is none who dies in rest. Slaughtering becomes a suffering for them. All these chicken, cattles.. they also eat that creature's meat which is haram. This totally... They find no life-strength from what they eat. It causes illnesses. That is the reason why illnesses increase. G. And the Muslims who live among these people can't find peace either. M. No, they can't. G. Even if what they eat/slaughter is halal, still they can't find the taste of the animals slaughtered in Muslim countries. M. Yes, no taste in them. It feels like eating straw. It has no benefit, becomes illness in them. G. And this zulm-cruelty coming down on people, comes on Muslims too. It makes them sick as well. M. Yes, it does. Unless they have Muslim butchers, all animals are slaughtered in zulm. No animal gives it's meat as halal this way. Lentil is a blessing, blessed by 70 prophet's tongues. O Allah, may You not make us leave from the flag of Prophet (sas). May You not make us from those who stop by the Kawthar pool & get drowned. O Lord, You know. They are poor, helpless. May the Divine Help reach these fearful Muslims that they become "manly" Muslims. Who look at their faces may fear. These Muslims have become such that they even fear the shadow of Allah's enemies. Don't fear. May they not fear. May our children not be separated from religion & faith. May they know their acestors. May they know their Prophet, know their path. May they know what is Halal & Haram. May they live like humans, like Muslims. May they reach Allah's acceptance & may Jannatul Firdaws be their abode. O Sultan whose Mercy is plentiful, we have countless sins. But our sins are not even like a spot in your endless oceans of Mercy. O our Lord, send us that one who will teach us our adab- as it is said "Adab Ya Hu" May those who make Muslims worthless, tremble when they see Muslim's face. Allah...Allahu Akbar! May Allah make our end in a good way. Dua. Fatiha.

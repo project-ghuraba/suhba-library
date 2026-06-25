@@ -1,0 +1,48 @@
+---
+date: 2013-09-11
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-09-11-stars-darkness.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-09-11-stars-darkness
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Stars & Darkness
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-salamu alaikum, O lovers of Shah Mardan. Welcome. You brought relief. You brought honor. Allah Jalla Jalaluhu has granted us the highest of honors. Dastur ey Shah Mardan, madad. Welcome, O lovers of Shah Mardan. Allahu Akbar. Allahu Akbar. Allahu Akbar wa Lillahi l-hamd. May our new day be blessed. May our Shah Mardan bring light to his lovers. May we have light. May we have light. May we have light. Allah Jalla Jalaluhu has sent light to his Beloved so that they have light. He sent light, the King of the world, Honor of the Universe, alaihi s-salatu wa s-salam. Dastur. Madad ey Shah Mardan. May our assembly be blessed, blessed and honored. May our end be good.
+
+O lovers of Shah Mardan, O servants of Allah filled with love and respect for Shah Mardan, welcome. Welcome to our meeting. You came for blessing. You came to receive the blessing of this assembly. Then let us say Bismillahi r-Rahmani r-Rahim. If you want blessing, say Bismillahi r-Rahmani r-Rahim. If you want honor, dastur ey Shah Mardan, they will dress you in honor. We want strength. We want energy. We are weak. Allahumma qawwi dha'fi fi ridak - a prayer of the Prophet. Ey Rabbi, we are weak. However, if You are pleased with us, we'll be strong. We want to be strong. Go ahead ey Shah Mardan. Your lovers adore you. Who doesn't understand is a four-footed animal. Do you understand? Don't wish for what a four-footed animal wants. A four-footed animal wants grass, it wants hay, it wants carcass. Don't run after these! Look up high. Look high. Yes.
+
+At night, a man looks up, doesn't he? He looks at the sultanate of the sky. Allahu Akbar. Let us say Bismillahi r-Rahmani r-Rahim. A man looks at the sultanate of the sky at night. He gets surprised. Looking at the spots of light of that sultanate, he gets amazed. He thinks "Where does this greatness come from?" Allahu Akbar. Go ahead ey Shah Mardan. May your words be a cure for your lovers. May we be relieved. Our day is a new day. O lovers, be relieved. May friends of Shah Mardan be relieved. May they not be oppressed, but relieved. May their hearts open, souls open. Go ahead ey Shah Mardan. Allahu Akbar. Allahu Akbar. During the night, a man observes the shining stars in the sky. O lovers, what do you look for in them? You wonder who is up there. In the depth of the darkness of the night, where do these shining spots of light come from? Where do they go? What do they bring?
+
+Go ahead ey Shah Mardan. Let us look up at the sky. Those stars appearing in the sky show the greatness of the Divine Sultanate. MashaAllah la quwwata illa Billah. (No power except Allah) Our Allah, our Subhan, our Sultan. You created us so that we look and observe. May we dress in faith from Your Greatness. May we dress in relief. Go ahead ey Shah Mardan. Your lovers adore you. Who is not your lover is a four-footed animal. Don't live for dunya. Don't live for dunya. Strive to live for the Owner of Greatness of that Sultanate. Strive to live for the pleasure of the total Owner of the Sultanate of the sky. Be full of faith, of light and honor. Be loaded and full. They have everything you need. Ey Shah Mardan, go ahead.
+
+May we understand. That is why we want Shah Mardan. Look for his assembly. Say, O Rabbi, our Subhan. Say, You're the One who created us. Say, You are our Owner. These lights are Your lights. May we have from those lights, O Rabbi. Say it. Love your Creator. Love, love and respect. Go ahead ey Shah Mardan. May we not contract but may we expand. O man, O man, look for the Owner of Power who turns night into day, day into night. Go ahead ey Shah Mardan. We want strength. From the assembly of Shah Mardan, we want strength. But not the strength of an animal. We want drops from the Greatness of Sultan of the sky to come to us. One drop from the rivers of light in the sky makes a hundred thousand universes. You are Subhan our Creator. You are Sultan our Rabb (Lord). Go ahead ey Shah Mardan. May your words be a cure for people. MashaAllahu kana wa ma lam yasha' lam yakun.
+
+O man, go ahead ey Shah Mardan, Your Creator didn't create you for death. Your Creator who gave you life didn't give it to take it back. You are Subhan. You are Sultan. You don't take back what You give. O lovers of Shah Mardan, let us say Bismillahi r-Rahman, Bismillahi r-Rahmani r-Rahim. May the universe become a local trip for us. Search. Search. Yearn. The shining spots of stars in the universe - under whose command are they? Who do they take light from? Search for it. Your Creator didn't create you to be a carrion crow. He, who created you, is the Great Sultan of the sky. The Sultanate of His Greatness - there is complete blackness and this indicates the sultanate of His Greatness. There is darkness. No one knows. Go ahead ey Shah Mardan. What do the spots shining and flying of those stars mean? Where do they come from? What do they want?
+
+Let Shah Mardan say what they want. They want to celebrate the Divine Light. Ey Shah Mardan, your lovers adore you. Those stars are after the light of the Sultanate of the sky. Be a star. Go ahead ey Shah Mardan. A guide to the ways of being a star was sent by Allah Dhul-Jalal Janab-ul Wajib-ul Wujud. There is complete darkness which is a sign of the Greatness of the Divine Sultanate. No one knows that darkness, that color. What is in that darkness, no one knows. Shah Mardan has put you on the way so that you can know. Allahu Akbar. Allahu Akbar Allahu Akbar wa Lillahi l-hamd. SubhanAllah. A man, in order to know that Sultanate, in order to look for that Sultanate, in order to find that Sultanate, in order to be in that Sultanate, a man must be inside the rivers of love. This is what those stars are looking for. Allahu Akbar. This is what the stars are looking for. May we join that Sultanate too. O Rabbi, our Subhan.
+
+Go ahead ey Shah Mardan, your lovers adore you. Don't drool for bad dunya. Evil dunya. This dunya is a place, which makes people bad. This dunya is bad dunya trying to take the honor of mankind away from them. See, this is a new issue. This bad dunya tries to steal, take away and throw, the honor granted by the Al-Haqq into the darkness. Allahu Akbar. Go ahead ey Shah Mardan. This dunya is a bad dunya; bad dunya trying to steal the light of people. Allah Allah. Allah Allah. It's running after us in order to steal our light, bad dunya. Go ahead ey Shah Mardan. Let us say, O lovers of Shah Mardan, Bismillahi r-Rahmani r-Rahim so that it protects you. It can't steal your light. It can't steal your light. It can't turn you from your way. Say Bismillahi r-Rahmani r-Rahim. Allahu Akbar. Allahu Akbar. Allahu Akbar ala wa azam akbar.
+
+They are after You. This world, which is like a dot in Your Seas of Greatness, Seas of Light, this is what these tiny creatures look for. What our spirituality looks for is this light We want to cling to and attain this light, the light that has come. Ya nuru n-nur ya 'alima ma fis-sudur.(O light of light O knower of what's in the heart.) Akhrijna mina dh-dhulumati ila n-nur. (Take us out of darkness into light.) Our Allah, our Subhan, our Sultan. MashaAllah, Shah Mardan is talking beautifully to us. He wants to show us things we don't know. He wants to open them to us. However, we want to be ignorant. We want not to see. See, Know, Find, Be. Ey Shah Mardan, make us closer to the Owner of strength who can remove darkness, turn darkness into light. We want it here. We want to be closer to light. We want to run away from darkness.
+
+Go ahead ey Shah Mardan. Your lovers adore you, ey Shah Mardan. They will take us from darkness into light. O Rabbi, we are Your weak servants. With the blessing of Shah Mardan, may the doors of light open for us. With the blessing of Shah Mardan, may the doors of darkness close. Allahu Akbar Allahu Akbar wa Lillahi l-hamd. Let's say Bismillahi r-Rahmani r-Rahim so that all doors open to us. Go ahead ey Shah Mardan. Allahu Allah Allahu Rabbi Allahu Allah ma li siwa Hu Hu Hu. Leave bad dunya, don't strive for it. Bad dunya has made an honored Man bad. Bad dunya has made a beautiful Man ugly. We were the most beautiful of all created in paradise. We came down to earth, and dunya has made us the ugliest. From the most beautiful in paradise, sent down to earth we became the ugliest. Go ahead ey Shah Mardan. We want to be saved from that ugliness. So Shah Mardan is trying to save us.
+
+Say Bismillahi r-Rahmani r-Rahim so that Allah Dhul-Jalal saves you from dunya, from the ugliness of dunya. Jalla azamat Allah. Rabbi habli. (Our Lord give us) Give us faith and love. Ey Shah Mardan, your lovers adore you. May we follow the beautiful ways he shows. Leave bad dunya. Look for Mawla. Amin ya Rabb. Amin ya Rabb. Ey Shah Mardan, your lovers adore you. May our souls open, may our beings get relief. Fatiha.
+
+One saint can destroy shaitan even if the whole world were shaitan. Astaghfirullah.
+
+Fatiha.

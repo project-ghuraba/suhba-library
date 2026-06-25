@@ -1,0 +1,50 @@
+---
+date: 2017-04-16
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2017-04-16-victory-for-islam.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2017-04-16-victory-for-islam
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Victory for Islam
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum.
+
+Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh
+
+Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām.
+
+Mā shā’a Llāh. German darwish. We have al-ḥamdu liLlāh a historical day today. "Ghulibati r-rūm fī adnā l-arḍ" (30:2-3) This is sūratu r-Rūm. Allāh Almighty HeNone give good tiding for Muslim that the Christian world will be - yenildi ne demek? - renewed. And HeNone promise again that they will be renewed again. This is Allāḥ Almighty. Al-ḥamdu liLlāh. In shā’a Llāh by today it will be the Muslim victory, in shā’a Llāh, against the zionist and the bad power that making, trying to make Islām down. Allāh Almighy, when HeNone promise HeNone keep His promising.
+
+Allāh Almighty HeNone is the Right, HeNone is the Ḥaqq. And HeNone is the supporter for Ḥaqq. We are not with shayṭān. We are with Allāh Almighty, al-ḥamdu liLlāh because our heart to Allāh Almighty, Allāh Almighty doesn't look for you - you are black, white, yellow, green, blue. Allāh Almighty HeNone look for us as we are HisNone servant. That's why we are, yā Rabbi Your servant. We don't have anything except to be Your for You, for Your servanthood. Allāh Almighty HeNone never look for us as a nations; HeNone look us for us you are from this tribe, or from that tribe. HeNone say, "All the humanity is My servant." But some of them they like to be servant of shayṭān. Some of them like to be servant I don't know what. Some of them they like to be servant of what... But I'm looking for sincere servant for Me.
+
+And we are asking yā Rabbi to be Your sincere servant. Whatever victory happen for Islām we are with it. The true Islām, that Allāh Almighty HeNone give for us, very important. Because today there is so many kind of Islām in the market. We are modern people by the way so we know market. So it is not hard, by the way, it is not hard to find the right Islām. So many people they say, we are confused, this we are conf... No, no, no, no, no. You don't have to be confused. Just make it simple. Who is the one loving Allāh Almighty and than who is the one most loving Rasūla LlāhNone - follow blindly. Because there is no harm coming from Allāh Almighty and no harm coming from Rasūla LlāhNone. Very important. If somebody say this ḥadīth it was weak and this was not ehmm... have some suspicious on it and this one we don't know if this is ok and you you have to perfect your size, perfect your type perfect this, perfect that - than you have to know that something wrong going on there.
+
+Because I go back to Sayyidina Ibrahim (as), the fathers, the father of Prophet, father of prophecy. When Allāh Almighty HeNone order him to build Ka'bah in nowhere, it is nowhere. Don't think now it is becoming the head of the world but those days was nowhere. And he was looking big desert and mountains. Yā Rabbi, asking who will come here? Yā Rabbi, who will come here? Say, your duty to say: "O people this is the house of Allāh Almighty. You have to come." And one people they been passing Labbayka Llāhumma labbayk. Labbayka Llāhumma labbayk. Labbayka lā sharīka laka labbayk. Inna l-mulk, laka wa l-ḥamd lā sharīka laka labbayk. And they start to come. Say, "You have to call adhan you have to call them to come. The rest it is not your duty, it is Mine." Allāh Almighty this is, doesn't matter maybe it is in Mars doesn't matter also you will find people going there. Labbayka Llāhumma labbayk with the helmet and the... important to call.
+
+Now when Rasūla LlāhNone came and say what was requirement say: "lā ilāha illā Llāh Muḥammadun Rasūlu Llāh." This is the first things that Rasūla LlāhNone order. There was no prayers, there was no fasting. There was nothing except say, "you accept me as Rasūla LlāhNone and you accept there is no God only Allāh Almighty, that's it." This is the pure things, the most pure things. You say how we come for this days. Yes. This is very important also to let people know from where to where we are coming. When Sayyidina MuhammadNone he make khutbatu l-Wadā, he was say I completed for you everything. Al-ḥamdu liLlāh, that's mean I show you the right and I show the wrong. And I show you who is the good and what is the bad. And this is very important for us to understand. This is the foundation of the building, basics. And beyond this it is going through the history according to the days and the living is been coming some adjustment.
+
+But the foundation was never been changed - like say lā ilāha illā Llāh Muḥammadun Rasūlu Llāh. This never been changed. And that's why Rasūlu LlāhNone to be complete your Islām you have to say ashhadu an lā ilāha illā Llāh wa ashhadu anna Muḥammadun ‘abduhu wa rasuluh. And then you pray, you fast, you zakat, you hajj. Five things, if you are doing all this, then nobody have a right to harm you. Nobody have right to harm you. No what they see? Ah your prayer it is not good. Your fasting it is spoil, your everything been in the place, everything been clear. Haa, they say there is ishtihad. Hu? What is ishtihad? Ishtihad that you go from basic to better, or to better, or to perfection. Do you think we can be perfect? As today people? No way, you are not going to be a perfect one. Ok, we accept that we are not going to be perfect one but if you are not be perfect you be punished. Why? Because your prayer it's not accepted, your fasting it's not accepted, your this is not accepted, your income is not accepted, your sadaqa is not accepted, your this is not accepted. Not accepted, not accepted, no, no, no, no, no... It is Islām, by the way.
+
+And today Muslim they have so many thousand of tv programs, everybody making some fatwá according to his thinking, according his belief, according to his what I don't know and then all the people become confused. Totally confused, nobody knows what's going on. And they say, what is this? Eeh.... shayṭān is working. Don't think shayṭān is sleeping, we are the one sleeping. Shayṭān is working hard. He put a thousands of ideas, millions of ideas, trillions of talking. Which one to believe? That's why Rasūla LlāhNone This is, Ayah karima: innā naḥnu nazzalnā l-dhikra wainnā lahu laḥafidhūn (15:9) Allāh Almighty HeNone say, "We send the Qur'an and We are the One responsible to protect it." Allāh Almighty Himself protecting Qur'an. Very important. What happened for Bible? Was not protected? What they done? Shayṭān what done for... Thousands of I don't want to speak.
+
+But Qur'an - one. You go to India is one, you go to Pakistan is one, to Turkmenistan is one. You go to America is one, you go to Europe is one, you go to Africa is one. Wherever you go, even you go to Egypt, is one also. But is one. Yes. Allāh Almighty HeNone protecting Qur'an. That's why shayṭān working, working, working. One Ayah, fttt, change everything. One sentence change everything. One word change everything. What they say, "Oh Qur'an - maybe we cannot play. What we play? We play in ḥadīth, yes, yes, yes ḥadīth. We choose sixty, seventy even not one hundred because Rasūla LlāhNone all his life he was sitting and meditating, not speaking. Yahu, one lady can speak for life but without wisdom, but Rasūla LlāhNone he been sent to give wisdom. And he is the father of oceans. All the knowledge is coming from his heart. Don't think - Everything is belonging to Rasūla LlāhNone. Everything is coming from his heart.
+
+Because we are as a Allāh Almighty servant we cannot even reach Allāh Almighty things. No need to think about this. Don't put yourself in Allāh Almighty place by saying ooh your ṣalāt is not accepted, your fasting is not accepted, your this is never accepted. You never know. Our duty to make ṣalāt, to make zakāh and to accept ashhadu an lā ilāha illā Llāh wa ashhadu anna Muḥammadun Rasūla Llāh. And then if we are in good health to fast Ramaḍān or if we have money like German darwish we have to go for ḥajj. Make Allāh make us to have this day as changing of history. And to be the goodness for Muslim. We are yā Rabbi we been grounded since hundred years. We don't have any value since hundred years. And now al-ḥamdu liLlāh, in shā’a Llāh today our value will start to come back. Start, it is not finished yet. It is hard for the true Islām, for the true belief and for the humanity. May Allāh make it easy on us and make us to see Mahdi (as) and to be for his present. And to see the good days for Islām and for Imān. Wa min Allāhi t-tawfīq biḥurmati l-Ḥabīb, biḥurmati l-Fātiḥah.
+
+Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Wa ṣallī yā Rabbi wa sallim ‘alá jami’i l-anbiyā’ī wal-mursalīn wa ‘alá kulli ‘ajma’ina wal-ḥamdu liLlāhi Rabbi l-‘ālamīn al-Fātiḥah.
+
+http://saltanat.org/videopage.php?id=16973&name=2017-04- 16_en_VictoryForIslam_SB.mp4

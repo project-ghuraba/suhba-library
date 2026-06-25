@@ -1,0 +1,48 @@
+---
+date: 2012-12-20
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-12-20-where-is-your-sultan.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-12-20-where-is-your-sultan
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Where is Your Sultan?
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+"Subhana Man Yusabbihu Al-Ra'du Bihamdihi wa Al Mala'ikati min khifatihi Wa Huwa 'Ala Kullu Shay'in Qadir." Sayyidina Abbas (ra) said "Whoever recites this & something happens to him, I am responsible for his retribution. Therefore repeat it, repeat it all the time. "Subhana Man Yusabbihu Al-Ra'du Bihamdihi wa Al Mala'ikati min khifatihi Wa Huwa 'Ala Kullu Shay'in Qadir."
+
+O our Lord Your mercy on us, protect us if something comes towards us or around us, O our Lord. We are your weak servants. People do not know anything about their religion and therefore rain will come upon them, rain that instead of it being a mercy it will be a sign of the anger from the Heavens. Allah Ya Rabbi....forgive us & pardon us and accept our repentance O our Lord. Accept our repentance O our Lord. Tub Alayina Ya Tawwab. Tub Alayina Ya Tawwab. We are Your weak servants, we are also ignorant O our Lord. Send us the one who may show us the ways of servanthood, O our Lord. Tawba Ya Rabbi, tawba Ya Rabbi, tawba astaghfirullah.
+
+O servants of the Lord, leave what is meaningless and walk the path to the way of Heavens. Instead of gathering & shouting in the streets, leave this and go to the houses of Allah (swt). The mosques are the houses of Allah (swt). Gather in the mosques & beg and pray so mercy may come upon you. What is your business to be in the streets? To whom are you calling? To whom are you calling? You are calling upon who has no life. Go to the mosques & make zikr & ask and cry...cry! And supplicate your Lord, that He (swt) may change the situation to another situation. Ya Muhawwili Al Hawl ila Al Hal. Turn our situation to the best of situations, O my Lord. We are Your weak servants, have mercy on our weakness. Have mercy on our difficulties, for the sake of Your Prophet Al Mustafa (saws). And for the sake of all those who have honour. Ya Mawlay Ya Rabbana, Subhana Allah wa Al Hamdulillah wa La Ilaha illa Allah wa Allahu Akbar, Allahu Akbar wa Lillahi Al Hamd. Fatiha.
+
+"They have forgotten Allah (swt) so He has forgotten them." (9:67) The Holy verse. Those people they forgot Allah (swt). They forgot their Lord (jwa) and Allah (swt) left them forgotten. Forgotten, forgotten people. They left their Lord. Their Lord left them forgotten. O Egyptian people, use your minds, your understanding, your consciousness, your faith, your servanthood. Give your servanthood & Allah (swt) He (swt) will take care of everything in your world & and the promise of Al Haqq (swt) is to grant you Heavens. "Inna Al-Ladhina Amanu Wa `Amilu As-Salihati Kanat Lahum Jannatu Al-Firdawsi Nuzulan" (18:107) "Khalidina Fiha La Yabghuna Anha Hiwalan" (18:108) Not one person at that time will say I am fed up no! Hasha! Forever! Forever! Not one person says "we got bored, no!" "Verily! Those who believe & do good deeds, shall have the Heaven of Firdaus for their pleasure" (18:107) "Wherein they shall dwell. No desire will they have to be removed therefrom."(18:108)
+
+More! O our Lord grant us more! Grant us more from Your bounty! Ask for more from Allah (swt) your Lord. What is in the world? Today you are living. Tomorrow you are going. O people! Leave the whispers of shaytan & come... come, and accept the teachings of the Prophet (saws). You are going after the teachings of shaytan O people of Egypt! You are, all of you are scholars, why? Leave shaytan, the ways of shaytan and return to your Lord, return to your Lord.... Subhana Allah! Subhana Allah! We are non Arabs. We have an excuse if we made a mistake, but you know The Magnificent Quran, it is in Arabic language & you go against it! Your punishment will be multiplied, Allah!
+
+Safar Al Khair, O my Lord! Have mercy on our weaknesses. Have mercy on our difficulties especially this month. Safar Al Khair, is the hardest month of the year. If they do not return to Islam, there is no life for them. An Arabic saying "there is no life for whom you are calling." You would be like forgotten ones. Tawba Ya Rabbi! Repent to your Lord O Egyptian people! And ask who would be good for you in your life & who would intercede for you in the Hereafter also. Ask for a Sultan from Allah (jwa), as the Prophet (saws) says "The Sultan is the shadow of Allah (swt) on earth." Where is your Sultan? You collect from the market from the public to be a Sultan over you, no! No! What Allah (swt) has granted from the beginning to the end, a Sultan. Ask for a Sultan. A Sultan like the Prophet (saws) said "The Sultan is the shadow of Allah (swt) on earth". "Obey Allah & obey the Prophet & those who are in authority." (4:59) Those who are ruling you "the shadow of Allah" are the Sultans. Allahu Akbar! Tawba Ya Rabbi, tawba Ya Rabbi, tawba astaghfirullah.
+
+Use your minds, O Egyptians. Do not be drunk or ignorant. It is not honourable for the people of Egypt to be like the ignorants & deny the truths of Islam, the truths of Islam & its guidance. How should a person live. "Has taught man that which he knew not." (96:5) He taught them. They learned from Allah...from the Prophet (saws). But people they attack saying, "democracy". You run after shaytan & his way, "you shall never be successful" (6:21) "'Innahu La Yuflihu" (6:21) Return to the words of Al Haqq. Take a Sultan, because "verily the Sultan is the shadow of Allah (swt) on earth." This means he is supported, supported & honoured. That Sultan, Allah (jwa) dresses the Sultan with the dress of glory. Glory! He (swt) dresses him with the dress of courage. He (swt) dresses him with the dress of virtuousness. He (swt) dresses him with familiarity. He (swt) dresses him with the dress of forgiveness. He (swt) dresses them with the dress of justice. He (swt) dresses them with the dress of generosity.
+
+When a Sultan comes, all that comes from him is goodness & winning something. Winning with the blessings of the Sultan. No person comes to a Sultan & leaves empty handed, never! But the public what can they give you? They have nothing to be able to give. Allah (swt) gave from His Sultanate, from the Heavenly attribute of Sultan. He (swt) gave to the Sultan power. He (swt) dressed them with glory. He (swt) dressed them with generosity, forgiveness, dressed them with justice. Dressed them with everything that people desire. He (swt) dressed them with goodness, dressed them with justice. He (swt) dressed them with mercy in their hearts and forgiveness. Allahu Akbar!
+
+O Egyptian people you are living in the land of knowledge of Islam. You are the most famous country for your knowledge and your scholars, since they know and they understand the Holy Quran- what the rest of people do not understand. Masha'Allah! Allah gave you some attributes that He (swt) praised you with. He praised you, our Lord (jwa)... In the story of Sayyidina Yusuf (as) they brought him from the country of Kanan to Egypt to teach them how to worship to their Lord (jwa). How should the attribute of servanthood be towards the Lord (jwa).
+
+What a pity for the people in Egypt, the tyrants left them ignorant! Ignorant so that tyrant evilness is not clear to them, and the people thought that they will be doing better with them, never! The tyrants were bad to the people & put them under their feet. What gives you the right O princes? With what rights? On Judgement Day you will be in such affliction and Allah (swt).... His Beloved taught us "if matters are not in the hands of who is qualified, then wait for the last hour." Who are the qualified? You bring a man from the market to be a Sultan over you? Everything has its origin. Give back what is rightly due to its people. The rights of people. The Prophet (saws) gave news about this "give to everyone their due rights" They took the rights of Kings & they threw them away so Allah (swt) punished them with this punishment.
+
+Repent to your Lord, O Egyptian people! We are non Arabs, we are looking at your situation because you are the people of knowledge & Kings. Your Kings are famous for their generosity & serving with goodness of manners to the servants of the Lord. And they were dressed with the dress of honour. The tyrants threw them away & you still did not understand what those tyrants did to you. Starting right after the King, the King Faruq. King Faruq... He was a great King, a great Sultan he was. They threw him away & Allah (swt) sent upon them all sort of afflictions. Repent to your Lord O people of Egypt, so Allah (swt) may send back to you your King. The King of Egypt, whose treasury... the treasury of Egypt was equivalent to the treasury of 7 countries. Now you became beggars. Does this suit the people of Egypt, to go in the streets and scream like the animals? Where are you? In the wild? What is this? Shame on you! Especially their women. Allah (swt) ordered them "And stay in your houses & do not display yourselves like the times of the first ignorance." (33:33)
+
+Where are your scholars to remind them. Remind them. "Wa Dhakkir Fa'inna Adh-Dhikra Tanfa`u Al-Mu'minina"(51:55) We remind them. May Allah (swt) forgive me & forgive you. Tawba Ya Rabbi.
+
+Fatiha. Video Link: http://saltanat.org/videopage.php?id=5992&name=2012-12- 20_ar_AynaSultanakum.mp4

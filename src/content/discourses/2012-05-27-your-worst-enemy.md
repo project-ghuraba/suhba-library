@@ -1,0 +1,52 @@
+---
+date: 2012-05-27
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-05-27-your-worst-enemy.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-05-27-your-worst-enemy
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Your Worst Enemy
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Shaykh Mehmet: As-Salamu Alaikum. Audhu Billahi min al shaytan al rajim, Bismillahi r-Rahmani r-Rahim. Assalatu wa s-salamu ala Rasulina Muhammad Sayyidi l Awwalin wa l-Akhirin. Madad ya Rasul Allah, Madad ya S Abdullah Faiz Daghestani, madad ya S.Muhammad Nazim al Haqqani, dastur! Tariqatuna sohbah wa l-khayri fil jamia' We may say a few words, with the intention of sohbat insha Allah.
+
+Who is the greatest enemy of mankind? Is it the unbelievers, or is it shaytan? The grestest enemy, our Prophet (sas) says; "A`da `aduwwuka nafsuka al-lati bayna janibayk". It is your ego. Your greatest enemy is your ego. Don't search for it in anyone else. No one can drag man into the things that the ego does. If you follow your ego, you become humiliated. Even if you say "I am making ibadah" still it is your ego's.. Still one's ego deceives him & takes the credit even for ibadah.
+
+We see it many times: there are ikhwans/brothers of 10 years Who we can't call ikhwan anymore. Mawlana says, "I am not your Shaykh anymore". They are muhibb/lover. There is no one who can be ikhwan anymore. No ikhwan or mureeds...There are ones who have been with Mawlana for 10 years, 15 years, 30 years..There are people who have been together with Mawlana for 30 years. Because of Mawlana's high level of akhlaq all who come says "Mawlana loves only me!" And the ego likes this very much. "When I come here, Mawlana should welcome me at the door!" This is what the ego likes. The ego likes that even in his current situation Mawlana welcomes him at the door. This means that the 30 year is wasted for nothing! You only satisfied your ego & Mawlana didn't say anything to you.
+
+We wouldn't like to say this but Mawlana is sick for almost 4 months & people don't understand this. Everything changes in this world, changes from one state to another. The only one unchanged is Allah. Insha Allah this state on him will also change & he will recover but.. Anyways, we may not say more. There are more things to say for such people but this is enough. We maybe said it 100 times to who comes to this door.. And we hear most people say, "We can't see Mawlana anyways, why should we come? no need to come.." This is also.. This is also speaking without knowing what you say. We said 100 times that who come here but doesn't see Mawlana takes from the fadhila/virtue of Uways al-Qarani.
+
+People know that Uwais al-Qarani turned back without seeing the Prophet (sas) even once. He also has a qasida. They know this too. But they don't know how his state was after this. Uwais al Qarani Hz is the one who guided all in this Golden Chain. He is the person who didn't see the Prophet (sas) even once in his life, in zahir. He came to visit him but returned when he couldn't find him upon the order of his mother. But he saw the nur of the Prophet(sas). They would always see each other spiritually,be present but not in zahir. And this is to set an example for these people; so that you will not get angry when you come to visit him, can't see & return, or say "If I won't able to see him, why should I come there?" These people are saying very wrong things. We are not saying "ikhwan" for them anymore or Muhibb/lovers of Mawlana. Not muhibb either, when it is like this they love their ego more.
+
+Leave aside this, ok we pass this too. But when one says something (bad) for the people who serve here it means he is swearing on Mawlana! Because he can't swear on Mawlana, he swears on the ones at the door. This is what it is, nothing else. No matter who it is, whoever come here may keep his adab! Whoever come to this door may control his ego for 2 days! This is an unbelievable thing! Because man...Mawlana asks dua from everyone & thanks to Allah, all who come make dua for him. And shukur Allah he was coming down & going around for the last 2-3 weeks. But we are saying "don't come & resent like this". He came down. You should pray 2 rakats shukur that he is able to come down like this. No need to rush to him, trying to talk to him. You seeing him is enough, his breath is enough for you. Because they come here & see Mawlana in this situation, weak &...
+
+This is also a test for the ikhwans.. for the muhibbs here. They think that Mawlana doesn't know. He senses everything, he is given everything that is necessary, doesn't need to look to others. But you should be careful to not leave good manners. Who comes here keeping his adab, like we said, leaves with very big fadhila/virtues. Even if he doesn't see Mawlana, he still leaves with such fayz, gifts & barakah that is 1000x more than if he saw him, with the permission of Allah. He reaches the level of "ikhwan". But if he still insists & disturbs Mawlana, then at that time he follows his ego & who follows his ego is destroyed. Even if he doesn't get destroyed, Mawlana is merciful, but he leaves without a gain. Leaves without gaining anything.
+
+Tariqat is adab. You should keep your biggest adab for Mawlana, among yourselves as well..But our people don't have this anymore. They even do it to Mawlana...We are astonished, this is hard to believe. This is something all should beware. No need to repeat this 1000x. How many times it is that we are saying this? Even the ones who claim to be wise & sane ones, they come & do this. And Mawlana is affected by this, feels sad. For 3 days he is in this situation & he couldn't come down. This really affects Mawlana. May Allah grant all of us understanding.
+
+We ask about who is biggest enemy for man, for human being. Shaytan or what is this? No, not shaytan not... Shaytan is the small enemy, only.. Biggest enemy, your ego. Ego, it is very bad enemy for people. What you do? No need for enemy to harm you. Ego can put you in very bad position. Everything you do following your ego you will be ashamed after this. You will be regretful. Even when you make ibadah, or worshipping, this ego, if you are weak can turn this worship for himself. We won't say "follower of Shaykh Effendi". But follower you can't find 1%, 1 from 100 follower. Just loving Shaykh Effendi, but not really. They are, most of them even there is, we find 10 years they are following 20 years following, even 30 years following..So they are real follower. But no, Shaykh Effendi, he said "I not practising Shaykh. I am not like making Shaykh for you. Just I am collecting you like this". Because who 30 year coming & going, they not learn to get rid of ego. 100, maybe more than 100 times
+
+we speak about position, Shaykh Effendi's position. But people still same. In this world, everything changing from different different state. What not changing, only Allah. Every people changing. And Shaykf Effendi also changing, insha Allah he will change to better. But when in this position, nearly 4 months he is like this, he want praying for him to get better, to get better, for everybody. But people when coming here they insist to see him, or to look for him..
+
+Alhamdulillah he was coming maybe 20 days, everyday he was coming. Alhamdulillah it was good. But when, this also people forgetting, when coming, they want more. They want more. And this is from ego. Alhamdulillah he was coming like this, getting better. But when your ego, your desire want to kiss his hand, I want to speak to him, I want to.. and you be sorry if you are not speak to him, this is affecting him. Now 3 days, he cannot come like this. Because some people becoming angry, "we cannot speak, we cannot.." Alhamdulillah you see him here, it is enough for you. And it is, forgetting people how 3 months cannot see him at all. Forgetting from where, from what? From ego. Ego want everything more & more. And this is not good. And I hear many people also, they are swearing at people, who are serving Shaykh Effendi. Why they swearing? When they swearing this, this swear going exact for Shaykh Effendi. Because they cannot say for him, they say for who is serving him. This is very bad manner. And as Rasulullah (sas) said, the biggest enemy, ego. When you swear this for Shaykh Effendi, directly coming curse on you.
+
+So if you do this, don't come at all for this. Because your ego making you, harm for you. And we hear many people not coming because they saying "we cannot see Shaykh Effendi, so no need to come". This is also wrong. Because as Shaykh Effendi said about Uwais al-Qarani. Uwais al-Qarani many people know him. He is big awliya & he never see Prophet (sas) in his life. He come to visit him but he couldn't find him there so he went back to his family. But after this; no, they don't know. Uwais al Qarani is most important in Naqshbandi Tariqat. He is giving awliyas - Golden Chain many of them connecting between one and other one. Make for them tarbiyah, riyadhat/ spiritual training. This is big maqam- Rank, station. It is not easy. And from beginning of his illness this who come to visit him without seeing him, he take from this fadhilat- virtue, from Uwais al-Qarani's virtues. This is what we want to tell people, to not follow ego. Say "We must speak to him", no! Because many people seeing him in wheelchair & they said "he is weak. He is becoming very old". This is wrong also. He is, Allah what necessary for him, he looking & acting by spiritual power. And going everywhere in the world. In this 3 months, I don't have, people saying but many karamats- miracle. Alhamdulillah, many people they see this & tell. Some of them, we also, we witnessed for this. So who coming & saying "he coming very old & he come so he cannot do anything", it is wrong.
+
+All this, test for mureeds. So be careful from your ego. Even this is the best chance for ego to take your belief. Don't give this for ego. From beginning insha Allah, as Mawlana Shaykh put in your mind Uwais al-Qarani's (ra) what he do & how he is now. He is still giving until now.
+
+Wa min Allah at-tawfiq, Al Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=4088&name=2012-05- 27_tr_YourWorstEnemy.mp4

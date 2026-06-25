@@ -1,0 +1,52 @@
+---
+date: 2018-02-13
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2018-02-13-everything-needs-effort.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2018-02-13-everything-needs-effort
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Everything Needs Effort
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Alaykum. Dankeschön.
+
+Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh
+
+Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām.
+
+Dawām. We are trying to be dawām in the love of Rasūla LlāhNone. Don't be hesitated, don't be lazy and don't let your ego to come in front of love of Rasūla LlāhNone. Don't put anything between you and Rasūla LlāhNone love. If Allāh Almighty loving Rasūla LlāhNone too too too much that's mean there is a reason for us to love Rasūla LlāhNone too too too too much. Yes. If we can catch little bit of that love we are the kings. Because if you are able to show your love for Rasūla LlāhNone and Rasūla LlāhNone he see your love to him, then imagine where he will put you. This Rasūla LlāhNone. It is not a joke.
+
+Everything is a theater. Everything is cinema. Everything it is not existing. Yesterday there was people here. Today they are not here. Tomorrow we will not be here. After tomorrow the people they been here, they will not be here. Everything it is going for disappearing. You will be disappeared, I will be disappeared. Your child will be disappeared, his child will be disappeared. Your father been disappeared, your grandfather been disappeared. Now we are existing for how long? It will be finish. So many empires been existing. They are saying "We are the ruler here, absolute ruler. Everything is under our control." But today no one of them is existing. Now we have a new empire. We don't know until when they will be existing. Don't think this planet is belonging to you. Don't think that you are ruling the planet, no. It's been given to you as temporarily; as test for you to see what you will do and to see what the people will react and how the people will say yes or no or to see the power that it is not belonging to you also.
+
+There is power but is not belonging to you. Never power been belonging to Banī Ādam, no. The power is for Allāh Almighty. Allāh Almighty He is the one catching the power. He only borrowing [lending] you.... say, "Use it for a while. Let's see what will happen. Use it for a while, let's see what will happen." That's why everything it is not real. No, if it is real it will be remain. This is the secret of real or not real. You have the best dream in your sleep - uuuh you been going flying up and down and when you open your eyes and say, "Oh this is dream. Yes. It was so fantastic dream German darwīsh. I cannot imagine how fantastic dream was and then somebody wake me up, the dream is disappeared." The life it is another kind of dream. Allāh Almighty He make it in such a way that we are living in it. We are eating, drinking, enjoying, but at the end of the day we will be wake up. When you will be wake up when you give your soul. When they take the soul they say this man he was good man. We continue our dream but he is not continue his dream. His dream is finish, he is wake up. Somebody is wake up. How you wake up? You wake up by leaving your soul.
+
+May Allāh make us to wake up in good way because there is so many kind of wake up also. That's why the love of Rasūla LlāhNone it will be your best wake up. That's why loving Rasūla LlāhNone, when they will wake you up say "Wake up, wake up. Wake up." Hmm "Wake up." "Hmm." Hu you open your eyes, you find the light of Rasūla LlāhNone with a good way, yes. But there is another wake up, ya Laṭīf, ya Laṭīf, ya Laṭīf, ya Laṭīf, ya Laṭīf, ya Laṭīf, ya Laṭīf, ya Laṭīf. Ya Laṭīf, ya Laṭīf, ya Laṭīf, ya Laṭīf. I don't wish it to my enemy, this what they are saying. I don't wish it to my enemy such a wake up, yes. It is terrible wake up. They been wake up. Allāh we are not asking this either for us or either for anybody. That's why the generosity of Rasūla LlāhNone to say Hubbu Rasūla LlāhNone - love Rasūla LlāhNone - that to have this good wake up. Everything is been perfectly done for the benefit of humanity.
+
+But the shayṭān he will never ask to get anything for the humanity, never. Shayṭān is all the time against your humanity, against the humanity totally. Even he have a lot of helper from the humanity they are pretending to be human but they are not. Even those he is enemy for them. He is not happy with you. Shayṭān never been happy with Banī Ādam. Shayṭān he is all the time he is jealous from Banī Ādam. Why the jealousy is the biggest illness. Is the biggest illness, the jealousy is the biggest illness of ego. He say you can remove so many illness from your ego but the jealousy is the most hard one to take it out of your ego. When you take it out of your ego you become awliyā immediately - ffft. Yes like fffft, like this so quick. But until to take this jealousy, your life will be not enough. Life never been enough for taking jealousy from your ego. Ego love the jealousy so much. Don't be jealous of Rasūla LlāhNone. This is how shayṭān is affecting the ego for people - using the jealousy side of the people. Say, "Who is Rasūla LlāhNone? Ha who is Rasūla LlāhNone? He is a human like us. Why we should love him?" Why? Why? Why? Why? This is the jealousy.
+
+That's why try to be make the jealousy beside when you are loving Rasūla LlāhNone. Try to love him in the good way and the pure way. This is when they say purity, this is you have to understand that is the pure love to Rasūla LlāhNone must come from your heart. That's why the heart is separate and the ego is separate and the brain is separate. Allāh Almighty He make perfect creation. Perfect creation that Allāh Almighty He put every organ in the place and in the same time He make it to be together working. And then it will be having the perfect human. Perfect human - what is the perfect human? The perfect human the one he can remove his jealousy of his from his ego. That's why when you see great people like Jalāluddīn Rūmī', like Muḥyī d-Dīn ibnu l-‘Arabī, like ‘Abdu l-Qadir al-Jilāni, like Shāh-i Naqshband - these people they are heroes taking their jealousy out of their ego. And they can act as Allāh Almighty coming to them and make them to be higher and give the true love for people and this true love for people will come only from purity.
+
+This is also Mawlānā Shaykh Nāẓim (qs). He was never jealous from anything, from nothing. Yes. If you are able to look for Mawlānā Shaykh Nāẓim (qs) you can see him that he is happy to share the love, to share his food, to share his children, to share everything. What he have it is for his people, for everybody. This is very important things that Mawlānā Shaykh he manage to take his jealousy out of his heart and he is happy to give, to give, to give and to show you the real generosity. Because the generosity will never be working with the jealousy. Generosity it work only without jealousy. May Allāh make us to be in that level because that awliyā' they are working for it.
+
+And I like to give a story about Mullā Naṣru d-dīn. Mullā Naṣru d-dīn he say, "I will not work. I'm believer of Allāh Almighty and I will be surrendering to Allāh Almighty to send my income, my rizqī." And they say, "I will sit in my bed and my food, my everything will come from Allāh Almighty." So he was lying in his bed waiting for his his rizqī, his food, to come. One day, two day, nothing coming. He say, "I'm insisting to be in my bed that I know yā Rabbi will send me rizq, You will send me my food." And he was sitting and the neighborhood they say "Oh this Mullā Naṣru d-dīn how is been quiet for the while. Maybe he is ill, maybe he is not good. Let's cook for him dolma." And dolma that was his favorite food. And the neighbor they knock the door tok tok tok tok tok tok tok. "Eh Mullā Naṣru d-dīn are you not at home?" And say "We have something for you. If you are at home let us know." He still say, "yā Rabbi I want to have my food until to my bed. I will not move from my bed." He is stubborn, he is insisting that his food come to his foot, to his feet.
+
+And then the neighbor knock knock the door and finally the neighbor talking with each other and he is hearing. "I think this Mullā Naṣru d-dīn he is not at home. Maybe he went somewhere. So we take this dolma and we eat it. So no need, no need to give him this dolma." And he hear this what say. "Uhu uhu uhu uhu uhu I'm uhu uhu from inside." Say, "yes even yā Rabbi" he say "even my food coming until my door, so I have to make effort and say uhu uhu that people hear me and bring it to my feet."
+
+So everything is need effort. Even you want to take your jealousy out of your ego, you have to have effort to take it out. This is important things in our life to work for something. And that's why Mawlānā Shaykh he was not lazy person and he was all the time working, working, working, working, even in ākhirah or in dunyā, or in spiritual he was never been lazy. This is may Allāh make us to not be lazy and to be all the time working for His benefit. Work for Allāh Almighty benefit. Whatever you do, anything - you say "yā Rabbi this is for your benefit." Your intention will be accepted as His benefit. May Allāh forgive me and forgive us and to make us happy here and hereafter.
+
+Wa min Allāhi t-tawfīq biḥurmati l-Ḥabīb, biḥurmati l-Fātiḥah. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām.
+
+Wa ṣallī yā Rabbi wa sallim ‘alá jami’i l-anbiyā’ī wa l-mursalīn wa ‘alá kulli ‘ajma’ina wa l-ḥamdu liLlāhi Rabbi l-‘ālamīn. al-Fātiḥah.

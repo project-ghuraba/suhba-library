@@ -1,0 +1,54 @@
+---
+date: 2013-01-02
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-01-02-the-sham-in-the-mirror.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-01-02-the-sham-in-the-mirror
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: The Sham in the Mirror
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+There was a pub, an old pub. To keep the old pub, the British made the road change direction, it went this way. "The treacherous people of ours did not leave anything from the old. Look how British conserve the old" I said. The image of it is still in my head, in my heart. I can see it- The bar on that side, it is closed. A building from stone. The road didn't go this way because they would overlap, so they made the road go this way. Is there anything left that these ones didn't destroy? They would destroy this one too if they could. May Allah destroy them. They did this everywhere, everywhere..
+
+In Sham also, they destroyed the huge Yelboga mosque of 1000 years. The people kept quiet about it. There are things to come on them. Shaykh Hassan Al-Jibawi Hz, they disturbed him too to change his place. In the time of French, the French governor of that region said "we should build this road but we need to remove this building from here". He (Jibawi Hz) came into his dream, the French commander who was ruling Sham at that time, "You & your soldiers come & remove me from here if you can" he said. He came into his dream. The next day the commander said "Stop, don't touch it" Now these traitors want to open up his maqam no matter what. Why? "We will make a road". To make a road, they destroyed his burial place. He didn't want to move from his place. He turned like this on their fingers. They didn't understand what it meant. "So what? We just take from here & move there". He said "Just as you destroyed my house so may your houses also be destroyed". He finished the square, it is all gone.
+
+This is the awliya who was buried there for 500 years-Hassan al-Jibawi Hz. My first visit was to his maqam in Sham. GrandShaykh was there. 7 holy men came out from that maqam with their shrouds still on. And this..What was their name, the ones, the Grandshaykh's (Jibawi's) grandchildren, what was their name?Suyufi. That one, the one from the Suyufi family came. When he opened up the grave he found that holy one laying like this, with his shroud still on. When he did like this, he (Jibawi) said "I won't get up". And he (great grandson) said "It is the order of Ulul Amr". "May he collapse" he said & surrendered. So they took him to another place. Grandshaykh was not present there, I was not present either. He was turning on the fingers of those who carried him. He didn't want to move. He was carried to a distance which was from here to the mosque & buried there. "You destroyed my house. May your houses be destroyed" he said. They destroyed that square.
+
+Look at the good manners of the British for keeping their old signs. Look at the treachery of our treacherous people. Tawba Ya Rabbi, Tawba Astaghfirullah. Such a great one. When Sultan Selim was going for Egypt campaign, he stopped his horse there. Sultan Selim asked "Which holy one lays here?" "There is Hassan al-Jibawi Hz here" they said. He dismounted his horse, went inside to visit. He asked for dua. He went to Egypt taking his dua otherwise he couldn't have conquered Egypt.
+
+Such a holy one with great power, he got offended. He said, "You destroyed my house. May your houses be destroyed also". He swept that square with cannons & guns. Our Grandshaykh told me that the French attacked Sham at the end of the war- the French soldiers. And when coming to the square, there is Mithat Pasha. Our GrandShaykh said, "I was sitting like this.." There was a residence in the upper part, you don't know it. I sat in the residence & watched. There was no one in the streets. There was no one- no soldiers, no civilians, no women, no men.. From that Mithat Pasha market to here, a detachment of French soldiers were walking. "I am watching from up". GrandShaykh Hz had authority to act but he didn't say so. He said "I was looking from up. And I sent everyone from the house, only I stayed & was watching". O lion! Our Grandshaykh, Sultanul Awliya Hz was a lion. He said "I sat like this & watched. The French soldiers started to walk from Mithat Pasha to this side. They were coming to the square. When I was sitting, I saw that suddenly they started running backwards in such a way they couldn't come one step more to this side. There was Sultan there. The glance of the Sultan. Grandshaykh is also Sultan. When he gave permission, they all scattered, couldn't take one more step into the square.
+
+O holy one. Ah Sham al-Sharif, ah Sham al-Sharif. These people corrupted it. How beautiful were the people of Sham- all covered, good mannered, disciplined. "We are making our daughters soldiers" they say, Masha Allah. It is the doing of these treacherous ones & the people of Sham sleep. Why didn't you send your boys to the military school so they become soldiers instead you make girls wear military dresses in schools? Is military the job of women? "Wa Qarna Fi Buyutikunna" (33:33), "stay in your houses" says Allah Almighty Jalla Jalaluhu, Jalla Azamatuhu.
+
+These shameless, evil ones said "we assigned numbers to the stones of Yelboga mosque & moved them.." And what did they do now in it's place? What do they call it? S.M. Parking lot. M. They turned it into a parking lot and left it. Neither Kuftora nor any other mufti could say anything about this. Not any imam could open his mouth. Now they made all the people there upside down. Fortunately we are on top of the mountain, no damage. The holy 40 saints, the holy 7 ones, Dhul-Kifl (As), Sultan al-Awliyas, Ibn Arabi Hz, Al-Nabulsi Hz, the Ashab al-Kahf/the Seven Sleepers, the great 40 ones... They didn't look that side because they had no business there. So it is such things, this treacherous one did not come on them for no reason. Atlas, they called him the head commander. That poor one was not even the bottom commander. How many times you went there, you & your wife.
+
+S.M. Yes. M. This one is helpless. This one is not ruling, he is ruled. You give the great land of Sham into the hands of an Alawi. How can this be? And no one cares, no one asks. Everybody is busy with trading, shopping, having fun, going around.. "If Sham is corrupted, then the whole world is corrupted". I am full with feelings inside but who am I? I am not even like a match. There are great ones above. There are great ones above but there is no order yet. No order yet, no order yet. There are forty budalas, nujaba, nuqaba, awtad & akhiyars. There is a group of jinn that protects the surroundings of Sham. One of them could make them upside down. But he said "Don't touch them. Leave them. They filled Sham with concrete. They put statues everywhere and every- body kept quiet. Is Sham the place to put statues? And also, to deceive people they put a statue right under the Hamidiya market. They put the statue of Ayyubi. He cursed them.
+
+No one knows these things, no one knows what the secret is. "Troubles don't come unless the servant goes wild". They became wild. They were all veiled like this. There could be no one opening her face from the people of Sham. And these ones made their daughters wear soldier uniforms & bearish men command them. You send your daughter to military school so she becomes a soldier? Allah Almighty says "Wa Qarna Fi Buyutikunna - Stay in your houses". Now all of them are being disciplined. Sham, one of the Holy ones would not even let them go into woodshed. He said "Leave them". Tawba Ya Rabbi, tawba Astaghfirullah.
+
+They left no scholars, no madrasas, no foundations, no mufti maqam.. They entered everywhere, corrupted all of it. To threaten the people, they had Shaykh Mohammad Shami shot. He was a clean man. He had nothing, only to threaten the scholars. They had Kuftaro's son shot in Sham-to threaten them, to keep their hearts busy with it. Shami Hz, the deceased Shami Hz, whoever shot him, for which reason did he shoot him? How they shot Kuftaro's son in Sham al-Sharif? To scare the ulamas, to make them back off. May Allah overpower them. May they not enter Sham one more time. Fatiha.
+
+I lived in Cyprus until I was 20, and never went to a police station. We went out, still never had to go to a police station. Even UK is different, they never called me or anything. Turkey 100 times, Sham 1000 times- you do the math. I went to Beirut, you were with me. There was chaos here, we went to Beirut. Subhana Allah. On the border- I think it was the Sham or Aleppo border, whichever plane it was - These treacherous ones allowed your mother, you & Naziha. They allowed them to enter but didn't allow me. I never give them my blessings. And they were always following us, every day. They made us known as British. The passport office wrote me as British, so they thought I was British,constant investigations. I couldn't enter Sham, so I returned to Beirut.
+
+There was an uprising in Beirut again at that time. So I went to Amman from there. I went to Amman on my own. I stayed with Shaykh Ahmad Effendi. Then you came there, Naziha & you. May Allah grant you safety. We can't finish by speaking. They insulted Islam. They insulted the immigrants. The people of Sham didn't show love towards Islam & Muslims. The bandits here & in Turkey started again at that time. Alhamdulillah we passed through all of it & came here. Alhamdulillah, insha Allah I will be with the Sultan who will enter Sham victorious. All of us will be insha Allah. You can write a book from these I speak.
+
+S.M: Yes, many books masha Allah.
+
+M. Yes, they are enemies to Islam, enemies to Muslims. The chief commander was sitting there like an animal, asking me "why did you come here?" "I came to live here". "What did you come here for?" "I make service here". He said "Ok, you may leave". He gives (visa) for 1 month, 15 days, you keep going back & forth.. Finally they give us from those papers which allows 1 year of visa. But still many investigations, always following me thinking I am a British spy They kicked out all of them. May they find their punishment wherever they go. O Lord, may You forgive us, forgive us.
+
+Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=6165&name=2013-01-02_tr_Sam.mp4

@@ -1,0 +1,60 @@
+---
+date: 2010-05-10
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-05-10-returning-to-paradise.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-05-10-returning-to-paradise
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Returning to Paradise
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Dastur, Ya Sayyidi. Ya Rabbana, Ya Rabbana, Ya Rabbana, Ya Rabbana, anta Rabbuna, anta Hasbuna, n'imal Mawla anta Ya Rabbana, ighfirlana. Zid Habibika izzan wa sharafa, nuran wa surura, ridwana wa sultana. La ilaha illa Allah La ilaha illa Allah La ilaha illa Allah La ilaha illa Allah La ilaha illa Allah Sayyidina Muhammadun Rasululllah sallAllahu alayhi wa sallam.
+
+Madad, Ya Sahib al-Imdad, we are asking your support. O our Grandshaykh who is responsible through this assembly and as well, he is responsible to make this declaration to reach east and west, from north to south. Give more honour Ya Rabbana to our... who is our supporter. Audhu Billahi min as shaytani-r rajim. First of all who is asking to destroy that heavenly support, is shaytan. Asking to destroy it, to cut it; making so many, so many, so many attacks for preventing this declaration to reach to people.
+
+O our attenders, Assalamu alaykum. First of all our declaration is to ulama that are claiming 'we are ulama, learned people and we are authorities for religious knowledge we are authority'. That is their claiming. It is not true. We are saying Bismillahi r-Rahmani r-Rahim. That is heavenly support, supporting everyone asking a support from heavens. Yes. Ready. Ready, supporting stations through Heavens to reach those who are asking. As a petrol station going to be ready for anyone coming and asking petrol. Therefore heavenly beings are looking whom they may ask a heavenly support, that means, not anyone can reach to that station except authorised ones.
+
+And authorised ones, who are they? They are taking away heavy burden of our egos and getting to be free to reach that station. Heaviest one for mankind for reaching heavenly stations - their egos. And ego's nisbat, ego's relationship with shaytan, that shaytan, it has a manfi... (negative) Hanh, negative. (Sleeping?) Negative. Negative power through our physical being preventing us to get up, to rise towards Heavens. Therefore, first of all those who are asking to reach heavenly power stations must throw away first, that heavy, heavy aspect from ourselves and then we can be so light to reach those stations, because with our heavy, material being we can't be able to rise from surface of this world, even one foot.
+
+Look, if a person may stand up even one foot on Earth, that means he has the authority and possibility to reach heavenly stations. A plane when landing, they are tying it on Earth, not to move like this, like that. When it is ready for flying those ties going to be taken away, then running on runway. And everyone also who is asking to reach heavenly aspects they must be free. Free. Allah, Allah. People asking freedom - for what freedom? To do everything that our material being is asking. Now, through east and west, from north to south, people running and shouting 'Freedom! Freedom! Freedom!' For what, the freedom? They are asking freedom for their material being. To do everything that their material being asking. That is not freedom because man is not only a material being. Man is combined, to be material being and heavenly being. If you are leaving your material being to be free you are destroying your heavenly being, spirituality going to finish. But people running now after freedom. Freedom. What you are asking more than this freedom? What is their opinion or what is their aim from freedom? They are free for everything that their physical being asking. Beyond that, what they are asking now?
+
+Therefore they are saying, 'We are running after a nizam, after an order that gives us absolute freedom to do everything. And Prophet, the Seal of Prophets, peace be upon him, was saying that when last days approaching, people going to be without any order, they are running after freedom. (Sleeping?) - Freedom. And they should be in such a jau, atmosphere that they are doing everything. You may even look, you may see men and women sleeping through streets. That should be. Beyond that, what they are asking from freedom? What is freedom for them?
+
+They just reached the last point of freedom, what they are asking, but they are not understanding. They are becoming like animals and animals are not understanding from freedom because they know their positions and they are not asking any freedom. But mankind are not understanding about themselves and they are asking to break down every order, Order of Heavens, Commands of Heavens, Rules of Heavens to break it down and that is shaytanic teaching. They are never happy for any religion, any beliefs that making people to follow heavenly rules. This is their end, that now whole world has been given absolute freedom for their egoistic desires. What is beyond that?
+
+Yes, real freedom is that everyone must ask for rising from Earth to Heavens and that freedom can't be with our physical freedoms. You are asking to be satisfied through your physical being's desires and same time you are asking to be rising to Heavens. How it can be? That tying you; your ego tying you, you can't lift your foot even one foot up. It is impossible but they are insisting. Therefore mankind now are insisting to reach such a freedom that they are not understanding. Freedom - we are imprisoning our souls and not giving a chance for our souls to be free and to do as they are umirt, ordered. Therefore, chaos through east and west.
+
+And no difference now between Muslim world and non-Muslim world. All of them on same colour, on same desire, on same way, and they are claiming that we are not in need of heavenly orders but we are going to make freedom for our desires. Can't, can't be. How it can be? You are like a person without using a plane or a missile, or a rocket, they are claiming that without using rocket we must go up. You can't, it is impossible! But they are insisting, saying 'No', and that is whole troubles on Earth now, that they are asking more freedom. What is for, more freedom? You are eating as you like, drinking as you like, doing as you like, acting as you like, everything doing as you like, how, what is beyond this freedom? No meaning, no! Therefore, 'we are asking democratic system'. And our foolish Muslim world also they are running everywhere to make such a foolish system, democratic system, to be more freedom. For what, this? Leave that and take safe way. Why Allah Almighty sending holy books? O Christians, O Jewish people, - Israeli people and Christian world, for what Allah, the Lord of Heavens sent Holy Books? For what? Coming to church to recite one page or two pages and finishing? What is that, Your Holiness, Pope? You must look after such a position and Chief Rabbi you must look for what Torah had been sent? Taurat Sharif.
+
+O Muslims, Muslim World's all Muslim leaders, including muluk and republic presidents. Why the Lord of Heavens sending Holy Quran? For what! O ulama, why you are not reminding muluk and presidents and all those people who are keeping zimamu l-ummah, who are keeping ummat's controlling. Why? You are thinking that Holy Books coming for your dead people? Bringing dead body to cemetary and bringing that holy book and reciting on that? Why reciting on that person! For what? That finished! Why not reciting to living people? To correct their steps. Why you are not doing this?
+
+And Muslims, why you are coming after someone’s burial and you are sitting and making Khatm al-Quran al-Karim? For what!? Why you are not reading Quran Karim on that person when he was living? Why you are not ordering Holy Orders of Heavens, O Rabbis. And you are coming for dead body and reciting. For what! Holy Books for dead people or living people!? What is that jahalat, ignorance from you? Allah will ask you that you are not teaching people, how they are going to rise up to heavens. You are fearless people, you are not fearing from your Creator!
+
+That is our biggest chaos running on people, and people never getting to be, they can't save themselves, either here or after death. Angels just coming down through graveyard, angels running and catching that one, dead one and standing up and saying 'what you did about yourself? What was Holy Command of your Lord? What you did, say? What you did in obedience for your Lord? And what you did in charity for your Lord's creation?' What this, what that? Why this, why that? Asking.
+
+O People, therefore, we have been invited not to be on Earth. Adam alayhi salatu wa 's-salam, the father of Mankind, when he was sent away from Paradise, the Lord of Heavens saying that My guidance going to reach to you, Adam and your children. Who is following them may come back to My Paradise, if not, they never going to be in My Paradise, or never going to be under My Heavenly Mercy Oceans. You should be thrown away with shaytan.
+
+May Allah forgive us, O People. Yes, you know, Salafi ulamas. Why you are not warning people, O Azhar ulamas? Why you are not making everyday's declaration to wake up Muslim world, to stand up, 'O People, you must know that if not today, tomorrow, if not tomorrow, after tomorrow we are leaving this life and we are going to where we came from. Why you are not giving? Ad-deenun nasiha. The Seal of Prophets saying: ad-deenun nasiha and Allah Almighty saying: "wa dhakkir fa inna adhdhikra tanfa'ul mu'minin" (51:55).
+
+Why you are not making that declaration daily? And you are looking O Muslim ulama, you are looking that Muslim World on the wrong way, all of them, because they are following non-Muslim world. It is a blame to you to leave people to follow non-Muslim world and their characteristics. Why you are not saying? You should be in most adhab, you should be punished the Day of Resurrection as it is mentioned through Holy Books that ashshaddu 'n-nas adhaban ulama.
+
+Yes, most terrible punishment for those who were ulama and they are not reminding people the ways of heavens. They are not teaching to their nations the ways to Paradise. O People, just we are ending because Nabi'una, Nabi Akhir az-Zaman last Prophet and qiyamah, Judgement Day coming on his nation. O People, think on it, don't run away. If anyone running away not listening, heavenly advice, they should prepare their coffins because death running after them, catching them, then imprisoning under earth.
+
+O People, that is ad-deenun nasiha. I am saying to my ego as well as anyone may listen, may obey should be happy, if not, should be repenting. O Ya Allah, O our Lord, don't leave us through the hands of jahil people, ignorant ones. Ignorant ones, ignorant ulama, ignorant kings, amirs, sultans, everyone will be asked and they can't save themselves if they are not taking Shariatullah. Don't follow western fashions but follow heavenly fashions, O men and particularly women! Everytime they are trying to use so many things to be seen beautiful one. That giving to them much more ugliness when they are going to pass away. And through their graveyard no one can approach because so bad appearance and smell from them. May Allah forgive us.
+
+O People, I am shouting to my ego. If you are accepting, accepting. Not accepting, it is for you. O Rabbuna, send us who may be able to collect hearts of people, hearts of your servants and to take them to Your Divine Presence. Forgive us and we are hoping Your blessings and we are hoping that You may send us someone to destroy every shaytanic idea and buildings down, and to tashyid, to make up Islamic building. May Allah forgive me and you also, bi hurmati-l Habib, bi hurmati-l Fatiha.
+
+Video link: http://saltanat.org/videopage.php?id=9022&name=2010-­‐05-­‐ 10_en_ReturningToParadise.mp4

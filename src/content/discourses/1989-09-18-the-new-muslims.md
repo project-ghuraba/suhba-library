@@ -1,0 +1,62 @@
+---
+date: 1989-09-18
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/1989-09-18-the-new-muslims.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 1989-09-18-the-new-muslims
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: The New Muslims
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Bismillahi r-Rahmani r-Rahim.
+
+You can listen to the Adhan sitting; but when the Ismi Jalal is remembered, when the Takbir is made for Janabi Haqq, it is Adab for the servant to stand up. In old times, when the army was marching, the moment "Allahu akbar" was being recited, the riders immediately stopped their horses and remained without movement, like statues. They would call the national anthem and everybody stands like this... formally. It befits Muslims to stop formally at the moment when "Allahu akbar" is being recited. Immediately! He who had raised his hammer wouldn't even put it down, and if he had put it down, he didn't pick it up again. To this degree they used to respect the Adhan Muhammadi. When we lost this, we lost everything. Whoever loses the respect for Allah has lost all his value. May Allah forgive us.
+
+K: Efendim, if a so-called Sheikh sits cross-legged during the Adhan and even lights a cigarette, what shall we say about him, Efendim?
+
+S.E: His Sheikh is shaytan! The biggest witnessing of Haqq, the most important declaration of all Prophets, from Adam up to our Prophet, is to say, “La ilaha illaLlah”. Tariqats offer ways and expressions to make our ego accept the orders of the Shariah. But the ignorant don't understand this. They say: "What is Tariqat? Are Tariqats necessary in our time?"
+
+Say you are going to Europe and then you get ill. Europeans and Americans have all kinds of ridiculous methods of treatment. You can't tell them anything. Their mental houses are very magnificent, and those who enter them know no shame. In order to come to their senses, they allow all kinds of things to be done to them. For all these kinds of illnesses, there is a cure in Islam; and the methods of treatment are in the Tariqats. Tariqats are not something outside of Islam. Those who say that Tariqats are not in Islam are all ignorant. Therefore, anyone who announces his Islam saying "La ilaha illaLlah" confronts his ego. The ego of man is malicious and always orders him to do evil. To defeat it there are methods. The methods are in the 500 'ma ja'a bihi Nabi': the Fard, the Vajib, the Sunnah, the Müstahab and Adab. There are 500 methods or ways. Then there are 800 harmful things we have to drop/leave. All 800 are harmful and need to be dropped.
+
+Now, whoever says “La ilaha illaLlah” has been honoured with Islam; but he has the duty to conquer his ego and bring it as a Muslim, surrendered, to the Presence of Allah. If someone can do that by himself, that's fine. If he has not succeeded by the time he leaves this world, there are those authorized to come from Malakut who will make him surrender/receive him. In his grave, there are other ones carrying the orders who will meet him. And when he comes to the Judgement, there are others carrying orders to complete him. And if he is not clean yet, there are others carrying orders to meet him in the Naru Jahin/fire of Hell. If he gets clean there, he will go to his homeland. If not, if he doesn't get clean, he will stay there till he is cleaned. No need for him in the Makam of Daru l-Karar, because Daru l-Mukame is a Makam that only accepts clean ones. No dirty ones enter there.
+
+Now, Sheikh Efendi Hazretleri has made some people in America - maybe those who accept the cross and idols - to say "La ilaha illaLlah", and then he claimed, "I have made so many thousands Muslim." Now, to which level is their Islam correct? First of all, according to the Shariat Garravun Ahmadiya, anyone who says the testimony of faith/Shahada once has entered Islam; but there is an exit also. If someone does not stay inside [Islam] and leaves straight away, he needs to repeat the Tawhid-i Iman. If he wants to perfect his Iman/faith he is obliged to accept the duties of Islam step by step.
+
+The first obligation after entering the faith is to make Ghussl (wash the whole body). After accepting the faith, one has to be clean, be it a woman or be it a man. The first duty after Iman is Ghussl, then Sajdah/prostration. For those who never had any contact with Islam and who then say Shahada, the first order after Ghussl is to make Sajdah. This Sajdah "in Our Presence" (no matter in which direction they make it) is a Sajdah. Yes. Therefore, every day in a clean state, they should first of all make one Sajdah per 24 hours. Then, when they progress, they should learn the prayer times and (first of all) make one Sajdah in the morning and one in the evening - two Sajdahs. And, progressing further, they should increase the prayer times to five and increase the number of Sajdahs to five, no matter where they are.
+
+Many Muslims do not pay attention to this. They think it can be left out. No, it cannot, it is Allah's Right. "I will demand My Right", says Janabi Allah. "Nobody can stop this. I will take My right of servanthood from My servant. Where? When he will pray on the lid of Nar-i Jahim (fire of Hell), I will take it. My Order is not to be ignored. I will make him to make Wudhu in Zemher and pray on the lid of the fire of Hell. So let them not pray; I will make them pray here! Who likes, let them make Wudhu with hot or cold water and pray on their carpets. For him who does not pray, write a debt.", He tells the angels. "When the time passed and he didn't pray, write it as a debt for him and give Me the bill."
+
+Al Hasib. He is Al Hasib, (The Reckoner) jalla jalaluhu. "I will look at his bill and make it to be paid. My Order is not to be neglected."
+
+We have to fear Allah. Prayer is not a toy; religion is not a toy. Those who came from Christianity to Islam do not know anything about this. You have to tell them to take a shower daily and then to bow and make Sajdah. Do the ask how to make Sajdah? Tell them that it is as if you kiss the floor. Put the forehead down and kiss the floor in a clean place. Do the ask in which direction? Say, “East or West”. You find Him in the East and in the West. West or East, North or South. Wherever you turn the Sajdah is to Him. It cannot be to anyone else. The reality of Sajdah is for Allah.
+
+And then, progressing, make one Sajdah in the morning, one in the evening. Later you must know the five prayer times: morning, midday, afternoon, evening, and night. Have Wudhu or not. At that point, Ghussl is enough for them. Then, at noon when he looks at his watch and sees it is midday, he should say: "O my Lord, I am making Sajdah before Your Greatness."
+
+Do Muslims think about this, that they should make Sajdah before Allah's Greatness? This is an addressing [Divine command] to all people, from the highest to the lowest rank. If Allah gives a rank, it is not for anyone to become proud. Everybody is a servant. Nobody gets out of servanthood, be he Padishah or Sultan, President or dictator or Prime Minister. Nobody gets out of servanthood. Servanthood … Everybody is called to be a servant. Those who are restricted in their position/movement should say like this: "O my Lord, this much only I can do. Forgive me. I am making Sajdah before Your Greatness." If something does not allow you to do the movement of sajdah, then say, "O my Lord, I am making Sajdah in front of the Divine Greatness. With all my self, my soul, my body, I am in Sajdah before You, o my Lord." If he gives such a signal, it is enough. The matter Hazret Efendi has mentioned is important. Therefore, for those people, these kinds of orders are suitable.
+
+Once I was in Sham-i Sharif. I was in the presence of Sheikh Efendi Hazretleri/Grandsheikh. One foreign old lady came there. She was 90 years old, trembling while standing. This tiny old lady came there and Sheikh Efendi called me: "Let Nazim Efendi come to translate. He speaks English." She had come from England and had brought a letter with her. The person who had sent the letter to Sham, someone similar to her, had written in this letter: "O my friend, I am leaving this world. I have found what I was searching for. Finally I have found what I was looking for and now I am leaving dunya peacefully. I am writing this letter to you as I am about to leave this world. If you also wish to find what you wish for and reach your aim, in Damascus (Sham), on the Jabal Qasyun, there is someone with this name. Go to him. From him, you too will find what you seek, because I have received it from him as well." Sheikh Efendi had not left Sham; but with his spiritual power, the power of 'tay', he had gone around, met her and gave to her. In reality He is with him. The old lady said, "I am coming here from London. This letter came to me from New Zealand. I am coming from there.", she said. We translated when she was telling this to Sheikh Efendi.
+
+That night she stayed as a guest. That night, Sheikh Efendi Hazretleri took me with him spiritually to the presence of our Sultan, the Prophet, like a hunter takes his dog with him. In the Presence of the Prophet, I also listened and was witness (to what was said). He said: "O Prophet of Allah, today this 90 year old lady from your Ummah made Shahada and was honoured with Islam. What shall I order her to do? Her time (to leave dunya) has approached, what shall I tell her?"
+
+Then the Prophet sws said, "Tell her to say La ilaha illaLlah and also to make Ghussl. Tell her to make Sajdah daily, one Sajdah. Beyond that we leave until she has learned more and if she is still alive, until the order to give her more duties comes to us. In her condition it is not suitable for her to learn any more. The easiest for her is to make one Sajdah daily in any direction and to keep Ghussl, cleanliness. Order her this and leave her."
+
+He was not asking anything else (from her). According to this (we speak to) so many thousands of the 'ins'/humans and jinn who by the grace of Allah have been rightly guided during our travel, who have been honoured by guidance and found guidance. Our first instructions for them are these: To make Ghussl, say the Shahada, the Kalime-i Tawhid, and to make Sajdah. More than that is not suitable for them at this point. In the beginning this is enough. When we say it like this, they don't even let a week pass … I am seeing that after one week, they have already learned the Fatiha. Of course they are very young and young ones can learn the Fatiha by heart immediately. Of course we let them read the Ikhlas Sharif, too. They get used to reciting the Ikhlas Sharif, too.
+
+(Unfortunately, the new degenerated muezzins in our country have removed Ikhlas from the mosques. They don't recite it anymore because the Wahabis have made it 'bida'. It is stupid to say this. To remove Ikhlas is the work of those without sincerity/Ikhlas; and those without sincerity do not recite Ikhlas. They will suffer a lot during their last breaths and they will be whipped so much. They say, "What is the point of reciting Ikhlas in our mosque?" Whoever is saying this, his orders are batil/false.)
+
+So by listening over and over they [new Muslims], also learn the Ikhlas by heart, and they learn the movements of prayer perfectly. In a short time, they can learn; and many of them also start to write the letters of the Quran/Alphabet. If they write me a letter, I am looking that they begin with the Basmala and write Hamd, Salawat and Salam with the letters of the Quran. If they write in their own language, they always begin with the Basmala, Hamd and Salawat for the Prophet in the old, original (Arabic) letters. They write Salam in Arabic. They are so attentive. Therefore, their progress depends on the 'himma'/dedication of the one who convinced/persuaded them [to accept Islam]. If they follow someone with high 'himma', for sure they will accept the way easily and walk on it. Once Nasrudin Hoja planted something. Later he returned and urinated on the roots and said: "This is the only 'blessed water' you will get!". Like this, of course nothing good will come from it; it will not develop further.
+
+Video Link: http://saltanat.org/videopage.php?id=7841&name=1989-09- 18_tr_YeniMuslimanlar_SN_a.mp4

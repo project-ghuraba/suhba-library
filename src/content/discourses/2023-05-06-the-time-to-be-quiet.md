@@ -1,0 +1,48 @@
+---
+date: 2023-05-06
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2023-05-06-the-time-to-be-quiet.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2023-05-06-the-time-to-be-quiet
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Time to Be Quiet
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh. A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Waṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+Bismi Llāhi r-Raḥmāni r-Raḥīm. "Wa-ttaqū fitnatan lā tuṣībanna lladhīna ẓalamū minkum khāṣṣah" (8:25). Ṣadaqa Llāhu l-‘aẓīm.
+
+Allāh ‘Azza wa-Jalla says, “Beware of fitnah.” Because fitnah comes with oppressors and touches the people who support them as well. A person who is involved in fitnah will certainly be harmed. The time we live in, is the end of time, is the time of fitnah. Our Holy Prophet ṣallá Llahu ‘alayhi wa-sallam has told us about this. In the end of times, there will be, “Harj wa-marj.” This means that bad things will happen. There will be many killed and many killers. These fitan, troubles, of the end of time, that our Holy ProphetNone told us about, are appearing. In these last years, even more has happened, such as the spread of disease and so forth, destroying the people and countries even more. It has made people oppose each other within each country.
+
+This matter has become even more common in Muslim countries. Fitnah has broken out in these places where before there was no fitnah. They are killing each other. They don’t sympathise with each other. These are the fitan, troubles, of the end of time. Therefore, as our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam said, a person should be thankful if he has food, if he has a house, and if he lives in safety. This is the greatest favour. Don’t ask for anything more. Ask from AllāhNone, not from people. Because what people will give you is harm, nothing else. If you act according to your own mind, may AllāhNone protect us, you will fall into fitnah. And those who fall into fitnah will perish.
+
+There is a poor country called Sudan. A civil war has broken out there. Not a civil war, but groups declaring war on each other. The people there are already poor, they live half-starved. They are poor and needy, and as if that wasn’t enough, they now cannot leave their houses. There is no medicine, no food, nothing. Out of nowhere. This is what is called fitnah. So don’t provoke people. No one should be provoked to go out on the streets to shout and yell, “We want this, we want that.” Sit where you are. AllāhNone gives you your rizq (provision). If you say that you will do it according to your own understanding, even what is in your hands will be gone. You enter into fitnah and you lose your soul, you lose what you have. You will be hungry and you will be unemployed. Mankind must use their minds a little bit. Don't rush to the streets provoked by everyone. Mawlānā Shaykh Nāẓim explained this matter years ago. If something happens, Muslims go out to curse and shout. He said that one must never do this. If you do this, no one will listen to you, no one will take you seriously. If you are going to ask, ask the OneNone who gives you your rizq, provision, who hears you and gives you what you want. Turn to AllāhNone. Go to the mosques. Sit in the mosque, make du‘ā’, then leave.
+
+On the other hand, there is Sudan. There are many other countries as well – Pakistan, Sudan, and I don't know where, here and there. They are all going out, according to their understanding, shouting and yelling in the streets. They harm others. Then when fitnah hits them, they starve and can't find anything and what they already have goes too. You must be careful about this. Be very careful in the end of time, the time of fitnah. I think Sayyidunā ‘Alī said it, “Hādhā zamānu s-sukūt wa-mulāzamatu l-buyūt.” He says: "This is the time to be quiet and sit at home." Who does this will be safe. Mawlānā Shaykh Nāẓim had also said this. He used to say, "Go here and there," and in the end he said, "If you sit at home and stay calm, you are under protection." Do not ever think that people will give to you. People only give to themselves. They don't give others. Shout as much as you want, they won’t give to you. May AllāhNone protect us. May HeNone give people this thinking and understanding.
+
+Allāh ‘Azza wa-Jalla saying: Bismi Llāhi r-Raḥmāni r-Raḥīm. "Wa-ttaqū fitnatan lā tuṣībanna lladhīna ẓalamū minkum khāṣṣah" (8:25).
+
+Meaning AllāhNone is [saying], “Be careful from fitnah," from, to be, which it is, fitnah, meaning trouble; making trouble, making from nothing to make trouble. Fitnah meaning this exactly, I think, meaning. When you make a trouble, you will be first one to be affected with this. And if you support them also, you also will be for you also, affect with this trouble, what they do. So for this we are living time which Prophet ṣallá Llāhu ‘alayhi wa-sallam saying, before one thousand four hundred years ago, it will be time, end of time, very bad time, trouble time, fitnah time. Which it will be much terrorist, much killing, much stealing, doing every bad thing. This time it will be who kill, he will not know why he kill. And who killed, he will not know why he [was] killed. This, we are living in this time.
+
+So you be careful to not be support any fitnah. Only be quiet and look for your family, for your job. Don’t interfere with fitnah, don’t say anything. Because, it’s beginning, as Mawlānā Shaykh said. Every day it is worse than before. Everyday coming it is worse and worse, especially since three years. These shayṭān people they make some theatre for illness, Corona and other matters and they was destroying economy. And when economy destroying, they can play with people to make fitnah everywhere. Because they poor countries they're bankrupt, they cannot afford for their people anything and it's easy to make fitnah in this situation.
+
+We are looking now, since maybe fifteen days, suddenly this Sudan, which very poor country, very good people also, very calm people, but fitnah come to them, this country. And since maybe fifteen days or twenty days, there is a group fighting in this country and these people already they don’t have anything for them to live or to, half hungry. And when this coming everything finish. People, they are sending, some our people, they asking for du‘ā’, for them to be safe. Because very bad situation. But this is fitnah, which Prophet ṣallá Llāhu ‘alayhi wa-sallam saying – be careful don’t make fitnah in your country, in your place. Because these people they are shayṭān people [who] tell them go out of street, demonstrate, ask for your right.
+
+Pakistan also same. Everywhere I think, many people same. And they are poor people there. If they not work, they will not eat. So after this, this coming for them, this balā’ (trouble). And now they asking if... We are happy with what we have. But now coming worse situation. With Mawlānā Shaykh, every time he was warning from [against] to demonstrate, going out. Because when you going out, you ask from people, from men like you, like me. And men, people, human beings, if they have even, they are stingy, they are not giving. But already they don’t have anything. What they will give you? Nothing. For this Mawlānā Shaykh, very angry with people who demonstrate. Sometime in Turkey also there was Muslim they demonstrate for they don’t allow for ḥijāb, for something like this. He said this, "You are Muslim. You are shame for you to demonstrate, to ask from people. You must go ask from OneNone who give everything. HeNone is generous. HeNone is giving everything for you. Go to mosque. Sit there, make du‘ā’ for AllāhNone. Go ask from AllāhNone, not ask from people. People they cannot afford you. If they have, maybe they give little bit, but many of them they don’t have anything. And human beings created for their ego to be stingy, but also they finish everything. Because they make isrāf (wasting) they make giving for nothing. Maybe for, they give billions for election, after people they don’t have anything to eat." This is what Mawlānā Shaykh said. It is important to ask from CreatorNone.
+
+And to be quiet, as Sayyidunā ‘Alī said, “Hādhā zamānu s-sukūt wa-mulāzamatu l-buyūt.” "This time, time of to be quiet and to be sit in your house." Because when you go out, you don’t know what will happen for you. As much you be aware and be quiet with your family, it is better for human beings, for Muslim or for non Muslim also. It is time for this, what we will do? But if you throw yourself in this, you will be regret and you will not have anything. AllāhNone keep us safe, in shā’a Llāh. AllāhNone give human being good understanding because most of them no-mind people. Mawlāna Shaykh many times saying, “No-mind people." Quickly from small thing you can make whole country to be crazy, to demonstrate, to destroy, to kill, to steal. After, they will say, "What we done?" So, AllāhNone give us this good understanding, in shā’a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

@@ -1,0 +1,54 @@
+---
+date: 2010-08-06
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-08-06-diving-through-unseen-worlds.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-08-06-diving-through-unseen-worlds
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Diving Through Unseen Worlds
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allah Allah Allah Allah Aziz Allah Allah Allah Allah Allah Allah Allah Karim Allah Allah Allah, Allah Allah Allah Allah, Subhan AllAh Allah Allah, Allah Allah Allah Allah, Sultan Allah zid ya rabbi habibaka Sayyidina l-awalina wa l-akhirin Sayyidina Muhammadin zidhu ya Rabbi 'izzan wa sharafa nuran wa surura wa ridhwanan wa sultana wa ala jami'i l-anbiya wa l-awliya zidhum ya Rabbi 'izzan min 'indi habibika Mustafa wa man tabi'ahum bi ihsan ila yawm il Qiyama.
+
+As-salamun alaykum and O our attenders I am also one member of a big human family and all of us we are members, weak one, members, weak members. And we have been loaded [with] a heavenly, heavenly order - to carry that order. That order just offered to everyone in existance. They are saying 'O our Lord! Forgive us we can't carry!' "wa hamalaha l-insan" (33:72) Man, they say 'O our Lord, we can carry, we can carry.' You can't carry! But, you can carry if Allah Almighty donating you with heavenly power, or heavenly authority. Then, you can carry. You can carry. May Allah forgive us!
+
+O people. We are saying audhu billahi mina sh-shaytani r-rajim Run away from shaytan and say Bismillahi r-Rahmani r-Rahim. When you are, when you are saying holy name of Allah Almighty, stand up! We are weak servants, we are standing only once But, if we can stand up through very minute it is also nothing but it is a good manner that, that we must try to keep at least once.
+
+O our attenders! Look and listen and take something from heavenly, heavenly trainings, that giving to you, if you are keeping that trainings, you may, you may mukafat - [be] rewarded with heavenly, heavenly grants.
+
+As-salamun alaykum our attenders! Give a very short time, even very short time for listening [to] heavenly, heavenly 'khitab' announcement that coming to Earth. Try to keep that order, even once. O our salafiyun and no-mind wahabiyun and salafi ulamas that you are claiming you are ulamas. One question. Perhaps you are going to object when I am standing up and making people to stand up when our Lord's name we are, we are nadhkur, we are saying our Lord's holy name. A question - you may say 'it is too much, too much.' You may say it also when you are sitting. Yes, you may say. One question - If a person, if a person [is] asking to begin praying 'salat' First - fard, when we are praying, first obligation it is takbir. yes! Takbir - to say Allahu Akbar. Do you think that if you are sitting and saying Allahu Akbar it is acceptable? For everything that they are granting our very humble association, it has so many rules, yes! I am saying I am standing up and I am saying Allahu Akbar! Allah gives me much more power every time I am standing. Hal yajuz? If takbiru l-iftitah and you are sitting - not understanding? oturarak Tekbir alınırmı? Tekbir Yes! and they are saying Allahu akbar! But, official, official servanthood that we have been ordered - If we are coming to pray, if we are sitting, we must stand up to say Allahu Akbar! When you are sitting it is not acceptable. Therefore our salafi ulamas they are not thinking on it. And objecting that shaykh always making people stand up. You are no mind people! [There is] no wisdom with you! Looks; praying. When you are coming to pray you must begin by saying Allahu Akbar! When you are sitting on sajjada, carpet can't be. Therefore, don't object someones that sometimes they should give you some punishment. I am nothing here, but my boss, Allahu Akbar, may touch them. Yes. When you are saying takbir, you must say it [when] you are standing. That is a ta'alim - training, training to servants that when they are, when they are saying takbir, you must stand up. Through salat it is, it is obligatory.
+
+Out of salat it is, it is really that also obligatory but, shariat making that a little bit khafif, lighter, lighter because people they are very lazy. They may run, they may run after dunya like dogs running after rabbit. You know rabbit? They are not tiring to run after a rabbit, ya, after dunya. But they are tiring when we are saying Allahu Akbar! Say! Don't worry! Allah going [to be] happy or angry with us? That is our teaching. They are teaching me, I am asking to teach you. Yes. Allahu Akbar! La ilaha illa Allah. Ooh Therefore, O people, try to give your most high respect for your Lord, for your Creator, always, He is asking. Fasjudu! [53:62] 'So prostrate' Allahu Akbar! "wasjudu Rabbukum" Sajda, not fard this, why not? Ayat us-sajda Yes, musa effendi sajda değil mi bu? Always, that order, heavenly order always. Always, if you are not, if you are not raising your head it is ok.
+
+And what about our dunya? We must work, we must do this and... You are not created to run after dunya, to collect dunya, to enjoy with dunya. You [are] created for your Lord, to keep His orders. Where are our ulamas to say this, to teach people, to teach people? Say salafiyun. You are salafi ulamas why you are not saying in, His Sultan's huzur - in king's presence what you are not saying 'Doesn't matter we stand up once.' Every time Sultan coming, going you are stand up. You will never saying this! Even hundred times, coming Sultan, you are standing up. You are not saying it is too much. Once enough? No And what about for Allah?
+
+Subhanahu wa ta'ala, Allahu Akbar Tawba ya Rabbi Tawba ya Rabbi narju Allaha an ya'fu anna We are asking from our Lord [to] forgive us and send us someones whom they may teach us with best manners, best adab. O people! Our attenders, don't be drunk ones. O People!
+
+O People! There is a saying that coming from holy ones, ahli t-tasawwuf, as a description for tariqat people - Murid ibn waqtuh ibn waqtuhu (son of his time) And when we are going to be ibn waqt we must try to keep heavenly protocol - tashrifat - protocol for our Lord. Allahu Akbar! Allah Allah Every time, murid must be awakened - muraqaba - always looking, looking heavenly tajalli, manifestation; to reach to that heavenly manifestation that always coming. And, ahli t-tasawwuf saying - murid ibn waqtuhu. Yuraqib, observing. As a cat coming in front of hole of mouse and sitting like this (concentrated on the hole). As much as you can say (whistle or distract it) Never! Because he is looking something coming from mouse to eat. Every hour, every day, every minute, every third, second and third, the smallest, smallest part of time, always coming treasures from heavents, heavenly treasures.
+
+Therefore, ahli t-tasawwuf that our knowing-nothing ulamas, they are objectng on it - why murids sitting like this? Why they are not opening their eyes to look? And we are saying there is two eyes looking out out 'awalim' (universe). We are looking in our eyes, what is around ourselves. There is now another, another grant from Allah almighty that is inside. That, if this power, may yuraqib, observing from East to West when they are sitting like this [with their eyes closed] that tasawwuf people saying for that - 'mushahada'. değil mi? (isn't it) Muraqaba, after muraqaba coming mushahada. Therefore, mostly they are closing their eyes and their hearts' eyes opening. And must be some, some appearances - Mushahada. Therefore, they like always to make muraqaba.
+
+You think that they are sleeping, no! They are 'gharqan' - diving? Diving through unseen worlds. Yes. O people! Try to reach some heavenly jewels that just granted to mankind. Don't run after dunya like a dog running after a rabbit. You are, you are " tudi' " - wasting your very precious lives. Make muraqaba [so] that should appear on screen - People understand cream? Where is [ice]cream to eat? A screen. Screen. Screen, this. That every thing you may see in it. They are trying not to lose because through every third, through every second, coming such a unseen, unknown appearances that you can't imagine. Therefore, they like to sit like this. Muraqaba. But people saying 'Oh they are old fashioned people they are sleeping! Oh get up and sleep on your bed! Shattana ma baynahum. So far distance though their understanding. And their understanding, real understanding for that person.
+
+O People we are reaching through this week, holy Ramadan Inshallah! What you are saying now it is a ocean, up to end of world, neverending. O! People Insha'Allah, we hoping that hilal Ar-ramadan, crescent of holy Ramadan going to to be first night Laylatu s-sudasa. Monday's night reaching to Tuesday, that night. Beginning Tuesday. Last day for Shaban mu'azzam is Monday and first of Ramadan is Tuesday. Night, you must pray tarawih and say, ahlan wa sahlan ya shahr ar-rahma ahlan wa sahlan ya shahr ash-sharafa Ya ahlan-Baraka Ya ahlan ya shahr al-ghufran Ya shahr ur-rahma!
+
+Ask everything. Don't ask Don't ask [for] stones, that no value, that you are walking on it. Ask from Yakut, Rubies! Ask pearls, ask emerald, ask pearls. Enough you are running after 'fishte' Fertilising. Don't go after that. Run after treasures, treasures, every day and every night. You should be happy here and hereafter. When you are going to be happy? When you are doing your Lord Almighty Allah happy with you He makes you happy here and hereafter. O People! Say astaghfirullah! Astaghfirullah! Astaghfirullah! Tubna wa raja'na ilayk Ya Rabbana Ya Rabbana Ya Rabbana Ighfirlana ma mada ya wasi'a l-karam You have endless, endless generosity oceans. Ask! Ask to grant to you forever.
+
+And we don't know, now we are, we have two or three days sabat, ahad, ithnain, three days more. Allah knows who is going to live. Millions, millions [of] people going to be carried away before reaching Ramadan. And we must also think that maybe this Ramadan [is] our last Ramadan we are not reaching another one therefore, take as much as possible much more heavenly treasures. You should be happy. May Allah forgives us.
+
+O People say Astaghfirullah, Astaghfirullah Astaghfirullah Tubna wa raja'na ilayk ya Rabbana, ya Rabbana ighfirlana ma mada ya wasi'a l-karam bi jahi man anzalta alayhi Surat al Fatiha
+
+http://saltanat.org/videopage.php?id=14399&name=2010-08- 06_en_DivingThroughUnseenWorlds_SN.mp4
