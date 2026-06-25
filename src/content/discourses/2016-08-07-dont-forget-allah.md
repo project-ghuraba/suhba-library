@@ -1,0 +1,48 @@
+---
+date: 2016-08-07
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-08-07-dont-forget-allah.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-08-07-dont-forget-allah
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Don’t Forget Allah
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra llayāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra llayāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra llayāli wa ṭūla d-dawām.
+
+Māshā’Allāh. Must be ṭūla d-dawām. Must be forever. Whatever you do, it must be for Allāh. And whatever you do for Allāh, it's forever. The rest, it's temporary. So many people, they make slogan "This country forever. That party forever. That ruler forever. That I don't know forever." "Wa yabqā wajhu Rabbika dhū l-jalāli wal-ikrām" (55:27) This is Allāh Almighty, He put the last point - saying only remaining - Allāh Almighty's face everywhere. This is everything to Allāh Almighty. There is nothing called forever.
+
+That is... Yes, say "This nation will go forever. That empire will go forever. That ruler will go forever. This party will go forever. That I don't know will go forever." Forget about this. If the person, he start to go in his road in the name of Allāh, that will be forever. If the person will do things for his own ego and own benefit, then it will be temporary. Even goes 100 years, even goes 10,000 years, still temporary. As long as you're putting counting - counting one day will finish. Because Allāh Almighty, He is aṣ-Ṣabūr. That means He is the most patient. He's still monitoring the count down. Tick-tick, tick-tick, tick-tick, tick-tick. They say nobody can stop the watch clicking. If you can stop the watch clicking, then you will be absolute ruler. Allāh Almighty He keep that things for Himself. He keep it in His hand. He keep it to show you how weak you are and to show you how hopeless you are and to show you how you cannot do nothing without Allāh Almighty. This is Allāh Almighty. You have to figure how Allāh Almighty is acting.
+
+Today people, they forgot about Allāh Almighty totally. Muslim, non-Muslim, believer, non-believer - all of them forgot about Allāh Almighty. Today manifestation - for the people to forget about Allāh Almighty. Say "We do. We have technology. We have this, we have that. We do. No problem. We solve the problem." No, you cannot. "We plan". No. If you plan, Allāh Almighty, if He doesn't give permission, your plan will never go, will never work. Don't forget Allāh. If you have weapon in your hand, don't think that you are ruling the world. Because if Allāh Almighty, He give permission for that weapon, that weapon can work. They say when Mahdi ‘alayhi s-salām approaches, he will make 3 takbir, say Allāhu Akbar and the electric power will cut off. And then he'll say Allāhu Akbar, then the petrol will not burn anymore. He'll say Allāhu Akbar, the powder will not fly anymore, will not flame anymore. Today technology, it is based on three things. One is electric, one is petrol and the third is the powder. If there is no three of these powers, will be no technology. You cannot fly your plane. You cannot make your tank to work. You cannot make your missile to bomb. Because not powder is flaming, not petrol is burning and not electric is in power. And the air conditioning will be stopped also. We'll be having heat. Allāh Allāh.
+
+With the three things, the human they think they become the empire of the world, empire of everything, ruling everything. No, it is not like this. See how it's weak. Just to make switch off will finish everything. This is the sign of weakness. Allāh Almighty He give power. But in the same time, He hold the switch on and the switch off. Until today, we discover the electric. But we don't know what kind of power that make everything to generate. We say "Yes, it is like this. It is like that. It is this and this has this reason. And it has that reason. And if you put it in solar, will also generate. If you put it in the wind, also generate. If you put in hydro, generate. If you put it in atomic, it will generate... But what you are generating? "We generate electric". Ya Hū. That electric it has order from the Creator to say "Yes, I am in the order of My servant." Why you not believe in Allāh Almighty? Why you not believe? "No, we discover." If Allāh Almighty doesn't give permission, you will never discover. This is important things in our life to understand that everything coming from Allāh Almighty, if Allāh Almighty He allows.
+
+Now very simple things I like to say. Very simple. If the plane it's ready to take off, only tower will tell "I'm not allowing you to fly". He cannot fly. Everything asks for permission. And you think this planet, it was by itself? Nothing asking for permission? Everything has permission. If you are so clever, make the ant to follow your order. Leave the ant, the virus. Say to the virus "Follow my order." There was nice story about Sulṭān Mahmud, Ottoman Sulṭān, famous one. He was inviting some 'ālim. But he said "I like to pray sunnatu l-wuḍū’" He was so passionable for his prayer. And that 'ālim he entered and he was already in the prayer. And that 'ālim, he was saying "As-salāmu ʿalaykum."
+
+And Sulṭān, he finish his prayer and he said "Do you not see me that I'm praying? And you give me salām when I was praying?" And he said "I think you are not really praying." "How dare you?" And said "You've been thinking about how to fix the window of my palace. That's why, I thought you are not praying. That's why, I said SalāmuʿAlaykum". He was more angry and said "How dare?" And said "O my Sulṭān, don't think I am empty person." There was a fly going around. And he said "O flies, go out of the window." And they become as soldiers and they start to go out of the window. Then he said "We are from people "Lillahi rijalun idha aradu arad" That means we are people that if we wish something, Allāh Almighty He make our wish to come true. "Lillahi rijalun idha aradu arad". We are from that position". He said "I'm accepting". This... Don't forget about Awliyā’u Llah. Don't forget about these people that they have the power to do anything. I'm talking about the other night that some people they wanted to demolish Islām in Turkey. They want to finish the true Islām in Turkey. And Allāh Almighty He put His Awliyā’u Llah that they protect this Islām. Because Allāh never allow the true Islām to be touched. You see the political situation in the world. Everybody biting Islām. Everybody eating from the meat of Islām. Everybody trying to finish Islām in a way or the other. But Allāh Almighty He is protecting, saying "Innā nazzalnā l-dhik'ra wa-innā lahu laḥāfiẓūn" (15:9) This is from Qur’ān Karīm. He says "We send the Qur’ān Karīm and we are protecting for Qur’ān Karīm." And He is also protecting for dīn Islām that is belonging to Allāh. This is dīn Islām, it is for Allāh. It is not belonging for people. It is Allāh Almighty He is the one. This is His property. This is His place and He put His people to protect Islām and to put it.
+
+The true Islām is shining. Nobody can put anything on it. You look for the sun. The sun is shining. If some clouds come in front of the sun, do you think the sun will be affected? Never. Never affected. The sun is still there. That's why we are alḥamduliLlāh happy that Allāh Almighty He give us the guarantee to protect us from all these insects. We call them insects. Because the insects you cannot make friendship with insects. Nobody have a friendship with a scorpion. Scorpion, you cannot put it in your lap and make this for his head, say "It's very nice insect" He will never understand. This is, these people they will never understand. They are insects. They are from the kind of insect, they can kill, they can harm. They can do so many bad things. But Muslim never do bad things, never harm. He is full of mercy. That's why we are happy to be in the right way.
+
+We are happy to invite everybody for the right way. This is our mission to invite everybody to be in the right way. When you have the right way, just follow. Just follow. Because the right way, it is true way. And this is one that bring you for eternity that Allāh Almighty He promise you. This is eternity. This is forever, say forever. Yes, forever when you follow the true eternity way. May Allāh make us from the followers for the truth, make us from the followers for the good, make us the followers for the best of the best that Allāh Almighty He offer.
+
+Wa min Allāhi t-tawfīq biḥurmati l-Ḥabīb biḥurmati l-Fātiḥah.
+
+Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām.
+
+Wa ṣallī yā Rabbi wa sallim ‘alá jami’i l-anbiyā’ī wal-mursalīn wa ‘alá kulli ‘ajma’ina wal-ḥamdu liLlāhi Rabbi l-‘ālamīn al-Fātiḥah.
+
+http://saltanat.org/videopage.php?id=16007&name=2016-08- 07_en_DontForgetAllah_SB.mp4

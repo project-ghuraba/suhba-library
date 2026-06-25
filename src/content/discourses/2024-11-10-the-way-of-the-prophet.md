@@ -1,0 +1,50 @@
+---
+date: 2024-11-10
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2024-11-10-the-way-of-the-prophet.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2024-11-10-the-way-of-the-prophet
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Way of the Prophet ﷺ
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+Bismi Llāhi r-Raḥmāni r-Raḥīm. "Inna d-dīna ‘inda Llāhi l-Islām" (3:19). Islām is the religion sent by Allāh ‘Azza wa-Jalla to humanity. There is no other religion. The religion is one. All prophets are of this religion. All of them are with Islām. Even if the laws change along the way, each prophet passes that trust to another prophet, all the way through our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam.
+
+Our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam said, "Today, INone have completed your religion." Al-yawma akmaltu lakum dīnakum waraḍītu lakumu l-islāma dīna" (5:3). "Your religion is complete today. INone taught you everything," said our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam. HeNone said this to the companions during the farewell khuṭbah (last speech). Certainly, people did not understand our Holy ProphetNone at that time. Only Sayyidunā Abū Bakr understood that our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam was going to pass away and go to ākhirah, now that the religion was complete. He cried. The other companions were not aware of it. Later they understood and felt sad. Those who understood were upset.
+
+Because our Holy ProphetNone, at the age of sixty-three, was much stronger than normal people. HisNone death brought great sadness to the companions. But hisNone duty in this world was not over. It is everlasting. HeNone is ever-living and undying. HeNone is always present. Our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam is present for hisNone Ummah. HeNone is the last prophet. The Ummah that comes after himNone must follow hisNone way.
+
+How is hisNone way followed? It is by connecting to himNone. And connection comes through the Ahlu l-Bayt, the companions, then the ‘ulamā’, awliyā’ and mashāyikh up to this day. That is the right way. People make up other ways as they like and say, "Let us change it a little. Let us do this and that." There is no changing the principals. There is no change in praying, in times of prayers and things to be done. Certainly, when it comes to earning a living, it can be adapted the time you are living in. But the main things – ḥajj, praying, zakāh, fasting – all of them continue on the same way. There is no change in them. And that is the way of ṭarīqah. Our ṭarīqah is to follow our Holy ProphetNone, to go on hisNone way, to carry out the orders of AllāhNone. Nothing else. There are many people who make fitnah. There are many people who can't tolerate it. They want to take out this light. "Yurīdūna li-yuṭfi’ū nūra Llāhi bi-afwāhihim wa-Llāhu mutimmu nūrihī wa-law kariha l-kāfirūn" (61:8). They want to extinguish the light with their mouths. This light cannot be extinguished. Allāh ‘Azza wa-Jalla will complete this light. Shukr to AllāhNone, this light is with Muslims who are on the right way, with Muslims who are on the way of our Holy ProphetNone. This light cannot be extinguished. This light will go on with permission of AllāhNone. They can make fitnah as much as they want. They can like it, or not. We are in ṭarīqah. Our ṭarīqah is Naqshbandī. There are forty-one ṭarīqahs. They are true ṭarīqahs. Those who like it, like it. Those who don't, may leave it.
+
+That is the oath between us and AllāhNone. That is our word. That is the word of our Holy ProphetNone. It won't change, in shā’a Llāh. This bay‘ah is the bay‘ah of our Holy ProphetNone. We are continuing on the same way, with Allāh’sNone permission. People may speak as they like. Wahhābīs, Salafīs, or I don’t know what else. We are not afraid of anyone. And we don't owe anyone anything. People may like it. And who don't like it know for themselves. May AllāhNone be pleased with us. That is enough for us. May AllāhNone not separate us from this way. May AllāhNone not confuse us. There are many confused Muslims. They destroy themselves. This right path, the one that leads to our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam, has remained unchanged for 1,400 years. Lately, there are people who change it. They are unlucky people. May AllāhNone protect us from their end. May HeNone not separate us from the right way. May HeNone give guidance to people.
+
+Allāh ‘Azza wa-Jalla say in Qur'ān, "Inna d-dīna ‘inda Llāhi l-Islām" (3:19). Ṣadaqa Llāhu l-‘Aẓīm. The religion, it is Islām for Allāh ‘Azza wa-Jalla. This religion, HeNone gave us for human being. For whole human being, since Ādam ‘alayhi s-salām, until now. Whole, it is Islām. You cannot say Judaism, Christianity. All prophets, Islām. But they are coming from, since Ādam ‘alayhi s-salām, until now. Until Prophet ṣallá Llāhu ‘alayhi wa-sallam, they was only changing by law or some – what time it is for them, need – until coming to Prophet ṣallá Llāhu ‘alayhi wa-sallam.
+
+Which, Prophet ṣallá Llāhu ‘alayhi wa-sallam saying in last speech in ‘Arafāt, Ḥajju l-Akbar, "Al-yawma akmaltu lakum dīnakum waraḍītu lakumu l-islāma dīna" (5:3). Meaning, "Today, INone complete your religion and INone accept Islām [as the] religion for all of you." And this was Prophet ṣallá Llāhu ‘alayhi wa-sallam, heNone, only once heNone make ḥajj. This ḥajj, it was Ḥajju l-Akbar. HeNone address for more than one hundred twenty thousand ṣaḥābah (companions) in this, ‘Arafāt. And ṣaḥābah was listening, of course, with miracle, mu‘jizah of Prophet ṣallá Llāhu ‘alayhi wa-sallam, to make this whole people listening for himNone. It's also one of hisNone miracle. And ṣaḥābah wasn't, not taking... normal it was for them. But only the nearest one, hisNone friend, Abū Bakr aṣ-Ṣiddīq, he understand. He was crying. He said, "This meaning Prophet ṣallá Llāhu ‘alayhi wa-sallam, heNone will change hisNone life, to ākhirah." So, he was crying.
+
+But of course, Prophet ṣallá Llāhu ‘alayhi wa-sallam, hisNone body is strong like – sixty-three year – but like, not look like to be heNone will be pass away or heNone will be... HeNone was very strong, young looking. Even hisNone beard, only maybe seven or eight white in hisNone beard. So nobody was really understanding this, only Abū Bakr, Sayyidunā Abū Bakr. And he was crying because heNone said, "When something to finish, complete, must be change." So for this, he was crying. But here meaning, the all what we in need for our religion, Prophet ṣallá Llāhu ‘alayhi wa-sallam, heNone taught us. And heNone gave this Ummah to follow this order. Who follow this order, he will be safe, himself.
+
+How we can do this? After Prophet ṣallá Llāhu ‘alayhi wa-sallam, of course coming, they came, ṣaḥābah Khulafā’u r-Rāshidūn, after, from them coming ṭuruq, in way of ṭarīqah, taṣawwuf, for ummah. This chain coming, one by one, to Prophet ṣallá Llāhu ‘alayhi wa-sallam. They are in contact with Prophet ṣallá Llāhu ‘alayhi wa-sallam, until end of the time. Who follow this, he will be safe. Who not follow, it is in danger because many people cheating people. They are saying, "This Ṣūfī, this Sharī‘ah, who following madhhab, following ṭarīqah, they are not good people."
+
+But, al-ḥamdu liLlāh, we are, in shā’a Llāh, in way of Prophet ṣallá Llāhu ‘alayhi wa-sallam. The right way from ProphetNone – and from Prophet ṣallá Llāhu ‘alayhi wa-sallam, since one hundred... for 1,400 years – same way, no changing. Many of them, since day one, after Prophet ṣallá Llāhu ‘alayhi wa-sallam, there many people, many cheater, many traitor coming against Islām. They claiming, "This is right way." But all of them they defeat, and they throw in garbage, dustbin, all of them. Only [the] way of Prophet ṣallá Llāhu ‘alayhi wa-sallam, which it is by ṭarīqah, forty-one ṭarīqah. Al-ḥamdu liLlāh, we are one of them, Naqshbandī ṭarīqah. We are proud with this. Even people, they are claiming "This is not good, this is good." Al-ḥamdu liLlāh, we are sure, because we are contact with Prophet ṣallá Llāhu ‘alayhi wa-sallam, his way. We not going out of way. We are proud of this. We are happy with this. Other people who is not happy, we are not care about them. We are not... be to do what they like. We do what order coming, what Prophet ṣallá Llāhu ‘alayhi wa-sallam, taught us. We doing this, same as time of Prophet ṣallá Llāhu ‘alayhi wa-sallam.
+
+AllāhNone keep us safe. AllāhNone give hidāyah (guidance) for this people, because everywhere we going, since this whole travelling, every, any place, shayṭān and his follower attacking. They are not happy at all, of course, shayṭān. Why? They ask shayṭān, "Which one you most hate him?" He said, "Prophet," ṣallá Llāhu ‘alayhi wa-sallam. Al-ḥamdu liLlāh, we are also, al-ḥamdu liLlāh, we are happy to shayṭān to hate us. AllāhNone make AllāhNone happy with us, make shayṭān hate us, in shā’a Llāh. AllāhNone keep us safe, and give hidāyah for these people who is cheated by this people, who speaking, lying every time, changing right to wrong, and wrong to right. And they do everything exactly like shayṭān. AllāhNone save people from them, and give hidāyah for people who AllāhNone like to make them good for them, in shā’a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

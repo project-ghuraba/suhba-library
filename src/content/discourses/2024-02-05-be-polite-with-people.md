@@ -1,0 +1,52 @@
+---
+date: 2024-02-05
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2024-02-05-be-polite-with-people.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2024-02-05-be-polite-with-people
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Be Polite With People
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+Our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam says leading a person to guidance is better than this world. It is more precious for the person. And to treat guests with favour is the manner of Prophets and Awliyā’. People who want to walk in their steps must follow this. And our ṭarīqah, Naqshbandī ṭarīqah conforms to these manners fully. Of course, may AllāhNone be pleased with other ṭarīqahs as well, people learn all these beautiful manners in ṭarīqahs. They learn adab, good manners, and everything good in ṭarīqahs. It may seem like they learn outside of ṭarīqah. However, because their ego overwhelms them there, eventually they break away. No benefit comes to them, and it doesn't last.
+
+As we said, ṭarīqah is the place of adab. It is the source of adab. And as we said, we must conform to adab. People who say they are in ṭarīqah must conform to this before everything else, especially people who are inside the dergah. People who come to the ṭarīqah from outside as well, as soon as they enter the door of the dergah, they must pay attention to such matters. It is very important, because people who come to this door come by fighting against, not a hundred, not a thousand, but a hundred thousand shayṭāns. Because shayṭāns strive to prevent them from benefitting from this thing and from joining this way. People come to this door with difficulty. And then stupid people from the dergah, who say they are in ṭarīqah, are able to do something unpleasant to them when they meet them.
+
+People who don't know the adab of ṭarīqah and the adab of Islām are sent by AllāhNone to join this way. And when they see such a bad treatment, or when they see something unpleasant when they come here, they run away. "What is happening here?" You miss so much virtue then. And you may also carry the punishment for it. Therefore, serving in the dergah, being in the dergah, being in ṭarīqah is not an easy thing. As much as it is not easy, as much as it is precious. It is virtuous. It is good.
+
+We hear things from many people. Moreover, we witnessed it yesterday. There was an incident where someone standing next to us was pulled by his hand so that he nearly fell. That happened in front of us. AllāhNone knows what is happening behind our back. We get upset with such things. This is wrong. Those in ṭarīqah must not do things like this. If someone goes somewhere by mistake, you can warn him nicely by saying "It is not here. It is there." Also, you don't need to interfere in things that don't concern you. The man was standing next to us with adab. Whoever it is, a foreigner or other, we must pay attention to this. Rather than doing wrong to someone, it is better to have a hundred thousand wrongs done to us. This is important. We must be careful about this.
+
+It is necessary to do goodness and to welcome nicely those who come. It is appropriate for us. It suits us and it is necessary for people in ṭarīqah. But if you are going to interfere with everyone, go and work somewhere else. Work somewhere they need you to tell everyone to do this and that. These people came with feelings. They came for feelings. AllāhNone opened their feelings, and they came here. If you oppose and make them run away, as we said, you will be deprived both of reward and there will be a sin for you. Perhaps, someone has come in repentance. When they see this, they may think, "Is this Islām? Is this ṭarīqah?" shayṭān is already making huge things out of tiny things everywhere. He can't figure out how to take people away and you are helping him in that. This is something mashāyikh don't like. Mawlānā Shaykh Nāẓim is still helping people. He is calling and bringing people from so many places. What are you doing in return for what he does? You are pushing people away. You are treating people badly. That is wrong.
+
+What must be done is to treat them with favour. Everyone has his place. Every guest has a place to sit. You must show it. "You should come here. Come this time, or that time. He [the Shaykh] will be here at this time and you may talk. This time is not good." Some people don't know, of course. Our manner is that we don't accept people late at night. And it is possible to say this nicely. You must not say this by shouting and getting angry. You may say, "If you come at this time, there is ṣuḥbah. And you may see him at this time." It is not difficult to talk with goodness. Goodness brings goodness. And badness brings you distress. May AllāhNone protect us from the evil of our egos.
+
+As we said, you must tell what you know. You must tell what is required from you. And you must not interfere in what is not required of you. They say, "Li-kulli maqāmin maqāl; wa-li-kulli ormanın çakal." This is the last thing for you. "There is a way to talk for every level. And there is a jackal for every forest." May AllāhNone not make us from the jackals.
+
+Prophet ṣallá Llāhu ‘alayhi wa-sallam saying to bring one for hidāyah from people, from human being, to bring them for Islām or for ṭarīqah or for anything, because Muslim also they are not practicing, not looking. So to bring one for hidāyah, to make him mu’min, ṣāliḥ (righteous) one, believer, it is better, more valuable from whole this world – Prophet ṣallá Llāhu ‘alayhi wa-sallam saying. So it is very important, for ṭarīqah people especially, to make people happy with you, with ṭarīqah, and to treat them in good behave. Because all ṭarīqah, especially Naqshbandī ṭarīqah, the base of them – good behave. "Adab. Adab. Adab" – saying Mawlānā Shaykh ‘Abdu Llāh ad-Dāghistānī.
+
+So they are, our people, especially who saying "Adab yā Hū" – they are treating people badly. This is not good. Especially who are near dergah, near... When people coming, because people until when they coming to door of dergah or mosque or any place who blessed one, AllāhNone bless this place, they are not hundred shayṭān – thousand, maybe hundred thousand shayṭān prevent them to don't go. "Don't go," pushing them away from this. So some of them by chance they are coming for dergah and when they enter, they see this people must be who looking in dergah, people of dergah or ṭarīqah people, they must make them not feel fear. Because people, when strange people coming to some place, they are little bit fear... anxious. "What is this? What is that?" So, and when you are saying, "Don't do this, don't that, that" – so people, many of them, I hear they are running away. "This, what is this? We are coming there the first time and they were shouting for us and we never go again." I hear many time this.
+
+Even yesterday here I was. Who standing near me, al-ḥamdu liLlāh, he is old murīd, he not run away. They pull him, he nearly will fall down. He standing near me. For this I was very angry to see this. Even in beside me they do this. How they can do this behind me? This is not from ṭarīqah, not from adab of ṭarīqah; not adab from Mawlānā who is still in charge here and whole world. He sending people in the dream. Every time, every day I meet three, four people, they, Mawlānā, they said, "We see Mawlānā in dream but we didn't know him. And he said, go take ṭarīqah, go to dergah." And he is doing this and this people they are treating people badly. Mawlānā not happy, AllāhNone not happy, ProphetNone not happy with these people. Because this people must be treat well to make them more good people to come to ṭarīqah; more bad people to finish from badness of people, [be]coming good people. This is very important.
+
+Many people they can pray, they can fast, they can do everything. But this is, it is sometimes more important because when you do, you make some people run away from this, you will lose first, reward from AllāhNone. After also maybe AllāhNone be punish you because this man he intend to come here to take bay‘ah, to repent, take tawbah and not doing anything more from this. Because with jamā‘ah, with ṭarīqah, people together they will be slowly, slowly will be happy together. But when you send them out, there is also bad gathering they will take him and finish him from everything belong to ṭarīqah or Islām. It is very important. And also, you must don't give your opinion for one for... Because many time your opinion is wrong. So better to think good for who is not good. You can think good for good one.
+
+So it is very important for our people to look for themself and to not follow their ego. Because here ṭarīqah it is for heart, love of heart. We are not jamā‘ah gathering, community or other thing which it is they are look like they are doing good but inside them [is] nothing good. But ṭarīqah inside, outside – it must be good, in shā’a Llāh. AllāhNone help us. This is everywhere, this illness. Because why this doing this? Other we go, some people they say, "They treat us very bad. We go place, not good place, they are more welcoming us. They are welcoming us." Of course, because here place of AllāhNone. Other place, of course, for shayṭān no need to make this. But here they must make some destroying, putting something to make people run away. This is also some wisdom from what happening. But don't make this. Control yourself. Be polite with people, in shā’a Llāh. Wa-min Allāhi t-tawfīq, al-Fātiḥah.
+
+Video Link:

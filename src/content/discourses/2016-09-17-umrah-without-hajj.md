@@ -1,0 +1,46 @@
+---
+date: 2016-09-17
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-09-17-umrah-without-hajj.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-09-17-umrah-without-hajj
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: ‘umrah Without Ḥajj?
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-salāmu ‘alaykum wa raḥmatu Llāhi wa barakātuh. A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr yā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistāni, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa l-khayru fi l-jam‘iyyah.
+
+We have to beware of things that Allāh (jj) has forbidden. You can't say it is permissible. We can't say permissible for the things that Allāh (jj) has forbidden. Forbidden things are clear. We understand that. It is also wrong to say forbidden to the things that are permissible. That is also a sin. So we need to ask about things that we don't know about sharī‘ah and religion. We can't say "we thought this could be..." If you aren't sure you shouldn't say it. Or you should say "I guess it is like this, but let's ask if it is permissible or forbidden." You need to double check because if you say forbidden to a permissible thing you'll commit a sin. Someone won't do it because it is forbidden, then someone else won't do it, then permissible things will seem as forbidden, which is not ok.
+
+Our brothers came, they are going to ‘umrah. They are asking: "Can we go to ‘umrah before going to ḥajj?" If they have money, ḥajj is a farḍ (obligation). If they have money enough only to make ḥajj, ‘umrah isn't a farḍ. Ḥajj is farḍ. Going to ‘umrah in unnecessary. Because what does it mean it is farḍ on you? If you don't do farḍ, you commit a sin. Because people don't understand that ḥajj is a farḍ, we need to do it. They think if you can do it, do it. If you can't, don't do it. It is one of the five pillars of Islām. If you have money, it is farḍ to do it. It is ok if you don't do ‘umrah. Or you have money and go to ‘umrah now. At ḥajj season, you go to ḥajj. In some countries you can go to ḥajj whenever you want. It is definitely farḍ for you. But in countries, that draw lots, now all Muslim countries are like that because there isn't enough quota. You can go only if your turn comes in five, ten years. If this is the case, it isn't your fault. If Allāh (jj) didn't give you that much life you aren't accountable for that sin. Because you registered, you want to go but it isn't your turn, you can't go otherwise. So that alters the case. Then you can go to ‘umrah if you like.
+
+But it is an important issue is ‘umrah before ḥajj forbidden or not? It is not a sin but like we said if you have money enough only for ḥajj, no for you. If you saved that money and there is no obstacle, first you have to go to ḥajj. If you still have money left you can go to ‘umrah whenever and as much as you want. This is an important matter because people don't place importance on ḥajj. This is the problem. We saw people couldn't go to ḥajj. Mawlānā used to say; "If you start saving money today, put a money box. Say I'm doing a separate money box for ḥajj. Put five lira, ten lira as much as you can. How many years it will take to make that money you can go to ḥajj with Allāh's permission." Many people went to ḥajj with this good advice of Mawlānā. But with the money you saved, if you say "I couldn't go to ḥajj, I can go to ‘umrah" you will run out of money again, you can't go to ḥajj. That's why people, who don't have chance to go to ḥajj they should save that money for ḥajj. If you can't go the first year, you'll go the second year. If not whenever you have money, you'll do that farḍ. You'll get that reward.
+
+Doing the farḍ of ḥajj even if you do a hundred thousand nāfilah it won't take the place of one farḍ. Farḍ is important. So you need to be careful about religious matters. You can't decide yourself. It isn't right to listen to what people say. First we try to complete the farḍ, in shā’a Llāh. May Allāh (jj) destine it for everyone in shā’a Llāh.
+
+In our religion, Islām religion it is very sensitive and very top of the best system Allāh He is creator, He create this, the last religion Islām. He said "today I complete your religion." The end, no more Prophet, so it must be perfect. And it is perfect. And everything clear there. What is good what is not good, what is sin, what is ḥalāl, ḥarām. Ḥalāl ne demek? What is forbidden and what is not forbidden it is clearly open. So to say for forbidden thing by the Lord Allāh (awj) it is not forbidden it is sin, you cannot say this. For forbidden bad thing it is good and it is allowed to do it - we cannot say this. At least everybody they know this, but there is another thing also: to say for thing that Allāh allowed to do it and it is, you can do it, it is not allowed to do, and it is sin to do. It is also sin for who are saying this, wrong thing this! For allowed, Allāh allowed to do this and He is not forbidden, you cannot say it is forbidden. It is same wrong as you are doing wrong because you are mixing what Allāh He put this system, so you are saying opposite. It is also big wrong and sin to say this.
+
+Everything you must be follow and if sometimes maybe you see something you think it is good, you give your opinion - "this is my opinion and I think it is good." But you must say - "maybe I am wrong, we must look also for this." When you say this ok, but "O not my opinion it is ok, you can do it" you say, it is not allowed to - wrong this is. Every time you must... because human being he has many times saying wrong thing, thinking wrong thing. So we mustn't put ourself in risk. You must say it is "we don't know, we must look it look like right, look like it is wrong." Don't make it absolute.
+
+And, today Shaykh Abdul Aḥad, Abdul Wāḥid, he said, asking about ‘umrah... How it is allowed to go for people who are not going for ḥajj? It is allowed to go to ‘umrah without ḥajj? And it is he said, this every good question, because many people they're doing by their... just without asking, without... they going ‘umrah, they're going without asking. And even many times they're asking Mawlānā, and Mawlānā he was not giving permission, they are going without permission also. He asked this very good...and it is obligatory to go to ḥajj, not to ‘umrah. If somebody he hasn't been in ḥajj, once in the life he must be going to ḥajj, pilgrimage. After he can every time he can anytime he can go if he like. But who are....has money and his health everything good, first he must go to ḥajj. But if he not have money enough - Mawlānā many times he was saying for people, "you must put everyday one place, one corner, box - this only for ḥajj. Put one euro, two, five pound, ten pound, as much as you can, and in one year, two years when it is enough for you to go to ḥajj. First go to ḥajj. But who has money and he want to go ‘umrah and he can go to ḥajj - this we cannot say anything for him. Ok he can go ‘umrah. After he can go to ḥajj.
+
+But for people not going for ḥajj and especially for Muslim in Europe or America, it is easy for them anytime they can go, any years they can go to ḥajj. Not like our country. In our country we know people nine years still waiting for lottery. Not coming for them. For these people obligatory to make obligatory, very important. Obligatory it is better than 100.000 Nāfilah, you do. If you do 1000 times ‘umrah and not doing ḥajj, it is not [equal to] one ḥajj even. And when you go to ḥajj also after ḥajj every time now there's ḥajj and ‘umrah. Same time they can do. For this we are saying who are, they didn't go to ḥajj before, better for them, make ḥajj first. But as we said, if they have enough money to go ‘umrah and ḥajj, they can. Somebody saying it is ḥarām to make ‘umrah, but not ḥarām. Better if they don't have money to collect money. But if they know they don't have, it is not obligatory for people who are not, to get money. Until your money to complete for ḥajj, you are not responsible. But if you have money and you didn't go you have responsibility. But for ladies also Allāh make for them to be with husband or relative so for them easier. But for men, it is not like this, he must go.
+
+Allāh, in shā’a Llāh, make it easy for everybody. It is nice worshipping, nice to be in front of Ka‘bah and this. ‘Arafāt, the day when Allāh (awj) looking for people it is really good thing to be there. It is really important thing. Don't make seeing it as nothing. No. It is very important, because once in life people they are, many people, even every Muslim, somebody saying: "we are going when we are old. We are young still." But no, it is better to be in, when you are strong, not to be weak. Allāh give everybody this nice visit for ḥajj, in shā’a Llāh.
+
+Wa min Allāhi t-tawfīq, al-Fātiḥah.
+
+http://saltanat.org/videopage.php?id=16208&name=2016-09- 17_tr_UmrahWithoutHajj_SM.mp4

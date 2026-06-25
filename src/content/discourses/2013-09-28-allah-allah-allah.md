@@ -1,0 +1,52 @@
+---
+date: 2013-09-28
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-09-28-allah-allah-allah.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-09-28-allah-allah-allah
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Allah Allah Allah
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Let's say Bismillahi r-Rahmani r-Rahim. How beautiful! Let's say it. La ilaha illAllah Sayyidina Muhammadun Rasulullah. MashaAllahu kana wa ma lam yasha' lam yakun. May our day be beautiful. May our goodness be vast. May our Lord be pleased with us. May we say Bismillahi r-Rahmani r-Rahim.
+
+O lovers of Shah Mardan, how beautiful you are. How beautiful your association is. The association of lovers is beautiful. They are attached with affection to their Lord. They are full of the bliss of love. O holy ones, send us help. Go ahead, O Shah Mardan. How beautiful Shah Mardan is. Go ahead, O lovers of Shah Mardan. Let's be filled with affection, let's be filled with love. Let's be filled with the bliss of love. Let's be filled with the affection of our Lord. Let's be filled with the love of Janab-ul Haqq. How beautiful the association, the bliss of love of the lovers is. O our Lord, may we be filled with love, may we be filled with affection and the bliss of love. O lovers of Shah Mardan. Marhaba, O lovers. Marhaba, O Shah Mardan, marhaba. Who receives marhaba from heavens is not distressed, is not worried. He is full of the bliss of love, he wants his Mawla. They want their Mawla. O our Lord, may we be full of affection, may we be filled with divine love, bliss and affection.
+
+Go ahead, O Shah Mardan, your lovers adore you. Don't busy yourself with eating and drinking. Busy yourself with the bliss of love. Look to be loaded with the bliss of love. The one without love and bliss is dead. He's got no value. The bliss of love revives a man. May we be revived. May we be revived with affection. O lovers of Shah Mardan, what we ask from you is the bliss of love and affection. If not, that one is dead. He's dead. Let us be among the living. Be alive. Revive. How do you revive? You revive with the bliss of love. Go ahead, O Shah Mardan. May we be loaded with love and bliss. We ask for it, O lovers of Shah Mardan. Who comes to Your door won't die, my Allah. He won't die, he'll revive. Let's revive. Let's say "Allah". O lovers of Shah Mardan, don't be dead, be alive.
+
+Go ahead, O Shah Mardan. Your lovers adore you. May affection, the bliss of love - the bliss of love and affection be granted to us. We ask for it, O our Lord. O lovers of Shah Mardan. Give us, too. He'll give us, too. May we have a share from that love, from that bliss. O our Allah, the Owner of the earth and heavens - What we ask from our Mawla is the bliss of love. Go ahead, O Shah Mardan. Favour us with the bliss of love, load it on us so that we revive. Let us revive. Let us not be dead. O Shah Mardan, may we be loaded with the dress of courage from the order of manliness. May we be loaded. First of all, let's say, let's recite the Name of Allah first. The Name of Allah Jalla Jalaluhu, let's recite His Name first. The phrase is necessary for every servant. Let us say Allah in every action. This is necessary. Who doesn't recite it is dead. The reviving word is Bismillahi r-Rahmani r-Rahim. Go ahead, O Shah Mardan. May we revive with the bliss of Your love, O our Lord. Go ahead, O Shah Mardan. Let's recite, let's say "Allah" first of all. Let's be alive. To be alive, revive. Be alive. Don't be dead. Be alive. How do you become alive? Say "Allah, and revive. Who doesn't say "Allah" is dead. Who says "Allah" is alive. O our Lord, grant us, too. Grant us, too. Your favours have no limits. Go ahead, O Shah Mardan. How beautiful the kindness of our Lord is. Let's say "Allah Allah Allah, Rabbun Allah, Hasbun Allah." Let's say it and revive. The entire universe says "Allah". Allahu Allah Allahu Rabbi ma li siwahu illa Hu. Who shall we ask for? We ask for You, Rabbuna. Give us love. Love gives life to a man. The bliss of love gives relief to a man, it gives pleasure, it gives strength, it gives beauty, it gives freshness, it removes worries. O our Lord, may we remember Your glorious Name. May we say "Allah Allah Allah."
+
+Go ahead, O lovers, let us say "O Yazdan, You are Rabb-ul Izzet." Let's recite Your glorious Name so that we open, become empowered and get relief. We long for our Lord. We ask for our Lord. We ask for the bliss of love from Him. A man without love is dead, he's rubbish. O our Lord, You dressed us in the adornment of faith. Dress us in the adornment of love and bliss. Dunya has not even the worth of a penny. Ad-dunya jifa - Dunya is a carcass. It's not something to be loved.
+
+Marhaba, O lovers. O lions of Allah, marhaba to you. Marhaba to you. May marhaba come to you from the heavens. Marhaba, O Shah Mardan, marhaba. Allah Allah. May our strength not be cut. O Shah Mardan, may our strength increase, may it increase with bliss and love. May our belief increase. May our light increase. May our relief increase. O Shah Mardan, marhaba. Let's recite the Names of Allah first. It's necessary for every servant. If someone is not remembering the Name of Allah, he has no value. O lovers, let's say "Allah, Allah, Allah." How beautiful! O lovers of Shah Mardan, may life be breathed into us. We want life, we ask for life. We ask for affection from Rabb-ul Izzet and love, which will regenerate us. May it revive us. May we be filled with the bliss of love.
+
+The sun rises every day. What does it rise with? With the bliss of love. If it doesn't have the bliss of love, it cannot rise. If it doesn't have the bliss of love, the sun cannot show its rays. O our Lord, may our souls be brightened with the light of faith. May they open. Let us ask from Janab-ul Haqq, let us ask for light from Janab-ul Haqq. Let's ask for light. A man without light is not worth a penny. Light. Let's ask for light. O our Lord. O lovers of Shah Mardan. Our Allah. Our Lord, may we be filled with light. Who is not filled with light is not full with the bliss of love. Ask for the bliss of love. Ask for the bliss of love from Janab-ul Haqq. May we revive. May we revive. May we revive with the light of the heavens. Our Allah, our Sultan, You are Subhan, You are Sultan. Janab-ul Haqq dresses in light. He dresses in light. May He dress us in light, too. "Kuni bardan wa salaman 'ala Ibrahim." (Be cool and safe for Ibrahim) (21:69) "Kuni bardan wa salaman 'ala Ibrahim." Allahu Akbar, Allahu Akbar, Allahu Akbar. What an honor to Prophet Ibrahim. To Prophet Ibrahim - "kuni bardan wa salaman 'ala Ibrahim." (21:69) A huge fire, a fire set by Nimrod was extinguished. It was extinguished - Love, divine Love. Go ahead, O Shah Mardan. Light will extinguish the fire of hell. Run towards light. Run towards light. Ask for light. Allahu Akbar.
+
+Beautiful states. Beautiful states. What beautiful states Janab-ul Haqq has granted to His servants. He filled our souls with the bliss of love. A man without bliss and love has no value. O our Lord, our Subhan, our Sultan, don't leave us without love. Load us with it. May love be loaded on us according to our strength. May bliss be loaded, may affection be loaded. We want our Lord. O our Lord, You are Subhan. You are Sultan. O our Lord. Your favours and kindness have no boundaries. Your kindness has no boundaries. Go ahead, O Shah Mardan. Let's say, O lovers of Shah Mardan, may we be filled with the bliss of love. Let's say "Allah, Allah, Allah, Subhan Allah, Sultan Allah."
+
+O lovers of Shah Mardan. What beautiful affection you have, how beautiful your bliss of love is. How beautiful! The bliss of love makes a man beautiful. Therefore, Janab-ul Haqq says "I created My Beloved beautiful. His beauty is not given to anyone else. My Beloved is beautiful. I created My Beloved beautiful. Keep his way so that you become beautiful, so that you become glorious and be like the sun in the universe." Go ahead, O Shah Mardan. Your lovers adore you. May we not die. Who says "Allah" won't die, who says "Allah" doesn't die. Our Allah didn't create us for dying. Allah Allah. He didn't create us to die. He created us in order to live. Allah has given life. Life has beauties in it. Mawla made us beautiful, He gave us beautiful life. He made us beautiful. Beautiful people don't die. Beautiful people don't die. Ugly ones die. Shaitan will die. The sons of Adam will grow high.
+
+Go ahead, O Shah Mardan. You are beautiful. People opposed to you are ugly. Run towards the beautiful. Let's run towards Beauty. Let's say Bismillah Bismillah Bismillahi r-Rahmani r-Rahim. Let's be loaded with Bismillah. Be loaded with the Bismillah Sharif and don't fear. Allahu Allah. Go ahead, O lovers of Shah Mardan. May we revive. May we revive with the bliss of love. Allah Allah Allahu Haqq Haqq Haqq. All Prophets said this. They said Haqq. Haqq (Truth) is beautiful, false belief is ugly. Be with Haqq to be beautiful. Run away from false beliefs to be beautiful. False beliefs make you ugly. Run away from false beliefs. Be with Haqq. Don't be afraid. Even if the whole world is shaitan, can it harm you? It cannot. Haqq. Who is with Haqq is a winner. He's a winner. Who is with false beliefs is rubbish. He is rubbish. He will disappear. You keep the side of Truth to be seen. To be seen in the mirror of Haqq. How beautiful you are! How beautiful you are! Be on the side of Truth.
+
+O our Lord, O our Lord. Mawla has given us beauty. He gave us beauty. We are on the side of Haqq. Janab-ul Mawla made us beautiful. O our Lord. Haqq. You created us with Haqq. You gave us beauty because we are with Haqq. Who is ugly? The one with false beliefs. Who owns the false beliefs? Shaitan. May Allah keep us away from him. Fatiha.
+
+Our Beautiful Allah. He didn't create Adam ugly. He created him beautiful. Our Mawla has granted us beauty, too. He didn't create us ugly, He created Adam beautiful. Allah Allah. Shaitan is ugly. The Prophet is beautiful. Mankind is beautiful. Ya Rabbi. May He put us among the beautiful ones. Don't put us among the ugly ones with shaitan, O Lord. May our strength increase, ya Rabbi.
+
+Fatiha.
+
+As-salamu alaikum. May peace be on us, may we be beautiful.
+
+Fatiha.

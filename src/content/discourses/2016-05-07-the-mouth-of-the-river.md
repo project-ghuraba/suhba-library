@@ -1,0 +1,52 @@
+---
+date: 2016-05-07
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-05-07-the-mouth-of-the-river.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-05-07-the-mouth-of-the-river
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: The Mouth of the River
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+With the permission of Mawlana Sheikh Hisham,
+
+SH: Astaghfirullah, you are khalifa, Sheikh.
+
+Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahumma salli wa sallim 'ala Nabiyina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. Allahumma salli wa sallim 'ala Nabiyina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. Allahumma salli wa sallim 'ala Nabiyina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam.
+
+Ya salam. Today is the second year of Mawlana Sheikh by his meeting to his love. Mawlana Sheikh, he was loving his Sheikh too much, beyond too much. And his Sheikh, he was loving his Sheikh beyond too much. And his Sheikh been loving his Sheikh beyond too much, until reaching Sayyidina Muhammad (saw). One day we've been with Mawlana Sheikh in the boat and we've been in the mouth of the river going to the sea. And the scene there was the river and the sea, it was coming together. You cannot separate river from the sea. They call it mouth of the river. It's so huge. He was saying "Look, bre Bahauddin, the mouth of the river, it is Grandsheikh coming to the sea, coming to the ocean. You're not knowing which one".
+
+He say this knowledge coming from RasulAllah (saw). Whatever RasulAllah (saw) have in his chest, he give to Abu Bakr. Abu Bakr to Salman, Salman al-Farsi, Ja'far, Yaqub, Tayfur, Abu l-Hasan, Yusuf. All these Grandsheikhs, everybody he put from him also. He put from him and becoming for the ocean of Allah Almighty. I was saying "You see all this what coming from chase to chase, and it's coming for my Sheikh chase." And see this is my Sheikh chase. I say "What about you, my Sayyidi?" He said "Don't mix up. It is not your job. It is my Sheikh." Mawlana Sheikh, he see only his Sheikh. He didn't see another thing. He didn't see himself. He didn't allow us to see him. Whatever he say - "My Sheikh". Whatever he say - "My Sheikh". Whatever he was mentioning "My... It is not me. There is no me. There is no I. It is only things my Sheikh." I say "Ya Mawlana, what about you?" "I am only officer here. I am only officer. Very small." Ya Mawlana, you teach us how to be humble but we never be humble. You teach us how to behave in adab. We never be in adab. You teach us how to get good manner. We cannot get this good manner. It's so difficult. What to do? There was...
+
+Mawlana Sheikh, he was all the time proud to be nothing. And he was all the time in the stage to be nothing. This is... One man he has been offered to be in movie. And he was like Deeno. And he was so proud to be in that movie. And he collect all his friends and say "I'm playing in this movie." And there was 2 hours movie. Everybody watching the movie when Deeno will come, when Deeno will come? And then Deeno have 1 second of this movie. And when he appeared, Deeno said... He sneezed and [it] passed, with his sneezing just passed. Say this is the dunya. It is passing so quickly. You don't have to show off. It is going on and on. Nobody waiting. When you sneeze, the scene gone. Don't sneeze. But the sneeze doesn't listen to you. When you are sneezing, you are sneezing. This is important for us to understand that we are here temporarily. And we are here just for Allah Almighty. And anybody he is for Allah Almighty, Allah Almighty He is making him to shine, making him to be more seen. Even he is hiding, still Allah Almighty He put him in the spot. This is very important.
+
+That's why we have to appreciate the one they are making service to Allah Almighty. We have to appreciate whatever coming. We don't have to be jealous from somebody doing some services, somebody doing some activities, somebody doing some... No need. Just make it be relaxed like Mawlana Sheikh. I remember Mawlana Sheikh, he was all the time so relaxed. So relaxed. He'd say "My son, everybody working to Allah. Everybody working to Allah. Don't look for what they are doing. Everybody working to Allah. Leave it." This is how we can spread tariqa and this is how we can make people to love tariqa more. Because there is something, it's very important. Aṭ-ṭuyuru alā shakilatihā taqa' This is very important saying in Arabic. It says every bird, it finds its friend. Every bird finds its tribe. When you see people with each other and they don't come with the other, this means different bird. It's not same bird. Cannot be. That's why, Mawlana Sheikh he was multi colors of birds, multi colors of people.
+
+So don't expect all of them to come together. No. This is wrong. The right one, it's all of them look for the same place that Allah Almighty He is their Creator. This is important also to understand. So that's why, no need to have this kind of argument: "This must be under my control. This must be under your control" No need. Just feel free. Mawlana Sheikh, he was the most free man and the one he was giving the most freedom for his darwish. Because he said the hand doesn't have same size of fingers. Allah Almighty, why He put these fingers? Just to be all the time example in front of you. Say my finger. Yeah, my finger... But doesn't look like each other. It's different. Look, it's very different. Cannot be. So everyone has different job. This is important also to realize the perfection of the Creator. Allahu Akbar. Yes this is the perfection of the Creator. Allah Almighty, He is the most perfect.
+
+Maybe you are Muslim very messed up but Allah Almighty, He never been messed up. Because we are relaxed. Muslim very relaxed. That's why everything is messed up. Very relaxed. Cannot be relaxed than this. That's why, everything is messed up. But Allah Almighty, He is saying Inna llaha... It is in Turkish actually. Mawlana Sheikh he was telling me "Allah mümin kulunun dağınık işini toplar, kafir işinin toplu işini de bozar." This is saying Allah Almighty, He is putting all the messed up things of mumin in place, in good place. And He mess up the perfect design of the kafir around. This Mawlana Sheikh, he was saying to me all the time. He mess up the kafir organized things. And He put the messed up things of mumin together as it'd been organized. And this is I was experiencing with Mawlana Sheikh. It was my experience during travelling. And I remember we went with him first time to Far East. And it was unorganized trip. Me and him only. One year before, he was with Mawlana Sheikh Hisham. The second year I was with him. Everything it was messed up. Everything, it was messed up. Nothing in a place. And it was going like we are going in train from station to station, to station, to station... And we've been received VIP. But if you look for the trip, it was messed up. You cannot imagine how messed up it was. But Mawlana Sheikh, he was proving this what he say to me. I sit and I leave it to him. It was one of the most exciting trips in my life. That everything it was like tasbih... and VIP. And we have only one way tickets. There is no return ticket. See how the surrendering the Awliya for Allah Almighty. It's been surrendering as amazing surrendering. This is how Allah Almighty, He make everything organized.
+
+That's why, don't worry about what you are doing. Our duty is to open up for people. Maybe you bring somebody and then after that that somebody he will be not happy by you. He say I will open my own dergah. Let him open his own dergah. No problem. Why? Because must have some people like him. Cannot be with you. This is important to understand. Here we have to main focus in our Sheikh. When we are focusing in our Sheikh, everything is clear. We have to respect the people that Mawlana Sheikh he was respecting and still respecting. Mawlana Sheikh never mis-respect anybody. Mawlana Sheikh never mis-appreciating anybody. Mawlana Sheikh he was all the time, all the time very careful in this point. That's why it is important to understand and the main things in tariqa the understanding. If you know how to understand, because the understanding also is knowledge. Everybody think the understanding is only passing. No, the understanding is knowledge. Say we understand the body language. If you sit like this, you close up. If you sit like this, you don't care about me. If you sit like this, you don't listen to me. If you sit like this... This is understanding. This is understanding. That's why, don't mix up with understanding. Try to understand right. Very important. If you understand right, you will go ahead. You will go really ahead.
+
+This is what we want here? We are tariqa people. We are tasawwuf people. Why we are here? We are here only to be in our spiritual journey to be going ahead. Because the dunya will be finished, but the spirituality never finish. So as long as we are going ahead - there is no speed limit, by the way. Mawlana Sheikh, he was one of the rally people once upon a time but not anymore. There is no speed limit, Sheikh. As much as you can speed, no police will stop you. 260, 320, 400, 1,000, 10,000, 1,000,000, 10 million. This is important that to go ahead. Stealing the car of Mawlana Sheikh. May Allah forgive us and make us in the speed track of the spirituality.
+
+Wa min Allahi t-tawfiq Bi hurmati l-Habib, bi hurmati Fatiha. You want to add something, Sheikh? If you want, you can.
+
+SH: Thank you very much, Sheikh Baha. May Allah bless you. Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam. Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam. Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam.
+
+Wa salli ya Rabbi wa sallim 'ala jami'a l-anbiya'i wa l-mursalin wa 'ala kulli 'ajma'ina wal-hamdu li-llahi Rabbi l-'alamin al-Fatiha.
+
+http://saltanat.org/videopage.php?id=15558&name=2016-05- 07_en_TheMouthOfTheRiver_SB.mp4

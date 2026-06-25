@@ -1,0 +1,64 @@
+---
+date: 2010-07-06
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-07-06-to-concern-or-not-concern.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-07-06-to-concern-or-not-concern
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: To Concern or Not Concern
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Bismillahi r-Rahmani r-Rahim, dastur, madad Ya Rijal Allah. La ilaha illa 'Llah La ilaha illa 'Llah La ilaha illa 'Llah La ilaha illa 'Llah La ilaha illa 'Llah Muhammadun Rasulullah aalihi salatullah. Dastur.
+
+We are giving salute to whole holy, holy ones and asking support. Allah Almighty may load on an ant all this world. No doubt. We are asking from one of holy ones to look after our humble meeting. A humble meeting, but it is such a nuclear bomb and they are opening this power from east to west, may destroy everything under the title of batil.
+
+And, we are giving salat w'as salam also to all holy ones on this planet and particularly to that one who carrying responsibility for everything on this world. Man making an instrument reaching million centres. Man, that they have been created weak. What about whom they are related to heavenly centres? Centres is too much, centre. What they can do? They may take all oceans if they are saying, 'Get up over this world, and keep yourself there till I am ordering to you'. One wali, whole oceans, 'whoop' coming instantly to that power that no one can think on it.
+
+They, mankind, are thinking that they are easy/simple ones, no. That title that Lord of Heavens granted to them to be 'deputies', so majestic order from Allah Almighty to weak servants. May say, 'All oceans, stand up!' you can't find even one drop through oceans. Such a things they are making to speak on it to give a new understanding for men or Man, yeah we can't speak on heavenly, divinely existence, no. But we are beginning from mankind that they have been granted Hisham Effendi, to speak on the level of understanding of mankind. We can't get up, no.
+
+Therefore those who are attending must try to bring whole understanding and give his most care to understand something. Allahu Akbar, Allahu Akbaru l-Akbar. Till you are coming up and sitting down millions of new creation coming in in sahatu l-wujud (existence, creation).
+
+And, Assalamu alaik Ya Sultan al-Awliya. We are asking a very small support for people who are on this planet and all their efforts only for this planet. Those who are trying to reach under oceans or over skies. Grasshopper, it is jumping, asking to reach. Reaching to a distance then 'phat' coming down. Now people in such a way. They are looking and saying 'we can reach'.
+
+To where you are reaching? This dunya going to be a small place for you? No enough? Why you are trying to jump up and up with some material material powers? You can't reach even one kilometer. Two kilometer, then you are finishing, coming down. And, Assalamu alaikum our attenders from everyone from mankind. Mankind. Give a second, you may be through that second interested in something. Maybe you are asking to You are asking through a very short time, to make this distance to go up but it is not as they are thinking. We are here for everything in limits. We have been granted for our physical being some possibilities. But people trying to reach impossible aspects. This material being never suitable.
+
+Therefore they are throwing up some capsule, sending rockets. It is not their majal, it is not their field. Therefore they are going, going, some distances, then either dying in it or getting that rocket to explode and nothing remaining there. Because mankind are not thinking that those distances can't be reached with our material possibilities. But they are majnun people, crazy ones. And shaitan's mission, first mission to cheat people and to make them to run after impossible. Now through East and West, everywhere, people trying to reach impossible aspects. Bala'un azam Say! Biggest affliction.
+
+Running after impossible and our area or our mankind's area in very short distance, very short and limited area. But shaitan daily and day and night, making people to occupy themselves (with) unreality, and to make them to work ma la y'ani adna (with that which doesn't concern them). They are trying after something that is impossible. Leave that. We may say a small creature, mosquito, you can reach to mosquito, why you are asking to reach up and up and up, what? This is not your field but shaitan's whole effort to make people, shaitan is not asking to try for something that it is for them (instead) trying to make people to be occupied with nonsense.
+
+And now all people under the title of technology their aim is to reach impossible. Whole efforts they are expending, expending for nonsense. Leave, I am saying for example, leave to run after Venus, or Jupiter or Mars, after solar system. Leave that and look coming one mosquito on you and biting you, catch it. Take your revenge from it. Punish it! It is impossible. Either this or that. But shaitan's first aim to make people to run after a direction that is impossible to reach. Shaitan's famous struggling to make people to make their ways, their mentalities, their efforts on wrong direction. Wrong direction.
+
+Either they are coming deeply, deeply, deeply, for an understanding through an atom, they can't see it, only through their high mathematic knowledge they are reaching for something. They are not knowing that whole knowledge that they are learning taking them to the Lord of Heavens. They are looking at atom and occupying themselves around atoms but they are not thinking that every knowledge going to take people to their Lord's heavenly presence. Shaitan's mission is cheating. Cheating people or occupying them with nonsense.
+
+Oh, Assalamu alaikum our Salafi ulamas. You are not here? Why? Anything? There's invitation for tonight or some important meeting? I don't know. Where are you? Say? Why you are not saying? Hadith un nabawi sharif, saying the Seal of Prophets, min husni islam al mar'i tarkuhu ma la ya'nih. Is this correct? (Correct, Sayyidi) It is correct? You ever not seeing that hadith sharif? min husni islam al mar'i tarkuhu ma la ya'nih. A meaning on first understanding for that hadith sharif, saying that for man, the Seal of Prophets saying, O People, you must understand, min husni islam al mar'i tarkuhu ma la ya'nih.
+
+Marhaban, ya ahl salafu s-salihin ulama. You ever understanding the meaning of that hadith sharif that just ulhim alaik alal qalbi, just it is warid, coming to my heart to say to you, to doctors of Sharia and to Azhar sharif ulamas. Big ocean, big ocean. First of all. First of all Hisham Effendi, those mutakkabbirin, mutajabbirin salafu s-saleh ulamas they never speaking on it and that hadith sharif of the Seal of Prophets enough to change whole Islamic World from batil to haqq and to make their lives hayatu n-tayyibah. If we are using and tatbiq (applying).
+
+If we are understanding the meaning of that hadith sharif and yutabbiq and practice - to act upon the hadith, what does it mean in English? (Practice the hadith) Practicing. If whole nation of the Seal of Prophets using that hadith sharif they are going to be like stars on skies. But I never heard, I am perhaps, I don't know my age, they are saying, you are looking such a person from the time of Noah, Salafi ulamas, (umar at-tawil Sayyidi). If that hadith sharif just taught for whom? Allah Almighty! Ar-Rahman, astaidh Billah, Al-Rahman allama l-Quran khalaqa l-insan allamahu l-bayan (: - ). Tamam, sometimes I am remembering, sometimes not, because I am very angry with Salafi ulamas. Subhanallah.
+
+O jalalatu l-muluk you must call through your jalsah, royal court, you must call them time by time and you must try them for something. This is one hadithi sharif, may save not only Islamic World, may save whole humanity. May save whole nature, may save whole creatures. May save life of everything on this planet. This hadith sharif, one (?). O Salaf us-saleh ulama ma ma'ana, what is the meaning that the Seal of Prophets uteetu jawabi'ul kalim, say, yes? His declarations, the Seal of Prophets' declarations and they are hadith sharif, one of them enough to save whole nations.
+
+This hadith, aja'ib. Tashrih, anatomy. Tashrih, you are making this doctors. What saying? (Dissecting). Look what is in it. What is in it? min husni islam al mar'i tarkuhu ma la ya'nih.According our teacher's teaching because our level is not such a level to say from the Seal of Prophets we are taking, no. Down, down, down, on our last level we may understand something but it is enough to save nations, particularly to save Muslim World. That I have been granted now to speak on it from their names. That means whole works, whole efforts for people they are doing this that, this that on seas, under seas, over clouds, through forests, through deserts. We, we are making efforts.
+
+Everyone trying to do something but mostly people, they are not using scale of heavens that granted to only selected ones, special ones, honoured ones. I am asking to you doctors of Sharia, make an understanding for that hadith and send to me through that instrument. If I am wrong or on right way. That showing that Mumin and behind them all nations, all mankind their efforts on two directions. One direction is ma y'ani, second, ma la y'ani. True? (Allahu Akbar, Sayyidi, balagha Sayyidi, eloquent). Haqiqatan, but it is so, so big ocean that saving humanity. Heavenly teaching of the Seal of Prophets ordering to speak to his Nation, to his Ummah that whole nations now belong to him. But they are not running to understand who he is. The Lord of Heavens saying wa ma yantiqu ani l-hawa (: ). Who is that one? Why you are not saying? And so many foolish ones trying to refuse declaration of the Seal of Prophets. Those who are doing that, I am sending them to be waiter of WC. That is good for them, who asking to refuse the Seal of Prophets' declaration. And one day they will be put down on that sewage channel. Their grave going to be sewage. Sewage, you should find it.
+
+I heard that in Egypt one person that he was so famous changing everything, not according to Holy Quran or holy hadith of Rasulullah. He had been buried in a place they are looking after one day, his body sailing like sailing boat on sea, sailing on sewage channels. They are taking that one's body to another place, they are burying there and then they are finding same thing. Then they are saying we can't do anything. That is not from ourselves but the Lord of Heavens making for that one who was against Islam and against principles of Islam, who followed principles of jababirah. That is his punishment. If you are taking his body to desert you would find same same channels there.
+
+Fear from God. Those people who are not fearing from Allah and making trouble, going to be first class trouble makers. Leaving Holy Quran and taking so many batil false rules and saying we are this, we are that. We are not democrats, we are followers of Sharia, shariatallah. No democracy in Holy Quran. Who is saying they are foolish ones and idiot ones and never-understanding ones. And Allah Almighty will punish them as he punished that one. Yes, look, for understanding what saying Rasulullah? That means two kinds efforts in front of Mumin. One of them is ma y'anis second, ma la y'anis. And we have been offered and ordered to look after ma y'ani, concerning ourselves for the benefit of mankind. Not to use our efforts for something it is ma la y'ani. Never it is for mankind to look after it.
+
+And whole nations on ma la y'ani. Everywhere they are running after Holy Commands of Allah that we have been ordered to keep, that is ma y'ani, a believer. But people now, and believers running after ma la y'ani. Hisham Effendi, Allah forgive us and He only can change what we are in. I am sorry, I am sorry to say this and trying to open an unopened or shut-down door for our Salafi ulamas to say about this hadithi sharif, they may speak on it from beginning of Islam up to yawm al qiyamah, never finishing. May Allah forgive us, tauba Ya Rabbi, tauba Ya Rabbi, tauba astaghfirullah. Fatiha, increase in the honour of Nabi sallallahu alaihi wa sallam. Important, very important point this. May change whole world. Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=11842&name=2010-07- 06_en_ToConcernOrNot_SN.mp4

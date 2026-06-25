@@ -1,0 +1,48 @@
+---
+date: 2012-04-04
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-04-04-two-kinds-of-love.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-04-04-two-kinds-of-love
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Two Kinds of Love
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Audhu Billahi min al shaytan al rajim, Bismillahi r-Rahmani r-Rahim. Madad ya RasulAllah, madad mashayikh of Naqshbandi Order, madad ya S. Abdullah Faiz Daghestani, madad ya S. M Nazim al Haqqani, dastur. Tariqatuna sohbah wa l-khayri fil jami'a
+
+I may do a short sohbat insha Allah, with the himmat& madad of our Shaykh. Today, insha Allah, we speak about love- about 'ishq, muhabbat. This matter was also mentioned in yesterday's sohbat. Of course about this matter, you can make thousands of sohbats about it. Love-'ishq is a double bladed sword. It can make you reach the highest station in akhirat. If you dive into the dunya-blade of this love, to the opposite side, it can also make you fall down to the lowest level, humiliation. Like the Hadith mentioned yesterday- a Bedouin came & asked our Prophet (sas). After he asked a few times "When is Akhirat?" he (sas) asked, "what have you prepared for it?" "The love of Allah & of you". He (sas) said "It is enough for you". Really it means the Prophet (sas) knew, saw this holy light in him & said it is enough. That Bedouin could give his life there for the Prophet (sas), could give his family & children's life also. He had such a love.
+
+Now most people say "I love Allah & His Prophet (sas)". But when they face a small test, they forget it all & are preoccupied with their own trouble. However love is such a thing that one does not remember his hunger, his thirst nor his family & children. Of course this is, if it is real love. He can give it up all for Allah. Maybe he turns towards Allah, not looking to rank, title, money etc. If he has love-'ishq for Allah he turns to Him. Really that kind of love to Allah is difficult for people but this kind of love should always be encouraged.
+
+And this does not happen directly. It happens through tests. And the most important one is: "No one can be a real believer-mu'min unless he loves his mu'min brother" says the Hadith. Therefore, most people... "Mu'min brother" does not mean blood-brother or sister but when he sees any Muslim he must love him because he is Muslim. Leave aside this, most people nowadays are in dispute even with their own family. Therefore when a Muslim sees another Muslim, normally by Allah's Wisdom, no matter how much dispute there are between people now when one sees his Muslim brother, he feels love for him in his heart. For example when you go to Europe & see a Muslim, no matter who he is, if he says only "I am Muslim", without looking to who or what he is, feel love. In our countries, when we see people going to mosque or children praying we feel a good love inside. Allah bless him, today our brother Noah has come, masha Allah, with two majestic looking brothers-with red beards and light on their faces. We felt relieved seeing them. They are Scottish Muslims. Allah's Wisdom, Allah gives this love. And this love, you work on it, to increase it. Everybody has an imperfection. There is no perfect one, no infallible one, as mentioned in yesterday's sohbat- there is no infallible man other than prophets (as). Allah created them as ma'sum-infallible, to set them an example for mankind.
+
+The second type of love is the satanic love which is the love of dunya, greed. And what is worse than this is the love for haram- love-ashq for woman. It makes a person totally disgraced. It is the real disgrace where one in this position does not care about his children, parents or society. Even if it is a married man, very often we see that he runs away leaving his family & children, not calling or not taking care of them. It is the shaytanic-evil love. Especially if the partner-woman has no faith, then he can totally lose all his faith & religion, Allah forbids. There is a Hadith about this, where our Prophet (sas) calls it an ibtila,bala'-curse. He (sas) doesn't say love but says that it is a curse.
+
+If a mu'min remembers Allah, Allah's love & abandons this curse & returns to Allah.. Of course some people, they die because of their excessive love. There is also such a thing, he becomes a shahid-martyr because he left that person for Allah. People may also be careful about this point. They may not come up with excuses. These things are not proper-not proper in Islam & Iman (love for women). But because they don't have love of Allah, they may continue with it. But if the person fears Allah when that bala' came to him- as Prophet (sas) said in Hadith. It is not love but bala'. He who endures this bala' & dies, reaches the station of shahid.
+
+Today we speak about the love. Yesterday also they speak the same lecture about love. This love, we can speak maybe thousand thousand lecture for love. Love, it is like two bladed-sword. One blade can take you to the highest station in Allah (awj)'s high Heavens. Second one, it can take you to worst, making you very bad person. Not good.
+
+The first one, it is as they said, Prophet (sas) for this Bedouin: "for what you prepared for akhirat"? He said "Your love & love of Allah". And this is real love. Real love, because this Bedouin when he said this, he really meaning for this love he can give his life & his whole family's life. This is the right one, right love. And, the love.. when you love for Allah everything become easy for you to carry- If you are suffering, you cannot feel suffering when you have love. Even you cannot feel tired, you cannot feel thirsty, you cannot feel anything. This is highest station & it is big Mercy from Allah, to give you this love.
+
+But this love, you cannot reach it at once. It need to some examination (test), training training training.. until going this station. Another Hadith also, Prophet (sas) saying: "You not be real mu'min until you love your brother as yourself". Brother - not from mother, father. All Muslims, they are brothers. And this is mu'min, meaning more higher station than Muslim. Muslim, everybody Muslim. But when you are mu'min,must be you believe stronger. Islam- everybody saying shahada, become Muslim. But mu'min-it is belief. You must be more strong belief. So, when you see many times, when they become Muslim even when you see any Muslim you feel you are happy. You feel happiness, especially in non Muslim country. Even in Muslim country also, when you see people going to mosque or small children going to mosque, you feel happy also. Many times people, especially when you see Tariqat people, you feel more happy. Many people going to Umrah, they saw this turban they come and "we are Shaykh Nazƒ±m's mureed", coming asking people. They become happy. This is also from love of brothers.
+
+And this love, insha Allah become more & more until for everything you do it is for Allah. You love Allah more, you love Prophet (sas) more. And this love bring happiness. Especially today Noah coming with 2 brothers masha Allah, red beard. Masha Allah, they have light. I asked "who are these people?" They said "this is from Scottish Muslim, become Muslim". Masha Allah, I feel very happy really for this. And of course not for you I say- Everyone they have mistake. They have something wrong. We are human being. Human being all they can do mistake, they can do wrong thing. Only Prophets (as) they do not, because they are examples. And if they do, so bad example. For this, Allah this Wisdom no wrong at all in Prophets. So if you see something wrong, don't see it. Don't notice it, only forget. Because Hadith also saying, when man saying something for another, his Muslim brother, Allah make this wrong for him to do the same one.
+
+Another kind of love, this is shaytanic love - loving dunya. The worst one, loving woman. Because this is destroying whole family. Not listening to children, not listening to, not looking if he has even children, he has grandchildren, he has wife. Father, mother, everybody say "you are wrong". He says "no, no", just continuing with this. He destroy family, really many of them. This is second kind. Especially if this woman not in right way also, not looking, he become humiliated for people. Nobody like him, this man. This is worst one. And there is Hadith, said whom this is bala'- curse. Who.. They have, some people (who have this strong love for a woman). You can find maybe (some who have it), before it was too much maybe I think. But now because many, they going coming (dating women). And they cannot have this real (love). This is cursing from Allah. Who Allah give him this thing, love one woman and he left her for Allah only, when he die he become shaheed-martyr.
+
+This is appointing for this- this is not love, this is cursing. So must look different between love & between cursing. Because Allah, He said: "giving milk through blood & giving nice milk". So insha Allah, only you must look for this. You must for Allah love only. This is milk, this is good. Insha Allah all we, our love become more & more for Allah, for Rasul, for Mawlana Shaykh. Wa min Allah at-tawfiq, Al Fatiha.
+
+Video Link: http://www.saltanat.org/Blog/tabid/271/PostID/630/Two-Kinds-of-Love-Iki-e-it-A-k-tr.aspx

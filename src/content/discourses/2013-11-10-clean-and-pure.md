@@ -1,0 +1,44 @@
+---
+date: 2013-11-10
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-11-10-clean-and-pure.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-11-10-clean-and-pure
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Clean and Pure
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+May our Mulk and Malakut be clean and pure. May we be pure too. May we be very clean in the Presence of our Lord. O lovers of Shah Mardan, Janab-ul Mawla loves cleanness. May we be clean too. May we be pure. This is what we ask for - to be clean. O lovers of Shah Mardan. Go ahead, go ahead, welcome to the clean and pure life. As-salamu alaikum, O virtuous servants of Allah. May our life be pure and clean. May our life be worthy of our Lord. May we be very clean. Let us ask for this from our Lord.
+
+As-salamu alaikum, O our virtuous companions and friends. What we ask for is to be clean and pure. O lovers of Shah Mardan, let us be very clean. O lovers of Shah Mardan, let us be very clean. Let us be clean and pure. May we be clean and pure in the Presence of our Lord, O lovers of Shah Mardan. Being clean and pure in Your presence; this is what is acceptable. Go ahead, O Shah Mardan. Welcome to a clean and pure life. May we be pure. May we be clean. O lovers of Shah Mardan, may we be clean and pure. Be clean. Be pure. This is what is required - being clean and pure. Shah Mardan, what does the Lord of heavens want? He wants clean and pure lovers. He says "Go ahead, be clean lovers." May we be clean. May we be pure. This is what is asked from us; to be clean and pure. Ask for this from your Exalted Lord. O lovers, ask for this. Be clean and pure. What suits a servant is being clean and pure. Be pure. Be very clean. O lovers of Shah Mardan, what you ask for is to be clean and pure servants. Go ahead to be clean and pure. Be beautiful. Don't be ugly. Be clean. Be pure. Eat clean. Be clean.
+
+What comes from heavens is clean. Ask for clean provisions, which come from heavens, O lovers of Shah Mardan. You ask for clean servants. O lovers of Shah Mardan. JanabAllah wants clean and pure servants. JanabAllah doesn't want wretched and troubled servants. He wants them clean and pure. Be clean, be pure. O our Lord, our Subhan, our Sultan. What You want is cleanliness and purity. Be pure. Be pure. Rabb-ul Izzet Janab-ul Haqq wants this. He wants clean and pure servants. Let us ask from our Mawla. The desire of Hz. Shah Mardan is for servants to be clean. May we be clean servants. That is the instruction from all prophets. Be clean, be pure. May we be very clean. May we be very clean in the Presence of our Lord. May we be very pure and clean in the Presence of our Lord. JanabAllah wants it so. What Janab-ul Mawla wants is Truth. He wants His servant to be clean. He wants His servant to be pure. He wants them to be very clean. Don't be wretched. Be clean. JanabAllah wants a clean servant. He wants a clean servant.
+
+O lovers of Shah Mardan. Make us among the clean ones. May we be clean. May we be pure. May we be straight. O Shah Mardan, you want it so. Treat us with Your favour, ya Rabbi. Grant us an honored life. May we be honored, O our Lord. Being an honored servant suits you, not being a wretched servant. Being an honored servant suits. O our Lord whose doors never close, whose honor never finishes, the Lord of heavens and earth, make us honorable, ya Rabbi. Make us honorable. May we be honorable. JanabAllah wants honored servants. Go ahead, O Shah Mardan. Be very clean at the door of Rabb-ul Izzet. His glory is cleanliness. A servant should be clean. This is what we want, what You want, O our Lord. O Shah Mardan, may we be very clean. May we be pure. The doors of pure ones, O lovers, never close. Their honor doesn't finish. Their glory doesn't fade.
+
+O Rich Padishah. Padishah, Sultan of all Sultans. Padishah. Padishah of both worlds, the honorable Lord, Sultan and Padishah of here and hereafter wants clean servants. May we be clean. Ask from Mawla to be beautiful and nice. Be beautiful. Be nice. Our Lord wants this. Janab-ul Mawla wants beautiful and nice servants. Yes. This is what suits. O lovers of Shah Mardan, let us be clean and pure towards our Lord. May JanabAllah love us. May we love our Lord too. O our Glorious Lord, what we expect, what we expect from You is Your favours, Your grants. We expect them. We expect Your favours. Your favours, JanabAllah's favours never finish. He says "Ask. Ask from Me so that I give. I am the Rich Padishah. My favours don't finish, My door doesn't close, My power and majesty have no boundaries." Rabb-ul Izzet. Aman ya Rabbi. Aman ya Rabbi.
+
+Yes. JanabAllah who is Rabb-ul Izzet, Mawla with never-ending Greatness. We ask. We ask. He says "Ask. I'll give whatever you ask. I have never-ending treasures. Ask so that I give." O our Lord, how beautiful You are! How beautiful You are, O our Lord. May we not get upset. May we not get distressed. May our hearts open. May we walk. May we walk on this ground. O our Lord, O our Lord. Our Mawla who never puts us in misery. This is Muharram-ul Haram. A never-closing door. The door of our Lord is a never-closing door. O lovers, listen, ask. We ask, ya Rabbuna. We ask according to our conditions. Make us beautiful. Make us honored. Make, the Padishah whose favours are rich. His favours never finish. O our Lord, our Subhan. Who loves You doesn't die. Who serves You, won't be despicable. We ask. We ask for glory and honor which come from heavens. O our Lord, never-ending treasures are Yours.
+
+May we not get upset. May we not get tired. O lovers of Shah Mardan. We ask from our Lord, we ask from Shah Mardan. Dress us in adornments which don't decrease. May we expand, may we open. He says "Ask, O My servant, so that I give." Ask, O lovers of Shah Mardan. Say once Bismillahi r-Rahmani r-Rahim. How much and how many will be given to you. Love. Respect and love your Lord. Stand at His door of glory and honor, ask. He is the Lord. You are the abd (servant). You are a servant. Ask. Both worlds are Yours; here and hereafter are Yours. You are the One who gives. Your gifts have no boundaries. Ya Rabbi, Your doors never close. The doors You give to us never close too, ya Rabbuna. O lovers of Shah Mardan. Allah Allah. Allah Allah. Our Lord, the Complete Owner of heavens and earth. He gives, it never ends. Ask, it won't finish. Your favours to us are for all times. Give us, ya Rabbuna. We are in Muharram-ul Haram now. JanabAllah is granting now what He doesn't in other months. He has amazing favours. He has amazing gifts and treats in this month. Know it. His doors don't close. His treasures don't finish. This is it. He has everything. He gives everything. It doesn't finish. O our Lord. Give comfort to our hearts. Give relief to our hearts. Treat us with Your endless mercies which come from heavens, ya Rabbi. May we not get distressed, may our souls not get upset. Favours of our Lord never finish. Fatiha.
+
+Welcome, O lovers of Shah Mardan. Welcome. Come with joy, leave with joy. Come with honor, leave with honor. Allah. He is Allah Jalla Jalaluhu Jallat Azamatuhu. He is our Lord, whose greatness has no limits, whose gifts have no boundaries. His doors never close, His treasures never finish. Our Lord, whose favours don't finish. Ask. Ask. He says "I will give whatever you ask for. Ask. Ask from Me. Let Me give whatever you ask. I will give whatever you ask. I don't have any greed. I don't have any stinginess. I have favours. I will give. My grants have no limits because My power has no boundaries. O lovers, be happy, find comfort. Find comfort in being My servants." Allahu Akbar. Allahu Akbar. Allahu Akbar wa lillahi-l hamd.
+
+O lovers of Shah Mardan. Let us make shukr that our Lord has such servants. Let us make shukr to our Lord, the Owner of never-ending treasures. Shukr, ya Rabbi, from pre-eternity to eternity. Fatiha.
+
+May mercy be on Your ancestors. May mercy rain on Your ancestors. O Shah Mardan. There is Mercy on your ancestors; certainly the Owner of Mercy is our Lord. Be joyful. Be happy that Rabb-ul Izzet is your Lord. The One who created you with unlimited favours, is your Lord. Be joyful. Be honored. Sheikh Mehmet Effendi, my son, be honored. The Owner of never-closing doors, Allah Jalla Jalaluhu is your Lord, our Lord, Rabb-ul Alamin (Lord of the Universes). Be happy, find joy. May your end be good. May relief come from all directions. May your hearts open, find relief. May you get relief as long as you say Allah. Allah. Our Allah, our Lord.
+
+Fatiha.

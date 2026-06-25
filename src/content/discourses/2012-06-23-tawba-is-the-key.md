@@ -1,0 +1,46 @@
+---
+date: 2012-06-23
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-06-23-tawba-is-the-key.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-06-23-tawba-is-the-key
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Tawba is the Key
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Salam alaykum...Shaykh Abdul Majid! Salam alaykum. How you doing? Masha'Allah All OK? Al Hamdulillah! Al Hamd al Kamilin, wa salatu wa salamu ala S. Muhammadin, Sayyid al Awwalin wa al Akhirin. Ya Rabbi, tawba Ya Rabbi tawba astaghfirullah, tawba Ya Rabbi tawba astaghfirullah, tawba Ya Rabbi tawba astaghfirullah, Ya Rabbi, let us be from tawba-people.
+
+You don't understand how tawba is so important. Tawba is the most important. Cannot be something, (more) important than tawba. Cannot be. Why? Because it is the key to Allah Almighty. It is the key for Allah Almighty. Without the key, you cannot enter anything. Tawba is the key. First, you have to understand that we are in need for tawba, to enter Allah Almighty's door. Very important, because, when you say "No, I am OK, I can enter", then we come to the mistake of shaytan, and we become proud, very proud. To say, "No, I was praying", and to make sajdah and all the Malakut... Even Shah Naqshband (qs) was saying, "If I find one square foot that he didn't put his head for sajdah, I would imprison him there," for shaytan. But, he said, "I couldn't find." That's why shaytan was so proud and say, "No, I will not obey to make sajdah for Adam (as)". And he closed the door for himself. He didn't say, "Tawba Ya Rabbi, I was mistaken". So that's why, from there is coming the important point of tawba.
+
+We are joking, I am tawba-one, my brother is shukr-one. But tawba, to complete it with shukr you will be more valuable. Everything is like a puzzle, have one part, is completed with the other. So, Allah Almighty is waiting for His servant to say, "Tawba, Ya Rabbi, tawba, astaghfirullah. Waiting, saying to angels, "I am waiting for My servant to ask tawba, to give him forgiveness". So that's why, even if you feel you have sin or you have? completing this, tawba Ya Rabbi tawba, astaghfirullah, tawba Ya... That will make you more safe, and more secure. Todays technology and todays way of life it is built up in secure way. OK, if I sit in this chair, should be secure by putting in very good nails and glue, so you must be sure to not fall down. If you are wearing dress, you have to be sure it will not break. You have something... Everything in insurance. All the system is built in insurance.
+
+So now I am saying, OK today people, we have to insure ourselves in front of Allah Almighty and keep saying tawba Ya Rabbi, tawba astaghfirullah. Whatever happened, whatever going, sometime you're happy, also, tawba Ya Rabbi, astaghfirullah. Sometime you're angry also say, tawba Ya Rabbi tawba astaghfirullah, because you don't know which is the balance & limit you are playing in. So to be in safe and secure part, use the tawba. And when you are so happy, use the shukr. So complete. Shukr Ya Rabbi, shukr, alhamdulillah. Whatever happens. Whatever going... Ya Rabbi, this is Your will. We don't have anything in our hand, nothing, nothing at all. We are only thinking that we have something. We are in the boat, and the captain has his destination. He is going, but we are only going in that boat. We have space, that we go up and down, right... This is our limit, we are not interfering with the main moving. That is belonging to Allah Almighty.
+
+Allah Almighty gave everyone a limit. He gave everyone a small space to act in. So my advice also, for our brothers and sisters, to not be stressful, to not get in stress for something that you cannot do.
+
+My mother was telling me once nice story about this. she said, they put one egg under the chicken with her other eggs, but that egg was a duck egg, and one small chick came and a small duck also came out, and they been going all together, like brothers and sisters, the chicks and the duck. But when the duck see the water immediately, ran for the water. This is the nature of the duck. One, run... The mother chicken, "buc,buc,buc, my children", and it was really worried about them. Doesn't realise it is duck. Saying, it is dangerous to go in the water... Al Hamdulillah, now we are also, don't be like that chicken, worried for that duck. We are chickens. We cannot do anything about that duck.
+
+So, its very important here, to be relaxed. Because Allah Almighty gave every person his own life, his own line, his own... Because when the child coming in mother's womb one angel coming and telling him, "This is your program in life." You'll be living these years, you will be eating this amount, you'll be breathing this amount, you'll be having children this amount, you will have rizq and income this amount. It will be a full program. That angel will tell, 1,2,3,4,5,6, everything. Allah Almighty has perfection, this is Allah Almighty. And then, when he born he start to get into the program and he will go according to his program. So for the parents, for the one responsible, have to only guide, in the way that making good, but, if the end coming in certain area, the parents cannot do anything. Nobody can do anything. This is because Allah Almighty gave him the program. When he's been given the program, nobody will change it. There is something called 'Qada Mu'allaq', it has some danger in life, or some changing in life, it could be changed by awliya, this is given as a power. But it doesn't mean.. sometimes awliya don't use, sometimes they use. But, the program should go on, and on, and on. This is the program. Now we understand what meaning, the program. Before, olden days people were not understanding. Now we all know that computer and other things, "It is, hanh, yes, program, oh yes, program." Program? Yes, everything in program, Allah Almighty's perfection. Perfection.
+
+There is nothing as Allah Almighty's perfection. Maybe, as Muslims we look very messed up, but Allah Almighty, perfection. Why we look messed up? Because our back is never relaxing. Allah Almighty, we are Muslim. Why? What meaning, Muslim? We are surrendered to Your perfection that's why we're messed up. That's why don't think this is from relaxing that Allah almighty gave us but in His perfection. Al Hamdulillah, that's Allah Almighty He gave us, He taught us to know a little bit of Him. But this is huge... But you know little bit, it is huge. Al Hamdulillah, that Allah Almighty put us at the feet of Mawlana Shaykh, that he knows everything, and this, what we are talking now, is from him. And before I come here, I ask permission. Ya Sayyidi, I will talk the coffee talk. And he say, "Yes, I grant you permission to talk all over the World". No, I will talk only here. Say, "No, no, I give you permission all over the world." Al Hamdulillah, that's good. No I don't want... I want only here. Ya Sayyidi, it is so heavy to deal with people. You don't have any chance.
+
+I say to Mawlana Shaykh, 'Ya Sayyidi, talking -for people listening to you, is easy, he give us the easy way. Al Hamdulillah. Everyone here is obeying. But, I remember early days, when Mawlana Shaykh was going, for people who were ignorant, and they were against, also. Ignorance OK, but ignorant and against, it's terrible. Al Hamdulillah, he was successful, he was very powerful. He was a lion and nobody could stand in front of him. Al Hamdulillah today I'm looking, masha'Allah he gave us something that people are listening to, with love and accepting and digesting. This is big blessing. What are we doing? We're doing nothing. Actually he built everything. He built everything for everybody. Now sometimes we have talk with some brothers & sisters, who say, "We're Naqshbandi, Alhmadulillah, but our parents are rejecting, or maybe our family, or... I remember when Mawlana Shaykh was having this difficulty, but now, masha'Allah everyone listening, and happy with listening. Why? Because Mawlana Shaykh prepared it.
+
+Al Hamdulillah, we have to be thankful for Mawlana Shaykh, that he gave us this opportunity, and we have to be thankful for him that he fought for and gave his life for this opportunity. And he's still saying, "Ya Rabbi I didn't do anything" & starts to cry. He starts to cry, "Ya Rabbi, I didn't do anything." What does he want to do? Imagine what he wants to do. Al Hamdulillah that Mawlana Shaykh, didn't cry for nothing, he cried for something. I am again saying, that Al Hamdulillah, Allah Almighty, put us under his feet, put us under his will, He put us under his protection... And to tell that all of us are not only lucky, we're very, very lucky.
+
+And with this one I'm saying, Astaghfirullah Al Azim wa atubu ilayh Tawba Ya Rabbi, tawba astaghfirullah. Bi hurmat Al Habib bi hurmat Al Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=4457&name=2012-06- 23_en_TawbaIsTheKey.mp4

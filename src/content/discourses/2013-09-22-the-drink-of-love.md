@@ -1,0 +1,54 @@
+---
+date: 2013-09-22
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-09-22-the-drink-of-love.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-09-22-the-drink-of-love
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: The Drink of Love
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Marhaba/welcome O Yaran/lovers of Shah Mardan. Let's ask for nur/light. Go ahead O Shah Mardan. Let's ask for nur/light and not nar/fire. Don't ask for fire, ask for light. Go ahead O Shah Mardan. May our hearts be filled with love for you. We are weak servants. We are needy servants. Go ahead O Shah Mardan, the field is yours. Give us help and support. Go ahead Ay Yaran Shah Mardan. We hope to see nice days. We want nice/beautiful things. Let's listen to Shah Mardan. May Allah Jalla wa A'la protect the nation of Muhammad from accidents and afflictions. May He not give us any worries. Go ahead O Shah Mardan. Your Yaran admire you greatly.
+
+Let's revive. Let's know the reason why we are living. Let's ask for light. Those without light will become wooden logs for hell. Let's ask for light. O Shah Mardan, send us the holy servants who will give us light. Go ahead O Shah Mardan. May our hearts open up. May they open up with joy. Therefore let's say - Bismillahi r-Rahmani r-Rahim. Say it! Don't be afraid! Madad/support O Shah Mardan. May light enter our hearts. May our hearts have light and shine brightly. Go ahead O Shah Mardan. Your Yaran admire you greatly. May we receive joyful talks/associations - associations that will make us peaceful and happy. That is what we want. Associations open our hearts and make them happy. Rabbi Ta'ala Hz, Shah Mardan's words reach to us from His favors. Let's listen and revive.
+
+Our Lord wants to make us happy. Our Lord wants His servants to be happy and our hearts to be revived. He wants His servants to be joyful. He wants us to be happy. When we are not happy, Rabbi Ta'ala Hz, is not pleased. "O My servant, I created you, I gave you light. I gave you light so you can be joyful." Go ahead O Shah Mardan. "I want you to be happy. May your hearts be full of joy. I don't want My servants to be frowning. I don't want them to carry worries and sorrow. My servants should be joyful!" O our Lord! This is our Lord. He is the Creator. He is saying - "My servants should be happy. I am their Lord. And I sent them My Habib to give them good news of the 8 paradises. So they can be happy and not overwhelmed. They shouldn't be overwhelmed by this world. I don't want them to be."
+
+Go ahead O Shah Mardan. Your Yaran admire you greatly. Allah Almighty is saying, "My servants should be joyful. I don't want them to be in despair, hopeless, without love, heartless, or ugly!" He says, "I am their Lord. I didn't create My servants to be crushed/overwhelmed. For My grants..." O our Lord. "I created them in order to grant them My favors. I want to offer them My favors." He says, "They should ask Me for My grants." O our Lord, You are Subhan, You are Sultan. You love the beautiful. You love the pure. Allah Almighty says, "I want you to have love and longing. O My servants! O My servants! Don't fight! Don't fight!" Allah Dhul Jalal said, "O My servants, don't fight." Ay Yaran Shah Mardan. Don't fight. Allah Almighty does not like fighting. Be beautiful. Allah doesn't like the ugly. Be gentle, the Lord of Glory does not like rough, rude ones. He likes polite, gentle ones.
+
+Shah Mardan is saying, "Be gentle. Be elegant in your Lord's Presence. Shine brightly. The sky is black. In the darkness of night, there are little shining lights. There are lights, be like those lights." That is why the Prophet said, (alayhis-salatu was-salam) As'habi ka-n nujum - My companions are like the stars in the sky. "wa bi-n-najmi hum yahtadun". It is the stars that help man see their path. Wa bi-n-najmi hum yahtadun. You will find your way using the stars in the sky. Search for stars. Search for a star so it will show you the ways to heaven. It will dress you with glory and honor and dress you with the beauty of lights and spirituality. Your Lord likes you to be beautiful. He says, "I created them beautiful, not ugly." He says, "I don't want ugliness."
+
+O my Lord. Let's strive to be beautiful too. Go ahead O Shah Mardan. Say - O Allah's servants, try to be beautiful. Don't be ugly! This is the order from heaven. Go ahead O Shah Mardan. Your Lord Ta'ala wa Taqaddas, what does He want from His servant? To be beautiful, to be happy, to be full of light, to be honorable. Allahu akbar. He wants them to glorify their Lord, to prostrate, and take light. Allah Almighty says, "I am giving you light. Take!" O Our lord! Our Subhan, our Sultan.
+
+Go ahead O Shah Mardan. Your Yaran admire you greatly. Ay Yaran Shah Mardan, how nice, your names are nice too. Give nice names. Give nice names, O man! Your names should be nice, and your work should be nice. Don't give ugly names! What is the most honorable name for mankind? It is Abdullah. Who are you? I am Abdullah. I am My Lord's servant. The best name, Abdullah. Ay Yaran Shah Mardan. There is nothing greater than performing servanthood and saying "I am my Lord's servant". Let's take light. Let's give light. MashaAllahu kan wa ma lam yasha' lam yakun. This is man's job - to take light and to give light.
+
+Go ahead O Shah Mardan. We want light. It is there for those who want. There are lights for those who ask. Light is nice on you. O Yaran, light is nice on you! Darkness does not befit you. O our Lord, grant us peace and safety. You raised us high. You gave us grants. There are no limits to Your grants. O Shah Mardan, tell people to ask light from your Lord. "Faltamisu Nura" (57:13) "Seek light" Allah Allah. It says - seek light. Wherever there are lights, search there. And here is Shah Mardan. He is the light that you're searching for, a star from heaven. O holy one, may our hearts fill with happiness. A mu'min/believer does not have worries. They cannot be ugly. They are filled with love & longing. Allahu akbar. Allahu akbar.
+
+May they drink the wine of love, those who say "Allah" today. May they drink from the light of the wine of love those who say "Allah". Let's say - Allah Allah Allah. Go ahead O Shah Mardan. Train us to say - Allah, Allah, Allah. We are weak servants, Ya Rabbi. Qawwi dha'fana fi ridak. Give us strength O Shah Mardan. Let's be strong. Let's love you. Let's smell the roses from your rose garden. Let's love and be loved. May they drink the wine of love, those who say "Allah" today. Allah Allah Allah. Allah. Then let's say - Bismillahi r-Rahmani r-Rahim. So the doors will open, so our body will be full of joy. So worries and sorrow will leave our body, and no heaviness will remain.
+
+Every day the sun rises. Go ahead O Shah Mardan. The sun, there is a sun that we can see and another sun that rises from the spiritual side. Allah Almighty makes the sun rise every day. It gives light. He says, "I give My servants light." That is the sun we can see. There is also a spiritual sun that brightens our heart and brings us closer to Allah Almighty. Every day is a new day. Every day a new sun of love rises. Allah wants love from us. He wants us to love Him. He says, "Love, O people, love and respect Me. Everything is for you." Go ahead O Shah Mardan. Your Yaran admire you greatly. Allahu Allah Allahu Allah. Let's say - Ya Hu. Allah Almighty sent one Basmala Sharifa. It was sent to each of the 124,000 Prophets, then taken back up again. For the Nation of Muhammad, for our Master, Basmala Sharifa was sent down and it stayed. All your troubles will leave. Say - Bismillahi r-Rahmani r-Rahim.
+
+Go ahead O Shah Mardan. Your words, your words are sweeter than sugar and brighter than light. Let's be filled with love & longing for you, O Shah Mardan. Let's be filled and revive. Don't live for dunya or you will be considered an animal. Live for Allah, and you will be a Sultan. You will enter the presence of the Sultan and be accepted. Worry and sorrows will leave you. May it open. May the new day and new lights come. Take light and give light. Our Allah, our Subhan, our Sultan. Don't be like a jackal, and run after carcasses. Don't be like that. Open up and know what you want so you can take, so you can take light. Don't take fire. Fire burns you, it gives you trouble. Search for light. Search for light. "Faltamisu Nura" (57:13) Search for light.
+
+People are running after waste and manure. They are running after darkness, and no one runs after light. O our Lord, our Subhan, You sent Your Habib to us, with light; he is shining in light. Whoever takes from his light, will be close to sultans in dunya and in akhira/hereafter, he will be in their presence. May your work/affairs be sweet, so you can be sweet too. Don't drink poison. Poison is dunya. Dunya is poisoning people. It is ripping them apart and destroying them. It is poisoning. Dunya is poisoning people. Don't poison. May they drink the wine of love, those who say "Allah" today. Allah wants those who say "Allah" to be filled with love & longing. That is what He wants. He wants beauty. Allah Almighty loves beautiful ones. Don't be rotten and decaying. Be at the service of the Sultan. Don't serve dunya! Serve Allah, serve the One who created you.
+
+What is dunya? It is under your feet. Dunya is under your feet. Dirty mud is not clean. O our Lord, in order to notice what is beautiful and ugly, Shah Mardan is saying - differentiate between beautiful and ugly. Go after the beautiful, leave the ugly. Allahu Allah Allahu Rabbi Ma li siwahu illa Allah. O Allah. Marhaba O Shah Mardan, marhaba. Strive so that angels will say "marhaba" to you also from heaven. So you will revive. For many people, it will be said "Tuh" and they will be spit upon. Don't be from them. Go ahead O Shah Mardan. MashaAllahu kan. May you be strength for those with pure faces. So you won't be ugly. Don't be ugly! Be beautiful. When you can be beautiful, why be ugly? Why look for fake beauty? There is real Beauty coming down from heaven. Search for Beauty in dunya. O foolish mankind! Allahu Allah.
+
+O our Lord, the beauty of heaven was brought to us by Your Habib and Shah Mardan informed us. Let's be beautiful. May our end be a good one. Let's be happy. Fatiha.
+
+Allah Almighty takes away every trouble. Those who say "Allah" are comfortable. Those who don't say are left with every disgrace. Don't be disgraced. Be majestic. Wear the dress of glory. The dress of glory is with Islam. It is with Islam. Surrender and find glory. Go ahead O Shah Mardan, Your Yaran admire you.
+
+Fatiha.

@@ -1,0 +1,38 @@
+---
+date: 1997-01-12
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/1997-01-12-spiritual-perfection.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 1997-01-12-spiritual-perfection
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Spiritual Perfection
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+[Allāh] Almighty, who created us to be from mankind among countless kinds of creatures. We have been chosen and we have been granted countless favours through this life and endless favours forever up to eternal. And we are not making application to Allāh Almighty to be created from mankind. He created us and honored us. What do you want? Why you are complaining? What you are asking? What you are asking to be after to be from mankind? To be donkey? To be snake? To be (cockroach)? To be rats? To be scorpions? To be snakes? To be pigs? To be dirty animals? What do you want? Why you are complaining? What's your reason? And He may change those people, who complaining up to morning in a dirty and ugly creature. He is able.
+
+Don't look into mirror and say "I am getting older and getting losing my youth." You must look at mirror and you must say "Al-ḥamdu liLlāh that yet I am keeping the form of mankind". Yes. Some old ladies may look [at] youngsters, and she is getting sad and showing unhappiness. No rights for them. Because through our lives everyone, every man or woman, they were through their youth time best form for themselves just Allāh granted to them. But through this life, our time, our lives running. It is impossible to keep that age whole our lives. No. We are getting older. But important you must thank to Allāh Almighty "Yet I am old one but yet my form is never changed, it is mankind figure with me, becoming white after black being, or other colors – that it belongs to mankind". Some lines going to appear through our faces but yet our form mankind form. Our weight changing, our physical body going to be in other forms but belongs to mankind also. Not changing our hands after a age to be legs also - never changing our hands to legs. That is their hands.
+
+But so many coming - these things you must not be sad from that changing. No. And what we are looking from youngsters, they are on same way. In near future they are going to be like yourself. Therefore, I mean to say you must be thankful for Allāh. Changing coming through our forms as mankind, not changing coming from our kind to another kind of creatures? No. Therefore, you must be thankful to Allāh Almighty. You must be happy. You must be proud for the sake of Allāh that He created us from His most precious creatures. This is the important point that everyone must know. Because happiness of mankind, it is to accept and to agree what coming as changing through our ages, through our physical being. And that changing only for our physical being, not for our spiritual being.
+
+Spiritual being, it is fixed. And this point that I am trying to explain to you, it is most effectable training for our people whom they are falling into depression. No any medicine. No. No one can find any medicine. And you must try year by year to reach your spiritual development and perfection. Young ones not quickly reaching to that perfection. But when we are getting older, their spiritual being taking perfection from every event. When you are reaching perfection, your looking through this life going to be changed. Therefore, elder people must be more perfect than youngsters because through long years he had so many trials and he takes so many lessons from this life. And every one just happened through his life, must give to him perfection. So that the Creator giving His servants, when they are young, they are enjoying with their physical being's perfection. But after that "marḥalah"- after that limit that... you are reaching limit of youngsters and beginning the life, age of perfection after 40 years. You must try to be enjoyful through your spiritual perfection. And after that age you must feel through your feelings that you are stepping the stage of perfection, perfection of your souls. And day by day when you are taking more perfection, instead to be sad, you must feel through yourself a real enjoyment and contentment or happiness.
+
+And particularly, those perfect people, day by day, when they are improving through perfection, their souls getting to be in a position as a person if going to be abroad from his country abroad from his country, changing his feelings and covering himself a kind of enjoyment as a person just remained in a far continent from his homeland long years and looking to come back to his homeland in a kind of refreshment and enjoyment through himself. That feeling from our souls knowing that the day of destination for embarking, embarking coming down, disembarking. He is going to full to be full of his enjoyment instead to be sad. He is looking his last day that he's asking "If my ticket cut off and when my visa going to finish" to go away, to leave this heavy burden here and to go up to be free. And that is some feelings that mankind may be happy through all his life and only a real belief may give to people that enjoyment.
+
+Therefore, only Islām may give that enjoyment and peace to Muslims. And no any other religion may give that to mankind. And now whole mankind they are asking something. Rich ones asking, poor ones asking, educated people asking, ordinary people asking, workers asking, businessmen asking, citizens asking, peasants asking, colored people asking. Every kind of people they are asking. And they are not going to find it because, I am saying, that during this should be good for you in this century, in the century of unbelievers, and punishment from heavens coming to them because they are not believing that this is a medicine for them. And their punishment coming to them through their actings. Everyone giving their punishment by themselves.
+
+Joseph, Sayyidinā Yūsuf, he was in a prison that ordinary person, if going to be in that prison and remain there 24 hours, second day you must find him as a full crazy one or dead one. Such terrible prison it was. But he never complained and he was happy because he was with his Lord Almighty Allāh. But Pharaoh he was on his own throne and he was ordering to anyone for anything, just brought to him. But he was not happy. He was unhappy. That one sitting on throne and unhappy, second one in prison but happy. The teaching of Islām is to save people from bad conditions and to guide them unto happiness and peace. But satan cheating people and leading them on a cursed way, leading them unto cursed area. Therefore, beliefs giving life to people. Beliefs giving hope of life to people, taking sadness from them and taking off them hopeless[ness]. Because if a person going to be hopeless and losing his hope for life, he is running after death. Last hope for him, or for her, that is death. Death is not a hope. Never going to be hope - death, no. But in our days every day hundreds, every month thousands, every year ten thousands of people they are thinking that last hope for them to die, suicide themselves. Satan teaching them and saying you finish. No one...
+
+http://saltanat.org/videopage.php?id=16344&name=1997-01- 12_en_SpiritualPerfection_SN_a.mp4

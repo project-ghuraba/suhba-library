@@ -1,0 +1,60 @@
+---
+date: 1984-05-31
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/1984-05-31-knowledge-versus-wisdom.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 1984-05-31-knowledge-versus-wisdom
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Knowledge Versus Wisdom
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Audhu Billahi min ash-shaitani r-rajim Bismillahi r-Rahmani r-Rahim la haula wa la quwwata illa Billahi l-Alliyi l-Azim
+
+By the name of Allah Almighty, All-Merciful most Beneficent and most Munificent. Allah Almighty gives us pleasure through our hearts. We coming here and meeting for the sake of Allah Almighty and for the sake of holy Prophet, beloved Muhammad, peace be upon him, salAllahu alaihi wa sallam and for the sake of awliyas, saints, whom, all of them they are beloved people to Allah Almighty.
+
+Now, I am asking from my Lord to make my tongue to speak something from His Divinely Wisdoms through our beloved Prophet, Muhammad heart salAllahu alaihi wa sallam and asking himmah. Himmah assistance of our Grandsheikh, from whole awliyas. When we are asking and we are knowing that we are in need, they are giving. If we are saying that we know something they are leaving us to our knowledge. If you have something, you are not in need more than this, that is enough for you. We are saying:
+
+Subhanaka la ilma lana illa ma allamtana innaka anta l-Alimu l-Hakim (2:32) Glory to You, we have no knowledge except what You taught us. Indeed You are most Knowing, most Wise.
+
+Glory to Allah Almighty, that is i'tiraf, confession from angels. When Allah Almighty created Adam, mala'ika, angels saying that, “you created Man to be khalifah, to be in the highest level for creatures”. There was a throne muhaiyya, prepared for someone. Who he was? Throne of khalif. When Allah Almighty told to angels "I am going to create that one who should be for that throne khalif,” then whole angels saying that, "O our Lord, You are creating a creature as Your khalif, but, he and his sons going to make on Earth fasad, to make troubles and to kill each other but we are making tasbih, we are glorifying You".
+
+They are saying this but secretly they are saying "We are suitable for that throne because we are always, we created for the glorifying for You. But sons of Adam, sons of khalif, they are going to make troubles and fighting with each other. How You are giving that to new creature? To Adam and his sons?” Allah Almighty then taught to Adam the names of everything that He created. Even knowing the names of his sons, the names of angels, the name of everything that created. Then Allah Almighty asking from angels, saying "Now tell me, what is the names of creatures? If you are saying that you are suitable in your hearts you are keeping that, not speaking but keeping, but I am knowing what you are saying, what you are keeping through your hearts. Tell Me now what is the names of creatures?" They are looking, they haven't been given that knowledge. They are saying "Glory to our Lord, Subhanaka la ilma lana, nothing we can know if you are not giving. You gave to him, he knows. You didn't given us about the names of creatures, how we can know? La ilma lana illa ma allamtana, if You teaching us we are knowing. No, we can't know".
+
+Signing that al ilmu `ala r-rutab. There is an hadith, saying from Prophet, peace be upon him, rutbatu l-ilm `ala r-rutab. The rank of knowledge is the highest rank. For sons of Adam highest rank or highest degree has been given to them according to their knowledge. Knowledge gives honour to people. Therefore Adam, peace be upon him, has been given knowledge more than anyone. So that that throne was for him, not for angels. Then rank of Adam and his sons more than the ranks of every creature. And among people also, the highest degree or highest rank for the most learned person.
+
+Now, when we are speaking on knowledge we must know about knowledge something. There are 2 kinds of knowledge: knowledge for creatures, knowledge for the Creator. Knowledge for creatures, everyone can learn according to his mind, according to his ijtihad, capacity. Everyone may learn about creatures but most important knowledge it is for our Lord, knowledge that belongs to our Lord. That gives honour in Divine Presence for us. Not knowledge about creatures, about this life giving in Divine Presence honour to people. But the knowledge that about our Lord, giving us honour here and in Divine Presence.
+
+One of them belongs to this world that it is 'fani', going on, temporary. But permanent knowledge is going with you forever. Eternally. Allah Almighty just created man to give them from His divinely knowledge. And at the beginning, just He gave to Adam the names of creatures, that it is going to be a key to divinely knowledges. From names you are jumping, or going to musammah (named), from names to you to this. We are saying creature without name. When we are giving name, you must know about that creature, what he is. With which wisdom he has been created. Adam alaihi salatu wa s-salam, peace be upon him, has been given names and our beloved Prophet Muhammad, peace be upon him, has been given the meaning, the wisdoms of names.
+
+Adam, peace be upon him, was knowing names but for which wisdom you are in existence Muhammad, peace be upon him, was knowing. Knowledge you may learn but wisdoms, it is given from your Lord to you. If you enough strong to keep that, to protect wisdoms, because wisdoms most valuable thing that you can know about it. Most precious thing, most precious from every precious stones. Whole world, if it is going to be precious stones, it is not going to be value for a wisdom because wisdoms has been presented to their owners from Divinely Presence. Something that has been given from Divinely Presence, no one can know value for it. Now in our time, wise people, wise - who has been given wisdom, very rare you can find. Very rare, jiddan (extremely), but learned men you can find. As much as you ask learned men yo many find. But who has been given wisdoms, you can't find. So rare. We are asking from our Lord for the sake of Muhammad, peace be upon him, and for the sake of prophets, anbiyas, alaihimu s-salam, for the sake of grandsheikhs, and our Sultanu l-Awliya, our Grandsheikh who grant us from his endless favours something that we may be in need for it. We are living in a time ordinary knowledge can't give any benefit for Muslims because it is so difficult time.
+
+Our time never passed in past time, such a difficult time for believers. Any time you are firing candle, your lightening so many coming to make it off. This time, so many stormy winds you can't keep it. Quickly going away. Before there is no such a stormy, windy weather. Attacks is worst attacks now to make that, the Light of Faith, flame of candle of faith, quickly going away. And you are in need to make it live, therefore Prophet saying, peace be upon him, saying, "O my Nation, at the end of the time that this world going to be finished the Day of Resurrection coming near, that time people going to be faithful, morning time, and getting out from his house mu'min, believer returning kafir, unbeliever. Or, nighttime coming believer, morning time, going unbeliever. That is difficulty in our time.
+
+Knowledge cannot stop this, cannot keep our faith. So many learned people you may find but even on themselves it is going to be useless. Therefore we are asking wisdoms from Allah Almighty. And everyone has been given wisdoms. And that, protected in our hearts. If you are asking key, you may be given. But we are not asking, it is hard. Difficult to take key and to open the door of wisdoms in our heart. If no wisdom, you can't control yourself. Control on your ego may be by wisdoms. If no wisdoms that knowledge such a thread of cotton. Thread of cotton, quickly breaking, going away. You can't tie your ego with such a knowledges. You need chains. Chains like vessel chains. So, vessel chains, big, that is in need to tie it.
+
+Wisdoms, that is wisdoms. Not leaving your ego to cheat you. Or, always cheating you, always cheating you. Not once, twice, ten times, hundred, thousands times, cheating you. It is not look every night you are sleeping, saying, I may come this night midnight you are awaking your ego cheating you saying, 'yet, there is too much time for morning'. Cheating you, every day every night. here, outside, in schools, in shop, in office, in bus, in vessels, every time. Coming, cheating you because no wisdom. Every people going... learned people, doctors, going up and shouting, giving khutbah, Turkish, English, Arabic, too much. But, coming down, finish. Until we are going outside, cheating us. Egos.
+
+Therefore little wisdom is better to be with you as much as this world knowledge. Without wisdom knowledge, such a body without soul. Now we are coming to know where we may find it - that wisdom. Even they are very rare now, but if a person asking he may find them. Therefore Prophet saying, peace be upon him, "utlub al-ilm wa lau bi s-Sin". Ask knowledge if it may be in China. China, it was the far-est, or Far East country known among people, not according the knowledge of Prophet. In that time it was the far-est country known by people. China. And saying you must ask knowledge, even may be so far away. Go and ask, what kind of knowledge. Wisdom. Wisdom.
+
+In America you may find too, yeah, through so many books you may read. So many doctors also, coming around but their hearts never going to be satisfied. Until coming to listen and going their hearts mutma'in, satisfied. And I am also asking from my Master to grant us even a little wisdom. For a little wisdom, perhaps my English is worst from anyone, anyone's English, but it is not important. Important, to give something alive by language. Too much speaking coming dead, no soul. But may be some words, alive, then going through hearts.
+
+Sometimes army practicing for war, playing war games. There is something, bullets, not harming, blanks, no harming. But it is alright. Sometimes one bomb coming, inside to many unshaped pieces coming and killing, effect on people. Therefore even our English is not Shakespeare English, but important to make effection on our hearts. This knowledge coming through Prophet, peace be upon him. That is amanah. It is something that protected by Prophet and has been given to someone who may keep it. Trustworthy person to keep it and to give who may be in need.
+
+So that wisdoms from the heart of Prophet, peace be upon him going through Siddique, firstly, and then through other Sahabas, followers of Prophet, then, among people, whom they are trustworthy they may be given from that most precious jewels. Therefore there is a book Pink Pearls. Very rare, pink pearls. Pearls going to be white, but pink, that is very rare. Through holy month we hope that they should grant us something that may be useful for us for whole life or for whole year, from this year up to next one, to keep our egos, on the way that we may ask our Lord. We lost Him and we are asking to find Him. You can't find Him without wisdom. You must use your wisdom to find Him.
+
+And the first wisdom that we are in need to know that we lost most precious existence in existence. If we know it, then whole wisdoms falling on us and coming to our hearts. For the sake that we asking our Lord. We're asking to find Him. And you may find Him through His Wisdom. Wisdoms taking you to heavens. To Divine Presence. Allah Almighty grants us. even we are not we are not suitable for that but, from His grace and favours we are accepting. Accepting.
+
+Alhamdulillah, Alhamdulillah, wa shukru li-Llah Alhamdulillah Alhamdulillah wa shukru li-Llah astaghfirullah astaghfirullah astaghfirullah min kulli dhanbin wa m`asiyatin min kulli ma yukhalifa d-din al-Islam bi hurmati l-Fatiha

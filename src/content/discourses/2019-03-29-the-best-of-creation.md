@@ -1,0 +1,58 @@
+---
+date: 2019-03-29
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2019-03-29-the-best-of-creation.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2019-03-29-the-best-of-creation
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Best of Creation
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa-l-khayru fi l-jam‘iyyah.
+
+Allāh ‘Azza wa-Jalla sent Qur’ān ‘aẓīmu sh-sha’n as the biggest miracle. The secret of all of mankind and of the universe is inside it. It is the firm word of AllāhNone. And even for today Allāh ‘Azza wa-Jalla promises some things.
+
+Bismi Llāhi r-Raḥmāni r-Raḥīm. "Wa-t-tīni wa-z-zaytūni wa-ṭūri sīnīn, wa-hādhā l-baladi l-amīn" (95:1-3), says Allāh ‘Azza wa-Jalla. "Laqad khalaqnā l-insāna fī aḥsani taqwīm, thumma radadnāhu asfala sāfilīn, illā l-ladhīna āmanū wa-‘amilū ṣ-ṣāliḥāti falahum ajrun ghayru mamnūn, famā yukadhibuka ba‘du bi-d-dīn, alaysa Llāhu bi-aḥkami l-ḥākimīn" (95:4- 8). Balá, Yā AllāhNone. Ṣadaqa Llāhu l-‘aẓīm."
+
+What is meant by "at-tīn" is the fig. But AllāhNone is not swearing by figs. What is meant by "wa-t-tīn" is, they call Mount Qāsiyūn in Syria, the mount of figs. "Wa-z-zaytūni" is the olives, as we know. But HeNone is not swearing by them but by Al-Quds (Jerusalem), the land of olives, the original place of olives. "Wa-ṭūri sīnīn," Ṭūr Sīnā mountain, Mount Sinai. These are holy places. "Wa-hādhā l-baladi l-amīn," – this holy, safe, and secure place. It is about al-Ka‘bah, Makkah al-Mukarramah. So Allāh ‘Azza wa-Jalla is swearing by these holy places. Figs are holy and olives are very holy. But their purpose by Allāh ‘Azza wa-Jalla is that Shām is a holy land and Palestine, al-Quds is a holy place. Mount Sinai, Ḥijāz, Makkah, Madīnah are the holiest places. Allāh ‘Azza wa-Jalla is swearing by them.
+
+What is said? "Laqad khalaqnā l-insāna fī aḥsani taqwīmin." "We created mankind in a perfect form." No form is better than this. Drunken people say now that first they were insects, then they were monkeys, and now they are human. Those who say this are kāfir people who lack mind. It is what shayṭān says. Allāh ‘Azza wa-Jalla created human in a perfect form. No need to interfere in this. There is no flaw. They say the monkey has a tail which we don't have. What if we had a tail? It would be so strange. Our ears are small. Shall we make them bigger? Allāh ‘Azza wa-Jalla created mankind like this. HeNone created them perfect. There is nothing more to be said about it.
+
+"Thumma radadnāhu asfala sāfilīn" (95:5). It is the perfect form. A man is born, grows from infant to youth, and then gets old and reaches the hardest period. While young, a man is strong and handsome. People admire him. Or they admire each other. They think they are something and become arrogant. They forget AllāhNone, don't do what they should. Most people fall for evil things. They forget AllāhNone. And then they complain, "I have this flaw and that flaw." Their lives pass in complaints. How are they in the end? They become old and weary, in a bad condition. No one will want to care for them. And if they did bad things, mistreating their bodies with ḥarām and evil by eating and drinking, that person at last... It says "asfala sāfilīn" in Qur’ān – such a person becomes lower than the lowest.
+
+"Illā l-ladhīna āmanū wa-‘amilū ṣ-ṣāliḥāt," except for those with īmān and good deeds. They don't fall so low in the sight of AllāhNone and of people in this world. They are treated with respect. And their bodies don't disgust. Their lights increase with age. People's respect grows towards them. And then AllāhNone rewards them. They have big rewards, rewards they will enjoy. Allāh ‘Azza wa-Jalla created with wisdom. The Wisest of the wise is AllāhNone. Wisdom is a big favour. Allāh ‘Azza wa-Jalla gives HimselfNone from it because HeNone is the possessor of wisdom. Whatever is needed from wisdom for people, HeNone gives. It is true. What Allāh ‘Azza wa-Jalla says is true. We accept this.
+
+May AllāhNone give us good life, in shā’a Llāh, so that our ends are not bad. People get older year after year and you never know what may come. And when young... May AllāhNone protect the young ones, both girls and boys because there are many shayāṭīn. Shayṭān is waiting, to hunt and take these people to a bad end, to a bad way. And a bad way leads to a bad end. May AllāhNone protect us. Therefore, our ProphetNone advises the young to marry. It is the most important thing. It is how shayṭān can reach them easily. And married ones should look to their families, not others because that leads to nothing but disaster. AllāhNone created people in a perfect form and your wife is as beautiful as another woman. Therefore, don't look at others. AllāhNone created perfectly. When a man looks at ḥalāl, he is protected from ḥarām. When he doesn't look at ḥarām, Allāh ‘Azza wa-Jalla protects him.
+
+May AllāhNone protect all of us. May our ends be good in dunyā as well. May AllāhNone not make us in need of anyone, in shā’a Llāh.
+
+Allāh ‘Azza wa Jalla HisNone words, Qur’ān ‘aẓīmu sh-sha’n, holy Qur’ān, Allāh'sNone word, HisNone saying, HisNone book sending for human being through Prophet ṣallá Llāhu ‘alayhi wa-sallam and it is biggest miracle. In this book whole knowledge, whole knowledge, and, but whole knowledge for human being it is even more and more than... you cannot reach this knowledge. Never you cannot reach. Every time it's like, not like river, not like sea, more than ocean. It is everything in this holy book. Not changing any word from this because many heavenly books come since Ādam (as) until now but most of them, whole of them, they change. Only the true one – Qur’ān ‘aẓīmu sh-sha’n, HisNone miracle. This people...
+
+We are Muslim people, we are lazy people. We are not making researching or doing this but who are not believer they are looking more, researching for this holy book. Even they are not believe, but they are astonishing and many of them become after, if they have, AllāhNone make them, give them favour – they become accepting. And this Book, there is one sūrah we read before – Sūrat at-Tīn.
+
+Bismi Llāhi r-Raḥmāni r-Raḥīm. "Wa-t-tīni wa-z-zaytūni wa-ṭūri sīnīna wa-hādhā l-baladi l-amīn, laqad khalaqnā l-insāna fī aḥsani taqwīm, thumma radadnāhu asfala sāfilīn, illā l-ladhīna āmanū wa-‘amilū ṣ-ṣāliḥāti falahum ajrun ghayru mamnūn, famā yukadhibuka ba‘du bi-d-dīn, alaysa Llāhu bi-aḥkami l-ḥākimīn" (95:1-8). Balá, Yā AllāhNone.
+
+AllāhNone swearing on "at-tīn" meaning fig, "wa-z-zaytūn" meaning olive. "Ṭūri sīnīn" – Ṭūr Sinai where Sayyidunā Mūsá ‘alayhi s-salām was. "Wa-hādhā l-baladi l-amīn" the safe country, safe city, Makkah, Ḥijāz, Madīnah also, in shā’a Llāh. This is "tīn", fig, what they are meaning. Mountain of Tīn fig, it is Damascus, Mount Qāsiyūn. "Wa-z-zaytūn" – this is Palestine, Quds, all this area was there is olive and famous for olive and there is still until now five thousand year old olive tree in this area. "Ṭūr Sinai" it is where Prophet Mūsá ‘alayhi s-salām he was there speaking with Allāh ‘Azza wa-Jalla, where AllāhNone addressing him. "Hādhā l-baladi l-amīn" – Makkah. It is where is Ka‘bah, where is this Ḥajaru l-Aswad (Black Stone).
+
+This holy place AllāhNone swore of this five holy places for what? For HeNone said, "WeNone create human being the perfect shape," most perfect – "aḥsan" meaning good, the best meaning "aḥsan". "Taqwīm" – the best creation WeNone create human being. Now people you cannot say anything it's wrong with human, our creation because there is crazy people, non-believer people, they said we are coming from worm, coming from insect, we coming monkey. We coming ape after we come like this. This is, they're, only shayṭān can say this or non-believer to mix because this is not, there is, they are different. AllāhNone not make them swore on this whole five holy places to say for this – who they say different from this, they are liar. They are even they are liar or they are they don't have mind and they are some of them crazy, idiot. Because we are believe in our Lord. Nothing, who say against this our Lord's words, he is liar. We not giving any attention for him. And unfortunately they put this even in Muslim countries' school, some of school they are to confuse people.
+
+So AllāhNone create us in best shape. We be, you cannot say, "We don't have wing," so if you have wing it will be funny. "Our ear it's small. Maybe [if it is] like donkey it must be we can hear more." Or you will need tail better you can hang yourself. It is really cause AllāhNone He make us in best shape of... We are thanking for HimNone for this shape. And after this HeNone said, because HeNone create from small baby and slowly slowly teaching and until coming young and man or young girl. After become man and strong. After become HeNone said we make him like this, the best strong and after we make him to come the lowest, the lowest of lowest. He become... Why he said this? Because most of people they are running after their desire, looking only for their enjoying themself. All this they forget, even as we said, they are denying creation, Creator and creation and saying, "We don't have anything." And they are not looking for anything. This people coming, when they are becoming old, the lowest of lowest. Nobody like them and they are not even dying. To finish their life, some of them they kill themself. But only Allāh ‘Azza wa-Jalla saying, "Illā l-ladhīna" – only the believer who was in way of Allāh ‘Azza wa-Jalla "illā l-ladhīna āmanū" they are believer who make all this AllāhNone order and they make charity. They are have big honour in dunyā also they become more. They coming older and older, more light, more happiness. People they respect them more and more and they have big reward from AllāhNone. Because when they coming more older AllāhNone forgive them and they said you are free from, no writing for you any sin after eighty years. So it is big honour for us to be in this way.
+
+Because all we from day by day we are going to be older and older so, in shā’a Llāh, AllāhNone keep us in HisNone way and to be more light and more respect for Allāh ‘Azza wa-Jalla, in shā’a Llāh. And this is AllāhNone keep us and keep us young one also from this shayṭān people because every time you, they go to make sin, they becoming lower. But if they ask for forgiveness, AllāhNone forgive them and make them to be in highest station not lower and he is the most wise one HeNone said. We are accept this. In the end of Sūrah, HeNone said wise, to be wise it is most favour for us. AllāhNone give this for us, in shā’a Llāh AllāhNone give you long life with good deed, in shā’a Llāh, to give us more light and happiness, in shā’a Llāh, to be AllāhNone happy with us, in shā’a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

@@ -1,0 +1,48 @@
+---
+date: 2014-06-15
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2014-06-15-who-is-not-afraid-of-his-wife.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2014-06-15-who-is-not-afraid-of-his-wife
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Who is Not Afraid of His Wife?
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Sheikh Bahauddin Adil sohbat of the 15th of June, 2014.
+
+Alhamdulillah may Allah makes us happy. May Allah makes us laughing all the time. May Allah makes us with the Sheikh because the Sheikh gives us happiness. Anybody who has a Sheikh the happiness is given. Alhamdulillah. This everybody must know. Everybody must know if you have a good you've been given happiness. If you have a Sheikh you've been given super happiness. If you've been having Sultanul Awliya' you are mega happy. Now so many people are asking, why Sheikh? Yahoo! You are swimming nowhere. And you are far far away from everything and you are not knowing how to swim and then you are asking "Why I need somebody to put me in a boat? To teach me how to swim and to teach me how to see everything." And then you are so ignorant and saying "why I need a Sheikh?" Allahu Akbar!
+
+You cannot do anything without a Sheikh. You cannot do anything without a teacher. You cannot do anything without somebody to teach you something. Sayyidina Ali (q) he was saying "if somebody teaches me one letter I am accepting to be his servant for 40 years." Imagine how important is somebody to teach you something. And especially the teaching cannot be pure all the time. There are so many types of teaching. The teaching of shaytan is different. Teaching of ego is different. Teaching of shaytan people is different. Teaching of, I don't know is different. Sometime they teach you in the name of religion, it will be different also. They say "yes you can kill people in the name of religion." La hawla wa al quwwata."You can kill children in name of religion." La hawla wa la quwwata illa biLlah. You can kill people in the name of religion, the civilians. La hawla wa la quwwata illa biLlah Al Aliyi Al Azim. This is also teaching.
+
+We are looking for the pure teaching. If Allah (swt) put us in the pure teaching then we are able to get that teaching, and we stick with it. That's why they say "when you find the pure teaching. Don't run away! Be there. Because this will take you to Allah Almighty and Rasulullah." The religion itself has barriers - What you can do and what you cannot do and what you are permitted to do and what you are not permitted to do. It is important to understand, and to absorb and to digest what the religion is saying. When you find the pure knowledge you stick with it, be with it and continue with it. It is important that when Allah Almighty He gives you the pure knowledge you see the light of that knowledge. You don't feel heavy you don't feel like you have a fight inside you.
+
+This is true or not. Because the truth is Haqq, is all the time shouting I am the Haqq. Allah Almighty He says "I am the Haqq." That means the Haqq is shouting, shouting, shouting and you cannot miss it. "I didn't see." No! It is really loud. Ana l-Haqq! Ana l-Haqq! Ana l-Haqq! Allah Almighty He is Haqq. That's why the Haqq is very important and that's why Mawlana Sheikh was saying Sheikh Nazim Al HAQQANI (qas). This means he represents the Haqq, and he is the Haqq and he is loved as Haqq. To be seen, and to be understood. They are never hidden. And they are never ever trying to be hidden. They all the time want to show the Haqq. Because the people they are poor actually, people they are poor. Because if nobody shows them things how can they measure? So that's why Mawlana Sheikh he was all the time showing himself. All the time, he gets any opportunity to show himself as a Haqq. That's why it's important for us to show ourself as a Haqq. It is our duty to show ourself as a Haqq.
+
+It is reminding me with a very funny story about Timurlane, he was one day angry. Very very angry. and Timurlane says "I will make a competition for city people." And say "what kind of competition you ask your majesty?" I say "I want to see who is the most brave one among these people and to show me himself that he is not scared from his wife." Very angry Sultan he doesn't have any joke. "I want somebody to be brave to show me who is not scared from his wife." Say "what you order?" He says, "we put two tents in the center of the city. And one tent it is called the ones who are scared of their wives and the other tent is www.saltanat.org Page 1 the ones who are brave and not scared of their wives. And announce it and tell the people "who will go for which and if anybody lies I will chop his head off!" No joke, this is Timurlane.
+
+Then all the people going out. Everybody going for the tent that are afraid from their wives. Everybody, it was so crowded that the tent doesn't fit. It was outside also. And the other tent, there was one man, very skinny, very weak looking and he was sitting alone in that tent. Alone! And, that tent it was so crowded. And Timurlane comes with his majestic looking and majestic "Ah! What you are doing there? Telling you are not scared of your wife and you are here as a brave man?" Say "no, I am scared of my wife." Say, why you are not going there and you are here. You don't know what is the penalty of lying?" He says "Yes, I know." "So how you dare to be here?" he was wondering Timurlane. And he says "in the morning when my wife was sending me she was telling, be careful O my husband to not be in the crowd. Because maybe in the crowd is not good for you be alone is better." So I find this tent, nobody here and I listen to my wife." "You are not scared of death?" "No, I'm scared of my wife."
+
+Say, this is Haqq! It's Haqq. That man he is scared from his wife. That means her rights, her Haqq, is very strong on him, that he is not even scared for his life. They make him the king of the ones who are scared from their wives. He became the king of the ones who are scared of their wives. So this being known as a Haqq for him, to be a king. It was known for him to be the royal majesty, that he is the one scared from wives. Alhamdulillah we have a saying also that says, the one who is not scared from his wife is not scared from Allah Almighty also. Because we will end up in the hand of the wives. We will end up in their mercy. That's why you have to be clever and you have treat them well, and you have to listen to them if necessary.
+
+This is Mawlana Sheikh he was doing all these jokes for the wives to make them happy. For the men to make them feel more warm to not make big things between the 2 parties. He was all the time joining every party. So many people they say "we have this problem, that problem. My wife has this problem, I have, my husband..." Yahoo! It is running time. Just spend it! Don't stuck there. Just go for the second station. Keep going on, keep moving on, time is running. You have a problem, the problem is there, leave it! Just continue. Yallah, yallah, yallah! It is Mawlana Sheikh he was chasing us to say "keep going on, because the problem is there, it doesn't change. But if you stick with the problem then you will be all the time forgetting Allah Almighty, forgetting Rasulullah, forgetting Awliya' Allah forgetting your worship to Allah. This is not why we come. This is not why we are created. We are created to be servant for Allah Almighty.
+
+That's why the Awliya', they separate their private life with Allah Almighty life. This is what they are doing. That's why they are successful to go on with what is happening. Because they say "if you are mixed with the problem, it will be like octopus never letting you to go out. But if you manage to be over the problem the problem will be there it doesn't go away. But you can go higher and higher in your spiritual world. This is very important teaching for us. Because we need such a thing. And this is, if you can present this for your family and they can understand this one then, it will be cooperation between the 2 party. And it will shift you up, and up. Because our main purpose of creation it is, what Allah Almighty He wants. He didn't want us to be stick in the problem. He wants us to be... Because the problem is the step to make us higher and higher and higher. This is one vessel to make us go higher and higher. It is important to know that this problem it is there but insha'Allah this problem will make us to go higher and higher with the maqams that Allah Almighty He grant us & we ask that Allah Almighty He makes us sincere to Mawlana Sheikh and may Allah (swt) make us in love with Mawlana Sheikh more and more and we ask Allah(swt) to make our Sheikh proud of us that we are continuing in his road, we are continuing in his mission, and we are all of us his servants to distribute Haqq around the world. And to make so many people to know Haqq and to be with Haqq and to enjoy Haqq, insha'Allah.
+
+Wa min Allahi t-tawfiq bi hurmati l-Habib wa bi hurmati l-Fatiha.
+
+www.saltanat.org Page 2 Video link: http://saltanat.org/videopage.php?id=11724&name=2014-06- 15_en_WhoIsNotAfraidOfHisWife_SB.mp4
+
+www.saltanat.org Page 3

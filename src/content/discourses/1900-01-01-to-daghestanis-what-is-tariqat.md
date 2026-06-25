@@ -1,0 +1,60 @@
+---
+date: 1900-01-01
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/1900-01-01-to-daghestanis-what-is-tariqat.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 1900-01-01-to-daghestanis-what-is-tariqat
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: 'To Daghestanis: What is Tariqat?'
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Audhu billahi min ash-shaitani r-rajeem Bismillahi r-Rahmani r-Rahim. Now listen! So many years have passed since the Bolsheviks came. They did not leave anything of Tariqa. Before them, Sheikh Shamil battled for twenty-five years. For twenty-five or thirty years he battled. At the end still the unbelievers came. Why? He got tired, tired. When he got tired.
+
+Hazrat Gujdawani is the Imam of this Tariqa. Abdulkhaliq al Gujdawani is the Imam of this Tariqa. He said this: Who stands still or gets tired is not from us. A stationary one, a tired one, is not from us.
+
+M: Tired and exhausted. What does stationary mean?
+
+When somebody stands still - it is "waqaf"(stopped). "Mamasha ma taqaddam halli waqaf falaysa minna." (not walking, not advancing, who is stopping is not from us.) The Imam of Khatim Khwajegan is Hazrat Gujdawani. We are reading this khatm and the Imam is Gujdawani. Abdulkhaliq, Abdulkhaliq, Hazrat Sheikh Abdulkhaliq al-Gujdawani. His tomb is in Uzbekistan in Bukhara.
+
+M: There is the city of Gujdawan 3 km farther. Is it all right?
+
+We also went there for visiting him. It has been 4 years; together with this year it is 5. There is Hazrat Gujdawani. To stand still, get tired. Do you understand tired? Somebody tired is not from us. Those together with Imam Shamil, they got tired. The unbelievers did not get tired. The Russians did not get tired. They moved forward. Despite the deaths they moved on and on. Finally they occupied all of Daghistan. What did the Russians do here at the time of the occupation? They gathered all the sheikhs of all the tariqas here and banished them to Siberia. Banished them to Siberia.
+
+When there is somebody who collects people around him, the countries, governments get afraid. They are frightened of the Sheikhs but not of the Imams. They are not frightened of the Imams because an imam only gathers the men who come to pray at the mosque. After that nobody follows after the Imam. But Sheikhs, Sheikhs of Tariqa, people follow them. When he says Sharia, the governments turn upside down. That's why the Russian unbelievers, they did not send the scholars of Sharia, they sent some of those also, but mainly they sent the Sheikhs to Siberia who were gathering the people. Also they wanted to send Hazrat Sughuri. They sat Hazrat Sughuri on a horse. Do you know horse? M: I know. When they sat him on a horse, this horse collapsed. The horse collapsed. Then they said, let's put him in a carriage. They sat him in a cart. Two horses could not pull it. Hazrat Sughuri was just sitting. They put two more horses. They were whipping them, but the horses stood still. Six horses pulled but it did not move. Eight horses pulled. Eight horses fell down but the cart did not move. The Russian general, this unbeliever said: this one can blow us up. Release this man so he goes from where he came. Don't send this one to Siberia, this is Hazrat Sughuri, may Allah sanctify his secret.
+
+Hazrat Sughuri says at every third of the night, La ilaha illa Allah. La ilaha illa Allah. La ilaha illa Allah. A city like the Temurkhanshura is where he was. When the train whistles, all the country can hear. When he says La ilaha ila Llah in his room, after midnight, all the country wakes up. Then everybody, even a child sucking milk from his mother wakes up. Such a great person is Hazrat Sughuri.
+
+Maybe for a hundred years the unbelievers have forbidden tariqa here. Nevertheless Tariqa is truth. It is the true way, it is real. Tariqa is the way for Muslims. Muslims seek a way to go to Allah. The way for going to the world everybody knows. Is there anybody who doesn't know the way to his field or his home? Ask to them. He knows the way to Temurkhanshura. Knows Machackale. Knows Darbent. M: We are selling chicken there. Where are the chicken? M: In this village and selling them in Darbent. They are all chicken traders. Anybody who doesn't know Tikuni? The way to Tikuni. But you know Machackale. Do you know the way going to Allah? The way to Allah, the way to Allah.
+
+If you were going to Mecca from here you must ask the way to Mecca. Mecca is not in the heavens, it is on earth. But you must ask. How, from where can I go? From where should I depart? You shoud ask the way to Mecca. So, the way to Allah. The way to His house, it is the way to the House of Allah. Even the way to the House of Allah needs a sign, needs tariqa. Tariqa means 'way'. Mecca has a tariqa, has a way. You must find this way. From this way you will find Mecca, the House of Allah. It is different from finding Allah and the House of Allah. It is the Baytullah, the House of Allah. You ask for Allah. We are asking for Allah. That's why Tariqa is secret. How can you go to Allah? That means that only somebody wihtout a mind denies tariqa. Somebody who doesn't know Islam, who is ignorant, denies tariqa.
+
+To where is Tariqa calling you? Is it calling you to the world? Come to the world? As we said, you know the world. Or the field, to plough the field, plant the field, plant the garden, plant maize, plant seeds, go fishing, hunt birds, hunt wolves; there is not a description here for this. Tariqa doesn't describe this. Tariqa asks; isn't there anybody who wants to go to Allah? Now, somebody who seeks Allah goes beautifully. Those who run away from Allah, those who don't want to go the way of Allah they will be caught one day. They will put them into a coffin. Is there anybody who won't be put into a coffin? Where is he going? Ask him. My friend, where are you going? Ask in his ears, where are you going? Going to the field, or the hencoop or to Temurkhanshura?
+
+Where is the man inside of the coffin going? He will say that I'm going to the hereafter. To the hereafter. So what did you do with this world? I left it to the ones whom I left behind. Your world has been given to my children. It has been given to others. So, what are you going to take? He will say that I'm taking that shroud. Therefore, here the Tariqa is for bringing the believers to the way of Allah, to show them the way. How will we find Allah? Without calling for Allah, can you find Allah? Look I have come here, as a guest. Here, the muezzin calls so many times. Guests from Turkey came. Come and see. Didn't he call? He announced. That's why now the Sheikh's of Tariqa are calling like him. Come, see and know which ways reach Allah. He said our name, the folk heard and came here.
+
+Now if one doesn't ask for Allah, if there isn't any asking for Allah can man find Allah? By saying Allah, Allah, Allah, Allah, whom am I calling? Are we calling for the Russians, calling the Armenians? Hasha (Pardon) calling the British? He says Allah. When the time comes that calling Allah is forbidden, it means that Islam is finished. If the educated people of Islam have forbidden saying Allah, that means that their Islam is finished, gone. If they declare that saying Allah is a bad thing then will these man have any faith? There are many now, walking around in Dagestan and also in other places, saying - don't do dhikr. They won't say to a singer, don't sing songs. But if anywhere in a mosque if one sits and says Allah Allah, they say that this is a big sin. They have became insane these men are for the mental house. They are running away.
+
+They say that this is forbidden. How can saying Allah be forbidden? If we don't call to Allah then to whom shall we call? Satan,satan,satan. Shall we say satan? Shall we say devil, devil, devil? Pharaoh, pharaoh, shall we say pharaoh? Shall we say Stalin's corpse? Lenin's corpse? Corpses. They don't say anything for them. They don't say, break down the statues. There are many rascals here coming from the Hijaz. There are statues in the squares. They don't go to the government & say; break down these statues of the ones who were enemies of faith and religion. They are the corpses of those who killed millions of Muslims. They don't say why are you keeping them? These satans are annoying the people saying Allah Allah inside the mosque. They are misleading the youth. Why aren't they going there? Each of them misled 70 million, 80 million Muslims.
+
+You know how many people have been killed in these countries? We don't know. It is like that these cursed ones are coming here to the mosque. You are saying Allah and they are saying, don't make dhikr, don't listen to the man in the turban. Don't obey Sheiks. Well whom should I obey? Will you obey the dajjal? Now it is the end of times, therefore the Prophet commanded - Open your eyes. My nation will be 73 sects. One sect is saved the other 72 are in hell. These are Jewish ones trying to demolish the belief of people. They are coming here with millions in foreign money to damage the Muslims' belief. That is their job. To destroy Islam, destroy the belief. Allah's command, '"Fadhkuruni adhkurkum"(2:152) O My servants remember (dhikr) Me, I will remember you. "Ya ayyuha lladhina amanu udhkuru Allaha"(33:41)... Bolsheviks have gone to hell. Now the others we call them leeches, parasites, those kind of satans are coming nearer. They came so that Tariqa should not get awakened. Now let's take the Muslim youth to our side who don't say Allah. They don't say salawat on our Prophet and don't read Mawlid. Mawlid is being read since the world existed. How can it be forbidden now? So you must be Jewish to forbid this. Soldiers are forbidding the mawlid, forbidding to say the honorable salawat.
+
+There are huge books here. Nobody can understand them. There is a four volume tafsir here. "Ruhu l-Beyan" Tafsir. If the wahabis would find this book they would burn it. There they collected thousands of books written by the Ottomans and they burned, destroyed and ripped them. Of the outer leather cover of the books, these badawi wahabis made shoes of them. In Madina the Illuminated they did not leave any tekke, any madrasa, any dergah, any library. All of them they destroyed. They neither left stone nor earth.
+
+Now they are coming here to mislead this youth. Don't visit the graves, don't visit awliya, it's forbidden (they say). You are crazy! Don't visit the martyrs, don't visit the Awliya. Forbidden. In which book it is forbidden? In the books of the Jewish. Therefore take care. We are saying to you the way of Allah is like the Prophet shows you. When your heart is with Allah, they can't do anything to you. May Allah fill our hearts with faith and Islam. This is enough for now.
+
+May Allah be pleased. The children also came here to honor the elders. InshaAllah they will all be the faith's, Islam's flowers. In the end of times Mahdi alaihi s-salam will come. When Hazrat Mahdi comes all of them will be from his soldiers. Who says Allah will be his soldier. All of them are wrestlers, talented and strong also. Strong with faith and also with muscles that they can protect themselves. All right, May Allah be pleased.
+
+Ziyadatan li sharafi n-Nabiyyi sallAllahu alaihi wa sallam Allahumma ghfirlana wa rhamna wa tub alaina wa hdina wa sqina Allahumma yassirhum farrij qulubana, waqdi duyunana, waghfir dhunubana. Waqdi biha duyunana. Wa aslih biha ahwalana. Wa ballig biha amalana. Ya dhal judi wa l-karami wa ya ghaliba l-Ihsan. Ya Nasira l-Muslimeen, ya Nasira l-Mumineen. fansurna 'ala l-qawmi l-kafirin, fansur Sultanana, Sultana l-Muslimeen. Bi hurmati man anzalta alaihi Surata l-Fatihah.

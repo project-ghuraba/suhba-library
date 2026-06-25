@@ -1,0 +1,60 @@
+---
+date: 2014-03-12
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2014-03-12-taught-in-the-mothers-womb.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2014-03-12-taught-in-the-mothers-womb
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Taught in the Mother’s Womb
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Al-hamdu li-llāhi Rabbi l-‘alamīn. O Lovers of Shah-i Mardan. Please come and join our assembly. O friends of the Lovers of Shah-i Mardan, welcome to our assembly. I will tell you about the qualities of our Lord's most Beloved.
+
+They do not speak invented things, they speak the truth. These are two distinct things, Shaykh Mehmet Efendi, one of them is truth, the other is fabrication. Welcome to our assembly, to our council. O Lovers of Shah-i Mardan, listen to his blessed assembly. There is what is right, and there is what is wrong. Do not go after the devious way, find the straight path. Follow what is straight and correct.
+
+Welcome to you, O Lovers of Shah-i Mardan. Power comes to us from those who are under the command of Habībulllah. We cannot ask from any source higher than that. We can't ask for anything from the Lord of Power and Glory. The Lord of Glory, Rabbu l-‘izza, wa l-‘azāmati wa l-jabarūt. Allah. O our Lord, we are Your weak servants. Forgive us, ya Hannān, ya Mannān, ya Dayyān, ya Subhān, ya Sultān, ya Amān. Come join us, O Shah-i Mardan. Let us ask for mercy, for support. Let us ask for support from those who are in the service of the Lord of Might and Glory. It is not our place to reach up to the Lord of Glory. We have no right to do so. Our assembly is a humble meeting. It is not an assembly, which makes great claims. We hope to receive something according to our own measure.
+
+Marhaba, Shaykh Mehmet Efendi. He is your deputy, this Shaykh Mehmet. O friends of the Lovers of Shah-i Mardan. You must try to learn, learn something, because learning and knowing gives you honour. One who knows nothing is like a dry piece of wood, but one who knows is honoured. May Allah not remove us from the assembly of such blessed persons. O Lovers of Shah-i Mardan! Listen, listen closely and receive.
+
+You have not come into this world in order to eat and drink. We have also not come to make this world prosperous. For this world is an abode of corruption. This world is a ruin. This world is rubbish. The world is under our feet, it is not above our heads. Let us say: ashhadu an lā ilāha illa-llāh, illa-llāh, wa ashhadu anna Muhammadan Rasulullah, Habibullah, ‘Abdullah, Sayyidu l-kawnayn wa l-malakayn, Prince of both worlds and dominions. Sayyidu l-Kawnayn, the Messenger of Allah Almighty. Thanks to Allah that the Lord of Might and Glory sent him to us as a Prophet. You have sent to us Your Beloved. I shall send to you My Beloved, He says, so that he might teach you love, so that you might know what it is to love. To love. hubb, love. hubbu fi-llah, hubbu Rasulullah. So that you might learn to love.
+
+If there is no love, there is no value to this life. Love is what gives it value. Something that has no love, Shaykh Mehmet Efendi, has no value. A pebble, does it turn into something when it is loved? But a ruby is a stone, an emerald is also a stone. It is a stone, but it has value. O man, among all of creation you are the one most esteemed. You belong to mankind, and the Lord of Glory, whose Might and Glory are boundless and know no end, has honoured you - Allah, may He be glorified and exalted. The jewel within you is to be found nowhere else. Why is that? For the sake of the Lord's Beloved. For the Love of His Beloved, the Lord Almighty has given it to us.
+
+O Lord, You are Subhān. O Lord, You are Sultān. Forgive us, for the sake of that most dearly Beloved One. His Divine Favour is for his sake. We are waiting, O our Lord. We work hard in order not to follow Shaytan's ways. Shaytan - even if the whole world were filled with devils, they could not harm you at all. Who is Shaytan? He is the one who opposed Me. Ah, do not speak his name, nor do his business. Who is Shaytan? He is the one who opposed My Divine Will, he is cursed and rejected. For I am the Lord of Might and Glory. Allahu akbaru l-akbar, the Greatest of all, Aman, ya Rabbi, Mercy, O my Lord, Aman, ya Rabbi. al-‘azāmatu li-llah, to Allah belongs all Majesty, wa l-‘izzatu li-llāh, and to Allah is all Glory. wa l-jabarūt li-llāh, and all Power belongs to Allah. Allāhu akbaru l-akbar, the Greatest of the Great. Adab, ya Hu.
+
+O our Lord. For the sake of Your most dearly Beloved forgive us, and send to us one of Your blessed servants, O my Lord, so that we might learn something, so that we might learn manners. For You are the Lord of the Worlds, You are their Creator. Let us know how we are to stand in Your Presence. Let us say: Bismillahi r-Rahmani r-Rahim. Aman, ya Rabbi. Call on the Divine Names of ar-Rahman ar-Rahim, call on them and speak. Call on them and act. Call on them and persist. You will be given every power; otherwise your works will be worthless, rubbish. Say: Bismillahi r-Rahmani r-Rahim. So much honour was given to us by our Lord Allah Almighty when He permitted us to speak this Great Divine Name. May all our troubles depart from us. O our Lord, let us stand before Your Holy Presence, that is what we ask for.
+
+We have not been created to serve this world, we are created to glorify our Lord, to serve our Creator. That is what we were created for - for the servanthood of our Lord, to glorify our Lord, who is deserving of Glory, who deserves it thousandfold, and one hundred thousandfold, to stand before Him as is befitting, to stand before Him as His servant. O our Lord, forgive us. Allāhu Allāh, Allāhu Rabbī, mā li siwāhu illa Hū. O humankind! O man, who was dressed in the Lord Almighty's robe of honour and grace. Take heed! Take heed! Be mindful of your condition and your station! You were created to know your condition and your station. wa la-qad karramnā Bani Adama (17:70) We have given honour to the sons of Adam. We have granted him rank, We have granted him such honour as nobody can possibly know. You are a candidate for that rank. Do not fall from it, follow it up in order to possess it.
+
+Allāhu Allāh. O our Lord, forgive us. Don't be a useless good-for-nothing. Even naughty children are slapped and smacked so that they might learn to behave. Allah Almighty has honoured man with such great honour, and He only commanded one thing: to preserve that honour, nothing else. All the prophets and the Sultan of all Prophets, our Holy Prophet said: My Lord taught me, He taught me the honour of mankind. What is the honour of mankind? Who can tell? Allah's Beloved knows. The Beloved of Allah Almighty was taught about the honour of mankind. He informed us of the beauty that Allah Almighty honoured us with. Do not run after the goods of this world. Ask for the knowledge and the light that will come from the heavens. Seek light at the same time as knowledge. May light come to you.
+
+A child in its mother's womb sleeps for six months. After that a heavenly command reaches it: Wake up and see! Wake up and learn! Wake up and take heed! Wake up and know what you are doing! Wake up and know your Creator! O you new creature! This is taught to you in your mother's womb. In the womb you are not taught about this world. No. What is there to teach about it, of what value is the world? Of what value could it possibly be? God forbid! When that child is taught whatever is of value, that child begins to dance in its mother's womb. Firstly from joy, secondly from good manners, thirdly from righteousness, fourthly from light, and on and on.
+
+Man must know, he must glorify his Lord for that his Lord has given him honour. I have given him a rank, which other creatures do not possess. O our Lord, You have given to us, la-qad khalaqnā l-insāna fī ahsani taqwīm. (95:4) our Lord has clothed us in the most beautiful of forms. Know this, and follow up on this. Do not run after mountains and stones. Do not engage in quarrelling whether this country is mine, and that country is yours. Busy yourself with what descends from heaven; engage with what is sent down from heaven. What rank, what honour, what light has come to you! This you must try to understand, He says, strive after this, not after the rubbish of this world.
+
+O our Lord, our Subhān, our Sultān. For the sake of His most dearly Beloved what has He granted to us! Praise be to Allah! Thanks be to Allah Almighty! Move, stand, say Allah; Move, stay, say my Lord; Move, stay, say My Creator, the Master of heaven and earth, my Lord; that is what you must follow after. He is the Sultan, follow after Him, in order to receive something from Him. ‘aqqilnā - give us reason. The most dearly Beloved of the Last Times came to awaken us. In order to wake and shake us up, salla-llāhu 'aleyhi wa sallam. A single drop of the light of our Prophet will drown the whole world in light. Follow after that!
+
+O mankind, that Prophet of the Last Times has shown you a good man and a bad man. The good man finds his way to Paradise. The bad man will burn in Hell. May Allah not dismiss us from His servanthood. May He not banish us from His Beloved Prophet's nation; may our honour be increased, and not diminish. al-Fātiha.
+
+Allāhu Allāh, Allāhu Rabbī, mā li siwāhu. Allāh. With what loveliness He has created the Prophet of the Last Times! He created him to be the representative of Allah Almighty. O Glorious Prophet, may He forgive us. May He open gates to us of which we have no knowledge. O Lovers of Shah-i Mardan, come to us, come to our assembly, welcome to our assembly, and take from it. Take from it precious jewels. Say: Subhān Allāh, Sultān Allāh at the very least. Let that be your tasbih, your glorification. Subhān Allāh, Sultān Allāh. Subhān Allāh, Sultān Allāh. Say: Subhān Allāh, Sultān Allāh. You will find so many things! May Allah forgive us, for the sake of His most dearly Beloved who represents His Divine Self. Allah's Beloved represents his Almighty Lord. In all of Creation, it is only our Glorious Prophet who represents his Lord, salla-llahu 'aleyhi wa sallam. May Allah not part us from his path. What a lovely Prophet. Amin. Allah.
+
+How are you, Shaykh Mehmet Efendi? Come and pray for me, my son. My lion of a son. I love him, Shaykh Mehmet Efendi. Pray for me, Mehmet, pray, my son. Pray, and may Allah increase your station. May He increase your understanding, and make you a wise one. Come, you too, he is also on your path. Shaykh Mehmet Efendi, may Allah be well-pleased with him. May your honour increase, may your beauty, your dignity increase, may your station be raised, my son. Pray over me. Ah.
+
+Our Lord has not sent us to attend to this miserable world. Let us be pure. They are candidates, my son, both my sons, and this one also, they are pure. They are Allah's servants who have chosen the way of Allah. They are blessed, may their blessings be plentiful. Let them be of service, O Allah. May we dispose of ugliness and bring in beauty. We will speak of that later, insha'Allah. Come now, my son, thank you. Ha, this is my Mehmet, poor fellow. My Mehmet, and Shaykh Mehmet Efendi, also. I love him also, as much as the other one. And I love his father also.
+
+I will recover, insha'Allah. Insha'Allah, I will recover. Insha'Allah we will destroy the rule of Shaytan. But that is the subject of another sohba. Come, my son, drink this goat's milk, so that you might be refreshed. May they all be safe, may all the dervishes here be at ease, too. Go now, my son, in peace, Godspeed, my son, bye, bye. Lā ilāha illa-llāh.
+
+http://saltanat.org/videopage.php?id=11051&name=2014-03- 12_tr_AnneKarnindaIlim.mp4

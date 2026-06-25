@@ -1,0 +1,40 @@
+---
+date: 2024-11-22
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2024-11-22-be-from-the-nation-of-ibrahim.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2024-11-22-be-from-the-nation-of-ibrahim
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Be From the Nation of Ibrāhīm
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+Allāh ‘Azza wa-Jalla says in the Qur’ān ‘Aẓīmu sh-Sha’n: "Wa-man aḥsanu dīnan mimman aslama wajhahū liLlāhi wa-huwa muḥsinun wa-ttaba‘a millata Ibrāhīma ḥanīfa" (4:125). Ṣadaqa Llāhu l-‘Aẓīm. This means that the best people are those who are in the religion of Ibrāhīm ‘alayhi s-salām, and from his nation. His nation is the nation of Islām. His religion is Islām. Those who follow him are the best people, the most beautiful people in the presence of AllāhNone. To be good and beautiful in the presence of AllāhNone is something every person must do, because we owe everything to Allāh ‘Azza wa-Jalla. Everything we have is from AllāhNone. We belong to AllāhNone. We are HisNone possession. HeNone is our Owner – Allāh ‘Azza wa-Jalla. The One who gives our rizq (sustenance), the One who grants health, and most importantly, the One who grants īmān (faith) is Allāh ‘Azza wa-Jalla. We must give thanks to HimNone, and walk on the path HeNone desires. HeNone is the Saviour. HeNone is the Giver. And the Taker is Allāh ‘Azza wa-Jalla.
+
+Therefore, how fortunate are those who walk on that path, says Allāh ‘Azza wa-Jalla. They are the best of people. The One who shows and teaches us the truth is Allāh ‘Azza wa-Jalla. This path you are walking on is the beautiful path HeNone describes. There is no path better than this. Do not turn to other paths. Do not follow others. Do not follow those who lead you away from this path. You will perish. People who say, "We saved you, we helped you, we did this and that," but lead you astray, will bring no benefit to you nor to themselves. Therefore, we must be on the right path of Allāh ‘Azza wa-Jalla.
+
+The most important thing for a person is what they call the vital decision. This is the vital decision: to remain steadfast on this path, and to pass into the ākhirah upon this path. This is the best, the most beautiful, and the most intelligent decision. Allāh ‘Azza wa-Jalla says: "Wa-ttakhadha Llāhu Ibrāhīma khalīlan" (4:125). Ibrāhīm ‘alayhi s-salām is accepted as the beloved of AllāhNone. Ibrāhīm ‘alayhi s-salām was one of the Ūlū l-‘Azm prophets, those who are the greatest prophets. There are 124,000 prophets. Among them, six or seven are the Ūlū l-‘Azm, the holiest of them. They hold the highest stations, the highest maqāms. He is considered the ancestor of our ProphetNone. Of course, in terms of prophethood, our ProphetNone holds the highest rank. However, he is the final Prophet who completed the religion of Islām so that humanity may remain upon it forever. The religion of Islām is not difficult. Our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam says: "Do not complicate things." Allāh ‘Azza wa-Jalla accepts whatever you are able to do. HeNone will not say, "Enough," even if you do a lot. That is why our Holy ProphetNone advises us not to make things too hard. Do not burden yourself too much. Carry out the orders as much as you can, but do not miss your farḍ (obligations). Do not neglect your prayers, fasting, and other duties. But there is no need to overdo it. Because sometimes you see people revert from bad ways, from ways disliked by Allāh ‘Azza wa-Jalla, and start doing everything with great enthusiasm. Then they take on too much and cannot maintain it. Therefore, take things slowly. The actions loved by Allāh ‘Azza wa-Jalla are few but consistent, lasting, and uninterrupted. Therefore, the religion of Islām is easy. It is not difficult. Anyone who says it is difficult is a liar. May AllāhNone protect us.
+
+Allāh ‘Azza wa-Jalla saying in Qur’ān for describing people, the best human being: "Wa-man aḥsanu dīnan... wa-ttaba‘a millata Ibrāhīma ḥanīfa" (4:125). Meaning, to follow Prophet Ibrāhīm ‘alayhi s-salām, these people [are] the best people. The best people, who following Ibrāhīm ‘alayhi s-salām, who, his religion Ḥanīf, Islām Ḥanīf, showing the way of Allāh ‘Azza wa-Jalla, the pure way, who this people they are the best people, AllāhNone describe them in Qur’ān. They are following the order of Allāh ‘Azza wa-Jalla, not other thing. Because to follow order of AllāhNone, it is the most important thing for us. We are... Everything, HeNone gave us – our life, our happiness, our power, our treasure – HeNone save us from many dangerous thing. HeNone gave us life. All this from AllāhNone. Nobody else can say, "I save you, I gave you this, I give you that." No. All, everything from AllāhNone and you must be as HeNone like.
+
+HeNone like the best, one who follow Ibrāhīm ‘alayhi s-salām way. Nation, the Millati Ibrāhīm, nation of Ibrāhīm. Nation, meaning Islām nation. No nation, Turk, Arab, Greek, Chinese, Russian. This is the nations of Earth, but in the Divine Presence of AllāhNone, everybody same. Everybody one nation, nation of Islām, nation of Ibrāhīm ‘alayhi s-salām. This what they was teaching in Ottoman Khalīf state, empire time. They was teaching all, because they have more than a hundred ethnic group but all of them say, "We are Millati Ibrāhīm." Millati Ibrāhīm and other, if they are not Muslim, they said, "We are from this kind of people, this and..." But all same in Divine Presence of Allāh ‘Azza wa-Jalla.
+
+For this, we must be happy HeNone accept us in nation of Ibrāhīm. Because, HeNone say, "Wa-ttakhadha Llāhu Ibrāhīma khalīlan" (4:125). Ṣadaqa Llāhu l-‘Aẓīm. AllāhNone, HeNone make Ibrāhīm ‘alayhi s-salām HisNone beloved one. So who follow beloved one, you will be also beloved one for Allāh ‘Azza wa-Jalla, because he show the best way of life for human being, to be honourable life, not dirty life. The clean, honourable, pure life. This is very important, because human being they must be, as much they be higher, they must be better for them, not to go lower and lower. AllāhNone keep us.
+
+And the religion of Islām, Prophet ṣallá Llāhu ‘alayhi wa-sallam saying, "Don't think it is difficult, and don't make, take you, something you cannot do, burden." Prophet ṣallá Llāhu ‘alayhi wa-sallam, "Ayyuhā n-nās, O people. Don't try to make too big worshipping, to make too big thing you cannot doing." AllāhNone, HeNone is not, HeNone not looking for this. As much you can do, AllāhNone, nothing affecting HimNone. For this Prophet ṣallá Llāhu ‘alayhi wa-sallam saying, "Only do what you can do, even little, but continuous." The important thing, to do continuous. This is most, Allāh ‘Azza wa-Jalla like this, to be even little, but to be continue, not to cut. This is very important, because many people sometime they try – they never pray or never do good thing – they try to come, and: "We will do..." Some people coming also, asking, "What we can do, can do this? You can do that?" Praying, going, coming – no need. As much... If you do too much, suddenly you will stop. And this is not good. All this going away for nonsense. But to be slowly, slowly, continue, continue – the best thing, and AllāhNone love this. HeNone love who do it. AllāhNone keep us in HisNone way to not cut our worship, and to be with HisNone beloved one, in shā’a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

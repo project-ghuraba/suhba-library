@@ -1,0 +1,58 @@
+---
+date: 2013-01-04
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-01-04-those-who-have-have-high-himmat.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-01-04-those-who-have-have-high-himmat
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Those Who Have Have High Himmat
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Marhaba, how are you? S.M. Allah Shukur. M. Allah Shukur, we woke up feeling better. Subhana Allah, the benefit of that bitter orange is great, Hj Mehmet. We should continue to do it. I ate some yousef at night, it gave me some relief. Our body has become joyous. This is a big blessing. Meaning in these places where citrus fruits are grown, we should not catch winter diseases. Every part of it is good. There are traders who buy its peel in Turkey. Allah Allah.. We don't appreciate it, O Lord. May Allah grant us the favor of appreciating His blessings. We should appreciate every blessing from Him, Allah Shukur. "Min Kulli Shay'in Sababaan" (18:84). Allah Almighty created a purpose for everything. Therefore "Ya musabbibal- asbab, Ya mufattihal-abwab, Ya muqallibal-qulub wal-absar. Thabbit qulubana 'ala dini, dinil Islam. Dinil Haqq!"
+
+We will declare this, declare this. Insha Allah unbelief will be under our feet. I am getting furious & asking from Allah Almighty even in this condition. Allah Allah..Allah Allah.. Allah Allah..Allah Allah.. Muhawala/endeavor & himmah/aspiration, striving, concentrating spiritual energy, are the signs of Islam. Who has no endeavor is far from Islam. Who does not concentrate their spiritual energy is rubbish. The value & honour of people are "ala hasab himmatuhu"- The value & honour of the people are measured by their striving. Before they would call "Zaw-ul himam-ul aliya", The people of high aspirations. This is the attribute of men in power- "zawul himamul aliya". They should have high striving.
+
+You can't rule a country by collecting people from the streets. No. No. Our ancestors for 700 years, all of them were men of high striving. When they were mounting their horses, there was a mountain stone in Topkapi, the ones who were present there would clap- the knights, janissaries, the soldiers of the palace.. When the Sultan got on the mounting stone, the horse would come. They would call: "O Sultan. O our Sultan, step into the stirrup of the horse firmly! What they mean by "riqaab al-astar" is the horse. "Step into it firmly, step like a man!" The Sultan would immediately mount it & the horse would rear up like this. They had majesty, glory!
+
+These ones now are rubbish. All of them are rubbish. Their governments also, all of them in the whole world are rubbish. Therefore they will collect all the rubbish & be thrown away, soon. Therefore there would be no weak, fragile-looking people with the Sultan. All of them were like dragons. All of them, would draw their swords when the Sultan walked- behind him his grand vizier, wuzara, generals would be with their swords drawn. "Step into the stirrup of the horse firmly, like a man!" They would go to Juma prayer in ceremony, from the palace to Hagia Sophia. Those who closed Hagia Sophia did not do good. It is still closed (visited as a museum) & they won't find goodness. They will be destroyed. Their first job is to turn Hagia Sophia back into a mosque again. As long as they don't do this, they can't find any goodness no matter what they do. Zawul himamul aliya, the ones of high concentration of spiritual energy. Man's worth & honour is with his "uluwwu l-himmah". He should not be lazy & helpless! A believer should be like a dragon. He should be majestic. Masha Allah they are majestic, glorious with the dresses they wear also. That when they attacked, the unbelievers would scatter before their majesty.
+
+The Ottomans are our ancestors, you should respect them! You should give them their due rights. Even the newborn babies of this holy dynasty, those that 'that one' kicked out. What authority did he have? Even their new born babies, 'that one' had them thrown out. It was the right of swords! How could you kick them out? Who are you? How could you kick them out? Why do you still carry out that law? O those ones of high himmah.. They were the ones who built the real Istanbul. They did not make it as a mess of concrete, or full of nightclubs & brothels. They established madrasas, mosques, dargahs, turbas, foundations, palaces, residences.. How beautiful was Istanbul. It was Islambol. Now it doesn't look like Europe nor does it look like other unbeliever's countries.
+
+Our ancestors were ones who strove highly, majestic ones. For this, paradise be his abode, Vahdettin said "I may walk out & leave. I may leave because these ones' shamelessness will not be over. I may go out safely & let them suffer whatever comes on their heads. And I live whatever my fate is..." No any other Sultan is buried in Sham. Sultan Vahdettin is buried there, in Salimiya Mosque. Have you seen it? He is buried there. That honour was granted to him. They humiliated him in dunya but his level in akhirah was very high- Sham al-Sharif accepted him. He was buried in Sham al-Sharif. O Lord, may You make us follow Your holy servants who have high striving. May we be with them. May we come out with Takbir; Allahu Akbar Allahu Akbar. May we come out saying this. National Takbir: Allahu Akbar. When the mahtar hits, the honour & majesty of the mahtar would make the world tremble saying "Allahu Akbar Allahu Akbar, O Glorious soldier!" Allahu Akbar! Subhana Allah. Subhana Allah.
+
+There were no instruments & tools of today available at that time & Sultan Selim built the Selimiye Barracks. When a division of soldiers entered in it, two brothers couldn't find each other inside Selimiye. Can these ones make a building like Selimiye? There were no machines, no cranes, nothing. Selimiye Barracks, can they build it? They can't do. They only pour concrete & leave. They built Nimrod towers. Our ancestors.. We didn't appreciate them. And we have become dishonoured in the hands of those who want to make their honour zero. May Allah take this dishonoured state from us & make us turn to the way of our honoured ancestors. Wa min Allah at-tawfiq. Fatiha.
+
+May Allah bless their souls. May paradise be their abode. Allah. For the girding of sword ceremony, Sultan would come to Abu Ayyub Sultan's tomb & would be girded with the sword there. I think it would be with two swords- one sword of Hz Omar & the other one of the Rasulullah (s). The Caliph would be girded with sword- The Caliph, the Sultan. Even the name "Sultan" has majesty. A president walks around among the people, no one realizes. "Is this the president?" "Yes, this one. We elected him". They corrupted our customs. Fearing from our state, they wanted to put the honour of our state under the feet of people. But it won't happen. It didn't happen with Ottomans, may Allah make their abode paradise. I am on their way insha Allah. May we be on their way.
+
+Those ones made them take off what they were wearing & forced them to wear hats. They hanged so many thousands of people who refused to wear it. 'That one' hanged so many thousands of people because they gave fatwa such as, "a hat is a sign of unbelief". 'That one' is being hanged everyday, down under (his grave). May Allah forgive us, not leave us to our dirty ego. O Lord, may the Ottomans reach. May our Sultans come. May they come & take back the relics. Sultan Selim will come to Istanbul. It says "The Sultan who had left will come back to Istanbul again". He left by sea. He will come back to Istanbul. And Mahdi (as) will receive the holy relics from him, from Sultan Selim. The holy relics are locked.
+
+'That one', their master said "Where are these holy relics? I may enter & see" They told him "You can't enter". 'That one' said "Why can't I enter?" "You can enter only with adab". 'That one' said "I will enter", for the maqam where the holy relics are protected downstairs. 'That one' went down one step, sharrr! A slap came on him, such that his mouth reached his nose, his ears! What to do with 'that one' now? They carried him & looked: "No doctor can heal 'that one'!" They asked"What happened to 'that one'?" The guardians in there slapped him. There are guardians over them from jinn. There are from men also. They told me these things in Istanbul, I know. Whatsoever they did, they couldn't fix that one's mouth! Finally they called a holy one, who knows about such things. And this holy one took off his shoe & hit 'that one' with it. His mouth straigtened So it was like this.
+
+I make sohbat about such things. I want to speak to people because there is no one left who knows what we know. They become zero. The people are now like empty reeds. We are like sycamore trees, with the permisson of Allah, with the permission of Allah.. Be the sycamore tree, don't be the reed. The holy one hit him such that, with one hit that one straightened & stood up. May Allah grant us repentance. Aman Ya Rabbi.
+
+Once people leave adab, they have no honour or value left anymore. Man's honour is with his adab. There is no one left who has adab now, finish. There is no one left who knows adab. In the time of Ottomans, the testimony of one who doesn't cover his head was not accepted. Now all of them, their heads are bald- they can be distinguished, "they are the men of such place, our men". All of them are bald, can't wear anything on their heads. They can't wear anything on their heads, it is banned! It is prohibited. They wouldn't allow people to wear berets either. One day, one of the policemen found a man wearing a beret. He caught him& brought him to the police station. "This one is wearing a beret, my high commissioner" he said. "What is your name?" he said. "Antironiq" the man replied. He said "Why do you bring me the Armenian? They are allowed to wear, o foolish man! They can wear it"
+
+How is the sohbat, are you sleeping O Mehmet?
+
+"Release him, take him back. I thought he was a Muslim. These ones are Armenian. They can wear berets". They wouldn't allow people to wear berets either, o poor ones...
+
+I remember, there was Abdurrahman Effendi in Istanbul, head of al-Qurra. He was the Imam of Bayazid Mosque. I would pray in that mosque in Bayazid & see him wearing jacket & trousers-this outfit. Inside, he would wear his jubba. But when going out, jacket & trousers and something like this on his head.
+
+La ilaha illa Allah, Sayyidina Muhammad Rasulullah (sas). O Rasulullah, I glorify you. May you grant me the chance that I may see Istanbul turning into Islambol again, I may see it... 'That one' destroyed the buildings in Bosphorus & built a wine factory. They destroyed the temples & built brothels, nightclubs. Allah does not forgive them. Allah.. For this unless Turks open Hagia Sophia, they can't have any honour. None of their doings can succeed nor will they have any dignity. They say "Republic of Turkey, the citizens of the Turkish Republic" Leave being the "Republic of Turkey"! We were the citizens of the Ottomans- Allahu Akbar, wal-'Azamatu Li-Llah, wal-'Izzatu Li-Llah. O Lord, may You send us from those honoured, glorious servants of Yours.
+
+Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=6156&name=2013-01- 04_tr_YuksekHimmet.mp4

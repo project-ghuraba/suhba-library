@@ -1,0 +1,56 @@
+---
+date: 2012-09-16
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-09-16-batshu-rabbika.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-09-16-batshu-rabbika
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Batshu Rabbika
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Welcome, welcome to the Muslims, our Arab brothers. Dastur Ya Sultan Al Anbya'. Rasulullah (saws) Allahu Akbar, Allahu Akbar, Allahu Akbar wa Lillahi l-Hamd. Jalla Jalaluhu, Jallat 'Azamatuhu Wa La Ilaha Ghayrahu. O my Lord accept our apology, and lift from our hearts our worries. Correct our situation O our Lord. We ask blessings from the owner of the Maqam Umm Hiram Bint Milhan (Hala Sultan) may Allah (swt) bless her soul. I am a weak servant, May Allah (swt) strengthen us from our weakness. Our Shaykh, the Shaykh of Awliya' Sultan Al Awliya', gave me permission to speak, to address people. The important thing is to address people according to their understanding. I am a weak servant for this order & permission.
+
+For the sake of the events that took place in the month of Shawwal, from East to West of the Muslim world, sorrowful events, painful... No believer can accept these events and the Muslims are sitting with their hands folded....with their hands folded. (not responding) O brothers! For a few days I was not able speak & address people, and it is an order to "speak to people according to their understanding." Subhana Allah and we are saying Audhu Billah min al shaytan al rajim, Bismillah Al Rahman Al Rahim. Allahu Akbar, Allahu Akbar, Allahu Akbar, 'ala man takabbar wa tajabbar!
+
+Al Haqq (swt) says... Subhanahu Wa Ta'ala says, "I have forbidden injustice to Myself & declared it forbidden to you, so do not commit injustice!” (Hadith Qudsi) O Muslims from Arabs & non-Arabs, listen to what Al Haqq (swt) says. "I Am not unjust!" (hasha) "I have forbidden injustice to Myself" Al Haqq (swt) says this so people may understand, "I have forbidden injustice to Myself, so do not commit injustice!” (Hadith Qudsi) Allah (jwa) says "I Am not unjust!" And "I have made injustice forbidden upon Myself" and declared it forbidden upon you as well, so do not commit injustice!” Is it understood? Yes.
+
+Where are you? Where are you O Muslims? Where are you Arab Muslims? Al Haqq (swt) addresses & says, Jalla Jalalahu wa Jallah 'Azamatahu! "I have forbidden injustice upon Myself so do not commit injustice! "'Inna Ash-Shirka Lazulmun `Azimun" (31:13) So do not be oppressive. There is a Hadith of the Prophet (saws) saying "Oppression does not last, and if it does it is destructive." Is this not the truth? "Oppression does not last and if it does it is destructive." Therefore do not oppress one another. What is the Muslim world doing? The Muslim world is doing all kinds of injustice, many kinds of injustice. And the world of Allah (swt) is the highest. Where are the Arab leaders? Where are the Arab kings? Where are the Arab scholars? Where are you O Muslim scholars, to act? Oppression does not last. How many times in the Holy Quran Allah (swt) curses the oppressors? To whom do we speak? Who may understand? They are acting & doing all kinds of oppression and they are not ashamed, and they are not fearing the Mightiness of The Lord, Jalla Jalalahu, His Mightiness. "Indeed, The Vengeance of Your Lord Is Severe"(85:12) There will be a day for you, O oppressors! Allah (swt) Will take His revenge. He (swt) Will take His revenge, and His revenge is severe.
+
+O especially Arab Muslims, why are you not defending the truth? Why are you silent about the doings of the oppressors? And you are a means for oppressing the weak ones among the Muslims; the ones who are fighting, being killed & massacred for no reason, for no reason. Why? I am sorry for the people of Egypt. Because of one man, thousands or hundreds of thousands of people are spreading in the streets destroying & burning, shrieking like beasts. If this is meant for them, it means it is other than Islam then they are wrong. Why are they spreading into the streets? Because of one unbeliever millions of people are filling the streets.
+
+For what reason are you silent about what they, the tyrants, are doing, to the Muslims in Sham? Where are you? How is this? If you have any manhood or virtue or courage, why are you not attacking? And why are you not marching in the streets about what is happening in Sham? That man did something, (the unbeliever film-maker) and you are destroying and burning the whole world. For what? What is the benefit? Why are you silent about what they, the tyrants, are doing to the people of Sham? For what reason? "Oh that one is easy, O Shaykh! To be in the streets like monkeys running & jumping - this is playing O Shaykh!" But to carry weapons, no one dares to sacrifice his self. For what reason the tyrants destroy & burn the Muslim homes & kill them before & now.
+
+And the Kings! The Arab Kings, why are they silent? Don't they have military power? For what are they reserving it? For the parades? Military parades? Is the military power for this? Is it meant to show off to people? For what are you keeping it? It is a duty upon the Kings to ask for the rights of even one believer who has been killed for no reason. They must ask about the oppressors, what are you doing O oppressors? What are they doing? Why are they killing? People who have nothing, they are dropping rockets on them, for what? What is their fault? You have no mind.
+
+O Egyptian people, why are you destroying? Why are you attacking the buildings? For what? What is the benefit? If you have any manhood then go & stand up against the tyrants of Syria. Defend the poor and weak Muslims. Where are you? Allah (swt) will ask you & punish you. Aman Ya Rabbi! This is the point that encouraged me to speak. Because who is silent about Truth, is an accomplice of shaytan. For what reason? For no reason... "and kill not one another" (4:29) And the Muslim is killing another Muslim! How do they claim to be Muslims, these tyrants? But there is one who is keeping watch of their every step, hour by hour, until their time is up. And when their time is up, "Fa'akhadhnahum Akhdha Azizin Muqtadirin" (54:42) The Holy
+
+Verse. (They will be taken with the Grasp of the Mighty) When the time comes the Wrath of The Lord will come on them. Who He forbade to make oppression, "They will be taken with the grasp of the Mighty." (54:42) Be warned O Kings & leaders who are being silent about the oppression, one of these days you will become hostages. Your hands will be chained either here or in the Hereafter.
+
+I am sorry that demonstrations of crowds of Egyptians are running in the streets as if they are not human beings. For what are they doing this? And especially the Egyptian women. Where are our scholars to advise them about what Allah (swt) says for women? "Wa Qarna Fi Buyutikunna"(33:33) (And stay in your houses) Did Allah (swt) permit them to demonstrate? No! Where are your scholars, O Egyptian people you need to learn a lesson. You shall learn some of the best lessons!
+
+There is a story that once the people of Basra became out of line and their Khalifa, Al Hajjaj Al Zalim/ "the unjust", ordered for the people to gather in the biggest mosque, the Mosque of Basra. He came alone, and stood up on the Minbar, and said O boy, read the letter of the Khalifa. The boy stood up, and started with greetings/Salams from Khalifa. There was no one in the crowd who answered the Khalifa's Salams. Hajjaj the Unjust was on the Minbar. Hajjaj was behind a veil, not visible. When the boy read the Khalifa's letter nobody returned his Salams! At that time Hajjaj the Unjust raised the veil and said "You don't answer the salams of the Khalifa?! I will teach you a lesson in such a way that that all people will talk about for all time." And he ordered the boy to repeat reading the letter of the Khalifa! This time the people of Basra answered the salams. All answered his salams, even the ants!
+
+I will teach you a lesson. Allah (swt) is Almighty & The All-Capable. He will take His revenge! There is no shelter for the oppressed except in Him. No one except their Lord to take revenge for them. But tomorrow will come, the first day of Dhul Qi'ida! An inspiration came to my heart that things will appear, Dhul Qi'ida, Dhul Hijja, and the 10th of Muharram. The revenge of Heavens is coming upon them. Let them be careful, the silent kings and unjust presidents! Be warned, the ones who are being unjust and oppressive. Repent to Allah, stop the fight, and abide by Allah's (swt) ruling. Otherwise in these three holy months Allah (swt) will take revenge! and Muharram will be an Eid for Islam! God willing!
+
+These are just words, O brothers. "Indeed, The Vengeance of Your Lord Is Severe"(85:12). O unjust ones, and those silent about injustice, there will come upon them from Heavens what they will not be able to run from. It will not be possible for you to defend yourselves. Whether you are a King or from the richest of people, or Sultans. I warn you! Be wary O people of Islam and people of Egypt in particular, the ones who are doing things. For what reason do women go out in the streets with ornaments with youth, boys and girls? For what? Allah made it Haram as Al Haqq (jwa) says "And stay in your houses"(33:33) They will be punished. Our Lord (jwa). O scholars of Azhar Al Sharif, Wake up! Otherwise Allah's (swt) vengeance will come upon you also. Naudhu Billah from being a target of Allah's vengeance (swt). Aman Ya Rabbi!
+
+O people of Sham, O people of Yemen, Libya, Egypt, Sudan, stay quite & keep your limits! Allah (swt) will avenge! There is no refuge from His (swt) revenge! I have informed about what I was ordered. O Muslims from East to West, keep your limits, or "Indeed, The Vengeance of Your Lord Is Severe"(85:12) And coming down soon. Like when Nimrud asked Sayyidina Ibrahim (as), "Where are your Lord's soldiers?" He said,"They're coming. They are coming, coming from the horizon. The soldiers are coming." How is an army coming? And the closer they got they were making, Whoooo! more & more like an earthquake. Mosquitos ate them. Only their skeletons and clothes remained Be warned O tyrants! One of these days the Divine Vengeance will come upon them. "Indeed, The Vengeance of Your Lord Is Severe"(85:12)
+
+Repent to Allah. Stop fighting! This is the first warning! The first of Dhul Qi'ida, the warning will increase to the second & third warnings. They will come stronger till there will be no tyrants remaining, neither their names nor their bodies. So, be warned. Aman Ya Rabbi, Tawba Ya Rabbi, Tawba Ya Rabbi, Tawba Ya Rabbi, Tawba Astaghfirullah. We repent and return to You O our Lord! O Allah (swt) have mercy on us & on our leaders. Let them stop the fighting before Divine vengeance comes upon them from the Heavens! Aman Ya Rabbi, Tawba Ya Rabbi, Tawba. For the sake of the Beloved Prophet (saws) raise the banner of the Prophet (saws).
+
+Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=5261&name=2012-09- 16_ar_BatshaRabbika.mp4

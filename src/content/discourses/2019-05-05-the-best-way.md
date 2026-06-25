@@ -1,0 +1,48 @@
+---
+date: 2019-05-05
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2019-05-05-the-best-way.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2019-05-05-the-best-way
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Best Way
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa-l-khayru fi l-jam‘iyyah.
+
+Welcome to the beginning of Ramaḍān. It is a blessed day. This year the mawlid of Mawlānā, his ‘urs, corresponds to the second day of Ramaḍān. May AllāhNone be pleased with you for that occasion. Most people have come because of that. For that there is a big thawāb. Because our ProphetNone says when a believer visits another believer, he is forgiven one sin, he earns one thawāb and is raised up one rank. And more important is not forgetting your Shaykh, respecting your Shaykh. That is higher. Because he showed this way leading to happiness for most people. Most of our people were not Muslim. And they came to guidance thanks to him. And there were followers of Mawlānā who were Muslim but had no idea about Islām. Most were like this. However, mā shā’a Llāh, now they are living the true Islām by the barakah of Mawlānā and his support.
+
+It is a very beautiful way. Who follows him in this world, during this short life... Some live longer, some shorter but the life of this world is short. They were together in this world and, in shā’a Llāh, they will be so forever in Ākhirah. There won't be further separation there. Separation is in this world. And, may AllāhNone protect us, sometimes there is separation in Ākhirah. Separation within a family takes place. Someone follows this beautiful way by the favour of AllāhNone, and others don't. Of course, then separation takes place in Paradise and sadness comes then. When they are told, "You go this way and you go that way," they will not meet again forever. They get upset then, may AllāhNone protect us. But before going to Paradise, there is a pool of Kawthar, the pool of our ProphetNone. When they drink from the water of Kawthar, the sadness of this world, the desires and arrogance, whatever people had inside them disappears. No one is upset in Paradise. This happens and that until then but no trouble, no sadness enters through the door of Paradise.
+
+Therefore, as we said, Mawlānā's way is the way of our ProphetNone. The way is the same. Keep to it. Then the Hereafter is yours. You will get happiness in Ākhirah. With the permission of AllāhNone, Ramaḍān starts from tonight, in shā’a Llāh. We will pray tarāwīh. May this beautiful month be blessed for us, in shā’a Llāh. May it be blessed for all of us. May it help Islām. May AllāhNone send us the Ṣāḥib. The Ummah is without its leader. The Ummah is dealing with each other, fighting and quarrelling. They are fighting each other. Shayṭān and his followers are playing with us with pleasure. May AllāhNone send their evil back to them. Because we ask for goodness and get goodness. Who wants evil gets evil. Those who do others wrong shouldn't be happy and think they will get away with it. Who does like this is stupid. Certainly evil goes and comes circling back. Therefore, we should always ask for good things so that AllāhNone sends us a leader. The Islamic world is without a leader.
+
+For the honour of Ramaḍān, in shā’a Llāh AllāhNone will send the Ṣāḥib. AllāhNone is the Owner of the religion. Still there must be a khalīfah. The Khalīfah holds the office of our ProphetNone. He should be there. May AllāhNone send him soon. May it be blessed and good, in shā’a Llāh.
+
+We are welcome, al-ḥamdu liLlāh, for this nice days, good holy days, blessed days. Most of you coming for Mawlid of Mawlānā Shaykh and in this time, this year, it is with Ramaḍān, month of fasting the blessed month in the year. It is very good occasion. Most of you come for remembrance of Mawlānā, for his anniversary and AllāhNone make it every year coming little bit, little bit. This year it will be in Ramaḍān, second day of Ramaḍān, in shā’a Llāh, we celebrate with all of you. And it is there is big reward for people who are coming. Prophet ṣallá Llāhu ‘alayhi wa-sallam saying who comes to see his brother in Islām, visit him, each step AllāhNone forgive from one sin and reward him and make his level one more higher.
+
+And this for normal people and you are coming for your Shaykh, your Master, your the most beloved one for you and for believer who are you are respecting him and this love make you more sincere and more blessed. Because he is the one who saved most of you. From where save you? From to follow shayṭān. Many of this people – Mawlānā – they become to know their Lord, their religion, the real one, to know their ProphetNone. Because most of them they are non-Muslim, becoming Muslim. Even who are saying, "We are Muslim," they was maybe worse than these people they are not knowing anything from Islām. But, al-ḥamdu liLlāh, with Mawlānā's barakah and his teaching they make them like star, like they are light. They give them light in their face, in their heart, and he save them from shayṭān and his follower and bad end. So it will be more reward for you because you are coming, visiting your Shaykh, and you are continuing his way, the way of Prophet ṣallá Llāhu ‘alayhi wa-sallam. HisNone way it is real the best way. Nothing better than this. For this dunyā it is everything not good but for Ākhirah every, anything you do it is good and it is also – AllāhNone will after this life, in shā’a Llāh, way going to HisNone Divine Presence and to be together again with our Shaykh, our beloved one.
+
+And of course there is this dunyā – everything mix up especially in this days, the end of time. So people they are, when they are going to Jannah, first thing before entering door of Jannah, all our desire, what we have bad desire, it will go after drinking one cup of Kawthar. This pool of Kawthar it is for Prophet ṣallá Llāhu ‘alayhi wa-sallam. This make you to forget everything, forget jealousy, forget sadness, bad intention, proudness – everything. When you drink this, you going inside Jannah [with] nothing from this. Even whole people going to other side you will be not be sorry. Because there is two kind of separating – one in dunyā but this, in day of Qiyamah. We will come together again but there is another one separation also – this forever: one to this side, one to other side. That time Mawlānā was saying, "Wa-mtāzū l-yawma ayyuhā l-mujrimūn" (36:59). "Separate O bad people from good people." So sometimes father he separate from his son. Some from mother separate from her daughter or brother from his brother.
+
+And that time Mawlānā was saying this people they will be very crying there and it is because this separation forever, not only for like from dunyā to Ākhirah. And that time, so when this people coming to drinking from this water, this finish – it will be finish, nothing left from sadness from this what happen in separation, crying, to be unhappy. When they drink this they will go Jannah. In Jannah no any sadness, no any illness, no any envious – nothing from this bad thing who in our world everybody they have this. But from who going to other side it will be forever for them this.
+
+So don't worry about you happy. You be happy with Mawlānā and be thank for him, he save you from this bad end. AllāhNone raise his maqām more and more and, in shā’a Llāh, this Ramaḍān we will beginning from tonight, in shā’a Llāh. AllāhNone make barakah and send us one who lead us. Take this separation from between believer and Muslim and not make them like toy in hand of shayṭān and his followers. Because this we are seeing – no need for enemy. It is enough we are killing each other. We are fighting with each other. We are doing bad thing for other but other they are just looking and laughing for us. AllāhNone, in shā’a Llāh will send, HeNone has promised to send someone and we are know him – Sayyidunā Mahdī ‘alayhi s-salām. When he is coming, he will be lead all to make united of Muslims and to make whole world Muslim, in shā’a Llāh.
+
+We are hope this because Islām it is meaning peace. Without Islām, no peace. Because Islām want good for people. Other people they are making best thing to destroy people, destroy believer and they are thought if this believer finish, it will be the world in peace. No. What you are planting, coming for you first. Planting bad thing, bad intention, bad thing also coming for you. So we are every time, we have good intention, good to people, to help people, to not fight people. But other they thought if, from their envious, if we finish this people it will be whole world for us and it will be like paradise. No Paradise in this life. Paradise in Ākhirah. And who want Paradise, he must do good thing in dunyā, not bad thing. AllāhNone help us and, in shā’a Llāh, this Ramaḍān blessed and happiness for all of you, in shā’a Llāh.
+
+Thank you for you. Wa-min Allāhi t-tawfīq, al-Fātiḥah.

@@ -1,0 +1,64 @@
+---
+date: 2010-07-24
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-07-24-salafis-and-the-pangs-of-death.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-07-24-salafis-and-the-pangs-of-death
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Salafis and the Pangs of Death
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Dastur Ya Sayyidi, madad. La ilaha illa-Allah La ilaha illa-Allah La ilaha illa-Allah Muhammad Rasulullah alaihi salatullah wa salamuh wa ala jami al anbiya wa l-mursalin wa man tabi'ahum bi ihsan ila yawm ad-dīn Assalamu alaika Ya Qutbu z-Zaman Assalamu alaika Ya Qutbu l-Mutasarrif Assalamu alaikum Ya Ibadallahi s-Salihīn wa rahmatullahi wa barakatuhu
+
+Allahumma yassir umurana farrij qulubana wa razziqna l-faham (O Allah make easy our affairs, O Allah relieve our distress and grant us understanding.) Hu. We are saying audhu Billahi min ash-shaytani r-rajīm Bismillahi r-Rahmani r-Rahim Amidduna bi madadi l-khas (Provide us with a special support) Ya Sahib al-Imdad, fī mithli hadha shahr al-sharif (in such an honourable month), Shabanu Muazzam. O our attenders, Assalamu alaikum. Fahhimna Ya Rijal Allah (Improve our understanding). Fahhimna, and warzuqna Ya Rabbana husn al-adab (O our Lord grant us good manners). Good manners, good manners.
+
+O Salafi ulamas, for what anbiya just had been sent? Hmm, what was real aim from prophets to be sent to people, to mankind, yes. Allahumma arzuqna l-faham (Allah grant us understanding.) You don't understand Allahumma arzuqna al-faḥam (Allah grant us coal). Fahim. Kaman ba'arif Arabi (Also I know Arabic). mumayiz bainal fahim wal-faḥam (I may discern between 'understanding' and 'coal') But so many people instead to ask fahim (understanding) they are asking faḥam (coal). Faḥam, that means coal, coal, coal. But fahim, understanding. We are trying, our holy ones whom they are looking after ourselves, they are trying to make mankind to understand. To understand. O Salafi ulamas Marhaban! Today you are dressing another coat. Aba'. And you are changing today also, your eye-glasses. Saying "we must follow always new fashions. Old fashion just passed away, now we must look, everyday, new fashion".
+
+Tabrikat, congratulations, to you that you are understanding only to be seen, or to be looked elegant. For what? In front of your ladies, and more important from your ladies, ladies that they are aridoon aridaat (models). They are beauties to mankind, to men. And you are following them to show yourself so elegant. Even you are dressing aba' but you like that your very fashionable ladies to look to you and to see you in a appearance that you are followers the western societ-ic, high-life. You are not people living in deserts because people in deserts through the eyes of western people they are always downstairs. Their levels, lowest level. Therefore you are trying to change that understanding from western people that Arabs also, they are followers the every new fashions daily, hanh, it is not true? You are not looking, you are not looking your people where you are living? Everyone trying to be much more fashionable than others, because the Lord of Heavens, Allah Almighty Subhanahu wa Ta'ala opening to you khaza'inu l-ard (treasures of earth). Hanh, khaza'inu l-ard, what is khaza'inu l-ard, nafat? Oil, oil, not olive oil. Olive oil, no, dirty oil. Dirty oil opening to you. Why, why opening dirty oil to some people? I am asking. That is a question. Because people, they like money. Money, golden-golden-diamonds.
+
+Everywhere they are trying to put diamonds, emeralds and rubies and every zeenat ornaments to make their lives like lives of paradise people. Leave that sufsata (sophistry). Leave that bad understanding. The Lord of Heavens not looking to your dressings, or your homes. Or not looking your tents. Tents that belongs to majesty kings, that belongs to muluk. They are trying to make everything a new fashion because Allah Almighty granted to them that dirty oil and you are selling it and taking money and then you are making high-life with western fashion. Western fashionable lives that they are saying 'high-life' or they are saying most most fashionable life and you are trying to to follow daily fashions for western people whom, they are their aims to reach only to material aspects. They never interest-ing for spirituality. Hmm?
+
+You are followers also because Allah Almighty giving to you that dirty water, dirty oil. Hanh? Dirty oil. And dirty oil as long as increasing - mustawrad (extracted), as much as coming more and more, they are going to be more and more happy with that dirty, dirty oil. And their punishment as saying holy ones, whom their interest only for oil, when sakaratu l-mawt - the drunk of dying, dying. From beginning the drunk of death coming and they are looking and seeing themselves just drawn, drawn towards an ocean that it is only from that dirty oil. They are crying, they are shouting. And when their last breath finishing, they just falling in that dirty, dirty oil oceans.
+
+Allah aman Ya Rabbi. That is a kind of kashf (revelation). That is something that belongs to our spirituality. And such a people whom they are blamed because they are sufi people. Sufi people, hmm? Some of them just open their veils and they are looking and seeing some of thems last hours, last minutes, that they are leaving this life. Looking and seeing them that they are trying to save themselves from that dirty oil oceans.
+
+Beware O Salafi ulamas. Hadhir, warn muluk and sheikhs and rich ones, hanh? Whom they have so many abaar, wells of that dirty, dirty oil. Last moment they are going to be drowned through that dirty oil oceans up to the Day of Resurrection. O Men and Women, that they have so many richness from earth, dirty oil wells. You are only thinking what is the last new fashion dressing, new fashion cars, new fashion buildings new fashion planes, new fashion eatings new fashion lives. Beware. Allah Almighty not giving to that for your ego's pleasure. No, it is not a real pleasure. Real pleasure that when you are taking that dirty oil, don't waste it for shaitanic purposes. Hanh? Why you are not warning people O Salafi ulamas? I never hearing such a things that you are warning your people that you are living on a desert but under desert the Lord of Heavens making a ocean of dirty oil oceans. Hmm? Therefore they are making me to speak on sheikhs that they are asking to dress best dressings. Most fashionable dressings that people may look. One clothes for one poor one may be enough for one year's ma'isha. Living money.
+
+Allah Almighty saying everytime:
+
+la-allahum yatafakkarūn (7:176) (Perhaps they will give thought)
+
+You must think on it, what they are making me to speak. That is important. That means the Lord of Heavens giving to you a chance for understanding and that chance only you can reach through your tafakkur, thinking. Thinking. Today, O rich ones, Sheikhs, Muluk and other ones that they have billions or trillions you must know that today you are approaching one day more to your life's end and death not looking if you are malik or if you are minister or you are sheikh or or you are wives of muluk or you are richest ones' wives, ladies, no!
+
+Today coming one day to be nuqsan. Less. Less, yes. You approached now, your life going to an end and it is just appointed number that should be a through life only one year. Ten year, twenty, eighty, ninety then finishing. Therefore everything just prepared that a person what he is going to eat to drink and to tanaffus, breathing and their ajal, the time that they should be living ones on this planet. Therefore, why you are not saying such a things O Salafi ulamas to people? And warning them that a person, when that one's last moment reaching according to heavenly knowledge from holy ones that there are four angels before that one prepared to leave this imitated life of muwaqqat, temporary life.
+
+That one, sakaratu l-mawt (pangs of death) reached that person sakarat - like drunk, drunk one for preparing for death, to leave this life because going to finish and to be taken for akhirat, next life. First of all it is just reaching to me also such a knowledge that first of all this ghata, veil going to open and that one's eyes going to be fixed to one point. Not looking his wife, his children, his golden, his business, no. Never looking to his dunya, only looking like this.
+
+One angel appearing and saying to him, "O Abdallah, I am angel that I have been ordered to bring everything that you are eating through your whole life I was sending that to you. and I am looking now through east and west, nothing remaining for your subsistence, sustenance. Sustenance finishing, no more sustenance remained for you". Then passing and second coming and saying "Assalam alaika Ya Abdallah, O, I am the angel who was appointed for your drinking. No more any drop remaining for you to drink. Try to be ready to leave this life". He leaving and coming another angel says "Assalam alaika Ya Abdallah I am that one who was appointed for your breathing No more breathing remained for you to make". They are putting so many instruments to put breathing inside, it is kidhib, lying. Lying. Saying "no more". And he is leaving, coming fourth angel and saying "O Assalamu alaika Ya Abdallah, I am your ajal. I am that one that looking after your days through your life and your life-line just finished. No more ajal, no more time for you to be alive on this planet". Saying, and then they are leaving. The angel of death Azrail, (alaihi salam) coming taking amanah (trust). This coming.
+
+Beware! Rich ones, beware, majestic ones, beware, misnisters, sheikhs, that day approaching, that moment approaching to everyone. Therefore you try to do something good to make your Lord pleased with you. Don't try to make your egos to be pleased with you but try to make your Lord to be pleased with you. If you are making your Lord pleased with you, you are going to be welcomed. Last moment, 'Welcome!' If not, you never going to be welcomed. What you are going to do? Why, O Salafi ulamas, why you are not saying Juma khutbah lil-nas, to men.
+
+Only you are saying 'Ash-sharru l-umur muhdathatuha' (the worst of matters are innovations) 'kullu muhdathin bid‘ah’ (every new thing is innovation,) 'kullu bidatun fi n-nar' (every innovation is in the fire.) You know only this to say. Why not saying this to make people to take their care for making their Lord happy with them, pleased with them. What is that 'kullu muhdathin bida, kullu bidatun fi n-nar?' Leave that, say this! Who understanding this, he never running to do something against heavenly order.
+
+Why you are not saying muhdath people's buildings, people's seats. People's titles, people's cars, people's aeroplanes, people's eating, people's dressing, people's understanding, people's lives. All of them muhdath against shariatallah. Why you are not saying? Only you are saying bida, for who is going to say: la ilaha illa-Allah, la ilaha illa-Allah, to sit and to make dhikr. You are saying that is... Leave... Wahabi people no mind people. Never understanding. Understanding just taken from them. Also taken from their faces nur ul-iman (Light of Faith).
+
+May Allah 'yuslih aḥwalana' (set right our affairs.) May Allah forgives us and send us some ones to clean, to make clearer our ways. To clear our ways to Allah and to make ourselves to be prepared for our eternal lives. Try to reach Eternity. Eternity, Eternity, so beautiful, beautiful word - Eternity, Eternity. If you are losing that, you never going to be granted another chance for Eternity. You are going thrown away.
+
+May Allah forgives us. May Allah correct our steps. O People, O Salafi ulamas why you're not saying that Allah Almighty saying. What saying Allah almighty? Allah Almighty saying, O My servants use 'qadama sidqin' (true steps). Which of you claiming that you are using qadama sidq? True steps. Which of you claiming that ‘I am using qadama sidq? My feet, that is qadama sidq’. True steps, which of you? 'Khif Allah' (fear Allah), Ya Salafi ulamas,'khif Allah' (fear Allah). O giantic, giantic görünüş, giantic appearance of Wahabi people, which of you claiming that you are on steps true steps. Which of you on qadama sidqin? Say? I may follow you. Astaghfirullah, tubtu wa raja'atu ila-Allah (I repented and turned again to Allah). ‘Afūw (forgiveness), Ya Mawlay.
+
+Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=13689&name=2010-07- 24_en_PangsOfDeath_SN.mp4

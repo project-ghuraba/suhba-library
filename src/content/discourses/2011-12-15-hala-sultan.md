@@ -1,0 +1,36 @@
+---
+date: 2011-12-15
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2011-12-15-hala-sultan.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2011-12-15-hala-sultan
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Hala Sultan
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Inside & I was looking also.They (Russian Tzars) were so generous. generous..generous. They have good quality, perhaps bad quality... Our Sultans were also good quality, but they (the modern ones)... And this best quality! Doesn't matter I am... This quality also best. Grand Patron, Patronage... They call him "Peter the Great" (Crazy Pedro in Turkish). But not inside, outside. Queen, Remos (Semiramis of Russia) she was.. Mother (to) so many Tzars, Katarina (Catherine the Great). I think he came to Cyprus also. Passing, Quds Sharif (Jerusalem) S.M.N:She came through Cyprus to Quds S.N. Lionheart Richard. Saint Caterina, we have here in Larnaka. Even they are saying Hala Sultan is Saint Caterina. S. Caterina, they are visiting..
+
+(My grandfather) 40 years he was looking holy tomb of Hala Sultan, and 4 times going on his...walking from Cyprus to Lebanon Akka, and then going to Makka - walking, no cars, no train no planes. People they were using camels for their loading and they are riding on it. My grandfather never riding...no - walking (he went) 4 times. Going and coming. The history of the stones, I saw it in the library, old library of Tekke(derga). A book handwritten about how happened this. Walk on her tomb. She was coming from Hijaz (Saudi Arabia) and reaching Sayda. (South Lebanon) Limandro port. She coming and... went to visit a monastery of nuns, women. She was coming and the Chief nun she was welcoming her. And she was showing her garden. And Hala Sultan also looking.. She saw there 3 rocks. That even a crane cannot carry them now... Crane never taking, at that time, no. Even now can't carry. She was saying to nun "I like them (the stones) Can you sell to me?" She was saying "O... it is my gift to you!" Nothing no crane at that time, even crane can't carry. She said it is a gift. My gift. She said. Hala Sultan (said), "I accept! When I am in need I shall carry." She was Christian this nun. "It is for you." Never thinking power of Heavens, If dressing may carry world up! She said, "thank you, it is in trust to keep there." "Keep it. When I need, I shall carry it." Subhana Allah!
+
+She was coming here on... they reached.. she was asking about that lake. According to the traditions, lake was a wine garden, vineyard garden. Lake was all grapes. She was coming and she look and asking from owner, "please give me one." This is according to our traditions. She said "I can't!" She said to her "I will pay to you." Because they are coming and she was thirsty. She said "no, I am not giving!" Then taking, Hala Sultan this little bit that they are putting, throwing down this,(and saying), this garden may be nothing there except thorns! It became salty ground. Not giving! Subhana Allah! From that time up to today it is a lake of salt. And you can't find such a tasteful salt. And she was passing a little more and her mule, perhaps one snake and making like this and she was falling.. she was falling on her neck. Broken and shahid (died as martyr). Shahid! And she was putting her stick like this. Subhana Allah! What you are looking and seeing outside - the kharnub, carob (tree). Subhana Allah! From that day up to today, yet living. There growing, 1400 years. Then, she was falling, broken neck and Subhana Allah!
+
+Same night just it was seen people looking seeing these 3 rocks, by Divine Power, coming...getting up, coming on water, sea, coming one of them, on her head side; second feet side, and third one, like this. Standing without support, no! Yet it is in same position. And so many people when they are coming and saying, Oh! Therefore putting on her Maqam curtains. No anything like this making... Perhaps it is 15 tons this. Up today, everyone coming saying Oh! It was open before, but when some people coming, and pregnant woman (shocked) then putting curtains. Always that good smelling coming. Good smelling coming.
+
+My grandfather he was at her service, servant. Every time opening after mid-night, near by to dawn, When he was coming and opening, looking. Hala Sultan under..there is minbar (pulpit) there she had two flags. Green flags, like this like that, from two sides. He was seeing that Hala Sultan, was sitting and standing up getting in through window, this minbar. (pulpit) She was sitting here, and her flag here. This...wall. There was a window... window like this. Standing up and entering to her Maqam. My grandfather looking saying, saying this. May Allah (swt) be pleased with her. No one knowing such a things. Because I am an old timer, I am finding among the old-past ones.
+
+I was a small one. I am going there, with my power. For every Eid/feast... Eid/feast. And there was Shaykh there for Eid. The third day coming his excellency the governor. Third day, people coming for visiting Hala Sultan. And his excellency the governor coming giving a feast. And therefore, my father was looking after that feast, through office taking me... taking me because I was smallest. Yet I am small one! Shaykh, I am kissing his hand and giving to me one piastre for Eid/feast. Putting it... One piastre for the feast! And that was very good money! Yes sir! From there I am knowing and going for her visiting. Shaykh Effendi, one piastre enough! We are visiting and people eating. Making meat cutting, slaughtering. Big pots, if chachavoz sitting in it, it is enough! Big, big one. I was very happy! That Shaykh, then I am going out & coming and finding him in same service. Servant for Maqam and he was putting me Imam. Subhana Allah! Subhana Allah! He passed away. La Ilaha illa Allah...
+
+Thank you for his excellency president, giving honour to my poor place and he is..wasting his time, precious time to visit me. and...It is an honour. Something eating and hearing from me. Allah (swt) gives him, his excellency much more power. Much more power, seven, seven big nations coming into Islam, when Jesus Christ (as) coming down. Correcting their wrong beliefs, changing. And they are coming insha'Allah to be Muslims. Seven big nations, first of all Russian nation. Astonishing! Their origin Huns and from people Hamite-Hun..They were powerful, Powerful people, masha'Allah all force on horses. Without wings, your horses flying, may Allah (swt) grant to you this time. Movements are starting. And it is a preparation for welcoming Jesus Christ (as) coming from up, on earth. And he (as) is going to put turban on his head and he (as) never used a (sword, but now) coming with sword. Insha'Allah you should see, all of us. I like to be there. Fatiha.

@@ -1,0 +1,52 @@
+---
+date: 2016-03-08
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-03-08-ladies-day.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-03-08-ladies-day
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Ladies’ Day
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Alhamdulillah Mawlana Sheikh, I give him wakala for me, to be on my behalf inshaAllah in khalwa. This is his generosity that he give us honor to be for me inshaAllah. May Allah bless him and give him long life, healthy life, and give him the young energy that Mawlana Sheikh he give to me, to be given to him inshaAllah. Fatiha.
+
+Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahumma salli wa salim 'ala Nabina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. Allahumma salli wa salim 'ala Nabina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. Allahumma salli wa salim 'ala Nabina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. MashaAllah.
+
+Alhamdulillah today it is our happy day. Every day it is happy day. Every day must be happy day. People, they don't realize the happiness of the day that they reach. The people all the time looking for the negative side of their life. When you look for negative side, immediately it is coming like lightning. You don't need to make a lot of effort to get the negative to your side because it is already going around, going around. Allah Almighty, He order you to look for everything as beautiful, as happiness, as been granted to you. Because the people, they don't appreciate what Allah Almighty He grant for them. The simplest, He make them to wake up. The simplest. If you wake up, that means Allah Almighty, He grant you so many things. You can be staying not wake up also. So many people in coma, intensive care. Make them wake up, wake up, shout "wake up". No response. Where they are? No response. Allahu Akbar.
+
+Alhamdulillah today it is as official day in the world for the ladies. We must speak. Today they say it's 8th March, the Ladies' Day. Yes. If we are living in this world, so we have to appreciate the ladies also. Yes. Especially Mahmud. Sayyidina Muhammad (saw) before 1,500 years ago he was the one saving the women from the jahiliyya time that the men, they'd been treating ladies so badly. And they'd been not accepting for baby girl to be born from their descendants. And they'd been burying them alive. Today the world is shining. Everywhere in the news you open the news this morning... They remind me actually.
+
+Open the news and you see Ladies' Day. Everybody speaking about ladies. Ya Hu, ladies they don't have only one day. Poor ladies, they cheat them with one day. This day's for you. 365 days for us.
+
+Sayyidina Muhammad (saw), he give the good tiding for the ladies and say "Al-jannatu tahta aqdam il-ummahat". Say the paradise, it is under the feet of the mothers. We don't say. They say Mother’s Day is different. Every lady, she is having a chance to be a mother. It is so wide, so wide. Allah Almighty, He appreciate mothers. He never say the ummi s-saliha [the good mother] or the ummi l-mu'mina [believing mother] or the ummi the good one or the bad. He says all the mothers because it is really hard to be a mother. Very hard. And to be lady also, it's very hard. But this also - the ladies, they take us out of paradise. Also. So maybe, I'm thinking, this is... maybe Allah Almighty, He put hidden punishment for ladies by give them a lot of work and to look after the children. Because they take Sayyidina Adam, our father from paradise out. Also we have to think like this. Possible. Possible. Maybe the ladies, they will be not happy with this point, but it's ok. Nobody cares, the system is working. The system is working, no negotiate for this. But this we're only guessing.
+
+But if it's important for us to know that the ladies, they are our precious things in our life. Everything can be replacing, except the ladies you cannot replace. Because Allah Almighty in the same time, He make them the flower for our life. That's why we have to give the respect and we have to try to understand them because so many men, they are not able to understand the ladies. And this is big problem actually. When you speak man to man, it is different. But when you speak man to woman, it is much different. And you have to understand sometimes the women they say no, but actually it's yes. And the men never understand this. We are men. We don't understand. We cannot understand your no is yes. And this must be for ladies also to be more explanation, explaining for the stupid men that your no, it's yes. And this is Allah Almighty, He make it. This system also working. It is nothing to do with us. The system is going on.
+
+Even though it is important for ladies, it's also advice, when you see your no/yes being not understood, try to make it understandable. Because it's sometimes helpful. That's why to be humble in some point is good. Because the men character, it is very serious. The man, he is the most serious character in the planet. The women, they are serious, but they can be easy-going. But the men cannot be easy-going as women. This Allah Almighty, also He make the system working. So many people, they have a problem with their marriage, with their relation, with their this. And when I look for the details of the things, I see the women treating the men as their character, like women character. Woman speaking to woman. Woman speaking to woman they understand. One day I was witnessing one topic with two ladies. And I was like not understanding nothing. And then we ask one of the ladies, she said she mean this, this, this. And the other lady, she said "No, I was meaning this, this, this". And when they speak, not understanding this, this, this, not understanding this, this, this. How they understand this, this, this? How they understand? Allahu Akbar. This is another language coming from Mars.
+
+It is important for ladies also, this is advice for ladies, to speak for the men in not the man formal shape. Because they say olden days so many fights begin among the nation because of women talking. Allahu Akbar. Say this queen she was saying about that queen I don't know what. Her dress, it was not so nice. So the king, he was very angry and he sent his troop to fight. Example. Yani this, how it is happened. If you go deeper, maybe it's less silly than this reason. That's why it is important for us to know what we are talking and to put our behaviour in a good way. Today in media, in Turkish media, it is saying "Oh so many people because of divorcing, the man become crazy. And then he take the gun, he shoot his father-in-law. Then he shoot his mother-in-law. Then he shoot his wife. Then he shoot his children. And then he shoot himself." This big drama. And if you go for deep reason, it is nothing. Nothing important. And they don't know how to deal with it.
+
+The government, they don't know how to deal. It is so simple. You just have to understand how you talk, how you address, who you address. If you go for mental house, how you address them? It's important. If you go for parliament how you address them? If you go for minister cabinet, how they speak with each other? Yesterday it was in news, they say all the leaders of Europe, they have big meeting with Turkey and all Europe to see the refugee problem. And I was looking and it's coming to my heart. What they are speaking there? They are fighting? They are saying, and finally they said, they put conditions, say this my condition, this my condition, acceptable, this not acceptable. And it's calm. But normally it's very big. But they have to be calm. This they call it 'ilmu siyasa. 'Ilmu siyasa means the way of talking and be related with others. That's why my advice for ladies - in those days maybe I take a little bit far - but when you are speaking to the men, especially the angry men, try to not speak to him to make him more flaming. Make him more cool, more calm. This important and this, it will save the whole family. When you make it more flame, it will destroy so many families. That's why, when...
+
+We don't ask to face such things. But at least, we are here to give some advice for people. If we are sitting here, Mawlana Sheikh ordering us to give some beauty and some advice for people, to let them know how to treat their life. Because when you make it flame, will never come back, it will go worse. That's why try to make it less and less and less. When you see fire, don't throw petrol in fire. Throw water in fire to make calm. That's why my advice for ladies - you are clever ladies, all of you mashaAllah - when you face such things, just try to be prime minister of your country or the president of your country or the queen of your country or the king of your country how to deal with 80 million or with 50 million or with 10 million people or with 1 million people. Imagine everybody has to talk to him according to his mind, according to his understanding. And you are dealing only with your husband. Try to be calm, try to be nice and try to hug your husband, not to push your husband or to be in the situation that you are the one, the elite one that controlling with nice talking and with nice addressing.
+
+May Allah forgive us and make this day happy for ladies. And inshaAllah every day, it's ladies' days. Every day it is for them. And may Allah make them in good health and to make them beautiful all the time with their behaviour and with their looking inshaAllah.
+
+Wa min Allahi t-tawfiq. Bi hurmati l-Habib, bi hurmati l-Fatiha.
+
+Subhanim Allah. Sutlanim Allah. Nabim Muhammad alaihi salam. Subhanim Allah. Sutlanim Allah. Nabim Muhammad alaihi salam. Subhanim Allah. Sutlanim Allah. Nabim Muhammad alaihi salam. Wa salli ya Rabbi wa sallim 'ala jami'a l-anbi'ai wal-mursalin wa 'ala kulli 'ajma'ina wal-hamdulillahi rabbi l-'alamin al-Fatiha.
+
+http://saltanat.org/videopage.php?id=15277&name=2016-03- 08_en_LadiesDay_SB.mp4

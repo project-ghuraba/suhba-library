@@ -1,0 +1,46 @@
+---
+date: 2013-01-03
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2013-01-03-the-attributes-of-dogs.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2013-01-03-the-attributes-of-dogs
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: The Attributes of Dogs
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Wa Alaikum Salam wa Rahmatullahu wa Barakatuhu. May our day start with khair & end with khair. May the flags of Islam rise & the banners of unbelief go down! We may say, Audhu Billahi min al shaytan al rajim. May Allah protect us from the evil of shaytan. "Fasta`idh Bil-Lahi" (16:98). Allah Jalla wa Ala orders "Seek refuge with Me from shaytan". We seek refuge, we seek refuge but still we are weak ones. Our egos don't let us walk straight. He keeps tripping us up all the time. Shaytan has many traps. Tawba Ya Rabbi, Tawba Ya Rabbi. Tawba Astaghfirullah. Shukur Ya Rabbi, Shukur Ya Rabbi. Shukur AlHamdulillah. May the khair of Safarul Khair be on us & its heaviness go to the mountains.
+
+This world has reached the muntaha/ furthest boundary of dhulm/darkness. They have lost their "human" attribute, Allah Allah, they became wild. There are no animals of any species that fight with each other, except the dogs. It is the attribute of a dog, present company excepted, to fight each other. The other animals don't fight each other. They are at peace, on their own. They go on their own. Shaytan dressed the attribute of dogs on today's people; they are biting each other. They want to finish each other. Fights, wars, snarling, crying... Men have lost their humanity. Shame on them! Shame on them! The people of today's world have nothing to do other than going against the order of Allah & strangling each other in the 24 hours of every day. "How can we finish each other? How can we remove each other?" Yahu! Who created you created him also.
+
+He (swt) said "Wa 'Ardu Allahi Wasi`atun" (39:10) The earth is spacious, go around. It is not a narrow space. If this world today is 3 billions or 5 billions, this world can feed 10 billion also. Even if you become 10 billion, more of it comes. "Wa 'Ardu Allahi Wasi`atun". Is it not so? He (swt) opens, gives barakah, & provides for the world. He (swt) doesn't leave anyone out in the cold or hungry. "Wa Ma Min Dabbatin Fi Al-'Ardi 'Illa `Ala Allahi Rizquha" (11:6) "`Ala Al-Lahi Rizquha - Allah provides its provision". What is it that we are not able to share? What we eat is this much. What we eat everyday is a limited amount. Meaning, even if the whole world is given to a person, what is the benefit? What he will take is his share. One cup of soup is enough but Allah Almighty granted us all kinds of it.
+
+There is no one who thinks on this. "Hal Min Mudhdhakirin" (54:17) Is the Holy Verse like this? "Mudhdhakirin". This means that thinking is different, Tafakkur/reflection is different. Tadabbur..is it tadabbur? Mudhdhakirin. That is different. To think is different and above thinking; to reach its result, to reach its secret.. Who will reach this secret, "Hal Min Mudhdhakirin". Allah Dhul Jalal says: "Is there no one among you who thinks? Did I not grant you intellect? Yes, I did. Can you not think/understand this? You are here today & tomorrow you will be gone. Why do you crush each other?"
+
+Allah Almighty says (jj): "Inni harramtu dh-dhulma 'ala nafsi, fala tadhalamu- "I have forbidden oppression for Myself & have made it forbidden to you. So do not oppress one another". "Wa 'Ahsinu" (2:195). "And do good" He (swt) says. "Don't oppress but do good. You are man, the most honoured creature I created". Aman Ya Rabbi, Tawba Ya Rabbi. Tawba Ya Rabbi. If you don't listen, "Qul Huwa Al-Qadiru `Ala 'An Yab`atha `Alaykum `Adhabaan Min Fawqikum 'Aw Min Tahti 'Arjulikum 'Aw Yalbisakum Shiya`aan Wa Yudhiqa Ba`ƒëakum Ba'sa Ba`din" (6:65). "If you don't keep My orders properly & don't listen to My advice, I let loose upon you from the Heavens". "Aman Ya Rabbi" said the Prophet (sas). "Your batsha/fist from the Heavens is severe. Don't crush my nation". Allah does not crush but disciplines. "Or from the Heavens I send.." & today the Heavens are Wrathful. The Heavens are wrathful. Tornadoes, hurricanes, floods.. are the signs of Heaven's Wrath. Aman Ya Rabbi. "I am capable of sending on you from the Heavens". The Prophet (sas) said "Aman Ya Rabbi". This is the least of what is to come.
+
+"'Aw Min Tahti 'Arjulikum- Or I shake you from under your feet & you go down". In Erzincan, 30 000 people died in maybe less than 5 minutes. (1939 Erzincan Earthquake). I remember it. I was maybe at the age of this Selim. May Allah protect all of them. With one shake. With one shake 30 0000 people died in Marmara (in 1999). Aman Ya Rabbi. "'Aw Min Tahti 'Arjulikum-I shake from under your feet or send upon you from above". He (s) said "Aman Ya Rabbi". "Aw", "or" if you still won't be decent; if you change your "human" attribute & are wild towards each other, "'Aw Yalbisakum Shiya`aan"- I make you divided into different parties or groups that "Wa Yudhiqa Ba`dakum Ba'sa Ba`din"- you, yourself punish each other. Now we are in this 3rd state. Our Prophet (sas) didn't say "No" because when wildness becomes excessive, it's definite that punishment will come. So now they fell into this punishment & now they will be destroyed. Aman Ya Rabbi. Tawba Ya Rabbi, tawba Astaghfirullah.
+
+O people, may we turn to our Lord. May I turn also. May I turn also. May I beware also. May Allah forgive my sins. May He forgive our sins. O our Lord, You know. You are Subhan, Sultan. We are the weak ones. We are Your weak servants. Allah.. Allah Allah. Say "Allah" & be saved. Allah didn't create us to fight each other, He didn't create us to crush each other. "Fa'aslihu Bayna 'Akhawaykum- So make reconciliation between your brothers" (49:10) He says. "Wa As-Sulhu Khayrun- And making peace is better" (4:128) He (swt) didn't say "Qital", fighting is better for you. Making peace is good. He (swt) did not say "Al-harb khairun lakum" but "as-sulhu khairun lakum". He (swt) didn't say "Fighting is good". He (swt) said "Peace is good. Live in peace with each other. Live for Me". Tawba Ya Rabbi, tawba. Tawba Astaghfirullah.
+
+O Lord, may You send us a Sultan. We are left without a Sultan & have become ill mannered ones. We have forgotten our humanity. May You send us a Sultan who will discipline us. "Sultan Dhillu Llah fi 'l-ard- He is the shadow of Allah on earth". Sultan! The countries with Sultan are at rest, all others are in a terrible situation. They will fight each other. He inflicted them upon one another now, in every country. He said "They may give punishment to each other themselves. Since they don't listen to "peace is better", let them fight until they finish each other. O My Beloved, don't you interfere with this. Leave it". Aman Ya Rabbi. Tawba Ya Rabbi, tawba. I want that we won't be from them. May our children, brothers not be from them also. May our people also, all of us, not be like them-may we not be wild. May we be tamed. O Lord, may You send us a Sultan who will discipline us. We are left without a Master, may You send a Master. Fatiha.
+
+When a group of dogs, present company excepted, barks, the other group comes & they start to bark as well. What is this, why are you shouting? "I shout, then you shout..." The streets are filled, with strange creatures that are outside of "human" attributes. These people are putting the honour of humanity under their feet. They are not saying, "O Lord, may You send us a Muslih; may You send a Sultan; may You send one who will take us by the hand. We have no one left to take us by the hand, it is only our Sultan." "Sultan dhillu Llahi fil 'ard". What does it mean "the shadow of Allah on earth"? He is the one who has power & keeps the Orders of Allah. Sultan, even its name has a majesty. You are Subhan, You are Sultan. O Lord, may You send us a Sultan soon. Soon, O Lord. We are bewildered, our egos also. Aman Ya Rabbi, may You not leave us to our egos- "la takilna ila anfusina tarfata ayn". It is the word of the Prophet (sas)- May You not leave us to our dirty egos.
+
+O Lord, what can we do? What can we do now? What should we do? We are left without a Master, without a Sultan. May You send us a Sultan soon. May You send the Ottomans, O Lord. They overpower all of them. There is a Holy Verse, that confirms what we said. "Bi Qawmin Yuhibbuhum wa Yuhibbunahu" (5:54) Find this Holy Verse. I am calling the Ottomans for this - that they loved Allah & Allah loved them. Subhan Allah. Fatiha.
+
+"O you who believe! Whoever from among you turns back from his religion, Allah will bring a people whom He will love and they will love Him; humble towards the believers, stern towards the disbelievers, fighting in the Way of Allah, and never afraid of the blame of the blamers. That is the Grace of Allah that He bestows on whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower" (5:54).
+
+Video Link: http://saltanat.org/videopage.php?id=6145&name=2013-01- 03_tr_KopeginSifati.mp4

@@ -1,0 +1,58 @@
+---
+date: 2014-10-11
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2014-10-11-satisfaction.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2014-10-11-satisfaction
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Satisfaction
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Sheikh Mehmet Adil Al-Haqqani sohbat of the 11th of October, 2014.
+
+As-salamu alaikum wa rahmatullahi wa barakatuh. Audhu billahi min ash-shaytani r-rajim. Bismillahi r-Rahmani r-Rahim. As-salatu wa s-salamu ala Rasulina Muhammadin Sayyidi l-awwalina wa l-akhirin. Madad ya RasulAllah, madad ya Sadati Ashabi RasulAllah, madad ya Mashaykhina, madad ya Sheikh Abdullah Faiz Daghestani, madad ya Mawlana Sheikh Muhammad Nazim al-Haqqani, dastur. Tariqatuna s-sohbah, wa l-khayru fi jam'iyyah.
+
+Audhu billahi min ash-shaytani r-rajim. Bismillahi r-Rahmani r-Rahim. "Ala bi dhikri Llahi tatma'innu l-qulub"(13:28) This ayat ul-karima is showing what to do in order to reach the highest level of people. What is the highest level? The satisfaction of your heart. What is satisfaction? Satisfaction is to find peace. Satisfaction is the highest level of peace. Satisfaction means nothing can bother this person. He is with Allah, continuously remembering Allah. You can remember Allah by tongue, but many people while making dhikr think of other things. While making dhikr, they think about how to earn money. Earning money is not important. If what one earns is halal, the rest is not important. But sometimes, various cunning thoughts come. It means he is not remembering Allah, he is remembering what his ego wants.
+
+The people who have reached the level of satisfaction are very few. They are the saints of Allah, beloved servants of Allah. They are not disturbed by anything. "Rijalun la tulheehim tijaratun wala bay'un 'an dhikri Llahi wa iqami s-salati " (24:37) They are described in Qur'an Kareem. They are such people that nothing prevents them from thinking about Allah, not trading, nor other things. Nothing prevents them from dhikr of Allah. Their biggest effort is to be with Allah, to remember Allah. Of course, as we said, there are various servants on such level. Some have nothing of this dunya. Some are given everything by Allah. But both are on the same level. They don't say "I earned all these possessions for myself". They earn in order to give for Allah's pleasure.
+
+After the battle of Hunayn, our Prophet's many spoils were brought, and Abu Sufyan came and asked him to give him 1,000 camels. Our Prophet gave him. He asked him to give 1,000 to his son. Prophet gave him as well. A satisfied man gives so freely, he gives for Allah's pleasure. He doesn't have anything in his heart but Allah. But their trade is the trade of the hereafter. The real trade is this. When they are satisfied, people around them become satisfied too. It is contagious. Therefore, they motivate people to gather around murshids, they advise it. Follow a murshid/guide so that you have your share of this nice state too. Be with a person who deals in the trade of akhira.
+
+There are many murshids, but most of murshids are not for akhira. They think how to get more benefit of this world by saying words of Allah. Such a man brings discomfort to people around him, just like the other one brings peace. People won't know but that man cannot give peace because he doesn't work for Allah. That man is not a beloved servant of Allah. Those people are neither good for themselves, nor for others because they don't go on the way described by Allah. They make opposite fatwa for whatever Allah says. They go by a different path. They can't advance so. And those who follow them will travel until some point. Then Allah will give according to their hearts. If they deserve him, they will stay with him. But if their hearts are pure and they followed for Allah, Allah will take them to higher levels and show the right way.
+
+That's why, what's important is that you don't find satisfaction in money and possessions. You can find only it on the way of Allah because Allah created us. Allah has shown the way that hearts can be satisfied, how to find peace. It's only with dhikr of Allah, with pure worship to Allah. It's not in drinking and gambling. www.saltanat.org Page 1 You can do whatever disgrace there is in this world, you won't find even an atom of peace. Even if you take the strongest drug, you won't find it. Allah has shown the way. And shaitan is showing a different way. Come through the way of Allah, you will earn both dunya and akhira. You will live a good life, you will live a quality life. You will be served. Otherwise, people will look badly at you. Your life will be disgraceful, and your akhira will be bad. You'll become a worthless person. No one will look in your face. When passing you, they will run away saying you're stupid etc. The more you try to satisfy your ego in this world, the more disgraceful you become, the more people start to hate you. Therefore, don't waste your money and time. Come to the right way, come to the way of Allah. Remember Allah, don't forget Allah.
+
+Audhu billahi min ash-shaitani r-rajim. "'Ala bidhikri Llahi tatma'innu l-qulub"(13:28) Allah mentioned this in Qur'an. What meaning this? How it is your heart, it will be satisfied? Satisfying, but it is the highest station of satisfying. Content. Itminan - contentment. Many people, they don't know how to do it. But Allah Azza wa Jalla, He is our Creator. Who created He knows what is good for you, what is not good for you. Allah made water good for you to drink and made food good for you to eat. Can you drink petrol? It is not good for you. It is good for machine, for another thing. So Allah, He, the Creator make you, to give you what you want to do to survive in life and in next life also. To be content, you must be all day remembering Allah. This is ayat's, "'Ala bidhikri Llahi tatma'innu l-qulub"(13:28), meaning.
+
+If you want to be happy, you must do this, you must all time not forget Allah. And when you do this, nothing affects you. Not saying if you are poor, if you are rich, if you are ill, if you are anything, it is not necessary. Because you'll get the top of satisfaction. Many people, they try to do this satisfaction by artificial ways. And they are mixing between their soul and their ego. Ego wants alcohol, wants gambling, wants drugs. They want every bad lowest thing. The ego likes this. And people, they thought ego and soul same thing. No. When you do this for ego, it is not coming better, coming worse. Need more and more and more. But when you're not doing this and just doing what Allah ordered, you become higher and higher. And when you do bad thing for your ego to be higher, coming lower. And you become worst one. Nobody likes you. People even they are running away from you. Only what, they who are like you, lowest people, they can be with you. But real people, they are discussing. And they are not like to be near you.
+
+But others who remember Allah, and they have real satisfaction, people, they like them. Why? Because Allah likes them, loves them. Allah give this for few people, of course. But these people, they are like island, like Western people, they are coming to them. And they become like them also. They have this satisfaction, this happy feeling, and they will be winner in dunya and akhira. Because you cannot buy this by money, if your rank, high rank or you are artist or another thing. It is not important to be with these. Only to be with Allah and to be satisfied, this is important thing. Even you are very poor of even you are very rich, it is not important. Because rich people also, these who with Allah, they are not with money, only with Allah. They use this money, they can spend quickly.
+
+Because Prophet (saw) when after War of Hunayn, Ghazwa/battle of Hunayn, they were taking many thousands of camels and sheep and others. So Abu Sufyan coming, asking Prophet (saw) "Give me 1,000 camels". He said "Take" without saying anything. 1,000 camels, it is that time like 1,000 cars this time. Not easy to have 1 camel even that time. And he said "I want for my son also." "Take." "For another son". He gave him 5,000 camels once in 5 minutes. So it is not important. The important thing for tijara, for trading for akhira this, not for dunya.
+
+And you must find these people to be together. Because this satisfaction coming from them to you also. You'll be happy, you will not be worried for anything. And you'll be winner in dunya and in akhira, the last world. But many people, they are not looking for this. Only what they are doing, they are trading, trading the religion or tariqa to get benefit for themselves. When they do this, it is really a miserable thing. Their life, whole life - miserable. And people around them all time not finding any good feeling, just want to fight to make not good with other people - "How I can take from this man this money?" Only what they think is www.saltanat.org Page 2 this. And it is not good, not giving any baraka for around them. And if they have million of followers, it's also, they are not happy. Because they are mixing between ego and soul. And this is ego, not from soul. They are not clever ones.
+
+The clever one who know how to be happy if only 5 people with him, and he is really with Allah, he is happy. Even nobody with him, also happy. But if he has 5 million people following him and he is not with Allah, and only looking "How many people are coming to me? How many people going to that man?" he'll never be satisfied. This is Mawlana what whole life tried to teach people. But very few people, they know this. Sometimes coming to be, they accept. After quickly, ego coming on them, not accepting.
+
+So alhamdulillah, you must be happy and accept what Allah give you. Don't look for people. If coming 1 people, if coming 10,000 people, it's ok. We are not doing this for ourselves. Don't come for us to pray for us. No, just for Allah. And to be in right way and with 1 people it is better (than) to be with whole world without Allah, against Allah. Alhamdulillah. Don't forget this. This is nasiha/advice for me before you. Because many people coming and saying something but it looks like advice, looks advice but it's from shaitan. They say "This man doing this, you must do this. They are doing this, you must do that." No, we are not doing what people want to do. What Allah give inspiration and what Mawlana, he taught us, we try to follow this. Of course, we have many mistakes. But inshaAllah with good intention, Allah forgive us.
+
+So no need to be worried. "How these people, they will go they will come?" No, at all. No worry at all. Don't be worried also. Because, as we said, these people who following any murshid, any sheikh, if they have good intention, they will come to some place. After this place, they will be; Allah send them to where they deserve. Others who following these people who are following their ego, because they are like them, also they deserve to be with them. It's no matter. For this, meaning satisfaction. Don't worry at all. Allah make us with these people who they have satisfaction, the highest, the highest matlub, request, for us in this dunya and for akhira also.
+
+Wa min Allahi t-tawfiq. Al-Fatiha.
+
+Video link: http://saltanat.org/videopage.php?id=12483&name=2014-10- 11_tr_Satisfaction_SM.mp4
+
+www.saltanat.org Page 3

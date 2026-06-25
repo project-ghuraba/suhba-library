@@ -1,0 +1,54 @@
+---
+date: 2025-04-05
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2025-04-05-the-heart-of-islam.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2025-04-05-the-heart-of-islam
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Heart of Islām
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+Our ṭarīqah, shukr to AllāhNone, is the Naqshbandī Ṭarīqah. It is the essence of sharī‘ah. It is the essence of Islām, thanks to AllāhNone. When you say ṭarīqah, people misunderstand nowadays. They think it’s something else. They are being deceived like this. But ṭarīqah is more connected to Islām. As we said, it is its essence. When ṭarīqah and sharī‘ah are not united, a Muslim remains incomplete. Because Allāh ‘Azza wa-Jalla says, “How can a Muslim draw near to MeNone? With acts of worship, with nāfilah, with voluntary acts of worship. The more he performs them the closer he draws to MeNone. Then INone become the hand with which he strikes, the foot with which he walks, and his eyes see with MyNone light.” To attain that, one must discipline the nafs, purify it, refine it. It must be cleansed of evil, bad traits, bad words, and wrongful deeds. That is the essence of our ṭarīqah.
+
+There are forty-one ṭarīqahs. Each has its own method. All are true ṭarīqahs. Their masters are aqṭāb (poles), who have reached the highest stations in the sight of Allāh ‘Azza wa-Jalla. Allāh ‘Azza wa-Jalla has granted them all unique distinctions. Because they are a source from our Prophet ṣallá Llāhu ‘alayhi wa-sallam, coming to guide people to the straight path, their spiritual strength is immense. Therefore, they are visited and their blessings sought. Not as shayṭān misleads people. They are not called dead. Those who call them dead are themselves the dead. They have no life. Life resides with them, because they follow the path of our ProphetNone. They are the blessed ones, who show the way of our ProphetNone. So, all of them – there are hundreds. The greatest are hundreds of mashāyikh, the masters of these ṭarīqahs. Each of their karāmāt are renowned, their words are renowned. Their path is the path leading to our ProphetNone. People follow a path according to their disposition. That path is essential.
+
+Every Muslim must follow that path. But there are also those who do not. They manage according to their own condition. But to oppose them is not good. For to be an enemy to the friends of Allāh ‘Azza wa-Jalla is to be an enemy to Allāh ‘Azza wa-Jalla. HeNone says in a Ḥadīth Qudsī, “Man ‘ādá lī waliyyan faqad ādhantuh.” “Whoever shows enmity to MyNone beloved servant, INone become his enemy,” says Allāh ‘Azza wa-Jalla. Whoever earns the enmity of Allāh ‘Azza wa-Jalla will never find success. Therefore, shayṭān strives to lead most Muslims astray from religion. If he cannot, he pushes those within the religion away from virtue, seeking to make them enemies of one another. Those who are enemies are also outside of ṭarīqah. People in ṭarīqah are merciful to all. They pray for them, that AllāhNone may reform them. May they be reformed, and refrain from harming others.
+
+The deceived people are unfortunate. Their way is not the right way. No matter how far they stray, if governed by sharī‘ah, many would appear to have fallen into doubt regarding Islām and īmān. But the blessed words of our Prophet ṣallá Llāhu ‘alayhi wa-sallam state,“Whoever says Lā ilāha illā Llāh, Muḥammadur Rasūlu Llāh, ṣallá Llāhu ‘alayhi wa-sallam, is a Muslim.” You cannot call them kāfir. But even if their words – may AllāhNone protect us – lead to kufr, if they say Lā ilāha illā Llāh, we neither call them mushrik nor kāfir. Yet sadly, they label others mushrik or kāfir over the slightest matter, accusing them of kufr. Therefore, ṭarīqah is essential for everyone to discipline their nafs, as we have said. It is necessary for people, especially Muslims, to reform themselves.
+
+A person in ṭarīqah must discipline themselves more. They must take care so that others don’t say “What sort of ṭarīqah is this?” Step by step. It doesn’t happen instantly. It’s not like a dye vat where you dip in and come out transformed. It happens gradually, in shā’a Llāh. To the best of your ability. We follow this path to tame our nafs. AllāhNone grants according to our intention, in shā’a Llāh. That, too, is a beautiful aspect of ṭarīqah: to see everything as good, to see everything as beautiful, in shā’a Llāh.
+
+Al-ḥamdu liLlāh, we are saying, we are thanking Allāh ‘Azza wa-Jalla for our ṭarīqah, Naqshbandī ṭarīqah, way of Prophet ṣallá Llāhu ‘alayhi wa-sallam. Ṭarīqah meaning, way of Prophet ṣallá Llāhu ‘alayhi wa-sallam, which it is the purest one. It is heart of sharī‘ah, our ṭarīqah. Ṭarīqah Naqshbandī, heart of sharī‘ah. Because people, when they say ṭarīqah, they thought you are going out of Islām. No, it is completely wrong. Lying, liar people they saying this, to make people run away from ṭarīqah. Ṭarīqah, heart of sharī‘ah, and sharī‘ah, it is heart of Islām. We must follow sharī‘ah and ṭarīqah, as much we can do. Because, of course, we cannot do hundred percent. Maybe somebody can do ninety-nine percent. Maybe somebody make eighty percent. Somebody make fifty percent. Somebody make ten percent, one percent even. It's good, also. And you still going this way.
+
+So, AllāhNone help you. And our whole ṭarīqah – we have forty-one ṭarīqah. All of them going for Prophet ṣallá Llāhu ‘alayhi wa-sallam, way of Prophet ṣallá Llāhu ‘alayhi wa-sallam. And all this ṭarīqah, for, help people, people to go to heaven, to highest level from Islām. And each one has shaykh, he is the, who, founder All this big saints, awliyā’, quṭb, beloved one for AllāhNone.Each one very famous. They have miracle, karāmāt. And they bring millions of people for Islām, by ṭarīqah only, not even...
+
+Because Islām they, also they have very wrong idea for Islām. They thought Islām spread by sword. No, Islām, they free people from oppressor people, and they was ruling them. No one oppress one to be Muslim at all. By themselves, if they like to be Islām, they can be. If not, they are not obligatory. Just can stay in their religion, no any harm for them. Only, accept what to be ruled by this people, Muslim. Or they free to go or to stay without...only must be accept this. Not like what happen in Europe, by monks, by the people who they are claiming they are following Sayyidunā ‘Īsá, ‘alayhi s-salām, and they was torturing people, cutting people, burning people. Doing this: “If you are not become Christian, you will die.” If you are, even you are Jewish, if you are Muslim or another kind of Christian, they not accept at all. They was killing, just killing, just killing. And after they are they are really, this hypocrite, this people. Islām not like this at all. And for this also, we saying, these saints, holy people, they are bringing people by themself, by love for Islām.
+
+When they see these people – the nice people with light, nūr, and good, giving them good advice, good thing – they become Muslim. Thousand, hundred thousand, millions they become Muslim with this people, not with sword. All this, what now two billion people Muslim, none of them coming by sword. “If you not become Muslim, we will kill you” – this not, never happened in Islām. So, this what, our thing, ṭarīqah, it is very important for Muslim people.
+
+And shayṭān, he is not happy at all with ṭarīqah. For this, he create enemy between Muslim, who they are saying, “This ṭarīqah people, they are not useful. They are making people to go out of Islām.” And this is different between us and these people: these people normally not following sharī‘ah. They following by themself, making sharī‘ah by themself. And all scholar, real scholar people, if they, what they said about their belief, they not accept as Muslim, this people. They are kāfir or mushrik. Because they say something, not in belief of Islām. But still we are saying, we accept them as Muslim. Because Prophet ṣallá Llāhu ‘alayhi wa-sallam saying, who said, “Lā ilāha illā Llāh, Muḥammadur Rasūlu Llāh,” you cannot say for him he is not Muslim, he is kāfir. Just be, accept, accept them like Muslim. But if you put in ‘ulamā’ and scholar of Islām, their belief of Islām, they are not... they are out of... wat they said – it is kufr and shirk. But still, we not saying. But what happen, this people when they say ṭarīqah people, they say for them, mushrik. And what is mushrik? We are only doing what sharī‘ah saying, what Prophet ṣallá Llāhu ‘alayhi wa-sallam doing. He is exactly hundred percent with ṭarīqah, like this. Of course, we are not like this. We are following as much we can follow.
+
+But this people, very small thing, if you do, quickly, you say “mushrik” without knowing, without researching what it is, what they saying. So they are, and Prophet ṣallá Llāhu ‘alayhi wa-sallam, “Man kaffara mu’min fahum kāfir.” And who say for man “kāfir”, he is kāfir. Prophet ṣallá Llāhu ‘alayhi wa-sallam saying this. So ṭarīqah very important for this; we saying for people, to not believe people who are against ṭarīqah because shayṭān people, they are like this.
+
+But unfortunately, there also some people using ṭarīqah to get benefit from people. Also, this another problem. AllāhNone keep us away from this people. To find pure people, you must look for pure. Of course, what we said, every, each one from human, man or woman, AllāhNone give them, some... When HeNone create them, some he like, love this, he like this, he like this, he like that. So, every, each one can find what it is suitable for him from ṭarīqah. It is from forty-one ṭarīqah. We cannot say, we are not saying, for all people, “Come to Naqshbandī ṭarīqah.” No. You can look for Qādirī, Rifā‘ī, you can for Disūqī, you can for Chishtī or for... Many ṭarīqah, they have. Each one, people, they can, which it is suitable for him, follow. But don't be without ṭarīqah, in shā’a Llāh.
+
+AllāhNone keep us in HisNone way and with pure people, and keep bad people away from ṭarīqah, in shā’a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

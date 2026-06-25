@@ -1,0 +1,46 @@
+---
+date: 2011-04-29
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2011-04-29-muslumandik.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2011-04-29-muslumandik
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Dün Müslümandık! - Yesterday We Were Muslims!
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Mawlana Shaykh Mohamad Nazim al Haqqani an Nakshibendi 25 Jumādā al-Ūlā 1432 A.H. Friday, April 29, 2011 Translation from Turkish by: http://saltanat.org/ BismillahirRahmanirRahim As-Salamu Aleikum. Today, Muslims living in Holland came to us - Muslim Turks. We said, "Muslim Turks came". When we say the Muslim Turkish people came, I am asking: Aren't all Turks Muslim? Yesterday the Turks were Muslim. Today they need a witness, proof of their Islam. Yesterday, they respected Kuran-i Kerim as their crown. Now, Turkish people do not give proper value to the Kuran. That's why I am obliged to say what I said. Yesterday the Turkish were Muslim. Today it is 'Turks'. Their Islam needs proof, witnesses. Yesterday our Sultanate would govern according to the Kuran-i Kerim. Today's government, which replaced our Sultanate, does not rule with Kuran. Allah Almighty is saying: "Those who do not rule with the Divine Law that I sent, they are not Muslims." Yesterday, we submitted to the Shariat. Today [governing is according to] what the public says and who the nation elects - someone from the mountains, from the hills, from the sea - whomever they find. They will bring some people together and make a parliament. They will gather and say: "We will make a law to rule this country". They do not have the right to do this. Muslims are pleased with the Divine Law; and they do not rule by their own mind because we cannot govern ourselves. Now they rule by their own law and they are entering into a difficult situation, and there is no way to come out of it. We cannot handle these problems. The nation is not happy with the government; and the government is not happy with the people. The people rebel against the government and, the government fights against the people. This is no state! Unfortunately, this thing that they invented, called a "constitution" cannot govern people. They say: "We should change this." It is not like a shoe that you change whenever you want. It's like jewelery on ladies' necks, ornamented with gold and diamonds. What do they call it? Guest: Necklace, medallion The necklace that ladies put around their necks … They have such jewelery: Gold and decorated with gems, rubies, diamonds, etc.. Now they say: "We may trade this in for another one". When you exchange this, the new one may not be the same value as the old one. It may be an imitation. When you bring it to a jeweler, he will look at it and say: "Take this, it is no good for us. This is fake, not real diamonds. They deceived you when they told you it is real diamonds. What is this? Take it and leave," they say. The lady may say: "I paid this much money for it". "Maybe you did but it is not worth it. This is worth 1 lira. The other one was worth 1000 lira. You were deceived", says the jeweler "I am not going to take it. You shouldn't have bought it." Now, what they call "the democratic system" is like this. It is not like the original diamond necklace that the ladies may wear, made from precious stones. They told her: "Take it off! It is worthless. We may give you a new one!" They said so, but it is fake! All of them are imitation – false- compared to Shariat. They are dropping the Shariat and giving value to the imitation. No! The fake one is not the same as the real one! Come to your senses! Think about your honorable past. What a glorious nation you were. You left it and look at the situation you are in now! Our past nation was founded in the 1300s. In 100 years, from a small state it grew to an Empire. It has become zero in the 100 years since you removed the Sultan. Why? Because our past nation followed Allah's Shariat and ruled with it. Allah elevated them. Empire is the most glorious form of government for nations. You removed the Empire and founded the Republic, which is the lowest form of governing. If there's an official ceremony, the kings are in the front line, presidents are in the back. Why do you move the kings to the front line, not the presidents? Because the kings, emperors are... If there is an Emperor, he is in front of the king. You have removed the Ottoman Empire and named it Turkish Republic. The Ottoman Empire! In the 1500s, if there was a conference in Europe, they would not begin the assembly unless the Ottoman representative was present. Now, who respects us? No one even recognizes us. If you do not recognize Allah, He will not make anyone recognize you. No! Now, nobody respects us and we are running after everyone, begging from this one, from that one. Money comes in this way. A state cannot be like this! For a nation, there must a Sultan as the head, and he should have a treasury -'Bayt-ul Mal'- for Muslims. It is not acceptable for Muslims to go to the door of unbelievers and ask for money. Yesterday we were Sultanate, our money was in gold. Today we are a Republic and our money is paper. If what we speak is wrong may Allah punish us! If what the others speak is wrong, may Allah grant them repentance. Enough! May Allah grant you safety. Send our salams to the people. [Later, some guests take bayat.] Oh Allah Almighty, make them firm on the true way, for the sake of the one who You sent. Suratal Fatiha for his sake. You are counted among my daughters and grand daughters. May Allah be happy with you. May Allah cover you here and hereafter. May Allah protect us from the evil of shaytan, from our enemies, and from our sins. Amin Some of you are married; some of you have children. Be careful, the situation outside is not normal. No one is safe from one another. Do not trust anyone. There are all kinds of people now in Istanbul, including very dirty ones, because they enter without anyone questioning them or being aware. No one knows what they do. Don't go out at night. Do not go out at night, and do not let your children go out into the streets either. After sunset, it is dangerous. The one who goes out may not return safely, because dirty people, thieves, people with "beastly" characteristics, shameless people, and all kinds of people are crowded into Istanbul. Your father also was born and raised in Istanbul. And, I went to Istanbul in 1940. How many years has it been? 70 years ago. What was the population back then? About 250 000. What is it now? Guest: 70 million. I am not asking Turkey's population. Guest: Istanbul is now 15-20 million. 15 million...back then all of Turkey's population was 10 million. The year that I went to Istanbul, it was like this:
+
+I would walk around in Istanbul. From Taksim I would go to Bayazid. From Bayazid,
+
+sometimes I would go by tramcar. We would walk from the university, to Suleymaniye
+
+(Mosque).
+
+Where they call Coppersmith Bazaar, we would go downhill and would come to Zaybak
+
+ramp, and from there to Unkapani; and from Unkapan to Tepebasi (Taksim).
+
+In Tepebasi, there was the district official building, and on the other side, there was the city
+
+theater, and there was the British consulate on the way. It is still at the same location.
+
+Then, the fish bazaar...
+
+After the fish bazaar I would walk... There was a street before reaching to Taksim,
+
+Siraselviler Cihangir. I would stay there with my elder brother.
+
+It would take maybe 1.5 hours, that route. Now, how is it? Now, they invite me to Istanbul. From here to Istanbul, it is 1 hour by plane. From the airport to the house, it takes 3 hours! I can't tolerate it in my situation now. It was like that before, now there are all kinds of people. Protect yourselves. That is why I say this. Don't let your children out after sunset/Maghrib. Don't give money to the children whenever they ask for it. Pay attention to their studies. Now people let their children go free. No one listens. No one learns. No one asks. No one works. They come to their mothers: "Give me money". "I don't have money", mother says. "If there is no money, I do this, I do that." And the ones they send to school, they have no manners. The children don't have the old manners anymore. Therefore, be careful. Do not leave children outside at night. The ones who pray, go to the mosque and come back home. They should not go to coffee shops. You never know who will come against you there. Definitely, women should never go outside at night. If they want to worship, they may pray in their homes. They must watch their children. What is your name? Guest: Suat Suat Bey, are you married? Guest: Yes, I am married. Do not leave your homes without a man. Women should not be at home alone; there should be a man with them in the house, not wandering around in the streets. The times we are in are difficult. Therefore, pay attention to this. May Allah protect you. Link to Video: http://saltanat.org/Blog/tabid/271/PostID/144/D-n-M-sl-mand-k-Yesterday-We-Were-Muslims-tr.aspx

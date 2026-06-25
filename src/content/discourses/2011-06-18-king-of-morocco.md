@@ -1,0 +1,43 @@
+---
+date: 2011-06-18
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2011-06-18-king-of-morocco.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2011-06-18-king-of-morocco
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: ﻲﻨﺎﻘﺤﻝا مظﺎﻨ دﻤﺤﻤ ﺦﻴﺸﻝا ﺎﻨﻻوﻤ نﻤ بﺎطﺨ :برﻐﻤﻝا كﻠﻤ ﻪﺘﻝﻼﺠ ﻰﻝإ - a Message to
+  His
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Majesty the King of Morocco - (ar) Mawlana Shaykh Mohamad Nazim al Haqqani an Nakshibendi 15 Rajab, 1432 A.H. Saturday, June 18, 2011 Translated from Arabic by: http://saltanat.org/ BismillahirRahmanirRahim I was at the end of Fajr Prayer. Suddenly something came to my heart. I was not thinking about it. Bismillah ar-Rahman ar-Rahim. Allah (swt) Jalla wa Alaà. Say Al Haqq! SubhanaHu wa Taàla.The holy verse of Allah Almighty says:
+
+Akafartum Ba'da 'Imanikum (3:106)
+
+Did you become unbelievers after you were believers? This is for the event that took place in Morocco with the Sultan of Morocco. Sultan Muhammad (may Allah support him and keep him firm on Haqq) was declaring a new system last night. He declared the new system in an appearance on television from the Moroccan Kingdom. In his declaration, Sultan Muhammad (may Allah support him and keep him firm on the True Way -Haqq ) turned away from the principles of Shariat and went to the humiliation of democracy. I was listening to him; maybe His Majesty addressed his nation for more than an hour. He was asking to explain to his nation. Unfortunately the Moroccan nation do not have a good understanding. The Sultan is on the true way; and his wish was to make his nation understand. Oh King, for the one who does not possess a good understanding, why do you tire yourself to make these ignorant people [happy] who are asking from the Sultan...? Those who are following the taghut (tyrants) were asking their king to refuse the principles of Shariat and to bring tasteless and meaningless things that are against the Truth. And he was addressing the Moroccan nation to explain to them. I was looking that His Majesty the king uncovered and took off the cover on his head and sat down. He was sitting looking like one of the general public. To uncover your head in Islam is forbidden, and it is hated. At the least it is hated (maq'ruh). You do not uncover your head except on Mount Arafat, when people are in Ih'ram. Except for Arafat, every man should cover his head and put at least something on his head - a hat, a takiye, a fez, or a turban. I saw that His Majesty was sitting and that he had removed the cover from his head. That cover was the fez. It was a sign of his sultanate. When the kings were covering their heads with a fez and were wearing the traditional Moorish dress (a robe like a jubba) were in accordance with the clothing of Ahlul Sunnah wa al Jamaàt. I saw that His Majesty was wearing a western outfit, with nothing on his head and was addressing the people [this way]. He was declaring to them that he - in the eyes of the people – is supporting the Truth. To the Saints, he appeared to be retreating away from Shariat. He was announcing that he wants to - and will - establish democracy. He was saying, "I am spending all my efforts to establish a new democratic system”. Before the king and his father and his grandparents (Allah bless their souls) were keeping and preserving the Islamic Shariat. But His Majesty went and appeared on television with a western outfit. His great grandfather – Master of the beginning and the end (saws) – said in his traditions, "The one who resembles a nation, he is one of them". So, why are we resembling unbelievers in their outfit? I am asking if the Islamic Shariat is giving us permission to resemble the unbelievers in our clothing and in other aspects. Why did His Majesty wear western clothing? His outfit was a western outfit, with nothing to cover his head. All of this was done to please the lowest level of people. Those people are the worst of the worst. There is a holy verse indicating also that in every period and in every age there are those amongst the nation that are counted as the worst of the worst and they are shown by the holy verse.
+
+Al-Ladhina Hum 'Aradhiluna Badiya Al Ra'yi (11:27)
+
+... the meanest among us, in judgment immature And I am sorry for His Majesty the king of Morocco to listen to such a group of people who are leaning toward the side of unbelievers very, very, very much more than they are leaning towards Islamic Shariat. I am sorry, I am sorry!...Sorry! In the Holy Qur'an there is information about past nations which reveals what is going to happen in the future. The holy Qur'an makes clear everything; and it came to my heart to inform His Majesty the Sultan. May Allah support him and make him to sit on the throne of Morocco as a believer, not to be supporting the lowest and worst group of people, not to follow them. Those groups that are standing against Shariat are the worst people; and I am sorry that the Sultan pays attention to the lowest kinds of people who are against the Shariat. Suddenly this morning this holy verse from the Qur'an came to my heart. This verse reminds me; and the absolute Prophet (saws) reminded me and told me to inform His Majesty what Allah Almighty said in relation to such a situation. This holy verse points to what they did. Allah Almighty said,
+
+Akafartum Ba'da 'Imanikum (3:106)
+
+Did you become unbelievers after you were believers?
+
+Did you leave your faith and become kafir after you became believers? “Akafartum Ba'da 'Imanikum"... To reject Islamic Shariat is kufur/unbelief. It is a clear judgement. Let one scholar from amongst all the scholars of the Islamic world stand up and reject this verse. Let one come out and tell me, "Oh you - Shaykh – your words are false". That person may die before Ramadan. “Akafartum Ba'da 'Imanikum”... In such situations, Allah Almighty is addressing the one who leaves and moves away from Shariat and who wants to replace Shariat with democracy. What is democracy? Democracy is like the sewers of shaytan. How could the Sultan accept going down to the sewers of shaytan? Allah Almighty addresses him, "Oh My servant, did you become an unbeliever after you were a believer? Warning: oh My servant, did you leave My Shariat for of the worst kind of people who are asking democracy from you? Democracy is like the sewers of shaytan. I will judge you”, Allah Almighty says. “I will judge you.” So warning upon warning, oh King, oh Sultan of Morocco... May Allah support you with the Islamic Shariat. Warning upon warning... It is not permitted for him to retreat from the Shariat and to try to replace it by a democratic system that is like the sewers of shaytan. This is a warning. If he accepts, he will accept. If he does not accept, Allah Almighty will not accept any action from him, whatever it is. Warning upon warning! Oh Sultan of Morocco, I am sorry. I am sorry for Your Majesty to come down from the blessed Islamic holy Shariat to the level of the worst people who are asking democracy from you. That democracy is made up by shaytan. That democracy filled the Islamic world from East to West. I am sorry for the president of Egypt, the president of Libya, the president of Algeria, the president of Iraq, the president of Iran, Turkey and Yemen, and Saudi Arabia. I am sorry for all of them. May Allah protect us. Something may come on them. Divine Anger may come on them. There is no way to save you from Divine Anger. I am sorry a thousand times and I am asking forgiveness. Take them, oh Allah Almighty, from their presidency and send us a king so that we may fight under his flag for the sake of Allah Almighty. Astaghfirullah Al Azim. Astaghfirullah. Oh people of Morocco, oh Moroccan nation, do you accept to be under the holy verse in the Qur'an that is addressing you?
+
+Akafartum Ba'da 'Imanikum (3:106)
+
+Did you become unbelievers after you were believers? I am sorry for you a thousand times. Something will come on you that will not let one of you be happy with what will come upon you. Astaghfirullah, I have declared. Tawba, we repent and ask forgiveness from Allah Almighty. Fatiha. Link to video: http://saltanat.org/Blog/tabid/271/PostID/217/-A-Message-to-His-Majesty-the-King-of-Morocco-ar.aspx

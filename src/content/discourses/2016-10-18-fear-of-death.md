@@ -1,0 +1,54 @@
+---
+date: 2016-10-18
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-10-18-fear-of-death.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-10-18-fear-of-death
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Fear of Death
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh. Allāh Hū Allāh Hū Allāh Hū Allāh.
+
+Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra llayāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra llayāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra llayāli wa ṭūla d-dawām.
+
+Yā salām. Ṭūla d-dawām. That means forever and more. There is something more than forever? Of course. Allāh Almighty, He doesn't have limitation. The limit been given for weak servants as us. Even we are controlling so many things, even we are thinking, even we have will power, even we have this, we have that, but we still in the border of limitation. Still we have fences in our life. We still have prohibited area to enter. "Ey insanoğlu", says Allāh Almighty, He is addressing "O bani Ādam, O human, don't be proud. Be humble for your Lord."
+
+Every beginning it has end. Every power it will not last forever. When you are in the top point, top point of your body power, then you reach the top point and then immediately steps going down. There is no break. No break, yā Hū. No. First sign of going down your white hair. Allāh Almighty He make the white hair, the grey hair to let you know that you are losing power. You are not powerful anymore. You are only wise, wiser. This is how we are making. This is the good things in the human. They are every time getting some excuse in theirself, say "No, no, no. Wiser. Less power, doesn't matter. Wiser." Immediately they figure how to go out of the situation.
+
+I remember with Mawlānā Shaykh sitting "Mawlānā, we become old". "No, your father old. You are not old." Mawlānā Shaykh telling me "Your father is old, not..." Yā Hū, now I am old. Now you are old. Now everybody old. This is not the matter how to be old but the matter here is to be really wiser. Because when you figure out that when you are in the top point and then from that top point you start to go down, then you remember Allāh Almighty - to say "yā Rabbi, we are coming to You." There are so many people have the fear of death. Fear of death, it is really big illness. It is not something that people... Because Allāh Almighty He show the end also. And with this showing you can see "Oh yeah, I spend my credit now." These days children they know this one. They have credit in their telephone and say "My credit is finished. What shall I do now?" The life also say every day you are using credit, you like it or you don't like it, using tick-tick-tick. Nobody asking you. The fear of death, it is one of the big illness that people start to fear. When they have the certain age, they start to think different. Let's say in 20s you think "Oh, the world is mine. Everything is mine." Everything spend, spend, spend, spend. You don't care. But when you come to certain age, you start "I have children to look after. I have to put something beside. I have to do some future and say future, future. Allāh Allāh. You've been in 20s, you don't think about future. Now you start to think about your future, children future.
+
+No, don't think like this. Allāh Almighty He give individual life for everybody. This is wahdāniyah, ḥaqq ul-wahdāniyah, the truth of oneness. Allāh Almighty He show His oneness in every single thing. And every single thing it shows you Allāh Almighty oneness. So many people say "How can?" No, Allāh Almighty is showing. Because Allāh Almighty when He create His servants, that servant is one. Maybe we are 7 billion, 8 billion, 10 billion, 50 billion. Doesn't matter. But the one is one. You cannot be your brother even you are brother. You cannot be your father even coming from your father. You cannot mother, even mother give birth for you. No. Individual. Allāh Almighty this is the big miracle of Allāh Almighty, creating every one in individual. That's why He say rizq, the income, everybody it is worried about his income, worried about his children income. So Allāh Almighty is saying the rizq it is a secret, nobody has the right to interfere.
+
+And Mawlānā Shaykh, they show him one picture of frog. And that frog it was in very rocky area. There is no water, no nothing. And that frog managed to live there and to survive, to find food to eat also. And Allāh Almighty, he say this is very big example for Allāh Almighty to show you how the rizq is coming, how is the purpose of living. This is Allāh Almighty saying "I am responsible". Allāh Almighty say "I am responsible for My servant." How you can find better responsible than Allāh Almighty to respond for your income? That's why when we are coming in the point that we are going down, we have to only focus on something to say "Yā Rabbi, You send us here and You are taking us back." And this will be the top point of surrendering to Allāh Almighty. Because all of us we cannot surrender. This is definitely sure. We cannot surrender. If we are surrendering, we can leave the paradise. Because if you know who is hosting you and who is kicking you out, then you'll be ok. But if you don't know who is hosting you and you don't know who will kick you out, then how it will be? You will be all the time disturbed. Who is the host? Who is the host? Who is giving this? Who is giving that? Yā Hū - Allāh. No, no. Who is...??
+
+Life finished. So short. What happened? You cannot find who give and why they kick me out? Also you cannot find. But the grave it will be long time to think about it if you have good place to settle also. Because Allāh Almighty says either it will be paradise garden or hell ell. This is Allāhu luṭuf. It is... And Mawlānā Shaykh he was saying good advice. For the grave to not be hell, he said the two rak‘at sunnah after ẓuhr, if you make it four rak‘at - that we do al-ḥamdu liLlāh - that will avoid ʿadhāba l-qabr. These two extra rak‘at, he say it will avoid from ʿadhāba l-qabr - that means punishment of grave.
+
+This is also, by the way, I give it as free advice. I am not asking, al-ḥamdu liLlāh we are not asking for money for any advice. So many people they say the advice can cost you one camel. But today we give for free and nobody takes. Free advice. Free advice. If you take, it's free. If you don't take, it's mine. The advice still good things to keep in your mind, good things to keep in your heart.
+
+We are happy to be servant for Allāh Almighty. And we are happy to continue the legacy of Mawlānā Shaykh Nāẓim and to keep the legacy of the Grandshaykhs. Because Mawlānā Shaykh, he is one of the Grandshaykh that he left this legacy for Shaykh Mehmet to continue. And we are happy as Mawlānā Shaykh 'Adnān, and I am as the weakest to be in serving for the servant of Allāh, the one they want to come and the one they want to be continuing the spiritual journey according to Mawlānā Shaykh Nāẓim teaching and according to Mawlānā Shaykh ‘Abdu Llāh teaching, according to Mawlānā Shaykh Sharafuddin teaching, according to Grandshaykh teaching. We are here to serve. We don't have to ask any money. Anybody asking money for his service, that means he is not serving. So clear. When you ask money for your service in ṭarīqah, then it is not true service.
+
+Allāh when He sent Rasūla Llāh (saw), Jibrīl, ‘alayhi s-salām, he came next to Rasūla Llāh (saw). He said "Listen, yā Rasūlu Llāh" - and it was sound of gold. River of gold coming next to Rasūla Llāh (saw). And the gold has very nice sound, so nice sound. It is the metal that have beautiful sound. None of the metals has beautiful sound as the gold. That's why gold is gold. Everything beautiful in gold. Everything. All the human they've been attracted by gold because Allāh Almighty He made the gold as high level element. High quality element has been Allāh Almighty He make the gold high element. That's why even the noise of, noise of gold, it has nice music. And it was coming next to Rasūla Llāh (saw) and Jibrīl, ‘alayhi s-salām, he say "yā Rasūlu Llāh, this gold river was given to you to use it". And Rasūlu Llāh (saw) said "No, I am doing this for Allāh. I'm not doing it for material." That's why it's so precious. Don't forget this one. It's very important point. Don't forget this one. Anything being done for materialistic, it's material, it doesn't have the spiritual value. That's why the spiritual value is the highest, the most highest.
+
+Al-ḥamdu liLlāh we've been with Mawlānā Shaykh since we're born and I never see Mawlānā Shaykh asking for materialistic things. No, he was giving the material away just to win the heart of the people by spiritual being. This is Mawlānā Shaykh. That's why we are here also claiming and saying to everybody that we are here as servant to Mawlānā Shaykh Nāẓim, to continue his legacy and serve for his murid and serve for humanity, in shā’a Llāh. May Allāh make us in this way strong and not make our heart to play. Because the heart also can play. This is to not be trust too much also. Because we have to keep saying "Hey you, you are not here to sit for materialistic issue. No. Here you are to sit for spiritual issue." And we have to shout at our ego. We have to press our ego. We have to make this issue very clear in our mind and in our heart. May Allāh forgive us and may Allāh make us to be strong in our mission and to continue our mission until our last breath. Then we meet our Lord and we meet our Shaykh and we meet Rasūlu Llāh (saw) hoping that they accept us to be with them. And that's why we are looking to be in this way as spiritual, not as material.
+
+Wa min Allāhi t-tawfīq biḥurmati l-Ḥabīb, biḥurmati l-Fātiḥah.
+
+Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām.
+
+Wa ṣallī yā Rabbi wa sallim ‘alá jami’i l-anbiyā’ī wal-mursalīn wa ‘alá kulli ‘ajma’ina wal-ḥamdu liLlāhi Rabbi l-‘ālamīn al-Fātiḥah.
+
+http://saltanat.org/videopage.php?id=16330&name=2016-10- 18_en_FearOfDeath_SB.mp4

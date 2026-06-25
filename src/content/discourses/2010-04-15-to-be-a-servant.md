@@ -1,0 +1,56 @@
+---
+date: 2010-04-15
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-04-15-to-be-a-servant.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-04-15-to-be-a-servant
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: To Be a Servant
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Dastur Ya Sayyidi, Ya Rasulullah Allah Allah, Allah Allah Allah Allah, Aziz Allah Allah Allah, Allah Allah Allah Allah, Karim Allah Allah Allah, Allah Allah Allah Allah, Subhan Allah Allah Allah, Allah Allah Allah Allah, Sultan Allah Sultan. Allah Sultan.
+
+You only are Sultan. King of kings, no any king, You are only King, O our Lord. Forgive us for the honour of the most honoured one through Your Divine Presence, Sayyidina Muhammad (sas). Zidhu Ya Rabb, give to him much more glory and honour, inspite of shaytan and its followers. Then, assalam alayka Ya Sultan al Awliya that you are responsible for every happening on this planet, on dunya. Allah Almighty grants to you much more power for the honour of the Seal of Prophets Sayyidina Muhammad (sas).
+
+Assalamu alaykum our attenders wa rahmatullahi wa barakatuhu. Accept that holy salam from heavens and try to reach heavenly Mercy Oceans. Yes, and we are saying: Audhu Billahi min as sahytani'r rajim. O Salafi ulamas who is qatt`a at-tareeq? Who is that one that is cutting ways of mu'mins or cutting the ways of mankind. Cutting their ways not to reach to safe area and not to reach Mercy Oceans of the Lord of All Creation. Yes, that is most important point we must try to make clear for mankind. And we are saying: Bismillahi'r Rahmani'r Rahim. That is the heavenly sword we are taking. Whoever is sitting in the way that is reaching to Divine Presence, that is our sword to cut their heads and to take them away. We are now addressing all religious people. Those who are on top level according to their customs.
+
+This one is a weak person, weak servant. I am not carrying any title. Biggest title that may reach mankind is to reach the level of servanthood and to be accepted by the Lord of Heavens as His servant. Yes. Therefore we are addressing first ulamas of Muslim World and particularly those who are given something, some speciality for them and they are saying 'we are Salafi ulamas'. But they aren't able to give an explanation what they are asking to say to people through that title. That is an imitated title. They're saying 'we are Salafi ulamas'.
+
+What does it mean, Salafi ulamas? What is their speciality? What they did and what thing are they asking to do? Yes, and then we are addressing all ulamas through Islamic world, from east to west, from north to south. You must say what is the highest position or most precious honour for mankind. Say to me ulama-ul-islam, learned people in Islamic world, what is highest position, rank, title and honour for Muslims? Say to me, what is that? You are knowing or not knowing? Then I am going to Christians learned people, priests. Yes. Their learned people are giving themselves some titles that Jesus Christ never gave to himself. Therefore first of all I am asking Muslim ulamas. Say which title is most acceptable through Divine Presence? Say to me. We may say. No answer. No answer. Everything that mankind must know, they must keep, they must try to do. What is that? Just mentioned through one hadith we are saying, the Seal of Prophets Sayyidina Muhammad, (sas) what was he saying? Something I am missing, you may correct, you are knowing, ajlis kama yajlisu'l abd wa akul kama yakulu'l abd. True or not acceptable? ajlisu kama yajlisu'l abid wa akul kama yakulu'l abid.
+
+Both of them true. There is hadith or it is according to your knowledge, not accepted. No you must accept, you may find akul kama yakulu'l abid wa ajlisu kama yajlisu'l abid enough. Enough for all nations that lesson that the Seal of Prophets is teaching people. Why he is saying this? Why he is saying this? You may say, what it is saying, ajlisu kama yajlisu'l abd wa akul kama yakulu'l abd. Why he said this? What was his maqsad? What was his aim to say this? First of all you may say 'Leave and pass away'. No, that four or five words giving a whole wide meaning. Making clear first, his mission and then showing and asking everyone to know that he is a servant.
+
+O our Christian brothers you are making Jesus Christ in heavens to be son of God. Astaghfirullah. But I am asking to chief of Christianity, Catholics or Orthodox or other sects. Who is giving to you this authority to make Jesus Christ Allah Almighty's son? Any verse coming from heavens through Old Testament? Or New Testament? Old Testament, if it was someone should come that he is going to be son of God it was essential to be mentioned through first prophet and first man Adam, (pbuh) he must say that the son of God is coming and, pray to him. Is it mentioned through Holy Books? From where they are bringing such things?
+
+lan yastankifa almasihu an yakuna `abdan lillahi (4:172)
+
+Correct? ayatu'l karima, sometimes coming, lan yastankif, the Lord of Heavens saying that Jesus Christ never escaping to be a servant to his Lord. Yes, it is so clear. Why they are saying? That means Jesus Christ never claiming that 'I am your God, my Father is first God and I am second God. Can't be. Heavenly declaration that beginning with Adam (as) up to Seal of Prophets, all of them to say, "We are servants of your Lord, O our nation, we are only servants of our Lord and we are calling you to be servants of your Lord". And these four words that the Seal of Prophets was saying included the whole aim from prophecy, was enough. Saying 'I am sitting like a servant and I am eating like a servant or slave'. So clear. From where they are bringing so many things, so many titles? And the Seal of Prophets saying 'I am servant of my Lord, therefore I sit as a servant and eat as a servant'. That is giving a straight direction for nations, for all mankind as he means 'you must try to be like me'. You are only servants. Don't bring imitated titles, you are cheating yourself by yourself. No. Therefore what are we saying now? It belongs also to Muslim World because they are bringing so many titles for themselves. Those titles, all of them imitated things. Who may prefer a plastic diamond instead of real diamond? Anyone? Must be something wrong with them. Therefore you are making such thrones such clothes, such crowns. And that which you are dressing in or where you are sitting, giving to you some imitated titles because when that one is going to die taking from that chair/throne, and taking all clothes and taking their crowns. Finished. Allahu Akbar, Allahu Akbar. Whole nations, all religions, they are going on wrong way, following shaytanic imitated ideas, no value and they are leaving Holy Books and running after shaytanic writings.
+
+Therefore, we are saying as they are granting to me to speak. O ulamas, O pope O patriarchs, bishops and rabbis, what is your mission? That is an important question. What you have been ordered to do? What is it? Don't say 'We are Muslims, Christians, Jewish people'. No. What is your mission? Say to me. I am not asking if you are Muslim ulama, you are Christian popes or Jewish rabbis. What is your importance? Say! You must stop on a straight way and you must put up a fence from east to west that people may come and they are prevented so as not to go after shaytanic teachings. They are protectors so that people don't reach to shaytan and shaytanic aspects. That is our only responsibility. To prevent people to go after, or to follow shaytan. That is it.
+
+All nations must know this through their religious people. Religious people must try to make people not to follow shaytanic ways. They are keeping them away not to fall in troubles through this life and not to fall into hells and Fire after this life. Subhanallah. But people lost main purpose. Main purpose from ulamas, from rabbis, from popes is to declare to people, 'This way is shaytan's way, don't go there because you will fall in endless troubles through this life and after, through Eternal Life you are losing your chance. Now we are addressing to Salafi ulamas. What you are doing? Are you preventing people not to follow shaytanic ways? Say. Say. and I am asking Azhar Sharif ulamas. What you are saying for Muslims and Muslim World? "O People, you are on wrong way". If you can say that Azhar Sharif ulama on right way, if on right way no any declaration for Muslims. "O Muslims, your life that you are living now taking you to Fire". Why not saying, "You are on wrong way", why you are not saying? How you are ulamas?
+
+And Pope, why not saying daily, "O People, you are not on true way, you are followers of shaytan". O Rabbis, why you are fighting? Why you are not fighting with shaytan and fighting mankind? No. Therefore for all troubles and all miseries and all crises the main reason is that top ones of religions are not saying to people, "Beware". I am looking at so many houses, written on entrance "Beware, dog". It is a warning. Do you think that the most harmful one for mankind is dog or shaytan? Why you are not writing everywhere "Beware of shaytan"? And people running after shaytan, not running after prophets' heavenly ways. What are you doing? Allah will ask you, ulamas, patriarchs, popes, rabbis. First, their judgement will be very dangerous and very terrible. They will be asked. They are saying 'We are rabbis'. What you did? Why not prevented your nation from shaytan? And asking Muslim ulamas, why you are not warning morning and evening say, ummata Muhammmad (sas), "Beware of shaytan". At least, you must order O ulamas from every nation, you must say to people, to have a writing, Audhu Billahi min as shaytani'r rajim and another writing, Bismillahi'r Rahmani'r Rahim. That means 'O our Lord, we are running away from shaytan and running to You, to be Your servants, O our Lord, protect ourselves'.
+
+O People, insaaf be fair, you must be true ones with your conscience. Don't try to cheat your conscience. Therefore there are some holy words of the Seal of Prophets (sas), what do they mean, istafti qalbaka wa lau aftaka an naas. You must ask your conscience even if learned people saying you can do this but don't be happy with their permission, you must ask your conscience. If your conscience saying 'good', follow it, if not, don't follow. Therefore all nations, all people must ask for everything, for every doing, something. They must ask their conscience and if they are happy and in satisfaction, do it. If not, leave it. Therefore O People, don't be angry with me but be angry with shaytan. I'm not with shaytan, insha Allah. Because Allah Almighty saying:
+
+wa kunu ma al sadiqina (9:119)
+
+You should be with true ones. Everytime you are going with them you will be happy and successful and your face is going to be bright in Divine Presence. May Allah forgive us.
+
+Fatiha
+
+Video Link: http://saltanat.org/videopage.php?id=7358&name=2010-­‐04-­‐ 15_en_ToBeAServant.mp4

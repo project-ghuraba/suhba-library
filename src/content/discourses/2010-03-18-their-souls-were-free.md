@@ -1,0 +1,62 @@
+---
+date: 2010-03-18
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-03-18-their-souls-were-free.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-03-18-their-souls-were-free
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Their Souls Were Free
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allah Allah Allah Allah Allah Allah Aziz Allah Allah Allah Allah Allah Allah Allah Karim Allah Allah Allah Allah Allah Allah Allah Subhan Allah Allah Allah Allah Allah Allah Allah Sultan Allah Alfu salat alfu salam alayka ya Sayyid al Awwalin wal Akhirin ishf`alana Ya Sayyidina, Ya Sayyid al Alamin Madad Ya Sultan al Awliya, madad, madad. Allah Allah Allah Allah
+
+Assalamu alaykum O Attenders who are giving a value, who are appreciating this humble association through east and west. May Allah grant to you that unexpected honour and knowledge and power and understanding. That is holy night, first Friday night, Laylat-ul-Juma from Rabi-ul-Akhir. Could be an opening through this holy month. We hope that coming days coming for the honour of Islam. And everything that is against Islam coming down. Assalam alayka Ya Qutb az-Zaman. Assalamu alaykum Ya Ibadallahi Salihin, from East to West and we are asking a support from your holy, heavenly powers.
+
+We are beginning and saying: Audhu Billahi min as shaytan ar rajim. Always we are running away from badness, from evil and from devils because now all dunya reaching speedfully, running on its last station before the Day of Resurrection. And people are just running after evil and following devils. And it is mentioned through all prophets' declarations particularly now in our days that we are the last Prophet's nation. Every evil and devil is running out to do their worst for Mankind, particularly running after Believers. Running after mukhlis, sincere believers. They are using their whole possibility to make people, all of Mankind to run away from real beliefs; to run away from their Creator and to run away from prophets, particularly run away from the Seal of Prophets, Sayyidina Muhammad (sas), sharrafa wa karram.
+
+Therefore we are asking heavenly protection, heavenly support not to be touched by the devil's poison tongues. We are asking protection. And we are saying: Bismillah ar-Rahman ar-Rahim. That giving us what we are asking. Those who are asking protection from devils and evil must say: Bismillah ar-Rahman ar-Rahim. We are listeners and we are believers. We are believing everything that all prophets were bringing or sent as heavenly messages. We are believing and asking protection. I am a weak servant that was appointed for cautioning or warning people about what is going to come on them through coming days.
+
+Glory to Allah Almighty daily troubles and miseries and sufferings are increasing and people are like drunk ones. This life is making them to be drunk and they are asking to drink as much as possible from wines of this dirty life. People are running after nonsense aims and are asking to take much more pleasure through their short lives. They are not thinking that a person can't be in pleasure when he had been thrown through fire. How a person can ask more pleasure through such bad conditions that are covering from east to west and north to south, with a circle of fear? As well, they are surrounded with worse conditions day-by-day and they are looking and seeing that they are falling through miseries more and more and they are now confused, bewildered. They don't know how they can be in pleasure. Pleasure and contentment and happiness and everything that they hoped to reach has just closed down but they are running to find something. Everywhere they are running they are finding that closed. Closed down.
+
+As sometimes due to some bad conditions, big shopping centres are closing their doors. They are saying, 'We can't continue through these conditions, we can't continue to give what people are asking. Our capital is finished". And a person is coming and getting back hopeless. Now people, common people have lost their pleasures and are running from east to west, and west to east, from north to south, from south to north to find a place that may give to them a pleasure. Now our lives have just reached that point. Particularly after the World War II an opening is coming to people through technology. Everything coming is easier for using but in return, in front of technology, they are finding such a sorrow and their feelings coming to the point of hopelessness, no hope.
+
+They are seeing that everything with technology reached top point, yet Mankind is not reaching a level that they should feel through themselves a happiness or hope for their future or to find a pleasure through technology. In opposite, instead of pleasure they are feeling bad feelings. Instead of hope they are finding for their future, the coming days of their lives, hopelessness. Everything is under technology's control now. That means everyone on this planet just controlled by devils through technology. Yes? And people are not knowing or are not accepting another way. They are saying that the only way reaching to our target is the way of technology.
+
+That means they are looking to reach their whole aim through technology. They are saying, "We are going to find everything through technology. If we are leaving technology it is impossible for us to reach pleasure for our lives". They are thinking now, "If there is no technology what are we going to do?" They are asking themselves, "How we are going to be enjoying if no technology?" And technology is most terrible means affecting the lives of people. Now they are slaves of technology.
+
+And really, Man was created to be over everything on this world and not to be under it. Yes, past times, we may speak about the Companions of the Seal of Prophets (sas). Do you think O Salafi ulamas that Companions, Sahaba Kiram were not knowing about coming instruments? If you are saying 'No', you are going to be jahil, ignorant ones. No, they were knowing of everything coming before the Day of Resurrection but they were not running after it, to use it, because they were knowing where their satisfaction was. They are asking satisfaction and pleasure through their hearts, through themselves, not outside. Outside, everything, every means that you are using is going to be a heavy burden on you because you are marbut, tying yourselves to it. People are tying themselves, their pleasure and their rest life with enjoyment, full with pleasures. The people living now are connecting this with that. But the Companions of the Seal of Prophets (sas) were not tying it, not connecting themselves with everything that surrounded them. No, because if they are connecting their hearts with aspects around themselves they are going to be slaves. And Islam just coming to make Mankind free from slavery. Poeple now are slaves of technology.
+
+The Seal of Prophets (sas) was coming to save people from slavery, to not be connected with everything around themselves. No. They were only for their Lord's servanthood. Their most important aim was to connect servanthood with their Lord and that was granting to them such refreshment through themselves. They were so happy. They were eating one date, or two dates, daily, they were happy. Sometimes one day, two days they were not tasting anything, but their souls were free for their Lord. They were in such pleasure you can't imagine.
+
+Is it not so Salafi ulamas? How many days you may be without eating? Kabab, grilled sheep, grilled meat, everything grilled and very good rice, you are asking pleasure from that. You are not making your egos to be happy with one date or two dates daily. You are looking what is today's feast. Perhaps His Highness, the King calling and they are so happy to go to His Highness the King's invitation.
+
+“How are you O Shaykh? Today is the invitation of His Highness, the King and we are attending. Do you think that His Highness is ready to attend”. "O my brother I like meat I like this, if everyday, from His Highness the King. I was hoping that His Highness the King would employ me the head of the kitchen", "O but you masha'Allah you are the wisest of people, we never think of these things Masha'Allah". “Of course don't you realise my virtues! It is good news. O your Highness the Prince today His Highness, The King’s hospitality is a feast!”
+
+Where are Sahaba Kiram and where is our position today? People were running to Holy Prophet's hospitality. Say! This American, not knowing English also, tawba Astaghfirullah, Arab? Making something down, something up. And faqir does not care about anything, O Salafi Ulamas. What they bring to him for the sake of hospitality is the best for him. People, yes, Sahaba Kiram, Companions of the Seal of Prophets (sas) were happy only to be with the Seal of Prophets (sas) through his heavenly invitation, blessed invitation.
+
+They were only looking at the holy face of the Seal of Prophets (sas) and they were taking heavenly lights through their hearts and their hearts, opening their hands going to that food but they are not knowing to leave their nazar (gaze) they were not happy with that feast, taking that piece of food. Their souls were in such a way coming in connection with the heavenly lights that dressed the Seal of Prophets, Sayyidina Muhammad (sas). Where is Isa (as) where is Musa (as) where is Nuh (as)...Good tidings to the Mawla Al Jalil! Allah Allah. O People Sahaba, Companions of the Seal of Prophets (sas) were knowing everything about these materials. But they were never interested in such pleasures. Their pleasure was to look at the face of Seal of Prophets (sas) as his face was a divinely face. No one else's face can be divinely, only one, Sayyidina Muhammad (sas) zidhu Ya Rabbi izzan wa sharafa La ilaha illa Allah, La ilaha illa Allah Where they are and where we are? How we can find suroor? Pleasure. Where were they looking for pleasure? Their pleasure was endless pleasure. Only, they were asking more and more.
+
+O Salafi ulamas what they are asking? You are Arabs, knowing that they were asking, hal min mazeed O Habib! Hal min mazeed, hal min mazeed and the Seal of Prophets (sas) saying on behalf of his Lord, wa ladayna mazeed. O People, come and understand what prophets were bringing and what shaytans are bringing to you. Shaytans bringing only sadness and suffering and miseries. Prophets bringing pleasure, happiness, enjoyment.
+
+O People, O People, Allah Allah. They are finished, doctors of Shariah. They are not knowing such things or they never are tasting such things and they are saying, 'We are doctors of Shariah'. And we are saying, we are asking doctors of Haqiqah. Bring Shariat, Tariqat, Haqiqat. We are asking doctors of Haqiqat. Bring and let them speak to people. But you can't do. Your understanding is in limits. Alh al Haqiqah, those who are asking real Reality their understanding is unlimited. Therefore Allah Almighty saying: "wa ladayna mazeed, don't worry I shall give you, don't say when is enough, no, always when you are asking 'hal min mazeed' I am giving, 'waladayna mazeed' ". May Allah forgive us O People. La hawla wa la quwwata illa Billahi 'l Alliya'l Azim. Tawba Ya Rabbi tawba Ya Rabb, tawba Astaghfirullah
+
+What is going to be tomorrow we don't know. We don't know but final point to leave this life, is for Eternity. Ask for Eternity, ask Eternal Life. Eternal enjoyment and pleasure and contentment, happiness. Allah Allah. To be with Allah Almighty's Ahbab-Allah, friends of the Lord of Heavens. Ya Rabbi tawba Ya Rabb, tawba Astaghfirullah Shukr Ya Rabb, shukr Alhamdulillah Ya Rabbi Ya Allah, tawaffana al muslimin w'al hiqna bi's-salihin. People our egos are never leaving us to move on that direction. Shaytan is making agreement, 'I am from outside, you are from inside, we must catch people to take them from contentment and pleasure to unhappiness, troubles and miseries'.
+
+May Allah forgive us for the honour of the most honoured one in Divine Presence.
+
+Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=5607&name=2010-­‐03-­‐18_en_TheirSoulsWereFree.mp4

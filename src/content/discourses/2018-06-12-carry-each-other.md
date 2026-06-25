@@ -1,0 +1,48 @@
+---
+date: 2018-06-12
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2018-06-12-carry-each-other.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2018-06-12-carry-each-other
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Carry Each Other
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa raḥmatu Llāhi wa barakātuh.
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr yā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa l-khayru fi l-jam‘iyyah.
+
+Our Holy ProphetNone gives plenty of advice for people to get along well. People tolerating each other raises their station. Everybody makes mistakes and has faults. Everyone should tolerate each other. We need to be forgiving of each other. And that of course is not an easy thing. It is tough because nobody is pleased. You cannot please anybody no matter what you do. Only Allah ‘Azza wa Jalla can please. It is said: "Lā yarḍá l-‘ibād illā Rabbi l-‘ibād." It says only AllāhNone can provide contentment and please HisNone servants.
+
+As an example of the matter of tolerance, Ibrāhīm ‘alayhi s-salām would not sit at the table without a guest. He loved guests very much. One day, a Zoroastrian came as a guest. Ibrāhīm ‘alayhi s-salām welcomed him. They sat at the table. Just as they were about to start he said, "Stop, just a minute. This is not possible. You can eat from these delicious foods, from this feast, if you become Muslim." The Zoroastrian refused leave his religion. In response, he told him he would not let him eat from the food. So he got up and left. Immediately, Allāh ‘Azza wa Jalla revealed to Ibrāhīm ‘alayhi s-salām, HeNone said: "That man, that servant of Mine has not been worshipping MeNone but worshipping the fire for seventy years. He is Zoroastrian. He is rebellious towards Me. I tolerated him for seventy years, provided him with sustenance, and made him eat and drink without asking him anything in return. You did not let him eat one time but sent him off. How can you do that? Quick! Call him back."
+
+So Allāh ‘Azza wa Jalla is tolerant towards people, because people are all the time in rebellion, denial, unbelief, and all sorts of vileness against AllāhNone. AllāhNone is tolerant. AllāhNone is patient with them. So it should be a lesson for us. Then Ibrāhīm ‘alayhi s-salām ran after the Zoroastrian. He told him he was very welcome to come and eat, and to do as he liked. He told him he would not interfere with his religion. The Zoroastrian was surprised: "Well, a little while ago you told me to leave. How come you're calling me back? What happened?" "Allāh ‘Azza wa Jalla revealed to us that your situation was like this. He has been providing for you for seventy years even though you are not obeying HimNone." The Zoroastrian was surprised: "Allāh ‘Azza wa Jalla respects me and HeNone did so much for me. Teach me your religion." Then he became Muslim immediately. So this is tolerance. People are hardly tolerating each other. Of course, people have plenty of faults. Another instance, this one has an amusing side to it. Someone we know, a secondhand, used car dealer – Let me say a word about secondhand car dealers here now. They are the world's, mā shā’a Llāh, what can we say? May they forgive us, but that is how their work is. They are the world's biggest liars. They sell you an old, the oldest car, as a super car. We were invited for dinner at someone's place with that friend. We were sitting and chatting: "What do you do?" "Well, I sell used cars and whatnot." "I'm going to ask you something. Are people ever happy with you?" "What?!" It is impossible even if it were a normal car. The cars the guy sells are the world's worst cars. No way for him to please anybody. And he is saying without regret, "Not possible sir. Nobody's happy. We do so much. Nobody but AllahNone can make them happy. We can never make people happy."
+
+This can also be found. People can blame their own fault on others. Therefore, we need to be tolerant of everybody. Everybody needs to be tolerant. We will manage and get along. What can we do? The world is a place of trials. In shā’a Llāh we will come through the test to the Presence of AllāhNone, clean from the test, in shā’a Llāh.
+
+Today we speak about to be, can carry each other, to be happy with each other. Because Muslim they must be helpful for each other and be, not be not carrying anything, any word, anything from other. We must be soft for each other. This is to be happy. But people, nobody can make them happy with each other. Only AllāhNone He can make people happy. There is Arabic word: "Lā yarḍá l-‘ibād illā Rabbi l-‘ibād," meaning for human being, only Allāh ‘Azza wa Jalla HeNone can make them accept and to be happy, satisfied with what HeNone give. Other what you done, what you do every time nobody happy with what you are doing with them. Even you maybe make with good intention, but other also not happy.
+
+Difficult but we must be try to be happy with each other and appreciate what other doing. Not make all time to be not happy with others. Because Allāh ‘Azza wa Jalla, HisNone attribute to forgive and to make iḥsān. HeNone forgive and HeNone giving for people. Once Sayyidinā Ibrāhīm ‘alayhi s-salām – he is from great Prophet – he was very generous and when he like when he eat, he like every time to have guest with him to eat. Sometimes going out in street to looking for people bring them to eat together if he not coming guest. And once there was one majūsī, meaning fire worshipper – that time this his area it was like this people – and he bring him and put very nice table food. And this man he want to eat. He said, Ibrāhīm ‘alayhi s-salām, "Wait. You are not Muslim. You cannot eat this until you become Muslim." And this man he look, he said, "No I cannot change my religion for this." As Ibrāhīm ‘alayhi s-salām say, "Sorry I cannot give you food." And he send him away.
+
+And this time Allāh ‘Azza wa Jalla sending waḥy for Ibrāhīm ‘alayhi s-salām: "O Ibrāhīm what you done for this man? He is seventy years worshipping this fire not accepting MeNone and he doing everything wrong and I'm not looking for him. Seventy years I'm giving his provision, food, everything without asking about what he is doing. And you are only for one meal you kick him out? Quickly go and bring him back. Give him this food." And Ibrāhīm ‘alayhi s-salām, he quickly he run after this man and he said, "Come, come please come. Have your food." And man he was very astonishing. "What happen? What? Why you do this? First you kick me out and now you are send..." He said, "My Lord Allāh ‘Azza wa Jalla HeNone said for you, you are seventy year not obeying HimNone, worshipping not good thing but HeNone is giving you provision, giving you everything, not asking and for me, HeNone blame me because I'm, I didn't give you one meal. For this I'm bringing you back." And he said, this man, he said, "Oh our Lord HeNone speak about me like this? Teach me quickly your religion." And he become Muslim.
+
+How HeNone is, Allāh ‘Azza wa Jalla, carrying all this world – they are not obeying, they are coming against HimNone, doing everything against. They are swearing. They are everything they can do against Allāh ‘Azza wa Jalla He they are doing. But still HeNone is carrying this people and not saying anything. This is must be for us also example and to try to do what we can do. But of course is not, not easy to carry people. Only Awliyā’u Llāh they was carrying people, and Prophets. For other people – sometimes carry, sometimes not.
+
+And there was one story happen with me. It was little bit funny because once we went, we was with one man from our friends, he is secondhand car dealer. And here also we said for secondhand dealer – Ḥajjī Osman he was saying every time – the most crook people. Sorry for our, there many brother also they doing from our second hand and once I do also two months. That was really not for me at all. And he was sitting and at dinner this one man invite us to dinner, and he was speaking, chat together. And this man he was... What he didn't know, other one he asking him – his name, his job, what you are doing. He said, "I'm secondhand car dealer." And this was he was asking him one question, "Do you have any" – and this car dealer specially this one the was it was the worst in the world – cars he has but he making something selling people. Of course it will not be happy with him. This man asking him, "And do you have anybody happy with your thing, with you?" said this man. "Oh subḥāna Llāh how they are. It is impossible for, I cannot make them happy. Only AllāhNone make them happy."
+
+But he was, it's funny to ask this question for this man. And he was trying, saying as he is selling the best car and saying, "Nobody happy with me." This people also everybody they have excuse for themself, even they have the worst thing but they have also excuse to for themself. So we are no need to make excuse, only to be, try to be good with others, in shā’a Llāh.
+
+Wa min Allāhi t-tawfīq, al-Fātiḥah.

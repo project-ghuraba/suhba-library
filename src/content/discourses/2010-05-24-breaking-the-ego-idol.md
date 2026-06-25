@@ -1,0 +1,56 @@
+---
+date: 2010-05-24
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2010-05-24-breaking-the-ego-idol.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2010-05-24-breaking-the-ego-idol
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Breaking the Ego Idol
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Madad Ya Sayyidi. Allah Allah, Allah Allah Allah Allah, Subhan Allah Allah Allah, Allah Allah Allah Allah, Sultan Allah Subhansen Sultansen zid Habibaka Sayyidina Muhammad sallAllahu alayhi wa sallam izzan wa sharafa nuran wa surura, ridwanan wa sultana wa man tabi'ahu bi ihsanin ila yawm ad-deen. Thumma salamu alayk Ya Sahib az-Zaman, the one responsible for everything among mankind. Assalamu alayka Ya Qutb al Mutasarrif, Assalamu alaykum Ya Rijal Allah, Assalamu alaykum Ya Ibadallah.
+
+Salute on you, our attenders. Today is dunya, tomorrow should be akhirah. No one can be fearless among mankind. If they are going to be heedless, who is forgetting death and after-death, they will be drunk ones. Those who are awakened, they will be fearful, because no one knows after one minute what will happen. Yes. Assalamu alaykum our attenders. Listen and hear! Hear and listen! And try to obey, to be all of us obedient ones. Who is in obedience can find satisfaction.
+
+We are saying: Audhu Billahi min as shaytani r-rajim. O People, don't be cheated by shaytan. Don't give way for shaytan to come and cheat you. Run after true ones, don't run after shaytan and its agents. Assalamu alaykum Ya ulama Ahl ul-Islam, from Azhar ulamas or other ulama through Islamic world particularly those who are claiming we are Salaf us-Saleh. They are saying 'We are following the ways of Salaf us-Saleh'. A big claim. And through that, their egos are asking some greatness. Yes, if they are saying this, it is a claiming, they mean to say, 'We are something', or they are some that their level is just different from other people’s and learned people's level.
+
+O People and O ulama who are claiming 'We are learned ones', yes, from Muslim world or non-Muslim world or learned people from Old Testament and New Testament and Psalms. They are trying to give a level for themselves without taking any isharah, without taking some authority from heavens. There is much more for understanding. They are thinking they have authority from heavens to say this. No. No. To give something to your being, that being which is material and physical being. And you have another being that is a spiritual being.
+
+Always our physical being is asking something that it may touch, may reach, therefore, when a person is claiming 'I am something', that one is speaking on behalf of their ego's physical being. Their egoistic desire or their desire belongs to material world and physical being. Always, men now, living on Earth from beginning up to today, are always running after their egoistic beings, and their material being is representing their ego. And ego is representative of shaytan in everyone. Therefore our egos asking that we may reach something. Something, even a little bit. Occupied with something, this, as a fuse just cut down. La hawla wa la quwwata illa Billahi l-Alliyi l-Azim. Our egos represent shaytan through ourselves. And ego is related to shaytan and ego is our ride. And our rides are always asking something from material prices, asking material demands. Never getting to be happy if nothing is appearing on itself. Therefore what is worst su al-adab, worst manner from our egos? Asking something for itself. They are never going to be happy with something that they can't touch. They like to see, or to hear, or to do something from material aspects. Therefore people running quickly. For what? To reach something that may be seen, may be heard, may be said, may be understood. That was shaytan's bad manners. And that is the reason everyone is running to reach something from material aspects for their egos.
+
+It is therefore that we are saying, O ulama who say, 'I am Salafi ulama or on their ways', that means 'we are also from those people'. Claiming. No one of them has reached a heavenly declaration and that authority to say this. No one has reached to say that 'I am this one, or I am that one', and that claim is stamped from heaven. All of them are running to reach something, some aspects that he may see, he may hear, he may touch. And O Salafi ulama, O Muslim learned people and all holy-book-granted ones. You are saying, you are claiming so many things that your Prophets never said.
+
+We are speaking to the Muslim world and their ulama. Do you think O ulama of Muslim world some of you are saying, 'We are followers of Salaf us-Saleh' that means 'we are also from their representatives'. Or some may say that our knowledge is belonging from Azhar Sharif. Some of them may say that 'We have a diploma in shariat al-Islam from Sorbonne, or from Berlin, or from Oxford, or from Toronto, or from Paris, Sorbonne. Why you are saying this? Do you think that what you are saying, what you are claiming is giving you an honour? That means you are asking something that you can touch. Touch it! And this is never going to give Prophets' inheritance.
+
+No, look, O Saudi ulama, who were saying we are followers of Salaf us-Saleh You are saying really Salaf us-Saleh, no one from Salaf us-Saleh claimed that we are on the ways of Salaf us-Saleh. Look, and hear, and try to understand Prophets’ teachings, particularly the teaching of the Seal of Prophets, Sayyidina Muhammad, sallAllahu alayhi wa sallam. Why I am standing? They are saying that the Seal of Prophets, Sayyidina Muhammad was saying that: akrimu karima qawm. You must give your respect to that one who has honour among his nation, among his tribe, among his community. And, the Seal of Prophets was teaching all people.
+
+They are making this weak servant to speak on some points that are the reason for ummata l-Habib to lose their haybat, their glory, because they are not following what the Seal of Prophets was saying. Teaching: ajlisu kama yajlisu l-abd, wa akul kama y'akulu l-abd. What do you think O learned people? Do you think that the Seal of Prophets was praising himself? Where are such people to say 'I am a weak servant'? I am doing as the Seal of Prophets was saying, ad-deenun nasiha. I am speaking as the Seal of Prophets was ordering and giving such advice. Not to say when I am speaking that I am something. No. That is enough for all learned people, not to say and not to write, 'I am Dr. Fulan', no, or graduated from Sorbonne, no! Or to say, 'We are followers of Salaf us-Saleh', no! Say!! Only that we are servants, abid. Servant means 'khadim', yes? Who is helping people and working for people. Khadim - servant. Anything else the Seal of Prophets said? Teaching his nation that you must try to be like a servant. Therefore, our speakings never going beyond our ears, just finishing in its place.
+
+I may ask our Christian brothers and their top-level religious people, they heard from Jesus Christ, peace be upon him, to appoint cardinals to appoint popes to appoint bishops to appoint this and that title through Jesus Christ? He had twelve disciples, did he say to even one of them that you are a cardinal? You are bishop, you are a patriarch, you are pope? No. Say! Say, the holy people from the nation of Jesus Christ, peace be upon him. And I may ask Isra'ili people and their holy people that was Sayyidina Musa saying you are rabbi, you are up and down? But they have so many steps to show themselves as more and more to people.
+
+Religion is not a show, to make a show to people that 'I am this one or that one'. No. Wrong. Those who are going to be with their egos, everything that they are speaking, or everything they are writing, smelling with egoism. And the Lord of Heavens saying that the ego is worst one that was created, always against heavenly orders. O People therefore, don't do a show, leave show. Show is only satisfying and enjoying and giving pleasure to our egos. Leave that and you should be a servant. If not, Allah Almighty never accepting your imitated titles, imitated claims.
+
+Yes, now people are on worst way. Everyone is asking to be someone through community. Never accepting there to be a smooth field, they're always asking to be high mountains. High mountains only carrying snow. Smooth valleys going to be green and giving benefit to people. All battles, all fighting, is after those egoistic desires. If anyone says, 'I am a weak servant', how you are not saying that Allah Almighty, Jalla Jalaluhu, saying:
+
+wa khuliqa al insanu da'ifan (4:28)
+
+SadaqAllahu l-Azim, it is true? What does it mean? Ulama Salaf us -Saleh and ulama Azhar Sharif? And doctors through east and west? SadaqAllahu l-Azim or not, when He is declaring to His servant wa khuliqa l-insanu da'ifa, we are weak ones?
+
+If there is no heavenly support, no one can step even one step. You must know, our movements on Earth, are they from our physical powers? Don't believe that. Don't think that what you are eating one cup or two cups of food it is making you able to move, to do, to see, to know - this is also dark jahalat, dark ignorance. Even when I am making my hand like this, don't think that what I am eating is giving power for my muscles to take it up, no! Every movement must reach from heavenly powers. We can't speak if not related to heavenly powers. People think that we are living, we are moving, we are doing through our material foods, they are making us to be in such a way, to be able. No! To be able (to do) for men, is not from their eating material, no! But it is from heavenly (material). I can't move this up without heavenly power reaching here. And how you are claiming 'We are something'? And, you are nothing! May Allah forgive us for the honour of the most honoured one in His Divine Presence, Sayyidina Muhammad, sallAllahu alayhi wa sallam. We are trying to break down our egos, our egos idols. That is biggest mashaqqah, biggest ibtila, curse to say that 'I am doing, I am moving, I am running, I am thinking'. When that power is taken from you, you are only a shape, going to be dust.
+
+May Allah give us an understanding. This if we can understand, we may give our respect to everyone and we can run after peace. If not, troubles never-ending, fightings never-ending, crises never-ending. And all troubles never-ending, that is the reason now our plane, dunya, going and running into hells, everywhere hells. Everywhere you are finding trouble, no peace. Peace - you must understand real being of yourself, and you must put everything in its original state then heavenly peace landing and this dunya going to be in peace. Or, people are going to be servants slaves of shaytan, never-ending troubles. Tawba Ya Rabbi, tawba Ya Rabbi, Fatiha.
+
+Video link: http://saltanat.org/videopage.php?id=9939&name=2010-­‐05-­‐ 24_en_BreakingTheEgoIdol.mp4

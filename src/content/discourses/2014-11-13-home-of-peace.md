@@ -1,0 +1,44 @@
+---
+date: 2014-11-13
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2014-11-13-home-of-peace.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2014-11-13-home-of-peace
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Home of Peace
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-salāmu alaykum wa rahmatullāhi wa barakātuh. A‘ūdhu billāhi min ash-shaytāni r-rajīm. Bismillāhi r-Rahmāni r-Rahīm. As-salātu wa s-salāmu 'ala Rasūlinā Muhammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad ya RasūlAllah, madad ya Sādāti Ashābi Rasūlillāh, madad ya mashayikhinā madad ya Shaykh Abdullah Fāizi d-Daghistāni, madad ya Shaykh Muhammad Nāzim al-Haqqāni, dastūr. Tariqatuna as-sohba, wa l-khayru fi jam'iyya. Our way is based on association, and goodness is in gathering.
+
+Thanks to Allah that we are Muslims. That is the greatest Divine favour. To be Muslim is not a bad thing. Islam gives people contentment and ease, it makes their troubles go away. No matter how troubled a Muslim might be, Allah makes his heart wide, so that he does not feel so distressed, because he has faith. This is a way station. It is a station on the way we are traveling. Our basic place, our real home is eternity. That is why we have troubles on this road. As they say: as-safaru qit'atun min saqar. Saqar is the name of one level of Hell, and traveling is a part of that hell. Go wherever you like, travel as comfortably as you might, whoever embarks on a journey, even the most relaxing mode of travel, he will meet with some kind of trouble. Therefore, as we have said, the travel through this world is a station along our road, where we come to stop. After this we continue along our way.
+
+To be a Muslim is nothing very difficult, as we have said. One becomes Muslim by speaking one word. But shaytan makes it seem a very bad thing, saying: "Don't place your faith in this, don't accept it." No. There is no such difficulty. Why? "wa-llahu yada'u ila dari s-salam" (10:25) Allah is calling us to the Gardens of Salvation, to the Home of Peace. Dar us-Salam is the name of one of the gardens of Paradise. Allah invites mankind to Paradise gardens. Dar us-Salam, meaning salam, peace, Islām, aslam, taslam, salām - It is all the same place. Allah calls us to Islam, so that He can place you in Paradise. But mankind does not want this. Not that he actually doesn't want it, but he is deceived. Shaytan cheats him, his desires cheat him, his surroundings cheat him. It appears as evil to them. They see what is good as evil. And what is bad they see as good.
+
+Allah, ‘azza wa jalla, has created us and He created us in the best of forms. He wishes for us not to go to waste, for us not to fall into hellfire, but Shaytan wants exactly the opposite. He invites us into Hell. He calls us to darkness, to sorrow, grief and whatever calamity there might be, Shaytan calls us to it. Allah, may His Glory be exalted, says: Be contented! Come to goodness, come to beauty. But most people will not accept this. There are many Muslims in the world, but even more people who walk in the way of disbelief - maybe twice or three times as many. Be at ease, contented, says Allah, ‘azza wa jalla. Be happy and relaxed in your faith. Do not sit there and sulk. Give thanks at all times that Allah has placed us upon this path and brought us to such lovely places. That is what faith is: To believe in what Allah has spoken, to obey His commands. Of course there are various degrees of faith. People of weak faith differ from people whose faith is stronger, greater and more vigorous. There are degrees among the believers, each to his own level. One who says: Lā ilāha illa Allāh, Muhammadun Rasūlullāh, thus becomes Muslim; he has entered into the faith. After this come the commandments, prayer, fasting, alms-giving, hajj. These are commandments, by degrees. Some people obey all of them, some people only perform part of their duty, some do nothing at all, but still, after a person says: La ilaha illa Allah, he has entered within that circle. In the end he will encounter the Mercy of Allah, insha'Allah. But those remaining without, they have disobeyed Allah and followed shaytan, and they too will go with what they have loved.
+
+Alhamdulillah we are Muslim, we are happy. Allah saying, calling us to Daru s-Salam. Daru s-Salam - Home of peace. Salam meaning peace, salam. Islam coming from salam. So Allah (awj) He is calling all people "come to peace, to find peace." Only by Allah's order because He is Creator, He knows what is good for us, what is not good for us. And it is the best thing to accept His invitation. And His invitation it is very easy, not so difficult. Only two words - you say it and you become His believer, believer for Him. What are these 2 words? La Ilaha illa Allah, Muhammad Rasulullah. This is from all Prophets, they were saying this, la Ilaha illa Allah. Every Prophet saying, Musa Rasulullah. La Ilaha illa Allah. Isa Rasulullah. La Ilaha illa Allah Nuh Rasulullah, until Prophet (saws) last one, to say la Ilaha illa Allah Muhammadun Rasulullah. It is easy.
+
+And there is station, ranks: there is strong believer, there is weak believer also. Allah accepts this. After you say this there is something you must do - order of Allah - to pray, to fast, to give 2.5% from your money every year, not every month like government you pay 70%. From where it is? When Allah saying this to give 2.5% it is more baraka and enough for everybody. If all people they 're giving this, no poor people. But government taking from people 70%, 60% and not enough for them even. They've become like communists. And to go to Hajj if they have money enough - This is order of Islam, of Allah. Some people they are doing all.
+
+Some people they are doing 1, 2, or not doing anything only saying La Ilaha illa Allah, Muhammad Rasulullah. Even when you say this it is between you and Allah. Maybe He forgive you or He give after the end - even they're going to jahannam/hell - after taking their punishment, they will come to paradise. But who is out of this circle of Iman, Islam, it is, they are with shaytan. Allah calling people to peace and to paradise. Shaytan calling people to be miserable, to be sad, to be dirty, to be every badness; to do every badness. And at the end he is not calling to paradise, he is calling for hell. Who is outside of this circle he is with shaytan. But who is accepting and obeying Allah because Allah saying "Come here, come to this circle. Come to be in peace -to be in paradise." You say "No, we don't want You." How? Who want you? You want shaytan, so you can be with shaytan.
+
+And shaytan making millions of tricks for people to not be in Islam. They make traps, tricks and people, the most of people, are outside of Islam, what Allah calling for. Muslims maybe 1 part of 4. The most people are outside of Islam. The majority in the world they are not Muslims, not obeying Allah. And they are free. But Allah He is Merciful. He wants them to come and says "Come." And it is not so difficult and not so you can't do it. It is not something you cannot do, people they cannot do. They do it very easily. Because they are doing things every day it is more difficult than praying, than fasting, than doing good things. They are doing very tiring things but for shaytan not for Allah. Allah not giving word, put word on people, what they cannot do. He, what He said, what He ordered it is easy and useful for spiritual things and for your body also because there is connection. If your spiritual being is strong, your body will be strong, even you are in bed. If you cannot do anything, even for this you'll be happy. Because Muslim always happy. And why? Because his spiritual with Allah. Allah supporting him.
+
+And of course this dunya it is like temporary thing. Like we are going travelling, this is just a small station. We will stay little bit and after we continue to our main, permanent life. For permanent life and for our home of peace, Daru s-Salam, what Allah calling. We are going there so we are happy and we are insha'Allah travelling. And in travel also not easy to travel, even you are very comfortable in travelling it is also a little bit difficult. So, and but when you are going to some place you like, you are happy when you are travelling even if you have difficulty and it is like this for Muslim, for believers of Allah. And obeying order of Allah and order of Allah to be believer on Him, His Oneness, and to accept His beloved Prophet Muhammad (saws).
+
+Wa min Allahi t-tawfiq Al Fatiha.
+
+http://saltanat.org/videopage.php?id=12693&name=2014-11- 13_tr_HomeOfPeace_SM.mp4

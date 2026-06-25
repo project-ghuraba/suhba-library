@@ -1,0 +1,46 @@
+---
+date: 2012-08-02
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-08-02-speak-the-truth.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-08-02-speak-the-truth
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Speak the Truth
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salamu Alaikum. Tariqatuna sohbah wa l-khayri fil jamia' Today we speak about being true again insha Allah. Who speaks the truth..
+
+There are two paths, one is to speak the truth & be at rest, or speaking lie & adding more lies to it to make it look right. Then your whole life is spent with lies. You can't do anything... This matter is difficult from the beginning because when you lie for small things, then while trying to make another lie look right that one forgets what he had said initially because it is not true, he gets totally disgraced in the end. There is Hadith of the Prophet (sas): man can speak the truth. When he does, Sidq means truth in Arabic, he is written from Sadiqs, true ones on Allah's side. And the other way, if a man constantly lies he is finally written as kadhdhab, liar in Arabic, on Allah's side. Meaning this is known on Allah's side, everybody's.. Also by peoples' opinion of somebody-most of the time he gets a reputation as a liar and Allah makes him disgraced in dunya. He will be disgraced in akhirah also.
+
+And there are many stories, things about this. We will say a story which is in the Hadith of our Prophet (sas). In old times, in the time of Banu Israil.. Allah (awj) sent many Prophets to them, for them to be guided. One of these Prophets..The Prophet (sas) does not say his name but we are guessing that he can be Joshua (as). One day he is going to conquer a city. And before he goes, he says "who is newly married can stay. Who has animals birthing can stay" so that they won't get distracted at war. He says "Those who will fight for Allah; get ready, we are going to war". During the fight, when it is asr time he also shows a miracle there. He addresses the sun, "In Allah's name, you remain where you are so that this war may end before it gets dark". And he wins the war. They bring all the war spoils. Before, before our Prophet (sas) all the war spoils would be collected in one place. A fire from Heavens would come & eat all of them. It means what they did is accepted. It would be a sign that the battle they fought is accepted.
+
+The fire came after they collected but it didn't burn them. So the Prophet Hz said "It means there is something missing in this. All the tribes who fought together with us, let their chiefs come to me one by one." Each one of them came & held his hand and all passed through. Finally when one of them held his hand, his hand got stuck on Prophet's hand. At that time he said, "All your tribe come and hold my hand one by one". And when that happened, 3 men's hands got stuck to Prophet's hand. He asked "What did you do?" And they admitted. They had hidden some gold of the amount of the head of an ox. When they threw this gold along with the war spoils, this time the fire came & burned all of them. Of course then it was accepted. Their jihad, battle was accepted. So it happened like this. Allah (awj) exposes a lie immediately. He knows the secret of everything. So even if you can deceive people, in the end for sure you become disgraced. Therefore don't leave the truth. War spoils in Islam, for us Muslims, are made halal/permitted. But of course there are conditions for it to be halal. It is not like going to a country & plundering it. Who goes there must be the soldiers of Islam first. There is a rule & order for everything. You can't just go for jihad on your own. It can't be like this. When you do like this, you are leaving Ahlus Sunnah wal Jamaah and that carries you to your destruction. You make harm to people this way, when trying to do jihad because you don't know it's method & rule. You only end up falling into sin & killing people in vain. You may go to hell forever.
+
+Who kills one Muslim becomes from the people of hell. These men say "we are Muslims" but they put bombs in the streets. How many children are dying, injured.. Even if it wasn't children who die, even an ordinary man dies, he can still go to hell fire forever for it. So these things, not everybody can do as they like. For sure, even if you don't follow a Shaykh, you must follow the ruler in authority. "'Ati`u Al-Laha Wa 'Ati`u Ar-Rasula Wa 'Uli Al-'Amri Minkum" (4:59). You should follow the Ulul Amr/the authority. Otherwise no matter how much of a Muslim you are, only corruption happens, nothing else.
+
+Today we speak about, to speak about the truth. Hadith Sharif, Prophet (sas) saying, "You speak truth, Allah write you in his Divine Presence as siddiq. Sƒ±ddiq meaning sadiq, or siddiq- who not lying, they are truth people. And when you saying lying, He write you in His book like liar. And liar, you are not good people for Allah (awj). When you speak the truth, you are satisfied. No, you are not be bad position, in stress or you feel good when you are telling the truth. Even sometimes it is against you also, but when you say it you be more happy or light. To carry this lying, heavy. And when you say something lie, you must say many thing after this, to lie many lies, continue lies to make people to believe you. But it is no use for this. When somebody saying this, Allah let people know him, he is liar. Everybody know he is liar. And to be liar, it is a very bad thing. Not from Islamic attribute.
+
+And there is one Hadith, Prophet (sas) telling about old Prophet from Banu Israil - They have, Allah sent for them thousand, ten thousand, more than 100 thousand prophets only for this Jewish- Banu Israil, calling in Quran. He says about one of the prophets, but not telling his name. But in Istanbul Joshua(as) they telling about this story maybe he is. Allah order him to conquer one city. And when he collecting people, he saying "Who is new married, don't come. Who has work, like cows or sheep they will deliver, don't come". Only people coming for, not hurry them, just coming for fighting for Allah (awj). And when it was about afternoon near before night, maybe 2 or 3 hours. So sun become to set. It is the Prophet, we hear about Yusha (as) this miracle. He order & make dua for Allah to stop this sun in same place until they won. And it was miracle, like this & they won. They conquer city & they bring all ganimat/spoils. Spoils, before in this time, they were bringing & putting big open place all what they get & there fire from Heaven coming & burning this. This meaning, Allah accept them. And they brought this. Fire coming but not eating this. So Prophet, he know there is something must be wrong. So they bring all tribe chiefs. Everyone who shaking his hand, putting his hand with him. All they make like this, until one of the chief, his hand stuck in Prophet hand. He said, and he knows in this is trap. He said "Bring all your men to put their hand on my hand". They bring. There was 3 of them also stuck on his hand. He said, when they do this, they know there was one like ox head, gold. They was hiding it. So they bring & throw it there &fire coming eating this. Finish.
+
+And this is Allah showing how it is when you making lie. Allah know everything about them.Allah make you to be shamed from yourself when you do this. And it was in Banu Israil time. After in Islam, Allah allowed for to take and to divide this (war spoils) between Muslim. Especially for who are, they are fighting- with Prophet or fighting with Muslim army. But this is also, everything in Islam they have rule. They are very... They were very careful for this, very very careful.
+
+One Sahaba he said to, when after everywhere conquered after Prophet(sas), he said in time of Prophet (sas) we see this what you are not seeing, like wood inside our eyes. For this, very careful for this, for everything. For fighting, for..They have everything, there is rule in Islam. So you cannot go now and fight by yourself & take money from people. He said "I am mujahid, I am making for Allah's way". No. You cannot do this at all. Because everything they have rule, and everything it is open. You can see.
+
+When you fighting, you must be under commander of Islam to take this. If you are not like this, it is haram. You think you are doing good, you are sacrificing yourself but no. Because when you kill one Muslim, you are in hell forever. This is Allah (awj) saying. How they, this people also, they putting bomb or something. They killing children, babies & women, old ones..Even they kill man also, it is enough for them to be in hell forever. Who not fighting for you & they are Muslim, you make this, this is not in Islam. You must be careful for this and don't you go for nothing. You see, you are doing something good but you are going for nothing, for hell going even. For this, be very careful for teaching of Islam.
+
+Wa min Allah at-tawfiq, Al Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=4655&name=2012-08- 02_tr_SpeakTheTruth.mp4

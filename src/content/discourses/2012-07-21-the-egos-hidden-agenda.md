@@ -1,0 +1,58 @@
+---
+date: 2012-07-21
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-07-21-the-egos-hidden-agenda.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-07-21-the-egos-hidden-agenda
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: The Ego’s Hidden Agenda
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Salam aleikum wa RahmatullahiTa'la wa Barakatu. Today, the second day of Ramadan,Al Hamdulillah we didn't feel Ramadan yet. We have 30 days to go! No we normally fast 35 days. Al Hamdulillah that Allah Almighty He make Ramadan only 1 month. So imagine if it was 11 months & 1 month not fasting. What we will do? Specially me. This is the biggest fear of ego;that, to be hungry to be without water. Because this is the source of living, because the ego without body is nothing. So it needs a vessle & the body is the best vessle that can be, the best!
+
+This Allah Almighty He make perfection. So that's why when you tell ego, "you want to fast? "Start to say "O today I am busy, today I have something to do, today I am going up and down to make 10.000 excuse to not fast."But in Ramadan no choice, must surrender. But other nafila/fasting days it will be really trying hard especially my ego. My ego is the best to runaway from fasting. And Mawlana Shaykh was saying,"I ask my ego do you want to fast all your life or we replace it with 40 days khalwa? "and my ego answering me " no, no we fast all our life no problem. No problem, but don't go for khalwa."Khalwa so hard! So that's why S. Muhammad he is one of the pillars, he has done it.
+
+I remember when they went with S. Adnan for khalwa & S. Adnan was insisting to Mawlana Shaykh "why you don't put Bahauddin also in khalwa? Why not put him? He need khalwa.""No, no, no! Leave him aside." So that means I am not qualified for such a things. I am qualified only to make people laughing, eh! and give some happiness for people, but don't think I am qualified to be Shaykh. I like my father's chair. It is very comfortable, but normally the Shaykh is S. Mehmet, S. Adnan,S. Hisham. These are the grand Shaykhs. We cannot compete with them, they are big. Big muscles! We are skinny people. We are skinny people & we are with the skinny people that is good. So at least I have some people to understand me and they are laughing & having a good time.
+
+And masha'Allah S. Mehmet he realize this & he tell me weekend you make this coffee talk. Week days I will make the serious talk. Say if you insist I will sit, here, so that's why today I am with you just to put few funny words & funny thoughts and to make us to understand who we are. Even we are wearing big turbans, making big beard, but Al Hamdulillah we are very skinny & simple people. If we accept this one that will be the acceptance of, it will be the acceptance of obeying Allah Almighty. That start to say "I am nothing,"because this is the entrance for Allah Almighty's Divine Presence. You have to be nothing, then He will think to put you in or not. And you will be,you have to be neutral, without any opinion & without any thinking & without Ah! I learn new things. Everytime I go to Malaysia & comeback I have new things to learn. I don't have another agenda. It's a good one! There is no other agenda that I am thinking what this another agenda, very good one eh! So that's why you have to be when you are saying I am nothing, start to be nothing. Don't put another agenda. "I have nothing maybe I will be in the front line. "Very important, the agenda is very important actually. But I didn't know. Everyone he like to have another agenda & this all the time is hidden. But we cannot make it hidden for Allah Almighty. So Mawlana he is all the time teaching us to be neutral. You have to be neutral in anything that you are going in, anything -Marriage, business, children, education, traveling.
+
+There is very funny story but it is dramatic funny story. Once upon a time one man he have this you know the lottery for emigrants. One man he win the lottery to emigrate to Australia. They give him ticket, visa, house & work. In the old days, like 20 years ago, &he come to Mawlana Shaykh. He has everything ready in his pocket."Ya Sayyidi I have this option coming to me, what shall I do?" He tell him "Don't go." "Everything is ready! Job, house, visa, ticket, with whole family. "He say, "Don't go." He say, "Ok!" He went outside & see another murid of Mawlana, old murid and he was telling him, "I asked Mawlana about this one and he tell me, don't go."You crazy! Such a chance coming to you, such a good coming to you. No don't listen to Shaykh & he going. Say ok, he take & go.
+
+He went there. First of all he lost his family. The wife divorce him, this first things. The second thing, the job that he was finding it was job, but he didn't like it so they fire him. And he the house that giving to him, because they don't have availability, they throw him out of the house. He only has ticket & visa. The rest of his life, gone yahoo!
+
+The Shaykh when he tell you, he knows what is coming. And he see what will happen, but you go with...so many people! "Mawlana Shaykh there is any permission to go there, to umra, the most popular one. "He bought his ticket, hotel...and ready date & the visa also, and coming Mawlana "permission for umra, insha'Allah permission?" Permission Mawlana Shaykh? No permission! He go & come again. "Mawlana but we buy the ticket &you know we made the date...Ok there is permission you can...but why Mawlana S. say no permission? You cannot fool me! You cannot fool me! This is Mawlana! ButAl Hamdulillah we say we are very small children we act as...So Mawlana doesn't look for us from the concept that we are like S. Mehmet, or S. Hisham or S. Adnan. He doesn't look at like this. He look at us as small children. So ok, this is kindergarden...let them be funny.
+
+I just came back from Germany & I see few things masha'Allah there that I want to edit in this coffee talk. The people there they've been having love. They have been having love, like small & big children. Big people, elderly people they are coming with love, saying there is things concerning to Allah Almighty, there is no other agenda. They come neutral & they've been there with love, enjoying the zikr & first time I see Naqshbandi rock band! One very nice guy he take the microphone & was shouting "yayayayay" Say this is, Naqshbandi rock! If you tie me I will not
+
+stand there to listen for them. But because it was sincere and have love for Allah Almighty I was sitting with them & I was also joining them & going & supporting them.
+
+Even my head was not there but I was really supporting for them, but I am looking at the spirit of it because it was having the love. It is not what you see but the inside it was good. The inside it was good. And even that spirit give you the enjoyment because Allah Almighty was sending His Tajalli. Sending His Tajalli & then the final day it was one lady from church and she was singing jazz, Naqshbandi Jazz! And she was saying Allah (swt) is One. Say it Allah is One, you are one, Allah One! Allah One! Yes baby come on that's good! And then she was so good, by the words I mean. We make hadra & her...so it was coming zikr and it was so powerful zikr, so powerful, very powerful Subhana Allah! And masha'Allah we've been flying. We have like 500 people flying.
+
+This is...Mawlana Shaykh. He doesn't care who is saying the singing, what kind of singing, rock or jazz, or pop or whatever, but it was, it was very important – there was no other agenda. This is new things I like it! There was no other agenda. It was only Allah (swt)...When it is Allah (swt) then different, then different, everything will be giving happiness, giving nice feeling, giving how to explain it, but we are living in it all the time Al Hamdulillah. Al Hamdulillah we are living on it Al Hamdulillah.
+
+So that's why it was very good experience to me, that I see small, small part of my father's life, very small part -how he was & now still turn back & still give sohbah. He didn't stop. He didn't say I am retiring. He say "if my body allow me, I would not be sitting here. I would continue my trip, but the body doesn't allow, so that's why I am....The big awliya'normally they don't use their miracles on themselves. Never! Never! What Allah Almighty giving they are following. They following following...Never use Karama on themselves, never! They've treat as a human, Mawlana, in a second Bismillah Al Rahman Al Rahim -he will be younger than me, no doubt. No doubt at all, but he will never do it. Saying "this is not good manner to Allah (swt). Allah (swt) He give me life to go, I am going with this life."
+
+This is the big things about the Awliya'. So that's why Mawlana S. make miracle now with make the telephone to ring, cut off cut off....He had another agenda, so that's why. We are saying that Al Hamdulillah that Allah Almighty He grant us such a Waliyullah to look after us & to love us and this is...it was a small part of his life that he show me and I was saying "Ya Mawlana if you allow us. "I see S. Mehmet really putting himself in this road, & I see S. Hisham also putting himself in this road. S. Adnan also putting himself in this road & if you allow me just to be near by, just a little bit to be also I am carrying your flag in some places. I will be happy also & he said "this flag is not my flag. This is Allah Almighty's flag, & this flag never go down. The One He make me to put this flag He never make it down. But I am glad that you are volunteering..."by forcing..."But I am glad that you are doing this. "And Al Hamdulillah I tell him "the base you give for us it is very easy base because what you built & what you've done it is huge. We didn't do nothing. Al Hamdulillah the people here & treating us, you and this he says "makes me very
+
+happy. It makes me happy that the respect & the love for me is still on & on & on..."and this is I like it to say it so much.
+
+And masha'Allah my brother S. Mehmet he give me the opportunity to explain this for you & for our viewers because they make a lot of comment. I don't know if they like me, but...they still have a lot of comments they say "it's good..."I am looking also from the video. It's not so good...
+
+But, Al Hamdulillah! It's your love that makes me happy. Your love makes Mawlana S. happy. And this love it is for Prophet (saws) for big Shaykhs & Allah Almighty. It is going & growing & never less Al Hamdulillah because I see the history also. I see the history when you come to Mawlana S. your beard was black, mine ok I am...Dr. Munir it was blondy, now become white. I look for S. Hassan also he was blondy or white now become white & you can see the history with Mawlana S. Al Hamdulillah saying Allah Almighty He give us the best moment and the best life with Mawlana Shaykh. Just S. Hassan he was telling me, "My life is Mawlana Shaykh. Without Mawlana S. I don't have any life. "And I am sure that everyone saying the same. AlHamdulillah we ask Allah Almighty to make extending Mawlana S. life more & more & more without asking us to say "Ya Rabbi extend his life. You do it Ya Rabbi. We are not the people that we can say this one. You are The Ruling, Absolute Ruler, Absolute. "
+
+With this one we say Wa Min Allahi Al Tawfiq,Bi Hurmat Al Habib,Bi Hurmat Al Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=4524&name=2012-07- 21_en_EgosHiddenAgenda.mp4

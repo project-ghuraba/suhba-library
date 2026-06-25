@@ -1,0 +1,80 @@
+---
+date: 2014-08-09
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2014-08-09-visit-mawlana-its-an-open-house.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2014-08-09-visit-mawlana-its-an-open-house
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Visit Mawlana, It’s an Open House
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah Allahu Allahu Allahu Allah
+
+Allahumma salli wa sallim 'ala Nabina Muhammad alaihi s-salam Salatan tadumu wa tuhda ilayh mamarra layali wa tula d-dawam Allahumma salli wa sallim 'ala Nabina Muhammad alaihi s-salam Salatan tadumu wa tuhda ilayh mamarra layali wa tula d-dawam
+
+MashaAllah. May Allah bless us all. May Allah make us all sincere. May Allah make Mawlana Sheikh, his satisfaction on us. Rida. And we are willing to have a good ending. Yes. What you are doing, it is nothing. The good ending, it is something. They say, everything has results. And we are asking Ya Rabbi, first, for me. This is dua first for me because I am the most bad one to have good end. And I'm asking ya Rabbi for the people that they love you and You love them, to give them the good ending.
+
+It is very important to understand this point. Now we are in the world that has fitna. You think the fitna, it is some war happening in some places. Or some killing happening in some places. And something, it is seen. Every day in TV, they show you this, they show you that. So you see fitna is boiling everywhere. But actually this is, I call it good fitna. Honestly, I call it good fitna, because you see it. There is nothing to hide. All the news channel, all the channels, everybody talking about this going-on fitna.
+
+So this fitna, it's ok. But the bad fitna is hidden fitna. What they are planning? What their calculation? What they are getting benefit? What they want to do? And we are sitting here like "Allah Allah". Everything looks calm, everything looks nice, everything looks in the place. But subhanAllah, it is not in place. SubhanAllah, it is not as we think. SubhanAllah, it is not as we are seeing. This is the fitna that you have to be aware.
+
+But the order from Mawlana Sheikh, he says what is seen for us is ok. That's why, alhamdulillah Mawlana Sheikh, he put the satisfaction in our heart. And he put the good feeling in our heart, and said "Ok, you can sail in this sea. Don't think about some wave coming or some typhoon coming, or something coming in this ocean." Mawlana Sheikh, when he gave this holy inheritance to Sheikh Mohammad, and he made me his wazir, he put us in a small sandal and he said "Sail in this ocean". And we are sailing, alhamdulillah. I'd like to say this place is belonging to him. It is not my place, it is not my brother's place. It is not everybody's place. This is your place. I'm saying generally. This is your place. Anybody wants to come, he is welcome. He is coming to his own house. He is coming to his own father's house. He is coming to his own family house. I'm saying clearly. Nobody has to ask permission to come and visit Mawlana Sheikh. It is open house. Must declare this one. I am declaring that this place is belonging to your father's house, your family house, and it is your house at the end of the day.
+
+Alhamdulillah this place, it has your Sheikh, it has your Guru. I don't think he's sleeping there. No. He is alive, Alhamdulillah. He is alive in our hearts. This is Mawlana Sheikh. Don't think that we are here. No, we are passing. That's why I say the end is important. Maybe you will be great great great one. Maybe you will be low low low one. Doesn't matter. The matter is when they make result, you have zero result, or you have the riza, the satisfaction of your Sheikh, the satisfaction of RasulAllah, the satisfaction of Allah Almighty.
+
+It is important to understand with who you are dealing. You are not dealing with me, you are not dealing with him, not dealing with your brother, your son. You are not dealing with your government. You are dealing directly with your Sheikh. You are dealing directly with RasulAllah. You are dealing directly with Allah Almighty that they know. We don't know. They tell us "Get this small sandal." Small boat, fluke, small one. I don't know what they call it but we know that's the smallest one with the hand, and sail in the ocean.
+
+We don't know. We don't know nothing. We are not the people that claiming to know something. But we know that we have somebody behind us. I used to remember when Mawlana Sheikh, he was not so tall, but I used to remember that Mawlana Sheikh, when he was going for mihrab in the big mosque, huge mosque, he was giving Juma prayer. He was filling the mosque. He was filling the mosque. I see this one. I live in this one. You live, so many of you. They know how he was filling the mosque. We've been in New York with him in 2000.
+
+The biggest mosque in New York. All Salafi, Wahabi, whatever. Everybody there. And imam, he was in love with Mawlana Sheikh, saying "Sheikh, I want you to give Juma prayer khutba." He went up for mihrab and he filled, he filled that mosque. He filled it and you can see how Mawlana Sheikh is getting everything. Small man. He was this size in the mosque. A huge mosque. But Allah Almighty, He gave him such things, he filled it. Full filled. It'd been occupied all the mosque. This is how Mawlana Sheikh is.
+
+We are small people but we know that Mawlana Sheikh is behind us. You have to know that Mawlana Sheikh is behind us. And you have to know that you are not dealing with us. You are dealing with him. We don't have anything to do. This is very famous story about Abu Talib. When this king coming to destroy Kabah, it's even in Qur'an:
+
+"Alam tara kaifa fa'ala rabbuka bi ashabil fil" (105:1) Abraha, he came. Sayiddina Abu Talib, he said, “What he wants? This man”. “He has something to ask for you”. “Bring him in”. “You are asking me to not destroy Kabah?” “No, I don't have anything to do with you. You are coming to fight me or you fight Kabah? “I am coming here to fight Kabah”. “Why your man taking my camels? If I'm your enemy, ok, take my camels. So I will fight with you”. And he was surprised. “What you mean?” “Yes. Your matter is with Kabah, with Allah Almighty. There is no matter with me. I don't care. It is you and Him. Do what you like”. And Abraha – “Give him his camel, this stupid man”. He was so angry. He thought that he will bargain him and tell him, ‘Please, don't destroy Kabah. Please, don't do this’. He didn't do. He said instead, “Your matter, Alhamdulillah, we don't care”.
+
+We have the same thing. This is important to know. It is important to be known. "An-nuqat 'ala-l huruf". We have to put the point on the letter head. Exactly. It is important to understand if I'm sitting here and I'm making coffee talk, it is coffee talk. It is coffee talk. It has nothing to do with irshad. It has nothing to do with 'ilmu sahih or whatever knowledge you call it. We are here only to give some kind of key point. Mawlana Sheikh, when he appointed me to sit here, he was listening to me and he was telling me "I send for your heart. Don't think that you are talking."
+
+I was so happy to hear this because I was feeling my ego that these people, they are listening to me, and I feel I am something, I've become something, you know. When a child does something, and you tell him "You do good things", the child will be very proud. "So I am something now. I'm grown up." And then when I went there to him, he said, "Don't think you are something."
+
+One day I was driving Mawlana Sheikh and there was one lorry in this road. And the wall, it was so nearby. And I measured and said "Maybe I can pass." And my father sitting next to me. He didn't make any comment. And I drive slowly, slowly. And it was like 2 cm from this side and 2 cm from this side and I passed. After I passed, he was telling me "You think you are driving? I am the one driving you." Alhamdulillah I was so happy to hear. But it was very good passing. Tell you truth. But Mawlana Sheikh, he said "You think you are driving? I was driving you".
+
+Alhamdulillah. Now as long as Mawlana Sheikh driving us, we are very happy. We are very happy to have somebody driving us. It is important to understand that somebody is driving you. We are travellers. Mainly we are travellers. If they tell you the captain in the plane, something happened to him. And they tell you "Ok, come and fly this flight" What you will do? Tell me, what you will do? It is really dangerous upstairs. Then he says "Yes, I can drive". You will be volunteer? Anybody can be volunteer to drive this, to fly this huge plane? Alhamdulillah, we are happy that Mawlana Sheikh, he put somebody to fly us. Actually, he is been prepared. He's been prepared but he's been prepared hidden. He was never in stage. He was never there. He was never claiming and he doesn't care. Maybe I care little bit, but he, he never cares. Maybe I like to be show-off but he, never like to be show-off. This is important to understand the mentality of the person that flies you. It's very important because today people, normally they like who can show off. Yahu.
+
+I give you good example about this. The youngsters, they know. They see this famous singer. Big stage, lights, music system, the best guitarists, the best musicians, the best voices. And you know, one stadium full of hundred thousand of people. And all are very excited with this show. I have one question. After this show, what you've got? What you've got, huh? What you've got? Light, music, enjoyment. After that, in the morning, what you have? Headache. Nothing. Nothing. What we want we are not looking for this fake shining or fake voices or fake noises. It's all fake.
+
+We know this now we've become old, So we know in our days the singers, they were singing live. But today all playback. Even the music that they are doing, it's fake. There is no voice. Nothing. It is important to know. The show off, it doesn't give you so many things. When Sayyidina Khidr, he went to get ma-ul hayat (water of life), there was so many cups. Most of them either gold, jewelry, or other metals, precious metals. Only one was from earth. And he looked and he got the earth one from mud. The secret is there. It's not the secret by shining. Maybe I can be very shining but there is no secret of me.
+
+The secret is with him, with Mawlana Sheikh. The secret is for him, for Mawlana Sheikh. I am, we are here for serving. We are here to show a way. We are here to make you see clear. As the desert, either yellow or blue. There is no other color. One tree. Palm tree. And this is next to small water, not big water. That's why we are here just to make it clearer. We are here just to make it easier to digest, easier to understand. This is how Mawlana is teaching.
+
+He doesn't teach you to you tell you something extreme that you will walk in the air or you will make such a karamah or such a miracle. Mawlana Sheikh never tell you to walk on the water. And nobody says that Mawlana Sheikh, was walking on water, so we are following him. Or we see him flying, that's why we are following him. Mawlana Sheikh, he gave the purest knowledge that RasulAllah, he was using. RasulAllah even because he was prophet, he was rarely using his mujiza (miracle). Rarely. It was not like every day, every moment. "See, I'm RasulAllah". No. No need. He is himself a miracle. Mawlana Sheikh himself is miracle.
+
+This is important to understand. Not the miracle that he walked on water, Not the miracle he flies. Even the fly can fly, disturbing me by flying. It's not big deal. Big deal to be normal human and you attract people on you by your normal behaviour. And Allah Almighty, He is giving this magnet in you to collect all these people. This is how Mawlana Sheikh, he's working. Mawlana Sheikh never goes to show off with music concert to say "Yes, this me". No. Never. Never ever. This is Mawlana Sheikh, this is how Mawlana Sheikh he's behaving. This is Mawlana Sheikh how he is. This is Mawlana Sheikh, he was. He was and he's still on. Alhamdulillah. That's why I'm saying it is our duty to be visiting Mawlana Sheikh even once a year twice a year, once in life. Whenever, even every day, also it's ok. This is open house. When Mawlana Sheikh, he was existing as physically, then he was making the permission for visiting him tight because he didn't want people to see him in his position. He wanted the people to have him as he was, strong.
+
+He was not happy with older age, Mawlana Sheikh. Why he was not happy? This also I must explain. Because he wanted to give more service. But his body, it doesn't serve him anymore. This is how Mawlana Sheikh, he wanted. And when he sees his body doesn't cooperate with him, he was not happy. This is the only thing making him not happy. Otherwise, he never objected about Allah Almighty giving him this age or giving him this statute of his stationary life. This is how we have to understand. When we understand Mawlana Sheikh, we understand so many things. And we understand how to regulate our life. Because now it's time to understand how to regulate our life. And we are here as duty. We will never be here because we want it. We never want to be in this position. We are all the time seeing Mawlana Sheikh as living for eternity. Alhamdulillah he is living for eternity now. That's why, we are doing this as a duty.
+
+We don't have any benefit of it. We don't like to have any benefit out of it. And we don't like to make people think that we have benefit from it. We are only here as he was he was benefiting for Allah Almighty, for his servants to be with Allah Almighty. This is the only benefit that Mawlana Sheikh, he was working for. Alhamdulillah. And I think we make this one clear for us and inshaAllah it will be clear for our mureeds around the world to not make other thinking in their head, in their mind.
+
+I am sorry to speak like this but I think should be somebody warning and I think should be somebody give reminding, keep reminding. Keep reminding. I need also to remember. I need also to be awar because the ego, it's not sleeping. We are sleeping. The ego never sleeps. The ego doesn't look at you, if you are... Don't think that ego only asking you to not pray or to not fast. This is, the ego doesn't care about this. This small things for ego. If you pray or don't pray, for ego it's nothing.
+
+Every ego has this mega thinking. They say mega thinking. It is when somebody starts to make money, first you think "Yeah, today maybe I can make 10 pounds." But the second day, he starts to think "10 pounds is so little. Maybe we make 100 pounds." After a while "Yeah, if I do like this, may I will be a millionaire". Then after he says billionaire. This is how the ego's thinking. The ego never thinks small. For ego, the praying or this kind of duty, it is out of interest. It's out of interest. Believe me, it's out of interest. The ego has other things to think. May Allah make us safe from shaitan, make us safe from our ego, and make us having the good result that Allah Almighty, He is waiting from His servant to get this good result and make us with baraka of Mawlana Sheikh to have this good result.
+
+Wa min Allahi tawfeeq. Bi hurmat-il Habib. Bi hurmat-il Fatiha.
+
+Subhanim Allah Sultanim Allah Nabim Muhammad alaihi salam Subhanim Allah Sultanim Allah. Nabim Muhammad alaihi salam Subhanim Allah Sultanim Allah Nabim Muhammad alaihi salam
+
+Wa salli ya Rabbi wa sallim 'ala jami al-anbiyai wa-l mursalina wa 'ala kulli ajmain w-alhamdulillahi Rabb-il alameen. Al-Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=12150&name=2014-­‐08-­‐ 09_en_VisitMawlana_SB.mp4

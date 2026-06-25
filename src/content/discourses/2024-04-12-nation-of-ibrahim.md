@@ -1,0 +1,44 @@
+---
+date: 2024-04-12
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2024-04-12-nation-of-ibrahim.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2024-04-12-nation-of-ibrahim
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Nation of Ibrāhīm (as)
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+Shukr to AllāhNone, we are the Nation of Ibrāhīm, we are Ummati Muḥammad. Many nations coexisted within the Ottoman Empire, because of this. There were seventy-two nations. As the Ottomans are Muslim, there is no nationalism. Islām doesn't want that, because Islām is unity. It orders us to be united and not separated. Therefore, the Ottomans used to always say, "We are from the nation of Ibrāhīm ‘alayhi s-salām, we are all Ummati Muḥammad." We don't need anything apart from this. The religion of Ibrāhīm ‘alayhi s-salām is Ḥanīf, monotheism. The fathers and grandfathers of our Holy ProphetNone were from this religion. People in that area changed religion afterwards. They started worshipping idols. For this reason, when Sayyidunā Ibrāhīm ‘alayhi s-salām appointed Sayyidunā Ismā‘īl to Makkah, he made du‘ā’: "O AllāhNone, may this area be a safe place, a safe city. Protect me and my children from worshipping idols." "Wa-jnubnī wa-baniyya an na‘buda l-aṣnām" (14:35).
+
+It is the same for all of Ummati Muḥammad. Since the time of Ibrāhīm ‘alayhi s-salām until the time of our Holy ProphetNone, it has been wrong to worship idols. And will be so until Qiyāmah, because idols bring no benefit. There are idols now, both apparent and hidden. Not worshipping the apparent ones is more important. Showing them respect and treating them as superior doesn't bring people benefit. It brings them harm. Therefore, this matter of worshipping idols will continue until Qiyāmah. We were in India years ago. We were passing by a street. People were sculpting the stones. Banging sounds were coming. "What is this?" They were making idols and statues to worship them. People just get astonished at that thing. It means that it is something that goes until Qiyāmah.
+
+Therefore, may AllāhNone protect us. It is also not good to put statues in the home. It takes away barakah. Angels don't enter that house. Where angels don't enter, shayṭān and jinn come. Therefore, we must be careful. People complain a lot about it. May AllāhNone protect us. Our Holy ProphetNone says, as we read in the khuṭbah, "Bughghiḍat ilayya l-aṣnām." "I was made to hate idols," says our Holy Prophet ṣallá Llāhu ‘alayhi wa-sallam. Even when going to Damascus... The monk, Buḥayrá, knew the signs of our Holy ProphetNone, when heNone was there. He checked all of them. The two biggest idols of the Qurayshī people were called al-Lāt and al-‘Uzzá. Buḥayrá swore by them. They used to swear by them. HeNone said, "They are what INone hate the most." Buḥayrá realized then, may AllāhNone be pleased with him, that our Holy ProphetNone was the promised Prophet. It was shown by that means. Because heNone hated those idols and statues, he understood that sign then. May AllāhNone protect people. Many people do, with and without knowing. Because clever people don't resort to these things at all. People without understanding thinking it is alright. They put them here and there in their homes. Those are completely useless things. They are harmful things, not just useless. We must stay away from them. May AllāhNone protect us.
+
+Al-ḥamdu liLlāh, we are from Muslim, from nation of Ibrāhīm ‘alayhi s-salām, Ummat Sayyidunā Muḥammad, ṣallá Llāhu ‘alayhi wa-sallam. This what, they teaching in school in Ottoman time, until when Ottoman finish. They was – in school whole, beginning, of course, primary school: "What are you?" "I am from nation of Ibrāhīm ‘alayhi s-salām, from Ummat Sayyidunā Muḥammad, ṣallá Llāhu ‘alayhi wa-sallam." No Kurdish, no Turkish, no Arab, no ‘Ajam, no Iran, no Indonesia, no Pakistan, no India. All they was saying, this: "We are from Nation of Ibrāhīm ‘alayhi s-salām." He is grandfather of prophets. Because in Islām, nations, nationality... nationalism it is forbidden, cursing.
+
+Prophet ṣallá Llāhu ‘alayhi wa-sallam say, because this make divide. And of course after Ottoman, they make this for everywhere, to divide as much as they can divide. Because when become smaller, smaller, it is more easy for them to finish them, to control them, to make... to make them enemy for each other. No need for to make any... If they together, they will be enemy for them. So for this, they divide Ottoman. And they finish this teaching of unity which Allāh ‘Azza wa-Jalla order for people to be united under one flag, the flag of Islām. And they are divided and they make them as toy. They can make anything with them – in their country, in their religion, in their politics. Everything, they are controlling. And they are – easy for them to do this.
+
+For this, we are... Teaching of Ibrāhīm ‘alayhi s-salām was coming until Prophet ṣallá Llāhu ‘alayhi wa-sallam. His ancestor. Many people they was saying religion of, Dīnu l-Ḥanīf, religion Ḥanīf of, religion of Ibrāhīm ‘alayhi s-salām. Many of them they know this, but they not following. They hearing, not following. And what – they are not saying anything. But when somebody come and to take all this lie from them, they was angry with Prophet ṣallá Llāhu ‘alayhi wa-sallam. And what heNone teaching? HeNone teaching to, as Ibrāhīm ‘alayhi s-salām, don't worship idols. Idols not giving any benefit. Giving harm. Not giving benefit. Who has mind, he not follow or worship idols. Everywhere in world, after Ottoman, they make idol for everybody. There is many people they are knowing or without, knowledge or without knowledge, they make respecting, going in front of idol and say, speaking to them. Some, they say, "We are not following." No, they are worshipping, most of them. But there is no benefit. No any benefit, only harm coming from them.
+
+Prophet ṣallá Llāhu ‘alayhi wa-sallam was, when heNone young and heNone was also not like idols. In ḥadīth heNone said, "INone was, INone hate idols. Idol become not good. INone not happy at all with idols." And when Prophet ṣallá Llāhu ‘alayhi wa-sallam was going through journey for Damascus, when he was fourteen, with his uncle, this, there was Rāhib Buḥayrá, he was knowing, waiting for Prophet ṣallá Llāhu ‘alayhi wa-sallam. Because old time people they was, subḥāna Llāh, they have knowledge. They know, AllāhNone give them this knowledge. Nobody know, they have this knowledge. They was waiting, he was waiting, because he know ProphetNone heNone will be coming through this way and he meet himNone. So was looking for everything. Any sign in Prophet ṣallá Llāhu ‘alayhi wa-sallam, behind there are some, and his face, or anything. And at the end, he was trying to know more. Saying, "Wa-lāt wa-l-‘uzzá," meaning, this oath for, Lāt, ‘Uzzá, it was the biggest idol for Quraysh in Makkah. The Quraysh people they was old time making oath for this two idols because the biggest.
+
+And Prophet ṣallá Llāhu ‘alayhi wa-sallam was angry with him. HeNone said, "Why you said this? INone never like them. INone hate them. Most hate thing for meNone, this idols." So this rāhib (monk), he was knowing. And he was happy with ProphetNone, and tell his uncle, "Don't go to Damascus. Just quickly come back from there."
+
+And for this, we have also some people they idol. What is idol? It is, you know, it is making with stone, or from any shape, coming from man or animal or anything. This is idol. But if from tree or other thing, this not idol. Only like this, what shape of human or for this. We, Prophet ṣallá Llāhu ‘alayhi wa-sallam was not happy. HeNone said, "Don't put this in house. This make angel to go away." When angel going away, other thing coming inside. Angel unseen, and jinn and shayṭān also unseen. They coming inside this people. AllāhNone give people good understanding, because they are thinking something not important, but it is. We must remember them, in shā’a Llāh. It is very important this. AllāhNone keep us safe from seen idol, and unseen idol also. There is many. AllāhNone keep us safe. AllāhNone give good understanding and good thinking for what we are doing. It is very important. AllāhNone help us.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.

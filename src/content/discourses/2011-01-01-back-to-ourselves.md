@@ -1,0 +1,40 @@
+---
+date: 2011-01-01
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2011-01-01-back-to-ourselves.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2011-01-01-back-to-ourselves
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: Back to Ourselves
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+I am speaking to my grandson, Hj Mehmet, that he is one of our children, grandsons, who has gotten a higher education, and who is studying law. Our way is, Tariqatuna Al Sohbah, our way is sohbah/association. Sohbah..Madad ya Sultanul Awliya, it awakens people and also creates a kinship, intimacy between them (unsiyyah). The important point is for people to have intimacy & friendship with one another. What does unsiyyah/intimacy mean? It means feeling close, friendly to one another. The opposite of unsiyyah is wildness, savagery. For example, cats don't have unsiyyah with one another. Dogs don't have unsiyyah with one another. They make to each other, "harrr, hrrrr, meowww, harrrr". They don't have unsiyyah, because they are animals. Animals don't make unsiyyah. Animals have the attribute of wildness, the wildness attribute.
+
+Unsiyyah is for mankind. Men make peace with one another, meet, talk with each other, love each other. Animals don't have this. Animals' nature is wildness towards one another. Now, in the people of this time, the people of 21rst century animalistic, wildness attribute is seen. They don't have unsiyyah, meaning no one likes one another, no one loves one another or takes any other person as his equal and acts wildly towards them. They don't accept the fact that every person has the right to live and is worthy of respect, being honored.. Man only wants himself to be respected, himself to be regarded as important, and only himself to be served. Then this man is jabbar. When we say jabbar, we mean those creatures who reject unsiyyah and are dressed with the wildness attribute.
+
+Therefore the people of 21rst century, no two people like each other. Even if they are siblings, don't like each other. Wife doesn't like her husband. Husband doesn't make unsiyyah with his wife. Siblings don't make unsiyyah with each other. The attribute of wildness is in the home. This, the family members in a family losing their unsiyyah towards each other, makes them fall into the attribute of wildness. They all become wild to each other. Woman is wild towards her man. Man treats the woman in a wild way. Parents behave wildly towards their children, not humanely. Children behave wildly towards each other. They don't have unsiyyah. The fasad/corruption of dunya is because of this.
+
+Sohbah makes people come closer to each other, appreciate each other, makes them respect each other and value each other as they deserve. Without this humanity..They have filled everywhere with iron tools & instruments but they have lost their humanity. They lost their humanity. They become wild. They had technology, then? Then they become wild. What whole world is struggling for, like a person who fell into the ocean, they are trying to escape from this mood. To save from this mood, Allah Almighty threw down a rope from the Heavens - "hold on to it & I may take you out of these oceans of misery". They say "No, we don't want a thing from Heavens. We do on our own". And on their own, they are sinking. Oceans are swallowing them. What oceans? Oceans of pain & misery, swallowing the people. There is no one at ease. They struggle for a while, then disappear. Struggles for a while, can't save himself, doesn't accept the hand offered to him either & he sinks, disappears.
+
+Now, the people of this 21. century are the ones who fell into this ocean. What ocean is it? It is the ocean of pain & misery. One who fell into an ocean can't save himself without outside intervention. Therefore the salvation of people is only from He Who created them; "it is only with what I send, because dunya is an ocean of pain & misery. If you hold on to the unbreakable rope I send, I will take you out with it". They say, "We don't want what coming from Heavens, we can handle ourselves". They are handling themselves, they are finishing. All of them are finishing; with cannons, rifles, atoms, with nuclear bombs they are finishing each other.
+
+Where is the salvation? Is the technology saving humanity? Saves what? It is finishing them, melting them, sweeping them, humiliating them. And it makes them deny their being & leaves them on their own. They may disappear, drown,new ones come. "Look to the Heavens!" "No, we don't look". If you don't look, you will suffer then. Are they saved celebrating the new year? Is the new year saving people? The new year celebrations, christmas parties.. Parties, festives can't save people. Entertainment can't save the people. Here, last night whole world was up. Are the world & the people saved? Did their pains & sorrows go away? Or are they back to the same mood? They are back to it again, - they fell into the ocean of pain & sufferings again. They made it a custom, every year a night of entertainment. Ok! You had fun for 1 hour, for example or for 2 hours, or for 1 night. The next day, can you continue in that fun? They take you from there again and throw you in the ocean of pain. After they throw you in the ocean of misery, wait to be saved. Because an hour, or a night of entertainment does not take away the pain & sufferings of the whole year. Again they throw you, again you are in the ocean of misery today.
+
+Mankind doesn't think. He forgot his humanity, can't think. He got drunk. What is making him drunk? The plague called technology. If all technology vanished, man would be happy & at ease on earth. What takes away, disturbs man's ease is technology. Mankind cannot find comfort unless they take away this technology. You should throw away the technology & return to your origin. Our origin is earth/soil. You will make peace with the earth, they call nature, you should make peace with the nature & find comfort. Otherwise, when man is in the technology he can't be at ease. How much a man can be at ease when he is inside a plane? A man whose whole life is spent in a plane, can he say "I am at ease?" No. When that man gets out of the plane he is at ease. Get out, leave the technology, return to your nature, return to your origin. Make peace with nature, then you can be at ease. There are no illnesses, no troubles, nor are there anything to crush them. All at ease - everybody knows his limit. He works according to his limit & says "I am at ease thanks to Allah". Do these ones say Shukur? No, they don't. They don't. A person who is in pain & suffering doesn't say "shukur".
+
+This has become a short sohbat for people, for all people. We have to return to ourselves, return to our nature. Allah Almighty would have taught to Prophet Adam (as), the first man. Meaning, He (swt) would have said that he may live with today's technology. But because technology is not good for man, He (swt) left it so he would be at peace with nature. Who fights with nature can't be at ease. Made up, false things- made up food, made up clothes, made up things, made up ideas made people corrupted, miserable. He Who created us would have informed Adam (as) when He(swt) created him "Act this way". He (swt) would have said "Do this way, use technology".No, He (swt) didn't show him the technology but told him to make peace with nature. When you are at peace with nature, you take your provision, your health and you also save your honour. If not your children will fight one another and will not have any peace or comfort.
+
+May Allah forgive us, Fatiha.

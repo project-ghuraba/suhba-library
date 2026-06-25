@@ -1,0 +1,48 @@
+---
+date: 2017-05-13
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2017-05-13-know-your-enemy.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2017-05-13-know-your-enemy
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Know Your Enemy
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh Allāh Hū Allāh Hū Allāh Hū Allāh
+
+Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām. Allāhumma ṣalli wa sallim ‘alá nabiyyinā Muḥammad ‘alayhi s-salām, ṣalātan tadūmu wa tuhdá ’ilayh, māmarra l-layāli wa ṭūla d-dawām.
+
+This is German dervish manifestation. We are believe that Mawlānā Shaykh still existing. And we are believe his spirit still inside us. And we are believe that he keep feeding us with his spirituality. Yes. This is they call it belief. If you don't believe, you are nothing. If you are believe you are something. This very important - plus or minus, this is no between. I believe in something and I don't believe in something else. I believe there is a power ruling the world but I don't believe it is Allāh. I believe it is something been going on but I don't believe that somebody doing something. I don't believe it is like This, I believe...this is not a believe. This is only dreaming and preventing yourself from believing. Because the duty of shayṭān to put a nice dream in front of you.
+
+You cannot imagine how nice dream shayṭān will do for you. I say how you know this, how you know this he? Eh, everybody is watching movies and they call it movies. And which one is the most famous one after Bollywood it's Hollywood. This is holly this is bolly. Doesn't matter. But they say the cinema it was once upon a time not big issue in the people life. Today everything is becoming as a cinema for the people life. I say did you see this movie? Oh no I didn't see. Did you see that movie? No I see. Did you go for that movie? Yeah I go. How you? This bad, this... this is like saying this is holy things. This they say they call it Hollywood. It is holy things for people to see and to memorise. If you say to somebody memorise 'Qul huwa Allāhu aḥad' (112:1) - Oh it is very difficult. it's, I cannot - what to know? Tell him memorise that song what drlrlrlrlrrlrlr..... Yahū why this one? Because this is shayṭān work.
+
+Eh shayṭān make it so nice to you. Make it so look wonderful to you. And you will see there the best shot. For example you look for the tree. In your ordinary eyes it will be a normal tree but when you look it with this camera of the cinema and then will give it to you say waaa, this is the same tree that I was looking? How they make it beautiful? How they make it bright? How they make it more colorful? How they make it more shiny? How they make it to be more attractive? How they make it to you that you go without questioning? They don't put any reason for you to question. This is very important to understand such a details. This is details but they are working in details. We are little bit stupid. No no we are very stupid. No no no we extremely stupid. You say why Allāh Almighty HeNone is the main creator for everything? This people only they are picturing. That's mean Allāh Almighty HeNone create everything and shayṭān only he is picturing. He taking pictures, he taking movies of what Allāh Almighty HeNone create and then he tell you the picture is the right one and the reality is not right one.
+
+Don't mis-estimate shayṭān. We all of us mis-estimate shayṭān. But you have to appreciate shayṭān he is working very hard. Very very hard. He is working in every heart. When Allāh Almighty HeNone make the Adām (as) before HeNone give the soul for it, shayṭān he enter that body and he go for every corner of that body. He study it. Say what is this? What Allāh Almighty planning to do? This is order of Allāh Almighty of course. He went inside and he know us very well. He know the weak part, he know the strong part. He know how will be cheated. And he know how we will be defend ourself. They say, if you have enemy, if you have enemy, first you have to study his weak side. And then you have to study his strong side. And then you have to study his wise side. And you have to study what he like and what he hate. Then you can able to win in your enemy. This is rule. And the shayṭān also he make this rule because his enemy is Adām (as). That's why I'm saying to everybody don't think you are the friend of shayṭān. Even you are his army, even you are working for him. Even... and there is one sentence in Qur'an say: O shayṭān, we been working for you, we love you so much. And Allāh Almighty asking shayṭān are this people with you? Say, no no no I don't know them. I'm alone, I don't know them. (14:22) Very important.
+
+Allāh Almighty HeNone give all the details, He give everything. HeNone put everything for us to know what is right and what is wrong. Because as I say, we are little bit stupid, not too much. But now extremely stupid. That's why we have to be wake up with this few things. So many people say why Mawlānā Shaykh he is saying too much about shayṭān? Yahu, shayṭān he is your main enemy. He is not your friend at all. Maybe you draw some drawing making shayṭān to look nice or to look attractive or to look fancy or to look I don't know how you name it. And the people they put in their body as tattoo or they put in their wall as a picture. Or they put in their advertisement or and they are very happy to have such an ugly things of shayṭān. And this is how you see the people how they are stupid. Poor people. Poor people because as I say Allāh Almighty HeNone create the reality and He tell you, believe in reality. I say, no no no dream is much easier, nicer, more bright, more fancy. But the reality, oh my eyes doesn't see this tree very green but in the picture it is more green, more nice and more bright.
+
+You say, why you say all this? I don't know why I say this. This Mawlānā Shaykh sending. Because Mawlānā Shaykh we believe that his spirit with us and he is all the time pumping the spirituality. You have to listen, you have to listen to Mawlānā Shaykh. We are trying to listen to Mawlānā Shaykh. We cannot say we can listen hundred percent but at least if you listen ten percent of what Mawlānā Shaykh say you become saint. I'm telling you. Yes. Yes. Because Mawlānā Shaykh he say the reality, he say the true. He is leading you for Allāh Almighty way. He doesn't leave you half way. That's why try to be happy about what Allāh Almighty HeNone give you. HeNone give you Mawlānā Shaykh. HeNone give you guidance, HeNone give you a Shaykh to show you the way. Don't be sad for nothing. Try to go on with your life. Nothing it is end of the life. You know what's end of the life? When you close your life kngggg. This is end of the life. But as long as you are eating walking, drinking and sleeping and wake up, the life still going on. Try to get back. Try to get on. Try to be in your duty.
+
+We all of us have a duty to do. If I have a duty I have to finish my duty. Because Allāh Almighty HeNone is asking you about your duty. If you are asking for service to Allāh Almighty, you have to do it right. And you have to be careful about what you are doing also. This is important advice for all of us. Especially somebody like me must take this advice first. Because when you are going for your egoistic desires then the life will be miserable. Don't think this people, when they are picturing, they are happy people. No they are not. This is very important details also. They been alcoholic, they been drug addicted, doing the worst things, everything. And you see why, why this people they do this. Because there is no satisfaction in their life. Because the satisfaction is come only with imān, with the belief, the true belief. This is Allāh Almighty, when you are believe he put the satisfaction in your heart immediately.
+
+Say al-ḥamdu liLlāh, who? What do you mean? Long time, where is this coming? Ah this is important. Then your soul will be restful. Your soul will be for HimNone. And then you will be in the service of Allāh Almighty. This is very important. This is not for you or for me or for him, this is all for humanity, for everybody. Allāh Almighty is belonging to all because HeNone is the only creator. Only one, German darwīsh. No two German darwīsh, luckily only one. May Allāh forgive me and forgive us and make us to be strong believer and if we are not strong believer, at least to be a believer. If not believer at least to be accompanying for the believer. Yes very important. May Allāh forgive me and forgive us.
+
+Wa min Allāhi t-tawfīq biḥurmati l-Ḥabīb, biḥurmati l-Fātiḥah.
+
+Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām. Subḥānim Allāh. Sulṭānim Allāh. Nabīm Muḥammad ‘alayhi s-salām.
+
+Wa ṣallī yā Rabbi wa sallim ‘alá jami’i l-anbiyā’ī wal-mursalīn wa ‘alá kulli ‘ajma’ina wal-ḥamdu liLlāhi Rabbi l-‘ālamīn al-Fātiḥah.

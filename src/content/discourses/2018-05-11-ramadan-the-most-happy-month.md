@@ -1,0 +1,50 @@
+---
+date: 2018-05-11
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2018-05-11-ramadan-the-most-happy-month.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2018-05-11-ramadan-the-most-happy-month
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Ramaḍān the Most Happy Month
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr yā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa l-khayru fi l-jam‘iyyah.
+
+Shukr to AllāhNone, we are finishing the month of Sha‘bān in peace. In shā’a Llāh next Jum‘ah is Ramaḍān. In shā’a Llāh from Tuesday night we will start tarāwīḥ prayer. Wednesday is the first, we'll start fasting.
+
+Ramaḍān is the Sulṭān of months, it is holy. Allāh ‘Azza wa Jalla made this month beautiful for the ummah of Muḥammad. Rajab and Sha‘bān are also good but for the ummah of Muḥammad Allāh ‘Azza wa Jalla made Ramaḍān. Its special spirituality comforts people and gives blessings and peace. It is the month of forgiveness and cure. All kinds of beauties are in this month. All over the world – of course, Islamic countries are less than half of the world, much less than half of it – but when Muslims experience Ramaḍān from wherever they are, the blessings of that month makes them happy. And as happy they are in this world, they will be happier in ākhirah. They will reach their happiness. Because in this month AllāhNone says, "INone give it's reward for you. INone reward your fasting." If you do one goodness, it will count as ten, one hundred or one thousand. And for fasting, Allāh ‘Azza wa Jalla gives from HisNone Kindness and Generosity. No one can give as HeNone gives. Therefore, your happiness here in this month will be in ākhirah too. It is just a small amount of happiness.
+
+This month is for paying ṣadaqah and zakāh. Zakāh is given once a year. It can be given any month but to give it in Ramaḍān is more blessed and there is more thawāb. Zakāh is farḍ. The thawāb of farḍ is greater than of sunnah or nafl. Therefore, it is a tradition since old times: people give their zakāh every Ramaḍān. It can be paid in another month too, as we said. But zakāh is zakāh. You have to keep its account and pay from year to year. And doing so from Ramaḍān to Ramaḍān is better and nicer – you give it and don't get confused. Because what is done between this Ramaḍān and next Ramaḍān is counted as a year. Because zakāh is not paid according to a daily count. It is given with its niṣāb from year to year. People shouldn't confuse that. When a year passes, you should calculate it in Ramaḍān. If you earned more during that year, you pay it in Ramaḍān. And you will start off clear for the next year. And the next year you pay in same way. You will have no remaining debt.
+
+Because zakāh is the provision appointed by AllāhNone for the poor, others can't use it. Who gives zakāh cannot say, "I am paying zakāh, it is mine." Zakāh leaves you. It doesn't belong to you. If you give it and then take it part back, you will be committing a sin. You will be stealing, as if you take from someone else's goods. May AllāhNone give abundance of the heart.
+
+Our ProphetNone says, as we recited in the khuṭbah, a man can have many things, this does not make him rich. Even if the world belongs to this man, the nature of man is like a beggar. His eyes ask for more, but he doesn't give a penny. The real richness is the richness of the soul, says our ProphetNone. It shouldn't be in the eyes of a man. The rich one is the person who doesn't have five pence and is full. But who has billions and asks for more, by following his ego and not letting his money go, is poor. May AllāhNone not make us from them, in shā’a Llāh.
+
+And there is fasting and tarāwīḥ prayers. The more goodness you do in Ramaḍān, the better for you. And there is fiṭr to be paid per person. Muftīs appoint its amount every year because they make its calculation. Probably, it's 15-20 TL per person. That is for an ordinary person. Some people are poor, it is calculated less for them. That should be paid for every member of the family. That used to be the main zakāh. And when zakāh came, fiṭr became Ṣadaqatu l-Fiṭr – paid during whole Ramaḍān. Fifteen liras, twenty liras, how much you pay, you have to do it before ‘Īd. If you don't pay, you'll miss its benefit. Ṣadaqah keeps troubles, accidents and illnesses away. It destroys them. If you don't pay those five pence, may AllāhNone help, what may happen that year and you'll pay much more.
+
+In shā’a Llāh, we are reaching this holy month. May we will reach many years. May we reach it next year with the honor of Islām, in shā’a Llāh. This year again everywhere in the world they are targeting Islām. They are attacking Islām. And Muslims are not begging AllāhNone to send a savior. They should ask for him. Otherwise, we cannot do anything in such condition. Promised and sent by AllāhNone, promised to our ProphetNone are the saviours Mahdī ‘alayhi s-salām and ‘Īsá ‘alayhi s-salām. When they come, all this oppression will stop, in shā’a Llāh. The world will reach justice and peace. In shā’a Llāh, it is near because oppression is at its peak. May AllāhNone help us, in shā’a Llāh.
+
+Al-ḥamdu liLlāh we nearly finish Sha‘bān month. It is maybe next Wednesday, in shā’a Llāh, first of Ramaḍān. Next Friday will be, in shā’a Llāh, first Friday of Ramaḍān. Ramaḍān it is very blessed month. AllāhNone He said three months – holy months: one for first Rajab for Allāh ‘Azza wa Jalla, second for ProphetNone, and third for ummah. And of course we are weak and HeNone make this Ramaḍān month to be happy, the most happiest month between whole other months. It is giving good feeling for each people who are recognise and fast and pray. Where you have been in whole the world it is special month. Even where is place they are no, not Muslim country, also who are following this and practicing fasting and praying tarāwīḥ and other ṣalawāt, you feel very special. Because this month AllāhNone He happy with His servant because they are following, making fasting. Fasting it is difficult.
+
+Even ego, your ego when you fasting you can control more easier. And Allāh ‘Azza wa Jalla make, when create ego, asking, "Who are you?" He said, "I'm I'm. You You," for AllāhNone and AllāhNone send him to make ‘adhdhabuh tortured. But he say after asking again, say again, "You You and me me." After make to fast. After fast it was asking, "Who are you?" He said, "I'm ego and You are my Lord." So to be fasting it is making your ego to be come down. For this AllāhNone love this when people fasting. HeNone reward them by His countless reward. Because reward if you do something good from to ten times, maybe hundred times, maybe thousand times. But for fasting HeNone said, "INone am only know what INone will give for Our servant."
+
+So this holy month we are fasting whole month, AllāhNone He happy with us and HeNone reward us. And in daytime we are fasting, nighttime also praying, tarāwīḥ, praying other nāfilah, every praying so AllāhNone reward us. But people they are saying shayṭān also not in this. Al-ḥamdu liLlāh Ramaḍān he is not very strong because AllāhNone send him to chain him, but also still doing something with this people. They said, "No need for tarāwīḥ. It is not sunnah from ProphetNone and not obligatory. No you don't pray. Go enjoy yourself." How is this month, for whole month, you worshipping and people becoming more happy, more blessed, and they feel full of good feeling in this month because they are happy they are obeying. After this month it's finish. You feel completely, suddenly you – it is like empty.
+
+So, al-ḥamdu liLlāh, we are for this month also from old time the tradition to give zakāt in Ramaḍān. You can give other time also. Whole year you can give zakāt but the people they was counting from Ramaḍān to Ramaḍān – one year. Because you cannot give zakāt for each day or each month. No. Just from Ramaḍān to Ramaḍān you count how you have more money, you give zakāt for this. So for this it is also month of zakāt also and for giving Zakātu l-Fiṭr for each person. We must give for whole in family. It was before zakāt, before normal zakāt, but when zakāt coming, this becoming Ṣadaqatu l-Fiṭr. And for each person, how much people, rich people they can give more. Poor people they must also give. They don't say, "We don't have money." Because this ṣadaqah, ṣadaqah taking bad thing away from us – illness, stress, accident. Everything it is with ṣadaqah can be go away. So don't say, "I'm poor. I cannot do." Because if you not do this AllāhNone know what HeNone... Maybe you pay thousand time more than this.
+
+So we are, in shā’a Llāh, reaching this month and we hope to be next year with better condition for Muslims, with real successor of ProphetNone – Sayyidinā Mahdī ‘alayhi s-salām. What heNone was saying about him, because now time real very bad and whole world they are fighting each other and they are especially fighting against Muslims. And they put some kind of people in Islām they say, "We are real Muslim," and they are worse than enemy. They are the worst enemy for Islām this people. In shā’a Llāh, all this when Mahdī ‘alayhi s-salām coming, it will be finish and clean all the world with justice and happiness, in shā’a Llāh. AllāhNone make us to reach these days, in shā’a Llāh.
+
+Wa min Allāhi t-tawfīq, al-Fātiḥah.

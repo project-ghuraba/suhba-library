@@ -1,0 +1,42 @@
+---
+date: 1900-01-01
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/1900-01-01-the-naqshbandi-tariqa.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 1900-01-01-the-naqshbandi-tariqa
+source: saltanat.org
+speaker:
+- Shaykh Nāzim al-Ḥaqqānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
+status: published
+title: The Naqshbandi Tariqa
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+They end up with forgetfulness. In the end the scholar forgets and knows nothing. When the heart is with Allāh, he won't forget anything. That's why Allāh Almighty punishes the scholars with forgetfulness. Gradually he forgets and doesn't know. He doesn't know anything. Mawlana, Sulṭānu l-Awliyā’, our shaykh although he was more than 100 years old, he was sitting from morning until evening, from evening till morning he could continue a subject without repeating. He told it in detail, he decorated it with his points and description and wisdom. There is no limit because he speaks from the heart. If you say from the tongue, you forget.
+
+A scholar came and said: "I came to take bay‘ah with you". He said "Ok". "What are your conditions?" "In order to take bay‘ah, I have one condition." "What is it?" asked the scholar. "Now you go to a barber shop, you shave your hair and beard. Then you take one bag of walnuts." In the past there were forts surrounding the cities. Outside the forts, there were fields. Children used to play, run, gather in the field. "You go there, where the children play. You put that bag of walnuts next to you. Then you bare your head, children will look at you. Say 'Hey children come here. Whoever slaps my head once, gets one walnut, two slaps two walnuts, three slaps three walnuts' " he told that scholar. "What is this? How is it possible to do such a thing against shari‘ah? What is this? I want ṭarīqa. How can you say this? How can there be such a tariqa?" "This is my condition for people, who come into tariqa. If you accept, welcome. If not, I can't give bay‘ah or tariqa. Go!" Now there is Sulṭānu l-‘Arifin - he is loaded with wisdom. He says that now.
+
+Some actions of the Murshid are for testing. He isn't going to order really, he is just testing his surrendering. If he says "Go out of the room, and throw yourself down". If he attempts to go up there he will say "Stop". If he keeps his order, he stops him so he can't throw himself down. Or if he throws himself, the Murshid will make him go down like a feather. There are no boundaries for them. Therefore Bāyazid al-Bisṭāmi Hz. checked out that scholar. It is a test. If he said "As you wish my Master" it would be ok, but he tried to act like a shaykh to Bāyazid al-Bisṭāmi. If you are coming to surrender to a shaykh, you should know that he knows better than you. Our Shaykh said: "The murīd has to accept that his shaykh is 70 degrees ahead of him in all respects. He has to believe that "if I know one, my shaykh knows 70 times more". If not he can't receive any benefit. He makes no headway. If he doesn't surrender, it is useless. It means it is useless.
+
+Therefore, Ṭariqatu n-Naqshbandiyatul l-‘Āliya addresses the intellectual class especially. This is why the president becomes Naqshbandi, the Prime Minister becomes Naqshbandi, the Sultan becomes Naqshbandi, the King becomes Naqshbandi, the judge becomes Naqshbandi, chief Justice and Judge of the army become Naqshbandi, Shaykhu l-Islām becomes a Naqshbandi. You can't find them in other ṭarīqats. According to their degrees, they belong to the Naqshbandi way. The Naqshbandi ṭarīqa is authorised to prepare the upper class for the divine presence. Now these useless people talk nonsense about the Naqshbandi. Actually the other ṭarīqats are ended now. Other ṭarīqas are truly stopped. They can't come together with any of them; neither the governments, nor the top people can come together with them. Only the Naqshbandi come together with them. Because now it is the way going with truth. The others are extinct, their ways became unseen because there are no qualified Mashāyikhs.
+
+Among the Naqshbandis, the main way is continuing. The offshoots have all stopped. The side ways, the ones that went out of the Golden Chain have all stopped. Salih Effendi's way also stopped. Iskander Pasha Imam Effendi's, Mehmed Kotku Effendi's ways are also stopped. Shaykh Mahmud's, Mahmud Effendi's stopped. Adıyaman stopped. All the side ways, they all ended. Now the people holding them, give lessons, give tawba. Muhammad Rashid Effendi Hz. in Adıyaman is giving tawba to everyone. He is authorised to give tawba to those, who come. The state of Tarīqa is a very advanced issue. Ordinary people have to go a long way, to enter the Ṭarīqatu n-Naqshbandiyya. Now he is authorised to give tawba [raise people to the station of repentence] He performs a service to give tawba and raise people from an-nafsu l-’ammārah (evil inclining ego) to an-nafsu l-lawwāmah (self-reproaching ego).
+
+Real authorisation of the Ṭariqatu n-Naqshbandiya Golden Chain, Silsilatu dh-dhahabī belong to our Grandshaykh, through the way in Sham. I don't know any centers in the East or the West, that can put you in the Naqshbandi way. The other ones in Sham also ended. The ones in Aleppo, Baghdad also stopped. The ones in Egypt, in India stopped. The ones in Hijaz, Sudan stopped. I'm looking from East to West. They all stopped. There is one way, from the center in Sham. We can see it. No other. The other 40 ṭariqāt - Mevlevi ṭarīqa is famous in Turkey. Mevlevi Ṭarīqa is just an outward appearance. Saying: "people should watch. Once upon a time this ṭarīqa was like this." If its reality appears, when those dervishes whirl, they would whirl up like butterflies. No need to step on the ground. Because the real Mashāyikhs, the real Mevlevi Mashāyikhs, when they were whirling, if they didn't go up they couldn't be shaykhs. Real shaykhs must whirl in the air during whirling. They didn't whirl on the ground. They rose from the ground at least one hand span, when their shaykh was whirling. Not to scare people, he was whirling up.
+
+Like we said the other ṭarīqas can't carry the burden of this time. Their shaykhs, they give people, make them read from Awrad Sharīfa. according to: Man tashabbaha bi qawmin fahuwa minhum. (whoever imitates a group of people, is from them - hadith) They get honor by trying to imitate them. Until the Owner of Time (Mahdi (as)) appears. When the Owner of Time appears, just as the 4 madhabs (law schools) will join and follow him in sharia‘h externally, the 41 ṭarīqas will all join and the Naqshbandi ṭarīqa will lead them. Mahdi (as), the Owner of Time is Naqshbandi. His 7 great viziers are Naqshbandis. His 40 deputies are Naqshbandis. 99 Rijāli l-Malakūti are Naqshbandis. The awliyā, who are guided by 313 prophet messengers are Naqshbandis. All the awliyā, who have high stations, they are all Naqshbandis. The whole world will be Naqshbandi when the Owner of Time appears. That excellence will be given to them. Allāh Almighty will grant it. Isā (‘alaihi s-salām) is on the way of the Naqshbandi.
+
+That's why everybody is now talking about the Naqshbandis. Of course. The ones, who are hiding themselves now, if they stay alive, they'll say: "we came to meet that shaykh once. We were also following him." Now they are hiding, "don't tell about me. They shouldn't know I'm a Naqshbandi murīd. " But the blessing they'll get at that time is less. If you can bravely say "I'm a Naqshbandi" now, the blessing you get is different. Now there is blessing, reward, power of 70 prophets. Afterwards you'll be given from what is given to the general public. Briefly - 40 of the 41 of those ṭarīqas are preparing the ordinary people. And the 41st, the Naqshbandi, is the ṭarīqa, which serves to train and educate the egos of the elite, educated people, and scholars. May Allāh reveal the ones, who know and appreciate this way so that we understand and try to keep this way.
+
+Biḥurmati l-Ḥabīb, biḥurmati l-Fātiḥa.
+
+http://saltanat.org/videopage.php?id=15632&name=0000-00- 00_tr_NaksibendiTarikati_SN_a.mp4

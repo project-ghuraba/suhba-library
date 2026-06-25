@@ -1,0 +1,66 @@
+---
+date: 2014-07-02
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2014-07-02-naqshbandi-tariqa.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2014-07-02-naqshbandi-tariqa
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Naqshbandi Tariqa
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Sheikh Mehmed Adil al-Haqqani sobhat of the 2nd of July, 2014.
+
+As-salamu alaikum wa rahmatullahi wa barakatuh. Audhu biLlahi min ash-shaytani r-rajim. Bismillahi r-Rahmani r-Rahim. Madad ya RasulAllah, madad ya Sadati As'habi RasulAllah, madad ya Masha’ikhina, madad ya Sheikh Abdullah Fa’iz Daghestani, madad ya Muhammad Nazim al-Haqqani, dastur. Tariqatuna as-sohbah wa l-khayru fi jam'iyya.
+
+May the blessings of Ramadan be upon us inshaAllah. As we said, Ramadan is a month of beauty. It is a month of peace, blessings, blessings and faith for Muslims. A Muslim should know what Allah orders. Muslims are mostly naive. Like our Prophet said, most of the people of paradise are naive. He says "Aktharu ahl-ul jannat bulh". "Bulh" meaning naive, almost stupid, easily deceived. Who can be deceived? The man who has no owner. The man who's not attached to anywhere. As soon as he hears something from someone, he says this man is speaking right.
+
+Here they make assemblies of dhikr. Ladies recite tawhid. Hundreds of thousands of scholars have said it's nothing to recite tawhid in jamaat. One man, an imitation scholar came on television and said it's not acceptable. He stopped the assembly. He stopped the assembly from reciting tawhid. So without knowing, they believe one man and don't listen to so many scholars. That time the man perished because he prevented so many people getting reward. And he commits a sin by stopping the assembly of tawhid without understanding and without asking about it. Why is that? Because he's not from tariqa. People of tariqa, support from our Prophet comes to them. They receive guidance from him. When they receive that guidance, they don't do bad or wrong with the permission of Allah.
+
+There are thousands of hadith, more than a hundred ayats which say - remember Allah. But they leave everything and listen to one ignorant man, a bad scholar who will enter hell twice. He prevents so many people from doing good. Shukr to Allah, we took from Sheikh Effendi and Masha'ikh. They gave us support. The sohbas, advice, and knowledge given by Sheikh Effendi will be enough for 100 years for all - both for dunya and akhira. He tells not to be deceived by such people. This is one kind. The second one is even worse - these people that say they'll make jihad. First of all, there is adab, proper way, conditions and methods of making jihad. You can't say you will make jihad all by yourself. You will commit a sin and remain in hell forever.
+
+Because for a Muslim... It is said in every hadith of our Prophet and in the last, the most famous Last Sermon which is the strongest of all hadith - they call it mutawatir. It is a khutba - hadith spoken in front of 124 thousand sahabas. Blood, goods, honor, everything belonging to a Muslim is a sin for other Muslims to touch. As much as to the living, there should be as much respect to the dead. We believe in this. This is the creed of ahlu s-sunnah wa l-jam'at. Those outside this are called "kharij". Kharij meaning they left. They say "rafida". These are the ones who don't accept sharia. These are crazy communities. We don't follow them. Naqshbandi Tariqa is Islamic Sharia itself, it is its core. The core itself. It's not even a tiny bit out of sharia.
+
+If jihad is to be made, it can't be done by a single man. Or it can't be by saying "I'll make jihad". There is order, government above you. You are under their orders. If they say, of course you'll make. It can't work as you wish. How will it work? As you are, Allah sends such person to be your leader. If the time comes, it will happen. But by desolating all the nation and oppressing them in order to rescue them from oppression you become 1000 times worse than the (first) oppressor.
+
+www.saltanat.org Page 1 Such is the condition of rafida and khariji people. They are out of ahl-us-sunnah wa-l jam'a. People of tariqa are never out; all of them are in ahl-us sunnah wa-l jam'a. They believe in and respect the Prophet and all sahabas/companions. Because swearing at a sahaba leads to the Prophet turning his face away on the Day of Resurrection, and this leads to Allah cursing that man. Allah curses the one who swears at sahaba. This is an advice of Ramadan, and it is very important. You will harm him a lot.
+
+A servant's right is very important. As we say: someone harming a Muslim or killing him on purpose, will fall into eternal hell. Let him boast and swear as much as he wants in this world. Wild people. It is said in Qur'an "Wa'idha l-wuhushu hushirat"(81:5) We have read this ayat many times. We read this ayat hundreds of times but we didn't understand it. May Allah increase his maqam, our father said it 3-5 months before his death. "Wuhushu hushirat", wild ones became many. We thought "wuhoosh" are wild animals. No, wild animals are like kitty cats next to wild people. Even the worst snake, as soon as it hears the voice of a man, it crawls away. It won't stay close, it won't follow after you to hunt you. There's nothing like this. But these wild ones go after men; live ones and even dead ones can't escape from them. We are never together with them. We never approve what they do.
+
+What is approval for? It's not for our egos. It is a command of Allah. If you see a bad man, change him with your hand, if you can. Of course, we can't. How to change? You should change with your tongue. If you can't at least you should dislike. You don't do it for them to relax. Let them suffer their punishment by themselves.
+
+Today we are speak about also Ramadan. It is the most nice, most peaceful month, most baraka and full of light month. Allah give us understanding for it, to be happy with Ramadan. Allah give us everything for benefit of Muslim for happiness, to be happy, but people they are cheated by wrong people. Who are these people? Because Muslim people, they are very pure, very pure, naive people. Simple, simple people. And Prophet, sallallahu alaihi wa sallam he was saying one hadith: most of Paradise people from these simple people. So Muslim people it is even coming to be like idiot. Prophet sallallahu alaihi wa sallam, most of Ahlu l-Jannah, al bulh. Bulh that meaning, it means - simple, and to be like a no-mind. So many of Muslim people, you can cheat them very easily.
+
+How have, we can keep ourself from not to be cheated, to follow 'alim, mashsha'ikh from Tariqa, because Tariqa connecting to Prophet sallallahu alaihi wa sallam. Who is not in Tariqa, they're not connecting to Prophet sallahu alaihi wa sallam, so they make by their ego, following ego, and what they understand is from what they read and most of them they not read the right book. They not accepting many of Sahaba, not accepting. Ulama, only they have what they, very few ulama and these scholars, their description, Prophet described them as bad scholars. Bad scholar, Prophet sallahu alaihi wa sallam was saying, he will be punished twice in Jahannum. Double in Hell, because one, he is knowing what he do & other one because he is not following.
+
+There was people they were reading La ilaha illa'Llah together, every time for Ramadan or for other things. Once one of them hear from television 'this is bid'a, don't do this', and when they tell these people, they all stop to do this. This is very small example from these bad people, what they can do. And this making people to not have reward from what they were doing. And there is thousands of ulama they are not saying anything, and they are telling people to do this (not do dhikr). They are not doing this. Only one idiot coming from TV, saying this, all these people they are not doing anymore dhikr. And there is thousands of hadith, hundreds of ayah, Allah said, say - La ilaha illa 'Llah; say, remember Allah. Who doing this, they have much reward from Allah but people only from one, hearing, they are believing.
+
+How to keep yourself away from this thing? To follow Tariqa. Alhamdulillah, we are following Naqshbandi Tariqa. It is the most distinguished Tariqa, (the one) most following Sharia, even, it is heart of
+
+www.saltanat.org Page 2 Sharia. No different, not at all different. What is to follow your sheikh? Your murshid tell you what to do what is right, what is wrong and they are by order of Prophet and Allah Azza wa Jalla.
+
+We are looking around and we are seeing many people they are saying we must make jihad, we must make this. First, you must, if you must make jihad, you make jihad (against) your ego. Who are making jihad, you are making jihad for your ego - you cannot do this for your ego. For Allah you can make jihad but jihad you cannot make by yourself. You take something and go to kill people? No. Hadith from the last khutbah of Prophet sallallahu alaihi wa sallam he was saying that you cannot kill your brother, Muslim brother, you cannot touch his property, you cannot touch his wife or children. You must leave exact and this is very strong hadith because Prophet sallallahu alaihi wa sallam was saying this in front of more than 100,000 Sahaba in Hajju l-Wada. So nobody can say this wrong, this is weak, this is not true. How they deny this? I don't know.
+
+So if they are (making) jihad, they must be following your, who are Muslim, Sultan/Khalifa. Now we don't have khalifa, we cannot do. Just what we can do is to keep ourself in peace with people. As-sulhu khairun (4:128) to this, but first to fight your ego. Because everywhere who is fighting now they were claiming they will take people from oppressor to freedom from these people and, they will bring better. But they were thousand times worse than this oppressor. People they ask, why, what we do, about this? We wish if nothing happened we are happy with this oppressor. Eh, how you are saying this? You are doing good, this? No.
+
+And there was ayat, wa idha l-wuhushu hushirat (81:5). I read more than thousand times this. Since childhood we are reading this. We not understanding what meaning, just we thought for Day of Judgment wild animals they will come and (be) together. Maulana Sheikh he was teaching before 4,5 months ago, he was saying "wa idha l-wuhushu hushirat", that wild wahshi/beast to come together. This he said, this is people-beast, not what we was thinking. But really, now these people, they are beast, not only in some places in world, everywhere. These beasts coming together. The wild animal it is not so dangerous like this. Even the most terrible, poison snake, also if it see you he run away. He not following to eat you. These people they are following not even alive people, dead people also, they not survive from what they done. How we can accept this? We are not accepting this.
+
+There's two - or we are Naqshbandi Tariqa, Ahl as-Sunnah wa l Jama'a, Alhamdulillah, and this is big favour from Allah. Who is out of Ahl as-Sunnah wa l-Jama'a they are most.. they are not respecting Islam, they are not respecting Prophet, they are not respecting Sahaba. They calling them many thing, they have name. Who is outside Ahl as-Sunnah wa l-Jama'a, we are not accepting them. We cannot do anything, but by tongue we are saying we are not accepting. If you cannot say by your tongue, even by your heart you must say - 'this is not good, we are not accept this, not for our ego, this is for Allah Azza wa Jalla'.
+
+Allah keep us safe from this fitna, big fitna this. Prophet sallallahu alaihi wa sallam, he was mentioning this it will happen, last days of dunya. Alhamdulillah the last days of dunya coming, insha Allah. We are believing for Mahdi alaihi salam, and other, what Maulana say. Slowly, slowly coming. It is boiling now. War, it will be what Maulana Sheikh said. And just what we will do? We keep away from fitna and don't interfere with anything. Keep your family, your Tariqa brother together. And who like advice, you can give them advice to be with Tariqa. Because insha Allah, Allah save us here and Hereafter. And most important Akhirah, here also not. We are going to Allah. Just we are changing from door-to-door. It's not important, but important thing to be, to not go, if you do something wrong to give your Muslim brother, you are forever in Hell. If you take something from them, you also be in Hell, because Allah warning you. So be very careful, very aware from doing bad things against Allah's Order, Prophet's, sallallahu alaihi wa sallam, order.
+
+wa min Allahi t-tawfiq, al Fatiha. www.saltanat.org Page 3 Video link: http://saltanat.org/videopage.php?id=11841&name=2014-07- 02_tr_NaqshbandiTariqa_SM.mp4
+
+www.saltanat.org Page 4

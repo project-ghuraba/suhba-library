@@ -1,0 +1,46 @@
+---
+date: 2018-07-31
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2018-07-31-the-prophet-teaches-how-to-eat.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2018-07-31-the-prophet-teaches-how-to-eat
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: The Prophet ﷺ Teaches How to Eat
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+A‘ūdhu biLlāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīn wa l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādāti Aṣḥābi Rasūli Llāh, madad yā Mashāyikhinā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā ṣ-ṣuḥbah wa l-khayru fi l-jam‘iyyah.
+
+Our ProphetNone is teaching us every good thing, both good behaviour and how to eat and drink. Everything about our ProphetNone and our religion is beautiful. And for our ProphetNone to teach us these things, AllāhNone sent himNone. HeNone is both teaching and showing how to do by his own actions. Nowadays hodjas talk but most of the time they don't do, they don't know. They tell people and who wants does it. But our ProphetNone wants goodness for us and is teaching everything.
+
+And at the top of it is, the most important thing for people – food. Eating is important. Because when you eat as you should, your soul is nourished too. You get strength. But when it is not like our ProphetNone says, then shayṭān eats it and it has no benefit for you. Our ProphetNone is saying, "Ijtami‘ū ‘alá ṭ-ṭa‘ām wa dhkur isma Llāh ‘alayh li-bārak lakum fihi." Gather for eating. Don't eat separately. Families used to eat together in old times. But lately even when at home, they let children to eat in their rooms. You shouldn't be eating separately. This is the advice of our ProphetNone to us, not his order. If it was his order, then it would be a sin not to do. Gather for food. Eat with all family. And when gathering, remember the name of AllāhNone. Recite Bismi Llāh. Bismi Llāhi r-Raḥmāni r-Raḥīm. Then AllāhNone will bless the food. When you eat, not only for your body... It gives strength to your body. You'll get health and well being. And more importantly, you'll get light. Light is more important. What you eat will be light for you. It will bring īmān and beauty.
+
+Once our ProphetNone had a meal with one ṣaḥābah who didn't eat – he ate but didn't recite Bismi Llāh. "All what you ate now..." Of course, our ProphetNone is seeing this. HeNone said, "You didn't eat your food, shayṭān ate it. You ate it for nothing. You just filled your stomach. It has no benefit for you." Even then our ProphetNone said, "Bismi Llāhi r-Raḥmāni r-Raḥīm awwaluhu ākhiruhu." After heNone said so, heNone said, "Shayṭān vomited everything up. It became a benefit for you now. It didn't give benefit to him. It gave benefit to you."
+
+This world is not for us to drink and eat. But when we eat and drink, it brings benefit for our faith and body. It becomes a remedy if we do like our ProphetNone says. Therefore, because people don't do this, illnesses are increasing, everything is increasing. We went to some place the other day. They put a fork to the left. They say you'll eat with your left hand. When you eat with left hand, our ProphetNone says shayṭān eats with left hand. We understand that if you're right-handed, you eat with left hand. What about the left-handed one? Same for him. So you do completely as shayṭān wants. Because a left-handed person should eat with right hand in such case. No, both they say should eat with left hand. Eat and drink with left hand so that no light comes to you at all and no benefit comes.
+
+May AllāhNone protect us. We should be careful about it. People are eating without awareness. The most important is to recite Bismi Llāh, to eat as our ProphetNone says. Don't eat and drink standing. That is... Shukr to AllāhNone science has advanced so much that these things told by our ProphetNone are proved by science. Water drunk standing has no benefit but rather harms. And when you drink sitting, it goes to the body. Same with eating. But shayṭān doesn't want anything but harm for you, says Allāh ‘Azza wa Jalla. He wants only harm for you. Who follow him are perverse people, people who don't know what is of benefit for them.
+
+May AllāhNone let us follow every sunnah of our ProphetNone. May HeNone let us go on hisNone way, in shā’a Llāh.
+
+ProphetNone he is our teacher and he is the best teacher for human beings. Because many teachers they are teaching children saying only, and they are not practicing, not saying also. But our ProphetNone he teaching everything we, everyone, what human being he need from his birth to his death. Everything ProphetNone show us and teach us and if we follow this it will be, you'll be happy and you will be healthy and you be happy. One of this most important thing heNone teach for mankind – because animal they have another, no they are not like human being; AllāhNone give them different way to do, to eat, to drink. But human being, mankind they have a special and the best thing ProphetNone teach us and the first important thing for mankind – food, to eat, to get your nourishment. And ProphetNone teaching us every good thing.
+
+The first thing heNone said, "When you eat be come together. Don't eat, each everyone alone." And when then come together round the table or food and mention name of AllāhNone – Bismi Llāhi r-Raḥmāni r-Raḥīm. AllāhNone will be bless this food. When you do this, this food become health for you, become power for you. The most and then it is more important than this, even the food you are eating giving, when you ask from AllāhNone HisNone name and mention HisNone name, give you light also, nūr. And make your belief stronger. This is very important for believer to do this because when you are not doing this, if you not mentioning name of AllāhNone, this food not coming for you, directly going to shayṭān, devil. He is eating. Because once ProphetNone saying for one ṣaḥābah, he was eating without mentioning name of AllāhNone, and ProphetNone of course with his miracle – so shayṭān – said what you are eating you are going directly for this iblīs, shayṭān. He is eating and all you are thinking you are eating. For this say to him, say "Bismi Llāhi r-Raḥmāni r-Raḥīm awwalihi wa ākhirihi." Even when you are you forget to mention before said – "awwaluhu ākhiruhu" – "from beginning to end" bismi Llāhi r-Raḥmāni r-Raḥīm. And after show this iblīs was vomiting. And this ProphetNone you are now, you are good for ṣaḥābah. And it is important because we are not animal to only for eating for our body to make more meat for butcher. No. We are eating for to make our body stronger and to make worshipping better and also to make our soul stronger and to get light from what we are eating. Because shayṭān teaching people to not mentioning this. Even when they are eating, make people to each alone. Even in same house there is sometimes children they are watching television or doing, they not like to come. Their mother said, "Oh," they are thinking, "to not be our child hungry, we make food for him take inside. He can eat there." Not thinking for their spirituality, for their īmān, for their belief. And they thought they are doing good. This is not good. The best to come together as ProphetNone mentioning. We are not saying 'ordering' because if heNone is ordering it will be, if we not do it will be sin for us. But heNone is mentioning this for people for their good, for their benefit to do this.
+
+And shayṭān he is teaching people to eat standing up, to drink standing up. Also this not good. This is not from prophetNone. ProphetNone telling people, "Drink and eat when you are sitting. Don't in when you are standing up." And, al-ḥamdu liLlāh, now the knowledge, normal knowledge for doctors, for health people, they are seeing and they are prove this is what they must. Because when you are drinking standing up it is no benefit for your body. It is harming your body. You must sit, sit and drink and eat. Also for other thing, many thing for sunnah, and the most important also to eat right hand, drink with right hand. But this is also shayṭān teaching people to use their left hand. They put fork in left, knife right side and they are eating like this, drinking also like this. I was saying for this people, "Oh I'm wondering this people they using right hand, people normally they use right hand, same so they eat with left hand. If no so left hand people they must eat in right hand." But no this no, shayṭān not accept this.
+
+Subḥāna Llāh, it is real, people – shayṭān they want every bad thing. AllāhNone mentioning this for people in Qur’ān. HeNone said shayṭān he want only bad thing for you, every bad thing, and he promise you to be the worst. And AllāhNone promise you to be higher and the best thing. AllāhNone make us to follow, not follow shayṭān, follow Allāh'sNone order and our Prophet'sNone way.
+
+Wa min Allāhi t-tawfīq, al-Fātiḥah.

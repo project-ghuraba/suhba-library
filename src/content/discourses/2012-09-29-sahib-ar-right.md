@@ -1,0 +1,50 @@
+---
+date: 2012-09-29
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2012-09-29-sahib-ar-right.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2012-09-29-sahib-ar-right
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Sahib Ar-­‐right
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Ya Salam
+
+Assalamu alaykum Sayyidi, kayf al ahwal masha Allah. Today with the permission of Shaykh Mustafa insha Allah he is our honourable guest, he is one of the pillars of Mawlana Shaykh Abdullah Daghestani. He has one of the strongest `itiqad, strongest beliefs, and the strongest hugging to Mawlana Shaykh Abdullah. And with his baraka today we are trying to say coffee talk but with his big tajalli we don't know if we can make it as a coffee talk, or tea talk. Because Shaykh Mustafa is in love with the tea. And why he is in love with the tea because Grandshaykh Mawlana Shaykh Abdullah was loving tea so much. When we are in his presence in Beirut, in his zawiyah all the time, first thing that was coming, the tea and the honey. And this is belonging to Mawlana Shaykh Abdullah. So that is why when I see him, I see Mawlana Shaykh Abdullah. Masha Allah. This is the shining part of Mawlana Shaykh Abdullah coming through some pillars. He is one of the biggest pillars for Mawlana Shaykh Abdullah.
+
+With this one we start! Alhamdulillah, just now having big salam and big love from Mawlana Shaykh for all of us and I was asking him permission to speak two words. He say, "No, you speak three words". Two. "No, three. So now we understand we are going higher maqam. Good for our ego. Ego, Ya Shaykh, you know is the most terrible thing in our body but we love it. This is another thing, that things you love, you cannot get rid of them. No way. So this is the big exam that Allah Almighty put, imtihan. All the time you are under the examination. Don't say 'there is a little bit of time I can rest'. No. Even if you are asleep, still coming, still coming. Ego never sleeps, never sleeps.
+
+So that is why we have to say, Allahumma a'izna min shururi anfusina. This is very important du`a. Ya Rabbi save us from our egos. But which egos? The sharir one. Sharir means evil. It is all the time thinking bad never thinking good, never! Unless the Shaykh will put his feet on us. With you no way, because you love it so much. If you love something you cannot even make like this. But the Shaykh he knows, that is why he... And then say, "I am for you Ya Shaykh, I am for you". "Eyyhh". You need somebody to step on you. This is the system Nobody can spoil this system.
+
+This coming from generations. Coming from Sayyidina Adam (as) because we are Bani Adam Why they said Bani Adam, Children of Adam Why? Because we are children. Never said, 'Men of Adam', no, children, we are children. What means 'children'? Means tifl al nafs al madhmuma. Children. The child, it is the child. When it is child, it is child. Children of Adam. Never say 'The men of Adam' or 'The women of Adam'. No, the Children of Adam. All of us children, all of us are in love with our ego. How to get rid of the love of our ego? That is good question. I don't know. If I know I will not sit here. Big shaykh here, I'm believing to sit downstairs I'm sitting in chair. Awww. Yani this is disrespect, but no, I love my ego more.
+
+So that is why I'm sitting here, I can say it easily. But there is some people they cannot say it. And this is the dangerous part of our life. This is the real crossing part of our life. It is the crossing. Somebody crossing, so if you get the right junction, you are okay but if you get the wrong junction then it is not okay. Then it will be late. Not right there, somebody will beat you. To put you in the right side. Alhamdulillah, we have our Shaykh that he can beat us. It is okay”. "Why are you hitting me"? "I'm your father yahu, I can hit you, it's okay. "But why you take my ear like this?" "I am your father, if I do this for you I mean to put you on the right side. I'm not punishing you but I make you to wake up".
+
+This is the part of the ego that all the time makes us feel that we are right and we have all the rights. No. In ego we don't have any right. We don't have any rights. All the right is belonging for Sahib-ar-Right. That is our Shaykh. He is Sahib-ar-Right. Half English, half Arabic. The Owner of the Right. I speak English. Very terrible English. But still can make some people to understand, still can enter the heart. I am not saying this one from myself. I'm cheating, because I go to Mawlana Shaykh I get the madad and I am sitting here and I speak in his name. This is not Bahauddin speaking, this is Mawlana Shaykh and I am only cheating. Don't think I am speaking very good. This only makes my ego to feel more satisfied, to feel that 'Yeah, you are very good to be shaykh, you deserve to be shaykh’. No, I don't deserve to be shaykh. That is why I'm very free-talking, this is coffee talk. Free-talking. Who can speak freely? The one who hasn't any responsibility.
+
+Alhamdulillah Mawlana Shaykh doesn't give me any responsibility. I'm free. I just go to him say, Mawlana I just want to make people be entertained a little bit, to feel happy. Say "Yes, we have a lot of things to give, we are in the flea market". Flea market you can find small news, you can find things, you can find everything. So just look and get what you want. So Mawlana Shaykh says, "We have a lot to give, Alhamdulillah, It is ocean". Actually it is not flea market, it's more than this. It is heap here, active, big market. Universal market. Anything you ask, you can find, anything. Just name it. This is Mawlana Shaykh. That is why his power is everywhere that is why he can touch any heart, because he has everything.
+
+This is the secret why Mawlana Shaykh can touch so many nations. Why Mawlana Shaykh can touch so many different kinds of people. Why Mawlana Shaykh can touch anything, because he has everything. This is from sifatullah, Azza wa Jall. Because he is the Khalifah of Rasulullah (sas) and Rasulullah (sas) is the Khalifah of Allah Almighty. This is the reality, if they like or they don't, this is the reality. Alhamdulillah, because the reality that they don't understand Ya Shaykhee, it is ignorance. The ego is blocking the reality. The ego is all the time blocking reality saying, 'no it is not real'. Then anybody prove, anybody anybody knows, anybody? Yahu, Belief itself, it is coming. Allah Almighty throws it to your heart. You don't have to prove belief. You believe. It has a name. Belief.
+
+What means 'Belief'? “I don't care, I don't see. I believe”. So imagine this, the Kingdom of Rasulullah, the Kingdom of Haqq is built on Belief. It isn't built on searching, on looking. It isn't built on how to do it, it isn't built on, of of of. No, it's built on one thing –Belief. And see all around dunya, every day there is five times azan. Why? Because of Belief. Why somebody goes, “Allahu Akbar Allahu Akbar”? After one hour another city, another village. Keep going on, never stop. They believe yahu, believe. Nothing else. They didn't put any money, didn't put any power, wealth, nothing. Say: Ashhadu an La ilaha illa Allah wa ashadu anna Muhammadan Rasulullah Simple. Been built. See the building, see the building.
+
+Now say "Yahu, somebody make something against Rasulullah (sas) Like, "Yaallah! What is this? What is this?" And these ignorant Muslims they make it big issue, it is not big issue, yahu. Rasulullah (s) is big issue. Nothing else. Nothing else. Yahu, somebody is in the sky, huge, he is in a universe. Ant says "Ah, I can swear in universe". You are ant yahu! Not even ant. And all of them say, "The ant is swearing on Rasulullah (sas)". Yahu not even ant, micro. Virus, small, swearing on Rasulullah (s). La hawla wala quwwata illa Billahi'l Alliy'il Azim, I don't understand. I am nothing, humble, I don't understand. Yahu, just make your heart work, make your mind work, and make your thinking to work and not your ignorance. "Fire, fire, fire, fire". Yahu,
+
+I look at what is happening. They hit the Muslims. The police is Muslim, they are fighting with the Muslim police. Hitting the shops of Muslims, burned the shops of Muslims. Why somebody is doing something bad and they punish Muslims. So that is why they have to understand Belief. And today's Muslims don't understand what is Belief. It is the Belief that the Prophet (sas) gave us in a golden plate and we are the most lucky people, to have this and to understand it. So enjoy it. They don’t enjoy it. They go, "No we have to go for the worse part, Jihad, jihad". For what you are Jihad? There is no khalifah to declare Jihad. Mahdi (as) when he comes, we are his soldiers. When Mahdi (as) is not around we are doing our job, we are doing our dhikr, doing our ibadah, we are doing the necessary things that Allah Almighty been giving.
+
+This is our job because this is beyond our rule. It is ruled by Allah Almighty. Allah Almighty made time period for everything. And today is the kingdom of shaytan. Nobody can argue with this, this is the kingdom of shaytan, he is the king now. Allah Almighty gave it, "This is your time, your kingdom". And Mawlana Shaykh will make this kingdom down. Mawlana Shaykh said, "I will not leave this Earth", just was telling me, "I’m supposed to be in the ground now, but the Awliya didn't let me be there. 'You must finish this shaytan kingdom' ", Mawlana Shaykh said. Alhamdulillah and this has made me happy and insha Allah with these nice things that he sent to us through me, -me, me, me, that make us happy. And may Allah give Mawlana Shaykh long life and make his mission to be completed, then whatever he want to do he's free to do but now not free to do. Wa min Allahi tawfiq bi hurmat al Habib bi hurmat al Fatiha.
+
+Video Link: http://saltanat.org/videopage.php?id=5346&name=2012-09- 29_en_SahibArRight.mp4

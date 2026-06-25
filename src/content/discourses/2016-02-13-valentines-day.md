@@ -1,0 +1,54 @@
+---
+date: 2016-02-13
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2016-02-13-valentines-day.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2016-02-13-valentines-day
+source: saltanat.org
+speaker:
+- Shaykh Bahā'uddīn ʿĀdil
+speaker_full: Shaykh Bahā'uddīn ʿĀdil al-Ḥasanī al-Ḥusaynī
+status: published
+title: Valentine’s Day
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+Sheikh Bahauddin Adil, Sohbat of the 13th of February, 2016.
+
+Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahu Allahu Allahu Allah. Allahumma salli wa salim 'ala Nabina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. Allahumma salli wa salim 'ala Nabina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam. Allahumma salli wa salim 'ala Nabina Muhammad alaihi salam. Salatan tadumu wa tuhda ilaih mammara layali wa tula dawam.
+
+MashaAllah. Hoping to be in love with RasulAllah (saw) on and on and on. We are weak servants. We are useless servants. We are not deserving to be in the stage that we can love. So many people, they've been proud about themselves. Don't be proud about yourself because the mirror that you are looking, it shows you that you are bigger than you look. You look for mirror, and the mirror it show you great but actually we are so small. We are so tiny and we are so useless. If we can understand this situation, that means we can appreciate the Creator. Because the ego, it's all the time putting the status of the ego equal as to Allah Almighty. Yes. Because when Allah Almighty, He create the ego, He asked the ego "Who am I and who are you?" It said "You are You. Me, me, me. It is... We are almost same level." This is ego. It is so dangerous, so dangerous.
+
+It doesn't matter if you are one of the greatest abid or one of the worst servant. The ego is ego. If you realize your ego, you realize so many things in your life. So many things in your life. Because Allah Almighty, He put the ego in our body just to make us feeling the test of Allah Almighty. You're being tested all the time. You are under examination all the time. Don't think that you are free. Allah Almighty, why He put, this is hikmatullah - this is Allah Almighty wisdom. You must look for wisdom. So many people, they say "We hate ego". No, no, no. You have to look for the wisdom behind what is going on. It is so simple today. All of us we drive cars, we have so... You see some button there and say "This useless button." But when you go behind it, they will say this button must be there. In case something happen, you press it. This is very simple things. Every day it is our life, every day. We are not the people that can analyze what Allah Almighty, He put there. We have to follow and obey. We have to follow.
+
+That's why the murshid is very important. If you have a murshid, you are relaxed. Yes. That's why say "Ma la shaikhu lahu, fa shaikhu shaitan" This is the great Awliya's wisdom. [Who doesn't have a sheikh, his sheikh is shaytan]. Yes. Alhamdulillah, Allah Almighty He make us to be following a true murshid. Also there is fake murshid. How to know? How to know? It is so difficult to know. But Allah Almighty He give us true murshid and this is good. Yes. Yes, it is good.
+
+www.saltanat.org Page 1 Alhamdulillah we are in the situation that Mawlana Sheikh Nazim, qaddasAllahu sirruhu ali, he put us in the safe area. Don't forget. This is very important. He put us in the safe area. He didn't want us to be wasted. That's why this maqam, it is open for everybody. It's been for everybody to come, everybody to be here, everybody to understand that it is continue the nazar, the looking, of Mawlana Sheikh for us. Alhamdulillah this is big big nim'ah, it is big gift from Mawlana Sheikh.
+
+Now tomorrow they say it is Valentine's day. All the world, it is being ready for Valentine's day. And everybody saying to you "You don't do this? How come?" They make pressure on you to know it. Now I'm talking for salafi and wahhabi. Ya Hu, RasulAllah (saw) he doesn't have to deserve one thanks for what he give to us. Look, it is... They say if you are not knowing this Valentine's day, they will make you to know it. They will flash it in your telephone. They will flash it in your TV. They will flash it in your way when you are driving, radio, everything, magazine, newspaper. Everybody is making shout. What is it? It has any benefit? No, it has benefit. Yes. Trade benefit. They will make market up, the sales will come. So many money coming. Yes. You buy jewelry, you buy that, you're buying. They make people to buy.
+
+This is for materialistic issue. Ya Hu, RasulAllah (saw) what he give for ummati Muhammadi? Did he give the materialistic being? Yes, he give. Did he give you to be known? Yes, he give. Did he give you the spiritual being? Yes, he give. Did he give you the akhira? Yes, he give. Did he give you the love of Allah? Yes, he give. Did he give you the love of family? Yes, he give. He give you everything. He complete everything. And what we say? - It's haram. No mawlid for RasulAllah. Haram, haram. One Valentine's day for materialistic benefit, the world is shaking. The world is shaking. Who doesn't understand this Valentine's day? If you say "I don't believe in this Valentine's day", "Oh you are so ignorant person. You don't know nothing." They put the pressure on you. "What is this? No romance, no romantic, no nothing? What is this? Very ignorant person, doesn't know nothing. You must be in ancients, not now. You cannot live now." This how they make it. This how they present it to you. This how they put the pressure on you.
+
+And for RasulAllah (saw) "No haram, haram. This is bidah. This is this. Or shirk, shirk, shirk." Ya Hu, what is this shirk? We know that la ilaha illAllah, this is no negotiation. We don't negotiate this. Muhammadun RasulAllah, also this we don't negotiate. We know Muhammadun RasulAllah (saw). If we love Muhammad RasulAllah, that means we are not mushrik. You must wake up. Everybody must wake up. When you read la ilaha illAllah, that means there is no God except Allah. This is finished. It is non-negotiable. Why say "No, if you love RasulAllah, it's shirk?" Say you put Allah up and don't put Muhammad? What ignorant people. What ignorant people. What terrible people. You appreciate your father if he give you inheritance? "Yes, my father he inherit me this wealth and I appreciate him. He work for me. And now I'm relaxing." What you do for your father? You appreciate him. This is RasulAllah (saw). He give you more than inheritance. More.
+
+www.saltanat.org Page 2 For Valentine's day, every year the world is shaking. For RasulAllah (saw), so many people, they don't know when is the mawlid, when is the mawlid. So many people, they don't know. But if you ask the Muslim world which is Valentine's day, they will say 14th of February. Yes. What is 14th? Valentine's day. All the Muslim world including Saudi, including the Arabs, including Riyadh. You go to Riyadh for the shops, you will see the Valentine's day advertisement. This is not shirk? Wake up. The love of RasulAllah (saw) is the one make the head of Muslim up. Because they forgot RasulAllah (saw) Allah Almighty punishing the Muslims. You have to understand this. Nothing without wisdom. Nothing. You look for the wisdom behind it. You have to look. Look carefully and pick up the wisdom. The Muslim, he is wise man. He can pick up the wisdom. But the salafi they are unwise people. Wahhabi worse. Yes.
+
+If you don't love RasulAllah (saw), you are the worst one. This is no doubt. If you cannot realize between the Creator and His Rasul, you are the most ignorant one. Yes. You are the most ignorant one. We are realizing Allah Almighty is the God. He is Absolute God of everything. He is the Creator. And RasulAllah (saw), He is the one Beloved of Allah Almighty and we love him so much. Yes. We love him so much. If the love of RasulAllah (saw) become shirk, I am the first one to do. Never happen. This never happen. Allah Almighty - Allah. RasulAllah is RasulAllah. His name RasulAllah, the Messenger of Allah. He doesn't say Allah or Muhammad Allah. No. This is... People must wake up to not mis-respect RasulAllah (saw). It is very important.
+
+This is very important things that people, they think "Yes. Don't go this side. It's very dangerous. Maybe you will be mushrik." This how they make it, how they frame it and how they present it to people. People, they don't know. One man put.... and sit talking, talking, talking... and talking, talking, talking. Finally, he say "Don't do this because it will be dangerous for you." What a talk. But yes, this is the point that we have to be appointed. Allah Allah. Then you will be having some kind of in your heart. Because our heart is not so strong heart to get on of this. We have weak heart and the people have weak heart. And then they say "Yes, this man talking wisdom". And then we will be "Yes, we have to follow." And then people follow. Big responsibility for those people. Big responsibility for those people.
+
+May Allah forgive us and make us to know the true. Because the true is la ilaha illAllah, Muhammadun RasulAllah (saw). This is the reality. When Allah Almighty He put la ilaha illAllah, He put in the same sentence Muhammadun RasulAllah. He didn't make it like this; la ilaha illAllah and he put downstairs Muhammadun RasulAllah. No, He said "I put it next to Me. Next to Me". Very important. You have to realize. You have to wake up. This religion coming from 1,500 years. It was like this and now it's coming like this. Do you think that you are fixing? You're making revolution? No revolution. Sayyidina Muhammad (saw) "Al-yawma akmaltu lakum deenakum wa raditu lakumul islama dina" (5:3) He said "I completed your religion and I accepted Islam to be your religion." Yes, this is Allah's RasulAllah (saw). He put it in golden plate. He give it in golden plate. He didn't give it in silver plate. No, in golden plate. In the top level. www.saltanat.org Page 3 May Allah forgive us and make us with RasulAllah (saw) and with Awliyaullah and to be with their, the way of their love. Wa min Allahi t-tawfiq. Bi hurmati l-Habib, bi hurmati l-Fatiha.
+
+Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam. Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam. Subhanim Allah. Sultanim Allah. Nabim Muhammad alaihi salam. Wa salli ya Rabbi wa sallim 'ala jami'a l-anbiyai wa-l mursalin wa 'ala kulli 'ajmaina w-alhamdulillahi Rabb-il 'alameen al-Fatiha.
+
+Video link: http://saltanat.org/videopage.php?id=15184&name=2016-02- 13_en_ValentinesDay_SB.mp4
+
+www.saltanat.org Page 4

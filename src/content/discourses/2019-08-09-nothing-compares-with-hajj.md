@@ -1,0 +1,50 @@
+---
+date: 2019-08-09
+date_hijri: ''
+edited_at: 2026-06-25
+image: https://r2.suhbalibrary.org/suhbas/2019-08-09-nothing-compares-with-hajj.jpg
+language: en
+location_city: Lefke
+location_country: Cyprus
+location_venue: Shaykh Nāẓim Dergah
+quotes_verified: []
+slug: 2019-08-09-nothing-compares-with-hajj
+source: saltanat.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Nothing Compares With Ḥajj
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: ''
+---
+
+As-Salāmu ‘alaykum wa-raḥmatu Llāhi wa-barakātuh.
+
+A‘ūdhu bi-Llāhi mina sh-shayṭāni r-rajīm. Bismi Llāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa-s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-awwalīna wa-l-ākhirīn. Madad yā Rasūla Llāh, madad yā Sādātī Aṣḥābi Rasūli Llāh, madad yā Mashāyikhanā, dastūr Mawlānā Shaykh ‘Abdu Llāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatuna ṣ-ṣuḥbah, wa-l-khayru fi l-jam’iyyah.
+
+You know that today is the 8th of Dhū l-Ḥijjah, Yawmu t-Tarwiyah. Today ḥujjāj should start their journey to climb ‘Arafāt. Of course, as we live in the end of times, some direct places were made. You go there, and what is important is to stand on ‘Arafāt. Some people can go tomorrow. Many go up today as well. Most of ḥujjāj go up today. But tonight it is normally sunnah to stay in Muzdalifah. But of course, there is no sunnah anymore. They don't make it possible to do it. They say, no need to do it. They go to ‘Arafāt. Because of end of times, our ProphetNone said it also: "If you don't keep one percent of [the sunnah] it won't be acceptable from you. A people will come in the end of times for whom keeping one percent will be enough for them." So says our ProphetNone. So we reached those days. We live in those days.
+
+It is the time of the weakest īmān. Īmān is the most beautiful thing and they want it to be forgotten. They say people don't need it. "You say you are Muslim, that is enough." Of course, that is also enough for AllāhNone. To witness the existence and oneness of AllāhNone and to accept HimNone becomes the means to salvation, the means to be saved. There are many people who don't say it. Most people are without faith. Those who do not believe in AllāhNone, people who don't accept HimNone are the majority. Therefore, with even the weakest īmān a man can be saved. Of course, that beauty is different and the worship done without spirituality is different.
+
+Mawlānā Shaykh Nāẓim, may AllāhNone increase his station, went to ḥajj about 25 times. Every time there was hardship. Of course, there is always hardship in ḥajj. And that time had its own hardship. Once Shaykh ‘Abdu Llāh ad-Dāghistānī decided to go for ṭawāf. Grandshaykh said they went there. Down below people always push each other, they fight, scream and yell when you should act with adab. A person doing the worship of ṭawāf should do it without disturbing others. So in that situation, Shaykh ‘Abdu Llāh ad-Dāghistānī said, "Look up in the sky." Mawlānā did so. He saw at the upper level of the Ka‘bah some were making ṭawāf. Compared to below, it was such a ṭawāf that everyone was making their rounds in peace and tranquility, quietly. They were doing it without disturbing each other. He said, "Look even higher." He looked. There were numerous creatures, angels and awliyā’ making ṭawāf in several layers.
+
+They say they [want to go but] can't go to ḥajj. They will certainly join these creatures there. Allāh ‘Azza wa-Jalla ordered not only humans, ḥajj is farḍ for the unseen people too. Like we have farḍ, jinn have farḍ too. They must do ḥajj as well. Because they are Muslim and must fulfill its conditions. Therefore, there is no need to be angry with the ḥujjāj. They are in their own worlds. They act as they like without learning adab. But who are with adab, Allāh ‘Azza wa-Jalla allows them to do ḥajj better and higher. Of course, there are all types of hardship now, necessary and unnecessary. AllāhNone will give its reward and nothing will go wasted. That is why those who are becoming ḥajjī shouldn't be upset if they did it [according to the sunnah] or not. No need. As long as you step on ‘Arafāt your ḥajj is accepted.
+
+May AllāhNone write the reward of those making ṭawāf in a beautiful way for us too, in shā’a Llāh. Not of those who disturb other ḥujjāj and fight with them, but the rewards of the others are more acceptable and more virtuous. And may those who can't go receive their share of it. May it be blessed. It is good time and good days now. Tomorrow people will stand on ‘Arafāt and earn their ḥajj. May AllāhNone give to who couldn't go, in shā’a Llāh.
+
+Al-ḥamdu liLlāh today nice blessed day. It is day of moving to ‘Arafāt, Jabal ‘Arafāt, which it is main, once a year happen. If people, they're going for Ḥajj but they are not going to ‘Arafāt, Ḥajj not acceptable. "Al-Ḥajju ‘Arafāt," Prophet ṣallá Llāhu ‘alayhi wa-sallam saying. You must go for ‘Arafāt place, the big place can take millions of people, staying there until Maghrib. And it is, you once a year, only one day. So you be Ḥajjī.
+
+But before also today, from today they are moving for ‘Arafāt. And normally it must be they was going by walking, slowly, slowly going for first Muzdalifah, sleeping in Muzdalifah. All time to go from Makkah to Muzdalifah it is easy, maybe one hour, two hours. Now if you will go by walking maybe takes day, because they are making long ways, take maybe five hours. And even with this they are, they cannot, not allowed. So it is sunnah but nobody make this sunnah. But our intention to make. Even last year, we intention to make but they said no we cannot go. So AllāhNone accept our intention as we done it, in shā’a Llāh. And they, many of them sleeping in ‘Arafāt from tonight. And tomorrow after ‘Arafāt going to finish the Ḥajj program, going for jamarāt, throwing stone for Jamarāt. After make ṭawāf, cutting sheep, or shaving hair and come out from iḥrām – acceptable Ḥajjī. This is very nice. Allāh ‘Azza wa-Jalla HeNone show us how to do this.
+
+Many people all around the world they try to imitate pilgrimage, but they are doing any time. No, it is, you cannot. Nothing can compare with Ḥajj of Allāh ‘Azza wa-Jalla what ordered for Muslims. They have special worshipping, everything, it is perfect. And it is reward, and to come from this Ḥajj you will be like a newborn child, without any sin. With, what you done in Ḥajj, this is the present for Ḥajjī people. And, AllāhNone reward you because you're doing big obligatory for Muslim, each Muslim, who can afford, to go to Ḥajj. Of course Ḥajjī now, when you go it is real difficult and especially for people who are, they don't have any learning from teaching of adab, or Islām. They're going, only they thinking about themselves, not looking for other. And it is, end of time. It is as it is, normal because everything not good – no any adab, nothing at all. Because time of Mawlānā Shaykh he was going more than 25 times for Ḥajj and he was of course, there is difficulty. And one of these time he was with Mawlānā Shaykh ‘Abdu Llāh ad-Dāghistānī, and Mawlānā Shaykh take him to... He said, "Come, we go for Ka‘bah." And when they come, see people they were making ṭawāf shouting, fighting, pushing each other and normally it must be quiet and everybody respect other, not shouting, not fighting, not doing anything, because Allāh ‘Azza wa-Jalla in Qur’ān says, "Don't, no." "Fa-lā rafatha wa-lā fusūqa wa-lā jidāla fī l-ḥajj" (2:197). Don't do anything from this. But people not listening. They are doing everything.
+
+So this Mawlānā Shaykh ‘Abdu Llāh saying to Mawlānā Shaykh, "Look up." And he look and he, from Ka‘bah, top of Ka‘bah, he was seeing people making ṭawāf in air. But it was quiet, nicely, and with light. And they was respecting each other like very... What they say? Kelebek, like butterfly, each other not... going around. And he said, "Look more up." And he second also, after this also another people they was making ṭawāf. This until sky, people they was doing this ṭawāf. And it is...This people they're Awliyā’u Llāh, or from Malā’ikah, or from Jinn who also they have. Because Jinn also they are Muslim, they must do what we are doing, fasting, making Ḥajj, making praying, everything. So this millions of people making ṭawāf.
+
+And this people now, they are saying, "We will make it bigger and bigger." They thought they can serve better than AllāhNone. Allāh ‘Azza wa-Jalla HeNone can put millions in one place, no each other fighting, nothing happen. So Mawlānā Shaykh he was saying this, once he said, "I saw this, and after I was happy. Because every time I see these people fighting, quarrelling, pushing each other, I was not happy when I saw this," he said, "Don't look for this people," Mawlānā Shaykh, "look what AllāhNone HeNone has." HeNone AllāhNone not in need to anybody, but everybody AllāhNone give them this favour to be Ḥajjī and they must respect this and be thankful and be merciful for other people – to be each other must be same like yourself. Not any – "First, I must do this first, not other. I must be, I must have it." You can have and other also they can have.
+
+But people they are doing, so Allāh ‘Azza wa-Jalla accept because we are living in time no any good teaching. And Prophet ṣallá Llāhu ‘alayhi wa-sallam was saying for hisNone companion: "If you do 99 thing and not doing 100% is not acceptable for you. But there it will be time, only to do one from what you are doing, to leave 99, it is acceptable. Because these people they are living in time, not not like your time." In shā’a Llāh, AllāhNone give us from this barakah and reward, these people who are making good Ḥajj and good ṭawāf. Our intention, in shā’a Llāh, to make like them, in shā’a Llāh. AllāhNone accept Ḥajjī of these people and reward them, in shā’a Llāh.
+
+Wa-min Allāhi t-tawfīq, al-Fātiḥah.
