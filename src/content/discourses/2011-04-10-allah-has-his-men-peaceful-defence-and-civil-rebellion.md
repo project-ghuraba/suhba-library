@@ -2,19 +2,19 @@
 date: 2011-04-10
 date_hijri: ''
 edited_at: 2026-06-25
-image: https://r2.suhbalibrary.org/suhbas/2011-04-10-.jpg
+image: https://r2.suhbalibrary.org/suhbas/2011-04-10-allah-has-his-men-peaceful-defence-and-civil-rebellion.jpg
 language: en
 location_city: Lefke
 location_country: Cyprus
 location_venue: Shaykh Nāẓim Dergah
 quotes_verified: []
-slug: 2011-04-10-
+slug: 2011-04-10-allah-has-his-men-peaceful-defence-and-civil-rebellion
 source: saltanat.org
 speaker:
 - Shaykh Nāzim al-Ḥaqqānī
 speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
 status: published
-title: ':'
+title: 'Allah Has His Men: Peaceful Defence and Civil Rebellion'
 topic: []
 transcript_quality: verified|level 2
 version: 1
