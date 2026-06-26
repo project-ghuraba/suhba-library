@@ -35,7 +35,7 @@ The saints all repeat what the Holy Prophet has said, Mawlana says the same: Yes
 
 Together with Shaykh Effendi we had the benefit of these blessings for years, thanks to Allah. Insha'Allah we now continue on this same path and receive blessings; Allah has placed us on these ways. Let us benefit from these good ways till the day we die, insha'Allah, and we shall be together with them in the afterlife, for certain.
 
-Prophet, sallAllahu alayhi wa sallam, said: Don't say "if". "If" is from shaitan. This is a big trap from shaitan. When you do something, it's finished. You cannot take it back. We can't say: "If I do this, it will be like this - If I do that, it will be more better." Now I was (would be) a very rich man or I was (would be) in health, if I went (had gone) to a doctor or something like this. No, don't say this because it's finished. Only www.saltanat.org Page 1 from shaitan this is. Prophet, sallAllahu alayhi wa sallam, said: even don't say what happened before two hours. Of course, people cannot do this. But it is...
+Prophet, sallAllahu alayhi wa sallam, said: Don't say "if". "If" is from shaitan. This is a big trap from shaitan. When you do something, it's finished. You cannot take it back. We can't say: "If I do this, it will be like this - If I do that, it will be more better." Now I was (would be) a very rich man or I was (would be) in health, if I went (had gone) to a doctor or something like this. No, don't say this because it's finished. Only from shaitan this is. Prophet, sallAllahu alayhi wa sallam, said: even don't say what happened before two hours. Of course, people cannot do this. But it is...
 
 If they are listening to what Prophet, what awliya had said, they would be happy. All time they would be happy. Because Allah gives a new day, a new opportunity to do what you didn't do. Especially, for akhira (afterlife). Maybe you... If you are saying "if I do this, I pray. I couldn't do this" - for akhira it is ok. But Allah gives you new opportunity. New days, new... every breath. It is a big favour from Allah. If you do, Qur'an says, something, you do bad without knowing and after you remember, or you don't know, by ignorance you do this - you say maybe "I think it is good". But if you'll be sorry to do this, Allah will forgive you. If you regret what you did before, this is good. But for dunya, don't be sorry at all because it's finished. But for akhir, if you do something wrong and you're sorry and regret, so Allah is merciful. He forgives. He's Most Forgiving and Most Merciful.
 
@@ -48,5 +48,3 @@ I was sometimes sorry but alhamdulillah, it is coming: don't be sorry, don't say
 Wa min Allahi t-tawfiq. Bi hurmati-l Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11569&name=2014-05- 22_tr_DontRegret_SM.mp4
-
-www.saltanat.org Page 2

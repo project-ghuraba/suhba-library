@@ -36,5 +36,3 @@ The tree trunks are like this - as if jasmine comes out of them or vine leaves c
 They opened up Sheikh Ubaydullah al-Ahrar Hazrat's grave and found him as he died. Hisham Effendi said to me he is in the same state as he died. He said "Sheikh Effendi, he looks like Hazrat (Grand Sheikh). They took a photo - he said he'll send it. Ulamas there didn't like it like this bare head and placed a turban on his head and took a photo. They will send it. I will show you tomorrow. He is exactly like Sheikh Effendi (Sh Abdullah ad-Daghistani Hz). None of his features have changed, he is lying there. Ubaydullah al-Ahrar Hazrat - May Allah bless him and his secrets.
 
 Video link: http://saltanat.org/videopage.php?id=10363&name=2004-04- 10_tr_OzbekistandakiMakamlar_SN_a.mp4
-
-www.saltanat.org Page 1

@@ -33,7 +33,7 @@ Welcome O lovers of Shah Mardan. Allah Allah. How beautiful they are, how beauti
 
 You are Subhan my Lord. You are Sultan my Lord. Nobody can be despised at your door. Nobody can be wretched in the presence of the Glorious Beloved. O our Lord, we are living by Your grace. Fill us with the love and affection of Your most Beloved. May we get enough. That is heaven. That is heaven. Ask for heaven. My Lord I am asking for heaven. My son Mehmed effendi; the people want to run after this material world's tastes, pleasures and enjoyment. O Shah Mardan. MashaAllah. How nice. Do not go after this world's dirt. Go after Shah Mardan's. Be a lion, be a lion. He has well-being and wellness. What comes to us with well-being and wellness? Faith comes. Faith fills us. Faith gives every beauty to Man. Allahu Allah Allahu Rabbi ma li siwahu.
 
-May we get well, may wellness come to our bodies. Every beauty comes from the heavens. Do not be ugly! Be beautiful. Do not be lazy! Be well. Our Lord, our Subhan, our Sultan. May He give us strength, may we www.saltanat.org Page 1 get strength. May we get strength for Allah's way. My son Mehmed effendi, may we receive for Allah. For what other reason would you receive? The world has gone mad. They are following something and they are saying, 'I want this'. The people are out on the streets without knowing what they want. So know! Don't ask for this world. Do not ask for this world. The world makes you ugly. The hereafter makes you honorable.
+May we get well, may wellness come to our bodies. Every beauty comes from the heavens. Do not be ugly! Be beautiful. Do not be lazy! Be well. Our Lord, our Subhan, our Sultan. May He give us strength, may we get strength. May we get strength for Allah's way. My son Mehmed effendi, may we receive for Allah. For what other reason would you receive? The world has gone mad. They are following something and they are saying, 'I want this'. The people are out on the streets without knowing what they want. So know! Don't ask for this world. Do not ask for this world. The world makes you ugly. The hereafter makes you honorable.
 
 O our Lord, to be servant for You. May the health and joy of the Glorious Most Beloved come on us. Grant us from his honor, O my Lord. May we have grace, may we have grace. Do not be a wolf. A Man is different than a wolf. Have the attributes of Man. Don't take on the attributes of a wolf. For heaven's sake! You created us as Man. We are getting far from humanity. Do not get far, run to Humanity. Run to Humanity. Allahu Allah Allahu Rabbi ma li siwahu illa Hu. What would you do if the whole world was given to you? What would you do with it? What can you do?
 
@@ -47,10 +47,8 @@ Well done Mehmed, Way fakir. Way fakir. You are not poor you are rich, rich. Als
 
 These few words belong to today. May our love increase our striving increase. May our strength, our faith increase. May our faith, our Islam increase. May our service for our Lord increase. May we have more love for the Most Beloved. May boredom go from us, it shall go to the mountains and stones. Fatiha.
 
-If you would be given a mountain full of gold everyday, what would you gain? Look for what comes to your heart, look to your heart. Be with the Sultans of hearts. Let's say Bismillahi r-Rahmani r-Rahim. www.saltanat.org Page 2 Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Our worries will go, our sorrow will go. May our Lord forgive us. Forgive us O our Lord for the sake of Your Most Beloved, For the sake of Ummuhan Sultan, for the sake of saints and prophets.
+If you would be given a mountain full of gold everyday, what would you gain? Look for what comes to your heart, look to your heart. Be with the Sultans of hearts. Let's say Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Our worries will go, our sorrow will go. May our Lord forgive us. Forgive us O our Lord for the sake of Your Most Beloved, For the sake of Ummuhan Sultan, for the sake of saints and prophets.
 
 Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=10734&name=2014-02- 15_tr_EfendimiziUzme.mp4
-
-www.saltanat.org Page 3

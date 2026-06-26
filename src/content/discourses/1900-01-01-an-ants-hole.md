@@ -35,7 +35,7 @@ We are quarreling & fighting about ourselves. And all, whole physically and spir
 
 When He is asking to shelter you, should be ant's hole shelter for you. Ant, you know ant? Ant's hole should be a shelter for you. Should not be difficult for your Lord to shelter you through an ant hole. He puts you easily through that hole - without making the hole big & without making you small. Allah! He can do everything. Without making you small or making the hole bigger He puts you, your body, through the hole of a small ant's hole. A big ant's hole, He may put in it an elephant. You know elephant? Without making the elephant smaller and without making ant's hole bigger may put that huge elephant through that small ant's hole. An elephant may run down, up and down through that hole. Good news! You may
 
-www.saltanat.org Page 1 find one thousand elephants running now up and down through small ant's hole. Allahu Akbar! Allahu Akbar! Allahu Akbar!
+find one thousand elephants running now up and down through small ant's hole. Allahu Akbar! Allahu Akbar! Allahu Akbar!
 
 He can do everything. He has endless ability, capability endless Qudrat/power for Him to do this. You can't imagine but Allah Almighty beyond your imagination. Therefore we are asking shelter. Ant's hole enough, for what you run under concrete? when this...(siren sound) this siren. Their siren you need it under concrete shelter. Look one ant one run in it "O my Lord I am Yours put me in it!" Believe in your Lord and His endless power. Endless ability, Qudrat. Everywhere we have shelters, therefore there's no need to go under concrete shelters.
 
@@ -44,5 +44,3 @@ Be with Allah and Allah protects & shelters you even through an ant's hole. Ants
 Wa min Allah At-tawfiq.
 
 Video link: http://saltanat.org/videopage.php?id=10358&name=1991-01- 00_en_AntHole_SN_a.mp4
-
-www.saltanat.org Page 2

@@ -37,7 +37,7 @@ The feet of the one who says Bismillahi r-Rahmani r-Rahim step firmly, sheikh Me
 
 Ya Rabbi, You granted us the Bismillah Sharif. May we not forget. We won't, inshaAllah. Fatiha.
 
-Don't forget Bismillah. The biggest lesson, the biggest adab is to say Bismillahi r-Rahmani r-Rahim. Don't forget. The biggest strength is Bismillahi r-Rahmani r-Rahim. Our weakness will be gone, our ugliness will be gone, our fears will be gone, our hearts will open. We'll be happy. Fatiha. www.saltanat.org Page 1 The one who says Bismillahi r-Rahmani r-Rahim is beautiful. The one who says Bismillahi r-Rahmani r-Rahim is pure, very pure and clean. O our Lord, You created us beautiful. You made us pure with Bismillah Sharif, ya Rabbi. O our Lord, forgive us. The greatest of Your favours to us is to say Bismillahi r-Rahmani r-Rahim. Allahu Akbar. Fatiha.
+Don't forget Bismillah. The biggest lesson, the biggest adab is to say Bismillahi r-Rahmani r-Rahim. Don't forget. The biggest strength is Bismillahi r-Rahmani r-Rahim. Our weakness will be gone, our ugliness will be gone, our fears will be gone, our hearts will open. We'll be happy. Fatiha. The one who says Bismillahi r-Rahmani r-Rahim is beautiful. The one who says Bismillahi r-Rahmani r-Rahim is pure, very pure and clean. O our Lord, You created us beautiful. You made us pure with Bismillah Sharif, ya Rabbi. O our Lord, forgive us. The greatest of Your favours to us is to say Bismillahi r-Rahmani r-Rahim. Allahu Akbar. Fatiha.
 
 Sicknesses are gone with Bismillah Sharif; worries are gone, fears are gone, troubles are gone, sadness is gone. Allahu Akbar. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Bismillahi lladhi la yadurru ma'a 'ismihi shay'un fi l-'ardi wa la fi s-sama'i wa Huwa s-Sami'u l-'Alim. You are Subhan, ya Rabbi. Our Allah, our Subhan, our Sultan.
 
@@ -48,5 +48,3 @@ Read on me. May heaviness on me be gone. There won't be disasters for people. Th
 Salamun alaikum. -Alaikum as-salam. Long live, Mehmed.
 
 Video link: http://saltanat.org/videopage.php?id=10458&name=2014-01- 22_tr_EnBuyukDers.mp4
-
-www.saltanat.org Page 2

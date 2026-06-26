@@ -39,10 +39,8 @@ It destroyed all these people- to run after the non-existent. O my son Mehmet Ef
 
 Allah Allah. Let us say Allah Allah. Let us remember His Great Prophet- the Master of Creation. Let us walk on his way. The holy ones may have us walk but what can we do? We are weak. May He take away our weakness. May we keep the way of Allah. May we be filled with the love of the glorious Prophet, who is
 
-www.saltanat.org Page 1 full of his Lord's love. O glorious Prophet. O glorious Prophet. La ilaha illa Allah Muhammadun, Sayyidina Muhammadun Rasulullah (sas).
+full of his Lord's love. O glorious Prophet. O glorious Prophet. La ilaha illa Allah Muhammadun, Sayyidina Muhammadun Rasulullah (sas).
 
 Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=10769&name=2014-02- 21_tr_BirHicIcin.mp4
-
-www.saltanat.org Page 2

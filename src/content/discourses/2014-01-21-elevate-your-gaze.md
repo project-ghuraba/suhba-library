@@ -35,12 +35,10 @@ Please go ahead O Shahi Mardan. Please go ahead O Effendi of men. May they give 
 
 Look for loftiness. Look for heights. Do not look for trash. Look for heights. Search for highness. Do not search for trashiness. O our Lord. Forgive us. Shahi Mardan, accept us. May we be with the manly men. Let us try to be like manly men. Please go ahead O sultan Shahi Mardan. Please go ahead O Hz Ummuhan. O blessed ones, may the heaviness on us go away. Let us revive and move. Let us be for Allah. Fatiha.
 
-May the weight on us be lifted. May the heaviness go away. Let us be light. Let us be filled with Allah's love. We can’t be near Allah but let us at least have affection for the ones He loves. Who is the one He loves? Habibullah. He is Rasulu Kibriya. Connect/devote yourself to him. Be happy with him. Be relieved. www.saltanat.org Page 1 You will not die. You will stay alive. O our Sultan Ummuhan,(Hala Sultan) may we not be crushed. For 1,500 years, 1,500 years, Hz Sultan waits for us there. Do you know that? 1,500 years our Ummuhan Sultan. We live with the blessings of these sacred ones. We will reach. Be with the great ones and you may become great. If you are with trash, you become trash.
+May the weight on us be lifted. May the heaviness go away. Let us be light. Let us be filled with Allah's love. We can’t be near Allah but let us at least have affection for the ones He loves. Who is the one He loves? Habibullah. He is Rasulu Kibriya. Connect/devote yourself to him. Be happy with him. Be relieved. You will not die. You will stay alive. O our Sultan Ummuhan,(Hala Sultan) may we not be crushed. For 1,500 years, 1,500 years, Hz Sultan waits for us there. Do you know that? 1,500 years our Ummuhan Sultan. We live with the blessings of these sacred ones. We will reach. Be with the great ones and you may become great. If you are with trash, you become trash.
 
 Allahu Allah, Allahu Rabbi Allahu Hasbi. Ma li siwaHu. O our Mawla, Owner of earth and heavens. May the weight on us be lifted. May Your love and enthusiasm reach us even if a tiny drop. Allah Allah, Allah Allah, Allah Allah. May he give us from the love and enthusiasm of the heavens. Let us open up. May we not be crushed. Let us run after the Lutuf (favor) and Karam (generosity) of our Lord. Allahu Allah, Allahu Rabbi Ma li siwaHu illa Hu. Fatiha.
 
 Read on me Mehmed. Huu. Allah razi olsun (may Allah be pleased with you). Allah razi olsun. May you be of the masters of Tawheed.
 
 Video link: http://saltanat.org/videopage.php?id=10426&name=2014-01- 21_tr_YukseklereBak.mp4
-
-www.saltanat.org Page 2

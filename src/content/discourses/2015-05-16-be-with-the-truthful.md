@@ -31,7 +31,7 @@ The truthful are the Prophets. Sahabas (companions) are truthful, Awliya are tru
 
 Today we are saying, [it is an] order of Allah, holy verse: "Ya ayyuha lladhina amanu ittaqu Allaha wa kunu m'a s-sadiqin" (9:119) Allah ordering us to be afraid from Allah. How to [be] afraid? To not do wrong things, to see He is seeing us, what we are doing. He is, everything He knowing, nothing can hide. Second thing - Be with trustful people who are saying truth, people. Don't be with liars. And this is for our, human being's benefit. Allah [is] showing us these good ways because for Allah [there is] no benefit from what we doing. We done, we do, we will do - No benefit at all for Allah. No harm also for Him. He is Creator. Everything for you, for people, for human beings. Allah showing good way and to be with good people, not liar people. It is even for normal people, it is good.
 
-So, don't be liar! Because, hadith as-Sharif, Prophet (saws) saying: There are people, they are speaking, lying ones. After [that] lying again and they it is like habit for them and they will be written in Divine Presence as liars. And other who say truth, he saying truth every time saying truth. Allah write in Divine Presence they are true man, good man. Because when you saying truth, [it is] true - no www.saltanat.org Page 1 need to put another truth near it; it is OK. But when somebody lying and saying lie he must put another one near it. Because it is weak and it is not enough, he will put another, another, another until whole life he will be in, built on lies.
+So, don't be liar! Because, hadith as-Sharif, Prophet (saws) saying: There are people, they are speaking, lying ones. After [that] lying again and they it is like habit for them and they will be written in Divine Presence as liars. And other who say truth, he saying truth every time saying truth. Allah write in Divine Presence they are true man, good man. Because when you saying truth, [it is] true - no need to put another truth near it; it is OK. But when somebody lying and saying lie he must put another one near it. Because it is weak and it is not enough, he will put another, another, another until whole life he will be in, built on lies.
 
 This is you must be away from these people who are promising and not doing, and they are lying [their] whole life. You must be away from these people. Allah ordered to be with true-saying people. And it is easy for people to live with good people, not easy to live with not trustful (trustworthy) people. It's for our benefit.
 
@@ -42,5 +42,3 @@ Allah keep us in the right way, and write us in good people, trustful people in 
 Wa min Allah it-Tawfiq Al-Fatiha
 
 Video link: http://saltanat.org/videopage.php?id=13688&name=2015-05- 16_tr_BeWithTheTruthful_SM.mp4
-
-www.saltanat.org Page 2

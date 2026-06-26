@@ -35,7 +35,7 @@ O Allah, what a great favour to say Bismillahi r-Rahmani r-Rahim. Say O people! 
 
 First we say Allah's Name. This is necessary for all servants, whatever they do, they must first say Allah's Name. This is necessary for all servants, whatever they do. Our Lord, O our lord, our Subhan. O companions of Shah Mardan. Be among the companions of Shah Mardan. Be so that the mercy of heavens & earth may be opened, the lights may be opened, the honors may be opened Shaykh Mehmed Efendi. You too Mehmed. Let's ask. Let's ask, let's ask this. "Ar-Rahman"(55:1) "Khalaqa l-insana"(55:3) "Allamahu l-bayana"(55:4) Allahu Akbar. What a beautiful addressing Shaykh Mehmed Efendi. "Ar-Rahman"(55:1) "Khalaqa l-insana"(55:3) He created who? The human being, the perfect human being,
 
-www.saltanat.org Page 1 Allah created the one, Allah created the one, to whom He granted His addressing. "Khalaqa l-insana. Allamahu l-bayana"(55:3,4) We may be opened also.
+Allah created the one, Allah created the one, to whom He granted His addressing. "Khalaqa l-insana. Allamahu l-bayana"(55:3,4) We may be opened also.
 
 O companions of Shah Mardan. Stay in the assembly of Shah Mardan, enter, take. The ones with Shah Mardan they don't get weak. They gain power. Gain power. They take nur (light), take honor. Take miracles. Let's say Bismillahi r-Rahamni r-Rahim. O our Lord, even if we are weak we find strength with this word. Shaykh Mehmed Efendi, let's say Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Allah Allah. What majesty he has, Shaykh Mehmed Efendi. Speak about it, Shaykh Mehmed, speak don't be scared, you are authorized. What does he do? If there are 100 worlds like this world it can destroy.
 
@@ -46,5 +46,3 @@ What an honor, what a wonder that is, our son Shaykh Mehmed Efendi. You understa
 May Allah give you the chance to be in the assembly of honorable ones. They come and find, you also go and find, my son. Fatiha. May Allah open it for you.
 
 Video link: http://saltanat.org/videopage.php?id=11024&name=2014-03- 15_tr_NurMeclisi.mp4
-
-www.saltanat.org Page 2

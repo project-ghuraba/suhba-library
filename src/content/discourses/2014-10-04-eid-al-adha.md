@@ -33,7 +33,7 @@ Today, alhamdulillah, is Eid ul-Adha for Hajj, of course, but very few people ca
 
 But when Allah orders, satan is making fitna. But it is not like this, it is order of Allah. And Allah 'azza wa jalla gave barakah for these animals - sheep or cow. Allah created them and there is a secret when Allah put barakah. What does barakah mean - you put small amount and it is enough for everybody. These animals are like this. You know this because they are repeating every time, but it's okay to repeat once again. Sheep or cows, especially cows, need two or one and half year to give birth to another one. For sheep, in one year, they give birth to baby once. It is only one or sometimes two (babies). But you can see sheep everywhere. Why? Because Allah created them and He put barakah for them, they are not going to finish.
 
-But these dirty animals, they can give birth twice or three times a year, and each time give birth to 20 babies. And each one becomes 300 kg, but no barakah for them. And when they eat this, they become ill. www.saltanat.org Page 1 Illnesses coming from these animals for everyone who is eating. Coming illnesses and coming spiritual illnesses also.
+But these dirty animals, they can give birth twice or three times a year, and each time give birth to 20 babies. And each one becomes 300 kg, but no barakah for them. And when they eat this, they become ill. Illnesses coming from these animals for everyone who is eating. Coming illnesses and coming spiritual illnesses also.
 
 But sheep are mubarak, blessed ones. Why? Because Ibrahim (as), when the order came to slaughter his son, it was a test for him. He was a very merciful person, but he must do it. And he even put the knife on the neck of Sayyidina Ismail, but the knife not cutting because everything is by the order of Allah. Allah didn't give order to cut, so it didn't cut. And instead of him, Allah sent a big sheep. And from that time, it became obligatory...or like an order for Muslims to slaughter sheep. Ibrahim (as) is mubarak, blessed. And the barakah coming from him, that's why not finishing until Day of Judgment.
 
@@ -42,5 +42,3 @@ So don't worry, these animals are happy to be slaughtered for worship. And they 
 Alhamdulillah, with barakah of Mawlana, Allah gives us many more years to reach Sayyidina Mahdi also. Wa min Allah it-tawfiq, fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12437&name=2014-10- 04_tr_EidAlAdha_SM.mp4
-
-www.saltanat.org Page 2

@@ -37,7 +37,7 @@ In order not to listen to such people, there is tariqa. Tariqas reach to our Pro
 
 Otherwise, the enemies of Islam try hard to destroy Islam. They broke it into bits. But our Prophet said that there would be 73 groups. He said 72 groups will go to hell. Sahabas were frightened. They asked "How will we understand who is good and who is bad among all of these?" Our Prophet said "Be with the majority." The majority is on the right way, Shukr to Allah. There were never perverse groups among the majority. They are always in the minority. They were in small parts. And the main part, which remains big
 
-www.saltanat.org Page 1 no matter how much they divide, kill and chop it up, is the biggest group - Ahl as-Sunnah wa l-Jamaa. And that is the way, which these tariqas follow. Now other ways don't have tariqa.
+no matter how much they divide, kill and chop it up, is the biggest group - Ahl as-Sunnah wa l-Jamaa. And that is the way, which these tariqas follow. Now other ways don't have tariqa.
 
 Outside our Ahl as-Sunnah wa l-Jamaa there's nothing like tariqa. They name what they have "madhhabs". Those madhhabs are not right, only four madhhabs. Four madhhabs go by the way explained by our Prophet. The rest go by their minds. They pretend not too see, or they obey their shaitans and egos, and deny everything else. They give fatwa according to their minds. And Ahl as-Sunnah wa l-Jamaa, people of tariqa, respect our Prophet, respect Ahl al-Bayt and respect all sahabas. These are the 3 important things. Respecting Ahl al-Bayt is also important. Who respects Ahl al-Bayt not only does not go out of madhhab, but also carries out the order of our Prophet. The same for those who respect and love sahabas. Our Prophet said "Don't swear at my sahabas. May those who swear at my sahabas be cursed by Allah." This came out of the holy mouth of our Prophet. It's not an easy thing. A curse from our Prophet's mouth is not good for those people. That's why, this way is the way to be careful.
 
@@ -53,4 +53,4 @@ Wa min Allahi t-tawfiq. Al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=13082&name=2015-01- 03_tr_RespectForTheProphet_SM.mp4
 
-www.saltanat.org Page 2 www.saltanat.org Page 3
+NoneNone

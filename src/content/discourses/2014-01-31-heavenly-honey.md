@@ -37,7 +37,7 @@ Let's be content Sh Mehmet Effendi. We are in the ummah of the Beloved one. Why 
 
 May the noor of our faces increase. Noor descends everyday. Seek noor. Seek Noor not Naar (fire). Don't run to fire. This world is fire. No use for anything - it means "edna"; most rubbish thing. Rabbul Izzat did not even look at it once, at this world. Hasha! Janab-i Haq has no need to look at it.
 
-O our Lord; O Great Prophet give us strength for the love of yaran Shahi Mardan. Keep us on Your straight path. Let us run after Your love. Let us run after Your beloved one. May our hearts open up, be content. Let's run to our Lord. Let's run after His beloved one. MashaAllah. You are our Lord. This takes www.saltanat.org Page 1 away all troubles. Allah does not give trouble to His servants. Hasha! He grants contentment to His servants for the barakat of His beloved one. Be content for we are among the ummah of His beloved one.
+O our Lord; O Great Prophet give us strength for the love of yaran Shahi Mardan. Keep us on Your straight path. Let us run after Your love. Let us run after Your beloved one. May our hearts open up, be content. Let's run to our Lord. Let's run after His beloved one. MashaAllah. You are our Lord. This takes away all troubles. Allah does not give trouble to His servants. Hasha! He grants contentment to His servants for the barakat of His beloved one. Be content for we are among the ummah of His beloved one.
 
 Man needs to know his honour. He needs to know what to seek, to run after. Don't work for this rubbish world. O our Lord, My Mawla, the One who raises the sun, may our hearts shine with the noor of faith.
 
@@ -56,5 +56,3 @@ They make a fake honey, Sh Mehmet Effendi. And also there is the one bees make. 
 Fatiha.
 
 http://saltanat.org/videopage.php?id=10569&name=2014- Video link: 01-31_tr_GokyuzununBali.mp4
-
-www.saltanat.org Page 2

@@ -33,7 +33,7 @@ It is important to know also, as much as you can pray, you pray. Don't minus you
 
 That's why, it is important to add in your prayer. Add as much as you can. You pray sunnah. You pray another sunnah. You pray sunnat-ul wudu, you pray another sunnat-ul wudu. You pray shukr, pray much of shukr. You pray night prayer, you pray as much as you can. If Allah Almighty, He is giving you the opportunity to pray and you don't know the value of the prayers, I'm telling you the value of the prayers now. So many people, they say "We pray very slowly". It's ok, but if you are praying little bit faster but you're praying more rakat, it will be better. Because every rakat is counted. Don't forget, if you pray 2 rakat very slow, maybe you pray 10 rakat very fast, you have 10 rakat as counted. It's important to understand such things. Not that we are praying so fast or we are praying so slow. Maybe you can enjoy your prayer, I'm not saying anything. But the counting is there. Allah Almighty, He counts. "This servant, he prays for Me every day 100 rakat. And this servant, he prays for Me 2 rakat." What the angel will say? "Ya Rabbi,
 
-www.saltanat.org Page 1 this man is praying 100 rakat and this man praying 2 rakat". Which one more valuable? Of course, 100 rakat is more valuable.
+this man is praying 100 rakat and this man praying 2 rakat". Which one more valuable? Of course, 100 rakat is more valuable.
 
 Allah Almighty, He's telling you "Pray. Pray for Me as much as you can." And He says "You praise RasulAllah as much as you can. Make salatu salam for RasulAllah as much as you can. Don't be scared. Don't be scared. You make la illaha illAllah as much as you can. Don't be scared. Say Allah as much as you can. Don't be scared". This is offer from the central bank of Allah Almighty. Carry as much as you can. He says "Carry. Carry on". He says "Carry on, bring your lorry and take as much as you want". This is how Allah Almighty's so generous. This is how Allah Almighty, He is looking after us.
 
@@ -44,5 +44,3 @@ May Allah bless you and may Allah make you happy here and hereafter and make you
 Wa min Allahi t-tawfiq. Bi hurmati-l Habib, bi hurmati-l Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12905&name=2014-10- 23_en_PrayAsMuchAsYouCan_SB.mp4
-
-www.saltanat.org Page 2

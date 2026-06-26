@@ -33,10 +33,8 @@ Only very few people, they are meeting with that one who representing haqq throu
 
 Or we are going, coming. So many camels going and coming. Don't be like camels. Perhaps camels may understand more than ourselves. Perhaps camels they have more feelings about that Divinely appearances in Ka'ba l-Musharrafa. Yes. Therefore, we must look after someone whom representing the Lord Almighty Allah for our destination, for our health, for our advancing and to be able to reach our destinations in Divine presence.
 
-www.saltanat.org Page 1 Therefore, association with Sheikh [is] one of the most important pillars of tariqat-ul Aliya. Because 'bidunu' without that, no tariqat. May be short one, may be tall one but baraka comes same. Allah gives us from the endless mercy oceans, from His endless baraka and blessings.
+Therefore, association with Sheikh [is] one of the most important pillars of tariqat-ul Aliya. Because 'bidunu' without that, no tariqat. May be short one, may be tall one but baraka comes same. Allah gives us from the endless mercy oceans, from His endless baraka and blessings.
 
 Bi hurmati-l Habib, bi hurmati-l Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=13777&name=1987-02- 00_en_TheStationOfIbrahimAS_SN_a.mp4
-
-www.saltanat.org Page 2

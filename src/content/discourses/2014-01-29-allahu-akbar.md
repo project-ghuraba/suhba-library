@@ -35,7 +35,7 @@ These are a couple of words after sabah (morning) prayers, words from the holy o
 
 Allahu Akbar, Allahu Akbar Allahu Akbarul Akbar wa Lillahi l-hamd. Thanks be to Allah. Even these couple of words, if we say it in every gathering of ours, is worth this universe. It does not leave heaviness on us. It does not leave. We get comfortable. We get comfortable, Sheikh Mehmed Effendi. Let us say, "Subhan Allah, wa l-hamdu Lillah, wa la Ilaha illAllah, w'Allahu Akbar, Allahu Akbar wa Lillahi l-hamd." Saying this is more than enough. What does it mean to praise, to thank and to glorify Allah Almighty, Subhanahu wa Ta'ala? Allahu Akbarul Akbar. Subhan Allah. O our Lord, what an honor Allah Almighty gave us. What an honor Mawla Almighty gave us. What a beautiful form He gave as well. What were we going to do if He gave us the form of monkey, Mehmed? Huh, like a monkey. Do you look like a monkey? Leave it. There is no person that looks like a monkey. "Laqad khalaqna-l insana fee ahsani taqweem."
 
-www.saltanat.org Page 1 (95:4) Ahsani takwim (best form). Give thanks to your Lord that, ahsani takwim, He dressed us with the most beautiful form.
+(95:4) Ahsani takwim (best form). Give thanks to your Lord that, ahsani takwim, He dressed us with the most beautiful form.
 
 Allahu Akbar, Allahu Akbar wa Lillahi l-hamd. This blessing, is from pre-eternity to eternity, Sheikh Mehmed Effendi. It is not temporary, Mehmed. O our Lord, our Subhan and our Sultan. The great sun is on top of our heads. Sheikh Mehmed Effendi. It remains like a lamp. The great sun. Neither is its size clear, nor its distance clear, nor is its power clear, nor is its essence clear. The sun. "Wa sh-shamsu wa l-qamaru." Is it so? Allahu Akbar. How did it happen? It happened with "Kun fayakun". How many shams, suns? He makes no calculation. "Idha arada shayan an yaqula lahu kun fayakun" (36:82) To make a billion suns - When He says, "Be" it happens immediately. Allah Almighty's Greatness. This is a very, very, very small representation. It comes out of there. For whom? "Walaqad karramna bani adam" (17:70).
 
@@ -46,5 +46,3 @@ O yaran, Shah Mardan's beloved friends, listen, think and understand. Perform yo
 Sheikh Mehmed Effendi. This is my lion. He is a lion, but he is hidden and covered. Yes, did you read? May Allah be pleased with you. May Allah increase your grandeur. Day in and day out, say, "Allahu Akbar." Say, "Allah Akbar." May our grandeur increase. Even if it were a world full of a hundred thousand satans, saying "Allahu Akbar" would finish them and defeat them. Allahu Akbar. Make dua on me Mehmed. May Allah be pleased with you.
 
 Video link: http://saltanat.org/videopage.php?id=10544&name=2014-01- 29_tr_AllahuAkbar.mp4
-
-www.saltanat.org Page 2

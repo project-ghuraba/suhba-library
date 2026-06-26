@@ -35,7 +35,7 @@ O our Lord, let us understand, for the one explaining it is Shah Mardan. He, Sha
 
 Our attribute is {wa laqad karamna Bani Adam} (17:70) {and indeed, We have truly honored the children of Adam.} the letter "lam" in addition to "qad" expressing a double affirmation, "karamna, We have granted honor", He says, {wa laqad karamna Bani Adam} He has honored the children of Adam. My goodness, are you aware of this? Do you appreciate it? No! I'm going to study this, I'm going to make that,
 
-www.saltanat.org Page 1 I'm going to do that..., whatever you do for the sake of this world, it's all rubbish! It has no value. {Libasu t-taqwa,dhalika khayrun lakum.} (7:26)
+I'm going to do that..., whatever you do for the sake of this world, it's all rubbish! It has no value. {Libasu t-taqwa,dhalika khayrun lakum.} (7:26)
 
 The dress of godfearingness is a dress of honor in which His servants are dressed from Heavens. Look for its honor! Why do you care about those without honor? Even if in this world they put a golden crown on their heads, if it is not approved from above, that golden crown they wear on their heads in this world has no value at all; it's gold brings no value. Its silver brings no value. Its pearls and its jewels bring no value. Its owner has a value. Its owner has a value. Try to become worthy of owning it! For what? For real pearls, diamonds and jewels. Whatever is in this world is fake and made up, it won't earn you anything. Your clothes won't earn you anything either, nor will what you put on your head avail you anything.
 
@@ -47,7 +47,7 @@ The prophets who were sent, they came to turn men into angels. They were not sen
 
 After reading Allah's word how do you know yourself? You'll have become a king, you'll have become a Padishah. What you're eating is just one morsel. On a laden table, there are so many different kinds of blessings, but these blessings don't teach you who you are. The Sultan's laid table does not teach man who he is. It cannot change his characteristics. It cannot explain to him the underlying wisdom of his creation. {wa laqad karamna Bani Adam} (17:70) There's a divine grant of honor for man. {wa laqad karamna Bani Adam} Our venerable Shaykh always used to recite this verse, {wa laqad karamna Bani Adam} A divine grant of honor, aman, ya Rabbi!
 
-The honor and rank we've been dressed in is beyond the thinking of our minds. O our Lord, Your accepting us as Your servants, how great an honor that is! You created us, You granted us honor, an honor that wasn't given to any other creature. Man should understand what it means to be human. He must www.saltanat.org Page 2 appreciate his honor, his worth lies in that. Al-hamdu Lillah. Let's say Bismi-Llahi r-Rahmani r-Rahim. Fatiha.
+The honor and rank we've been dressed in is beyond the thinking of our minds. O our Lord, Your accepting us as Your servants, how great an honor that is! You created us, You granted us honor, an honor that wasn't given to any other creature. Man should understand what it means to be human. He must appreciate his honor, his worth lies in that. Al-hamdu Lillah. Let's say Bismi-Llahi r-Rahmani r-Rahim. Fatiha.
 
 Did you understand? This is a subject full of wonders. May Allah forgive us! Our Lord sent us His Beloved, He sent the beauty of all beauties, His Beloved, to inform us. The companions were bewildered looking at the splendid sight of this great Prophet aman, ya Rabbi. How beautiful the Prophet was! What a glorious Prophet he is, our Master, our venerable Master! We've been unable to comprehend anything, to learn anything, to do anything. May Allah forgive us! Fatiha.
 
@@ -60,5 +60,3 @@ These moments are the reason they are speaking. There is this and there is that.
 Convey my Salams to Faqir Baba, Let's not call him faqir (poor one)! I love them all, "way fakirler!" Look, we said faqir again. May Allah be pleased with him, he's been teaching so many people. Spend, spend and don't be afraid. A pile of gold the size of a mountain will come to you, don't you be afraid!
 
 Video link: http://saltanat.org/videopage.php?id=10747&name=2014-02- 19_tr_LibasutTaqwa.mp4
-
-www.saltanat.org Page 3

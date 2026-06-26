@@ -30,5 +30,3 @@ And another time - after Asr until Maghrib, also same. You must do dhikr and rea
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12609&name=2014-10- 23_en_BlessedTimesOfDay_SM.mp4
-
-www.saltanat.org Page 1

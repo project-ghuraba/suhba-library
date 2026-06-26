@@ -35,7 +35,7 @@ O our Lord, our Subhan, You loved Your Beloved and made the Universe love him. R
 
 MashaAllah, mashaAllahu kana. What Allah wants will happen, what He doesn't want won't work. May Allah let us join the way of His Beloved. The way that our Master shows. Sabeela; ahsan sabeela, the most beautiful way. Where does the way of our Master lead? It leads to the presence of Allah Jalla Jalaluhu. What else do you look for? Nothing of this world will help you gain something. "Ayyaman ma'dudatan" (2:80) "Just a few days." Mess around too. You didn't come to this world to mess around. No, not to mess around. Join, walk on the way of the Habib, the Beloved of Rabb-ul Izzat, who honored you with the
 
-www.saltanat.org Page 1 honor of a human. You'll open. Rijalullah, beloved servants of Allah. Yes. Walk on their way. Yes, Rijalullah.
+honor of a human. You'll open. Rijalullah, beloved servants of Allah. Yes. Walk on their way. Yes, Rijalullah.
 
 May our souls open. Tariqatuna s-sohba. Our way is the way of association. They bring light which will open your souls. Possessors of light - Rijalullah are those carrying light. Ask for light. Don't look at rocks and dirt. The Sultan-ul Anbiya is the one who will take you to the presence of your Lord. Look for your way, find and see. What is there and what is not. O mankind. O mankind, don't forget that you were created - You were not created for this world. No. You were not created to be a servant of this world. If we are to serve this world, hasha min-al hudhur, all animals are in service. All of them do that service, they serve you. Everything is your servant. Open up. Look for your way to your Lord, to the Beloved of your Lord. You'll find your peace. Allahu Akbar, Allahu Akbar, Allahu Akbar wa Lillahi l-hamd.
 
@@ -53,7 +53,7 @@ How are you, Haji Mehmet?
 
 HM: Shukr to Allah, we are good.
 
-M: Look. He went around. How many seeds he planted where he went. He planted seeds of love. My dear grandson planted them. Who took from those seeds opened. More will open. May Allah increase your rank. Your father's and grandfathers'. Always read salat-ul salam for our Master, don't make it less. More www.saltanat.org Page 2 of anything else is never enough. As long as you're on the way of Allah, no harm for you, only benefit. Fatiha.
+M: Look. He went around. How many seeds he planted where he went. He planted seeds of love. My dear grandson planted them. Who took from those seeds opened. More will open. May Allah increase your rank. Your father's and grandfathers'. Always read salat-ul salam for our Master, don't make it less. More of anything else is never enough. As long as you're on the way of Allah, no harm for you, only benefit. Fatiha.
 
 Try to be closer to the Habib-ul Kibriya by any means. Be among loved ones in his presence. How beautiful. Fatiha.
 
@@ -64,5 +64,3 @@ Look to your duty. Whatever is on this way, pay attention to it. Go ahead, don't
 Read on me. Read, my son. MashaAllah.
 
 Video link: http://saltanat.org/videopage.php?id=10683&name=2014-02- 11_tr_RijalullahinYolu.mp4
-
-www.saltanat.org Page 3

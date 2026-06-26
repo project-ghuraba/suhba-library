@@ -37,6 +37,4 @@ Allah keep us in the right way inshaAllah. Allah give baraka and save you from e
 
 Wa min Allahi t-tawfiq, al-Fatiha.
 
-www.saltanat.org Page 1 Video link: http://saltanat.org/videopage.php?id=12608&name=2014-10- 25_en_BuildingAMosque_SM.mp4
-
-www.saltanat.org Page 2
+Video link: http://saltanat.org/videopage.php?id=12608&name=2014-10- 25_en_BuildingAMosque_SM.mp4

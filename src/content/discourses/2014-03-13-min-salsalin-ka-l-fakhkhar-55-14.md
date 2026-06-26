@@ -33,7 +33,7 @@ Be happy. Be relieved. Be relieved. Don't be sad. Don't be sad. No. Our Lord cre
 
 "Khalaqa al-insana min salsalin kalfakhkhar" (55:14) Janab-ul Haqq created us from clay. Shukr alhamdulillah. Let's make sajda continuously. Let's make sajda continuously to our Lord. Let us open. May we open when we make sajda. May we open. May we become beautiful. May we earn the pleasure of our Lord. Yes. Allahu Allah, Allahu Rabbi ma li siwahu illa Hu. O our Lord. You are the One who created us. Janab-ul Haqq is the One giving beauty to man, who makes him beautiful. "Khalaqa al-insana min salsalin kalfakhkhar" (55:14) "He created a man from clay, which makes a sound when hit, resounding clay". O our Lord, You are Subhan, You are Sultan. How beautiful, how nice, how pleasant if we make sajda a thousand times, not just five times, in Your presence.
 
-Our Allah. Our Allah. You gave us beauty. You gave us honor. We received honor from our Lord. "Khalaqa l-insana min salsalin kalfakhkhar" (55:14) Janab-ul Mawla created us from clay which makes a sound when hit. Al-Azamatu Lillah wa l-'Izzatu Lillah. Strength for us, ya Rabbi. May we not be weak. Don't be weak. Don't be weak. Be strong. Be honored. Be brave. Be loved. Be loveable. Your Lord created www.saltanat.org Page 1 you. O our Lord. He created us beautiful. He didn't create us ugly. If so, say O man, "Khalaqa l-insana min salsalin kalfakhkhar" (55:14) Janab-ul Haqq created. Janab-ul Haqq, Al-Azamatu Lillah wa l-'Izzatu Lillah.
+Our Allah. Our Allah. You gave us beauty. You gave us honor. We received honor from our Lord. "Khalaqa l-insana min salsalin kalfakhkhar" (55:14) Janab-ul Mawla created us from clay which makes a sound when hit. Al-Azamatu Lillah wa l-'Izzatu Lillah. Strength for us, ya Rabbi. May we not be weak. Don't be weak. Don't be weak. Be strong. Be honored. Be brave. Be loved. Be loveable. Your Lord created you. O our Lord. He created us beautiful. He didn't create us ugly. If so, say O man, "Khalaqa l-insana min salsalin kalfakhkhar" (55:14) Janab-ul Haqq created. Janab-ul Haqq, Al-Azamatu Lillah wa l-'Izzatu Lillah.
 
 Beauty belongs to Him, to our Lord. He made us beautiful, He didn't make us ugly. He made beautiful, my son. Make sajda. Make sajda to your Lord because He created you beautiful. Then say Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. There can't be anyone who recites Bismillah Sharif and says "I'm sick". There can't be. Rabb-ul Izzat created beautiful, He didn't create ugly. Our Lord gave everyone beauty so that we open, sheikh Mehmed Efendi. Let us open, let us open. Allah Jalla Jalaluhu created us beautiful. He created us beautiful. Know it. Know and make sajda. La ilaha illAllahu wahdahu la sharika lahu, lahul mulku wa lahul hamdu, Yuhyi wa Yumeetu, wa huwa Hayyun Da'imun Baqi la yamutu bi yadihil khayr, wa huwa 'ala kulli shay'in Qadir.
 
@@ -49,6 +49,4 @@ This helped. It's strong. I am tired. I got tired but we don't get tired for the
 
 Fatiha.
 
-www.saltanat.org Page 2 Video link: http://saltanat.org/videopage.php?id=11036&name=2014-03- 13_tr_MinSalsalinKalfkhkhar.mp4
-
-www.saltanat.org Page 3
+Video link: http://saltanat.org/videopage.php?id=11036&name=2014-03- 13_tr_MinSalsalinKalfkhkhar.mp4

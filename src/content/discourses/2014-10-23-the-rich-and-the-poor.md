@@ -35,10 +35,8 @@ Alhamdulillah there are poor people, they are... Because they don't have any bur
 
 InshaAllah this place, it will be light for all this area, all countries also. Here happy people because this country, subhanAllah, it is the richest country in the world I think. But poor people too much. If they accept, Allah, He will open for them and give them baraka to be even here also happy and in akhira. Allah make these people who love to give charity more and more inshaAllah, and accept dua of poor people for all countries inshaAllah to be in, to come to right way. Right way, the nice way, so only good things there, not accepting any bad things, action or... Even the man doing for himself will not accept this for him also because he is also creature Allah created. We must show him the right way.
 
-www.saltanat.org Page 1 Allah give Mawlana Sheikh because he show us our these ways. He showing good ways. And Allah make his ranks higher and higher and make his baraka. And he is looking after us. Because he is from Awliyaullah, saint. If he bodily went to akhira for grave, but his spiritual is around us all time. He is happy with this doing. He is not happy with bad things. But with good things he's very happy.
+Allah give Mawlana Sheikh because he show us our these ways. He showing good ways. And Allah make his ranks higher and higher and make his baraka. And he is looking after us. Because he is from Awliyaullah, saint. If he bodily went to akhira for grave, but his spiritual is around us all time. He is happy with this doing. He is not happy with bad things. But with good things he's very happy.
 
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12592&name=2014-10- 23_en_RichAndPoor_SM.mp4
-
-www.saltanat.org Page 2

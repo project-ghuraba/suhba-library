@@ -41,6 +41,4 @@ InshaAllah this ummah also to survive and to be peace in country with Syria, Ira
 
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
-www.saltanat.org Page 1 Video link: http://saltanat.org/videopage.php?id=12570&name=2014-10- 30_en_Ashura_SM.mp4
-
-www.saltanat.org Page 2
+Video link: http://saltanat.org/videopage.php?id=12570&name=2014-10- 30_en_Ashura_SM.mp4

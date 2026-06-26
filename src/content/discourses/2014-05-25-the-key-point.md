@@ -37,7 +37,7 @@ And so many people they say "how to understand such a thing?" If you are followi
 
 But if you have a Shaykh he will tell you "you go for that shop. You go for that area, place and you get your things from there immediately without wasting any time. This is the difference about by searching by yourself and by having Shaykh to give you the full service. And telling you this is the secret that you need. And you put it in your heart and be showing for all over the world to say "yes it is our secret! Alhamdulillah! This secret is belonging to me."
 
-www.saltanat.org Page 1 Because every person has his own secret belonging to him. It is available in the shop! It is available in the shop! But, it is our life - will it be enough to go for that shop and to find that secret, the one that belongs to us? This is the question matter. Big question mark, our life to go all this way in this market and to find the right shop. The right area, the right place to get our right secret. It could be a coincidently happening - not on purpose. But if you have a Shaykh, you go, you take it and you enjoy it all your life. Alhamdulillah like Mawlana Shaykh he give us this enjoyment.
+Because every person has his own secret belonging to him. It is available in the shop! It is available in the shop! But, it is our life - will it be enough to go for that shop and to find that secret, the one that belongs to us? This is the question matter. Big question mark, our life to go all this way in this market and to find the right shop. The right area, the right place to get our right secret. It could be a coincidently happening - not on purpose. But if you have a Shaykh, you go, you take it and you enjoy it all your life. Alhamdulillah like Mawlana Shaykh he give us this enjoyment.
 
 Very important to know. This is key point! It is important to know that when you have a Shaykh you will be delivered your secret. You don't have to go for your secret because he is keeping your secret with him and he gives it to you. And he makes it to be in safinat al najat, that's the safe boat that he is providing also. And you will be, here and hereafter, very relaxed, because here maybe we have some difficulties but we know that we are going for better address. We know that we are going for love of Allah Almighty, for Rasulullah. And this is rubbish life - it is whatever you do, it will have ending. Even you are in good condition or in bad condition, it doesn't matter.
 
@@ -46,5 +46,3 @@ This is the good things here when you have your secret with you. If you've been 
 Wa min Allahi t-Tawfiq, bi hurmati l-Habib bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11595&name=2014-05- 25_en_TheKeyPoint_SB.mp4
-
-www.saltanat.org Page 2

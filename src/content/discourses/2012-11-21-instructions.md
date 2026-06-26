@@ -37,7 +37,7 @@ Be careful with your prayers! If something happens to those who don't pray, they
 
 All who don't make sajda are in danger. There is death in front of them- those who don't pray. It will wipe them out first. Who has no sajda will be taken, they should make sajda at least once a day for Allah Almighty. Don't ever drink! They should stop the night life- From the mosque to home & from home to
 
-www.saltanat.org Page 1 mosque only. It is barakah for them & also Allah Almighty protects them. O Lord, may You forgive us. Fatiha.
+mosque only. It is barakah for them & also Allah Almighty protects them. O Lord, may You forgive us. Fatiha.
 
 Put this in Turkish & in Arabic also. Put it in (Saltanat). This is an advice. Who hears it is saved, or else they will be very upset later. They will cry too much but it won't help anything. All who don't put their foreheads down even once for sajda will be taken away. What those who don't make sajda eat & drink is haram. This is the advice coming to us from the Heavens. We are responsible to declare it, but not responsible to make them do it.
 
@@ -52,5 +52,3 @@ It will reach the whole world, especially the Muslim world- Muslims. If 1 whip c
 If it wasn't for Umm Hiram Sultan Hz, O two-legged ones of Cyprus, so much would happen to you but fortunately she is a Mercy, she is preventing. Allah..Fatiha..Allah...
 
 Video Link:http://saltanat.org/videopage.php?id=5807&name=2012-11-21_tr_Talimat.mp4
-
-www.saltanat.org Page 2

@@ -35,10 +35,8 @@ Alhamdulillah that we are happy to be fasting and, even our ego not happy that w
 
 It is important to know about Ramadan - Ramadan is the month of zikr, month of Quran, month of worship to Allah Almighty, and it is the month that is carrying the whole year's ibada in it. Because outside Ramadan, you are not bothering to fast. Outside Ramadan you are maybe not bothering to read Quran. Outside Ramadan you are very lazy to pray night prayer. Outside Ramadan you are making thousands of excuses like me. But in Ramadan there is no excuse. You're trapped! Ramadan is a trap. And Allah Almighty He knows how He makes this trap. Alhamdulillah Shukr. Because He knows His servants.
 
-We are saying that we are loving shahr/month Ramadan so much because shahr Ramadan is taking us to worship more for Allah, and to make ibada and to be nearer to Him and to feel the heat of Allah Almighty. The hot love of Allah Almighty that you are directly in touch with Allah Almighty because you are sacrificing - we think that we are sacrificing - but we are sacrificing from so many things in this month. And to say "Ya Rabbi we are for You." And we are coming to be good servant for You - even temporarily, like www.saltanat.org Page 1 one month. Even those You are accepting us as we are full time servants for You and to be with You all the time with our heart, with our feelings and our prayers.
+We are saying that we are loving shahr/month Ramadan so much because shahr Ramadan is taking us to worship more for Allah, and to make ibada and to be nearer to Him and to feel the heat of Allah Almighty. The hot love of Allah Almighty that you are directly in touch with Allah Almighty because you are sacrificing - we think that we are sacrificing - but we are sacrificing from so many things in this month. And to say "Ya Rabbi we are for You." And we are coming to be good servant for You - even temporarily, like one month. Even those You are accepting us as we are full time servants for You and to be with You all the time with our heart, with our feelings and our prayers.
 
 Wa min Allahi t-Tawfiq, bi hurmati l-Habib bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11875&name=2014-07- 06_en_DontBeAZombie_SB.mp4
-
-www.saltanat.org Page 2

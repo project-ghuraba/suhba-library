@@ -45,7 +45,7 @@ Rukiya stood up. Rukiya Hanim, my generous one, put on green today so that it's 
 
 May you not have troubles. Pray for me too. Pray. May they be like the roses of paradise. Your country is festive. It has above and below. This is Na'ima hanim.
 
-www.saltanat.org Page 1 How, Rukiya? Aren't they cutting these? These dates? They've cut it. Sometimes you make soup. Perfect. Sometimes you can't pass by it. Who made it? Jamila. Shall I swear at or respect you then? What shall we do? Marhaba. Make a round like this, O bahlul (foolish one).
+How, Rukiya? Aren't they cutting these? These dates? They've cut it. Sometimes you make soup. Perfect. Sometimes you can't pass by it. Who made it? Jamila. Shall I swear at or respect you then? What shall we do? Marhaba. Make a round like this, O bahlul (foolish one).
 
 Marhaba. May Allah make you laugh. May you be beautiful both here and hereafter. May your ends be good. May you be clean servants. May you become neighbors of our mother Fatmatu Zahra. Pray for me as well. Fatiha.
 
@@ -58,5 +58,3 @@ Fatiha.
 Video link: http://saltanat.org/videopage.php?id=10545&name=2014-01-
 
 31_tr_BenimKizlarim.mp4
-
-www.saltanat.org Page 2

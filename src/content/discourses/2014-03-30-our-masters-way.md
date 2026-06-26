@@ -35,7 +35,7 @@ What is dunya? It is filth. Dunya is not something honorable that you should be 
 
 Prophet Ibrahim alayhi s-salam, built it, with Allah Dhul Jalal's order, he built Baytullah/Allah's House. Why don't you build a bayt/house too. Prophet Ibrahim did it, 'ala Nabina alayhi s-salatu wa s-salam. You make one too. You make one also. Why don't you build one? You build on this earth, you build palaces, you fill them with different types of decorated things, but they have no value. Why don't you try and build something like Baytullah?
 
-O Allah, may our hearts be joyful. May our hearts be happy, may we gain strength. May we become stronger in Allah's Way, my son. Those who follow Allah's Way do not get tired. Those on Allah's way do not get distressed. Those on Allah's way don't get fed up. Aman ya Rabbi. Those who are on the way to Your Magnificent House are happy and joyful. What a beautiful Baytullah it is. What a beautiful journey it www.saltanat.org Page 1 is to run and visit Baytullah. If only we could go on this beautiful journey and wipe our faces on the path that goes to the Magnificent Ka'aba. May it be written for us too, so we can be refreshed, so our love and longing will increase.
+O Allah, may our hearts be joyful. May our hearts be happy, may we gain strength. May we become stronger in Allah's Way, my son. Those who follow Allah's Way do not get tired. Those on Allah's way do not get distressed. Those on Allah's way don't get fed up. Aman ya Rabbi. Those who are on the way to Your Magnificent House are happy and joyful. What a beautiful Baytullah it is. What a beautiful journey it is to run and visit Baytullah. If only we could go on this beautiful journey and wipe our faces on the path that goes to the Magnificent Ka'aba. May it be written for us too, so we can be refreshed, so our love and longing will increase.
 
 To go to that beautiful Ka'aba doesn't make us disgraceful. You won't be downtrodden. Those who are going (to Ka'aba) are not made disgraceful. It means those going on Allah's way do not become downtrodden. Your belongings found in your houses and palaces don't give you honor. No. The clothes you wear don't give you honor. Nothing.
 
@@ -49,8 +49,6 @@ May we be refrashed. Walk the path of our Master and the path of his companions,
 
 And now we left all that and we are doing different types of nonsense things. No. Eat bread and olives. How nice. You won't have any troubles. Dip your bread in olive oil and eat. It is a remedy, it gives you strength and healing. You won't need a doctor nor any medicine.
 
-Let's understand. Let's understand. May we understand. Our Lord has granted us a good life, for the sake of His Beloved Habib. Let's step and walk in his footsteps, that glorious Prophet. Say - O glorious Prophet. Let's step and walk in the blessed footsteps that our Glorious Prophet walked. How beautiful, how honorable. How nice to follow the footsteps of our Prophet, my son. www.saltanat.org Page 2 Fatiha. InshaAllah we won't be tired. We will open up, we will be refreshed.
+Let's understand. Let's understand. May we understand. Our Lord has granted us a good life, for the sake of His Beloved Habib. Let's step and walk in his footsteps, that glorious Prophet. Say - O glorious Prophet. Let's step and walk in the blessed footsteps that our Glorious Prophet walked. How beautiful, how honorable. How nice to follow the footsteps of our Prophet, my son. Fatiha. InshaAllah we won't be tired. We will open up, we will be refreshed.
 
 Video link: http://saltanat.org/videopage.php?id=11196&name=2014-03- 30_tr_EfendimizinYolu.mp4
-
-www.saltanat.org Page 3

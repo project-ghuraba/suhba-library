@@ -35,10 +35,8 @@ Thanks to Allah Almighty that giving us pleasure in our hearts. So many people, 
 
 Only Allah Almighty making from this ummah a group of people, never getting in their hearts any darkness. They are always, their hearts always shining. No darkness, no night for them. Day by day going to be more brighter their hearts, lightening. And particularly in our time, they are going to be a light for whole ummah, for whole nation. Allah Almighty saying for them - they should be neighbors for Prophet peace be upon him and they should be neighbors for Allah Almighty in heavens, in paradise. It is speciality
 
-www.saltanat.org Page 1 for them. Their stations should be seen from ahli janna, from paradise people as we are looking stars. And it is impossible to reach stars. Their stations should be so higher from common people in paradise.
+for them. Their stations should be seen from ahli janna, from paradise people as we are looking stars. And it is impossible to reach stars. Their stations should be so higher from common people in paradise.
 
 There is a good tidings from Prophet peace be upon him - "al mar'u ma'a man ahab" A person should be with that person who he likes him. That is a big, good tidings. You, who likes him, you should be with him forever. Love makes us to be with prophets, to be with awliyas/saints, to be with sahabahs/companions. We like them. Nothing for us, except love to Prophet and prophets peace be upon them. And love his sahabahs and love his awliyas. That is our way.
 
 Video link: http://saltanat.org/videopage.php?id=12409&name=1984-06- 05_en_TheBelovedUmmah_SN_a.mp4
-
-www.saltanat.org Page 2

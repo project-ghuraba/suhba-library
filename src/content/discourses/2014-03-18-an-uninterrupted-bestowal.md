@@ -33,7 +33,7 @@ We are weak servants. But what we are asking, what we want, is not weakness, it 
 
 Our Lord gave us every kind of thing. We should thank Him. "Wa shkuruli wa la takfuruni"(2:152) Thank Me. Do not be disrespectful to Me. O our Lord how can we be disrespectful. You created us, You gave us strength, gave us majesty, gave us grandeur. You gave us honor O our Lord. Don't leave us in bad situations. May we open. O our Lord, O our Lord, is there one You left? You did not leave anybody. You gave, You give our Lord. O our Lord who feeds us, who hosts us, who offers and who does not stop granting, thanks to You. There is no limit to Your favors. Our Lord our Allah dresses us with grandeur, Mawla Almighty, our Allah. Shukr.
 
-www.saltanat.org Page 1 How beautiful is our Lord's most beloved. He also dressed on us the cloak of honor, we should take care of it my son. Let us protect it. O our Lord with infinite grants. Your grants for us won't end my Allah. Let us be in Your chamber, the holy court of our Lord. Let us be in Your pleasant court, in Your honored court, let us be present our Lord. O lovers of Shah Mardan. Allahu Akbar, Allahu Akbar, Allahu Akbar wa liLlahi l-hamd. Let us say Bismillahi r-Rahmani r-Rahim. How beautiful. Let us say Bismillahi r-Rahmani r-Rahim. Can't have enough, can't have enough, you can't have enough of our Lord's perfect, holy Words. You can't have enough of His kindness, my son. Let us ask. There is nothing He does not give. There is nothing He cannot give. He is the Lord of the universe. Our Lord is the Lord of the universe.
+How beautiful is our Lord's most beloved. He also dressed on us the cloak of honor, we should take care of it my son. Let us protect it. O our Lord with infinite grants. Your grants for us won't end my Allah. Let us be in Your chamber, the holy court of our Lord. Let us be in Your pleasant court, in Your honored court, let us be present our Lord. O lovers of Shah Mardan. Allahu Akbar, Allahu Akbar, Allahu Akbar wa liLlahi l-hamd. Let us say Bismillahi r-Rahmani r-Rahim. How beautiful. Let us say Bismillahi r-Rahmani r-Rahim. Can't have enough, can't have enough, you can't have enough of our Lord's perfect, holy Words. You can't have enough of His kindness, my son. Let us ask. There is nothing He does not give. There is nothing He cannot give. He is the Lord of the universe. Our Lord is the Lord of the universe.
 
 O children of Adam, Keep the love of your Creator in your heart. Do not leave it. Do not leave it O Adam, O Adam, O Adam. Allah Allah, Allahu Rabbi ma li siwahu illa Hu. Fatiha.
 
@@ -46,5 +46,3 @@ May Allah be pleased with you my son. You have listened to a couple of words. Ma
 Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11043&name=2014-03- 18_tr_AtaanGhayraMajthuth.mp4
-
-www.saltanat.org Page 2

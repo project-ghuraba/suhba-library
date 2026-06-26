@@ -24,5 +24,3 @@ youtube_url: ''
 Shukur Allah - thanks to Allah. Say 100x Shukur - do one tasbih. People of Egypt should say 70x Astaghfirullah, 100x Bismillah & 100x Shukran Lillah daily. He will change the tajalli - manifestation. And, they should release Hosni Mubarak. Then there will be an opening for Egypt. If they continue with the trial & decide for his execution, 70 000 people will be taken instead when this flood takes place. O our Lord, You know! Fatiha. Aman ya Rabbi.
 
 Video Link: http://www.saltanat.org/Blog/tabid/271/PostID/541/M-s-rl-lara-Ihtar-To-Egyptians-A-Warning-tr.aspx
-
-www.saltanat.org Page 1

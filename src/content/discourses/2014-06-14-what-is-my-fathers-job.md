@@ -33,7 +33,7 @@ The love that Allah Almighty He gives to His servants, it is the most high love 
 
 This is how we have to know what we are doing. And this is our real test. I am saying Alhamdulillah that Allah Almighty He gave us drop of love and now we are coming to you Ya Mawlana Sheikh to invest in your ocean, to be part of your love of Allah Love ocean. We have a small drop, very small drop. It cannot be seen from the Love. We deserve this one, at least we deserve this one. We deserve this drop and we are coming. We are very careful to not.. cannot be seen. And we are investing with Mawlana Sheikh, Alhamdulillah. This is how it grows. This is how it makes you become bigger and bigger. The ocean also starts from a drop. Don't forget this one. The ocean also starts from a drop. The ocean never starts as an ocean - except Allah Almighty saying "Kun Fa Ya Kun" (2:117). But when it's going, it's going for drop.
 
-www.saltanat.org Page 1 We are accepting that our drop will be with you Ya Sayyidi, the ocean. That is our belief. And this is our behaviour.
+We are accepting that our drop will be with you Ya Sayyidi, the ocean. That is our belief. And this is our behaviour.
 
 Now, in old days people didn't know what to do because there was no technology, there was no communication there was no anything. So what the Sahaba they were doing they were carrying their love with their heart, and they go all around the country, all around the country to give this small love. One person, one person. They give love for nations. This is important. Because the nations they are hungry for such a thing. They are hungry. Don't worry you go. This is our duty, to go. And to get the small, small love to be showing, to be known for people. Alhamdulillah. It is Mawlana Sheikh he was saying "when I was walking on my feet and going around the country I was going, my stick, my turban and my jubba and myself. And with this Alhamdulillah Allah Almighty He never disappoint me because I am working for him." Because the order says "you are distributing My Love. You are distributing My Love." So be sure that you are distributing the love that Allah Almighty put in your heart and you put it for other heart. Alhamdulillah!
 
@@ -48,5 +48,3 @@ And with this one we say, "may Allah keep us straight and keep us with him and k
 Bi hurmati l-Habib, Bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11722&name=2014-06- 14_en_WhatIsMyFathersJob_SB.mp4
-
-www.saltanat.org Page 2

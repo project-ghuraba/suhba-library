@@ -39,7 +39,7 @@ Let's say - Bismillahi r-Rahmani r-Rahim. Then no distress will come. No distres
 
 O Allah, our Subhan, our Allah. No troubles remain. Allah Almighty doesn't give troubles to His servants. Never, Never. Allah Almighty gives relief & joy. You are Subhan, You are Sultan, ya Rabb. We love You. You created us, ya Rabb. Let's be happy that we are our Lord's servants. Let's be joyful. Fatiha.
 
-Let's be from the people of bliss. Not the people who are cut off. The people of bliss (Ahlis Safa). Don't be from people who are cut off (Ahlil Jafa). Allah doesn't give His servants suffering. Aman ya Rabbi. He gives www.saltanat.org Page 1 His servants bliss. He says, "My servant shouldn't suffer, he should be in bliss". O our Lord, O our Lord, our Subhan, our Sultan. Generosity and grace is from You, ya Rabb. Let's say "Allah". Let's say "Allah". Let's say "Allah". Let's say "Allah" and not be afraid. Those who say "Allah" will have no suffering. Those who say "Allah" will be in bliss. Those who don't say will suffer. Aman ya Rabbi, tawba ya Rabbi. Tawba Astaghfirullah.
+Let's be from the people of bliss. Not the people who are cut off. The people of bliss (Ahlis Safa). Don't be from people who are cut off (Ahlil Jafa). Allah doesn't give His servants suffering. Aman ya Rabbi. He gives His servants bliss. He says, "My servant shouldn't suffer, he should be in bliss". O our Lord, O our Lord, our Subhan, our Sultan. Generosity and grace is from You, ya Rabb. Let's say "Allah". Let's say "Allah". Let's say "Allah". Let's say "Allah" and not be afraid. Those who say "Allah" will have no suffering. Those who say "Allah" will be in bliss. Those who don't say will suffer. Aman ya Rabbi, tawba ya Rabbi. Tawba Astaghfirullah.
 
 I want to be in bliss with our Lord. Bliss. O our Lord, there is no suffering for us. We have no suffering if we are with You. We are in bliss. I am in bliss. We should know that we are in bliss. There is no suffering, only bliss. O Owner of heavens and earth, there is no suffering for us since we are from Your Beloved Habib's nation. There is bliss. There is no hell, there is paradise. Fatiha.
 
@@ -50,5 +50,3 @@ Mankind doesn't know where bliss and suffering are. They should know. O our Lord
 Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=10447&name=2014-01- 23_tr_AhlisSafa.mp4
-
-www.saltanat.org Page 2

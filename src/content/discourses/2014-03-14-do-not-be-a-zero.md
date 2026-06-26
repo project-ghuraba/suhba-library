@@ -35,7 +35,7 @@ What are we? We are "zero" people. Zero is not worth anything. They say "zero". 
 
 Balqis was bewildered. "Innahu min Sulaymana wa innahu Bismillahi r-Rahmani r-Rahim"(27:30) Balqis, (Queen of Sheba). Janab-i Haqq, because of the power Janabul Haqq granted, she said "Innahu min Sulaymana wa innahu Bismillahi r-Rahmani r-Rahim"(27:30) Al-hamdu Lillah. Al-hamdu Lillah. My sons, my children, O yaran, let's say the Name of Allah first. You'll see the greatness of saying "Allah". You will know. We are nothing, my son, but Janab Allah made us perfect. He says "Wa laqad karamna bani adama"(17:70) "We have honoured the sons of Adam". Divine Generosity. Our Lord, our Subhan. O yaran Shahu Mardan. Know (Him), let's know. We must know the limit of the honour granted to us, Sheykh Mehmed Efendi. We must know. Balqis was bewildered. When Prophet Sulaiman's letter arrived,
 
-www.saltanat.org Page 1 she was bewildered. Her throne, which was decorated with gold and jewels was shaken. Balqis fall down from the throne. Balqis.
+she was bewildered. Her throne, which was decorated with gold and jewels was shaken. Balqis fall down from the throne. Balqis.
 
 O my Lord. Al-'Azamatu Lillah wa l-'Izzatu Lillah. Always say "Al-'Azamatu Lillah wa l-'Izzatu Lillah, wa l-Jabarut Lillah". You're Subhan O my Lord. Let's dress in these. Allah Allah. You won't be sick, or trash then. You will be a lion. Who is trash? One who doesn't know this path; doesn't know to say Bismillahi r-Rahmani r-Rahim. Trash meaning rubbish. Allahu Allah. Allahu Rabbi, ma li siwahu, ma li siwahu. Allah our Lord, Jalla wa JalaluHu. Our Allah, You have accepted us. You said "My servant". He is filling us up with the love of His beloved one. Our Lord, Jalla wa A'la, is filling us up. Jallat 'Azamatuhu wa la ilaha ghayruhu. Our Allah. We ask that our hearts are filled love and longing for Him. His love and longing (Ishq and Shawq). Don't be an animal. No. Animals get whipped then move. Animals are whipped and move. That's the way animals are. You're not an animal. Rabbu l-'Izzat made you His representative. Aman ya Rabbi. Aman ya Rabbi. Sons of Adam. He says "Inna ja'alnaka khalifatan fil 'ardi "(38:26) "We did indeed make you a vicegerent on earth."
 
@@ -48,5 +48,3 @@ Allah. May Allah be pleased with us. Give my salams to the children everyday. I 
 O our Lord. May your rank increase, my son. Teach. You too Mehmed, your uncle is the master. Look up, Look up to Shahu Mardan so you can open up, open up. Do what you want. Do for the sake of Allah, don't fear! Our son Mehmed.
 
 Video link: http://saltanat.org/videopage.php?id=11037&name=2014-03-14_tr_SifirOlma.mp4
-
-www.saltanat.org Page 2

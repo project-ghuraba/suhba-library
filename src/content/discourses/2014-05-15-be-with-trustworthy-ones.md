@@ -35,7 +35,7 @@ Untrustworthy ones don't like such things, they go to other ways. There are a th
 
 Our Sheikh's maqams (stations) are very high, and will continue to rise until doomsday, even higher. Each person entering this tariqat, and when people hear his words/sohbats our Sheikh Effendi's maqam is rising, his name is more exalted in Allah's Diwan (Court). His maqam is already very high, but Allah's bestowals are endless, Allah's bestowals never finish. Allah - just as people like to give beautiful things to the ones they love, Allah 'Azza wa Jalla is granting non-stop blessings and nur/light on our Sheikh. And by the Will of Allah, people who visit his grave that nur/light descends on them also. For everyone visiting and praying for Mawlana, Allah 'Azza wa Jalla is bestowing on them, ten times, hundred times more of their prayers. May we all continue on this beautiful way, InshaAllah!
 
-Sheikh Effendi's power was very big. He used to overlook faults, he used to forgive. This is why people (his people) are loose/slack a little. May we all behave more seriously, more firmly from now on. Our power is www.saltanat.org Page 1 little. For this reason, may all followers strive more and display more himmat (spiritual striving) that, as much himmat as they can summon Allah will send that much more of His blessings upon them - Allah will help them.
+Sheikh Effendi's power was very big. He used to overlook faults, he used to forgive. This is why people (his people) are loose/slack a little. May we all behave more seriously, more firmly from now on. Our power is little. For this reason, may all followers strive more and display more himmat (spiritual striving) that, as much himmat as they can summon Allah will send that much more of His blessings upon them - Allah will help them.
 
 Our way is not difficult by the Will of Allah. It is a beautiful way. This way is the way of lovers - The love of Allah not the love of dunya/world, not the love for a woman or for wealth. The love of Allah, that is and He is the Never-ending One. We have seen many lovers, loving a woman but in a few years' time they fell to quarreling, fighting, showing unpleasant behavior (to each other). That is temporary love. Eternal love, never-ending love is the Love of Allah, the love of the Prophet, the love of awliya. We are on this way InshaAllah!
 
@@ -51,6 +51,4 @@ Everyday he (Mawlana) is getting higher and higher. Allah Is Generous, and they 
 
 Allah make us in this way without going out. It is from first sohbah, Alhamdulillah alladhi hadana li hadha. Allah He bring us to this way. We cannot do without His Will. Insha'Allah His Will after this, from baraka of Mawlana and all Mashayikh al 'izam/great Shaykhs and Prophet (saws), to be more strong. To show Ummat Muhammad (saws) (the Nation) the right way. Not leave (let) these shaytan people to destroy our children, our families with bad things. It is real - from not the right way, these people.
 
-Wa Min Allahi t-Tawfiq. Al Fatiha. www.saltanat.org Page 2 Video link: http://saltanat.org/videopage.php?id=11517&name=2014-05- 15_tr_BeWithTrustworthyOnes_SM.mp4
-
-www.saltanat.org Page 3
+Wa Min Allahi t-Tawfiq. Al Fatiha. Video link: http://saltanat.org/videopage.php?id=11517&name=2014-05- 15_tr_BeWithTrustworthyOnes_SM.mp4

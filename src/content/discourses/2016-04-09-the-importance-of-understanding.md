@@ -33,7 +33,7 @@ So many people, they say "What you are teaching?" And let's say, put it in this 
 
 This is power. This is power. This is how they call the power. Not the power to put weapon and say "I am powerful", No. That one easy power. It's power to fulfill everyone coming to your presence and give him what he wants. This is Mawlana Sheikh. This is the spiritual power. This is how Mawlana Sheikh was the giving power. And al-hamdulillah Mawlana Sheikh never request from anybody to pay for what he gave. The only payment that Mawlana Sheikh was asking - you have to say "I am agree with you as my master". This is only thing. If you agree with your Sheikh as he is your master, then your payment been done. You already paid. Finished. Anything else? No? Are you sure there is no more bill to pay? It's looks like clear.
 
-www.saltanat.org Page 1 Allah Allah. But we go for other places, they will say you have to pay for this, you have to pay for this. And it will be in hard currency, gold will be better. Mawlana Sheikh, he doesn't need anything. Al-hamdulillah.
+Allah Allah. But we go for other places, they will say you have to pay for this, you have to pay for this. And it will be in hard currency, gold will be better. Mawlana Sheikh, he doesn't need anything. Al-hamdulillah.
 
 Every time we say to Mawlana Sheikh "You need something?" "Al-hamdulillah We are not in need, my son." "Mawlana, you..." "We are not in need al-hamdulillah." And then I think, if you have Allah Almighty behind you, of course, you are not in need. Allah Almighty fulfill everything. Everything being designed in perfect design. This is Mawlana Sheikh. I travel with Mawlana Sheikh. I go with Mawlana Sheikh so many places. "We are not in need, my son." Allah Almighty, He send some of His servant, everything been arranged like perfect arranging. And then you will be going smoothly and VIP. "Bre Bahauddin", Mawlana Sheikh saying "look from which door we are going." I'm looking VIP. VIP. Do you know what means this VIP? "No idea", Mawlana Sheikh, young in those days. Very important person. Mawlana Sheikh say "very important person." Now you understand? Now I understand. We are not in need. Allah Almighty, if He want to make us VIP, He is doing it. This is Allah Almighty.
 
@@ -47,6 +47,4 @@ Wa min Allahi t-tawfiq. Bi hurmati l-Habib, bi hurmati l-Fatiha. Subhanim Allah.
 
 Wa salli ya Rabbi wa sallim 'ala jami'a l-anbiya'i wa-l mursalin wa 'ala kulli 'ajma'ina wal-hamdulillahi Rabbi l-'alamin al-Fatiha.
 
-www.saltanat.org Page 2 Video link: http://saltanat.org/videopage.php?id=15431&name=2016-04- 09_en_TheImportanceOfUnderstanding_SB.mp4
-
-www.saltanat.org Page 3
+Video link: http://saltanat.org/videopage.php?id=15431&name=2016-04- 09_en_TheImportanceOfUnderstanding_SB.mp4

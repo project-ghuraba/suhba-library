@@ -37,12 +37,10 @@ Today we are speaking - Tariqa it is the way for Allah. Tariqatuna s-sohba wa-l 
 
 Because many people nowadays, fitna days, dangerous days, the last time before Qiyama/Judgment. These days, Prophet was aware (warning) of these days, it is like black night it is even daytime, but it is from fitna, from darkness everywhere coming. Make the children to be - people are like drunk, they don't know who to believe, who are.. what happened, what is, what we will do. But Mawlana every time he was telling "don't go, if it is not necessary to go around people. Just stay in your house and keep quiet." This is what it is ordered these days.
 
-Because people there is fitna. Every minute can be trouble for you. So better if you speak to somebody, not to speak with anger or with not good words. Getting problems for you. Because this is fitna time, bad, very bad time. Everywhere around the world very bad days, now. But it must be like this, because it is the last time for dunya. And Mahdi (as) he will come only when it is like, big problem, big fitna. So but what we will do, Mawlana he was telling and Prophet (saws), to be quiet and to be away from people. Don't go in www.saltanat.org Page 1 gathering places, big crowded places. Every time he was giving this advice for murid, Mawlana - to not go in crowded places, to not go with bad people. Even if you see something wrong, you can say by your tongue or by your heart it is not good; we do not accept this; this is against what Allah ordered; we are not accepting this. This is enough.
+Because people there is fitna. Every minute can be trouble for you. So better if you speak to somebody, not to speak with anger or with not good words. Getting problems for you. Because this is fitna time, bad, very bad time. Everywhere around the world very bad days, now. But it must be like this, because it is the last time for dunya. And Mahdi (as) he will come only when it is like, big problem, big fitna. So but what we will do, Mawlana he was telling and Prophet (saws), to be quiet and to be away from people. Don't go in gathering places, big crowded places. Every time he was giving this advice for murid, Mawlana - to not go in crowded places, to not go with bad people. Even if you see something wrong, you can say by your tongue or by your heart it is not good; we do not accept this; this is against what Allah ordered; we are not accepting this. This is enough.
 
 Allah keeps you safe insha'Allah. For the sake of this month and Prophet (saws).
 
 Wa min Allahi t-tawfiq. Al Fatiha
 
 Video link: http://saltanat.org/videopage.php?id=11916&name=2014-07- 10_tr_TheWayToAllah_SM.mp4
-
-www.saltanat.org Page 2

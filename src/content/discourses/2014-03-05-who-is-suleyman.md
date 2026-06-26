@@ -35,7 +35,7 @@ Lovers of Shah Mardan, those who like the way of Shah Mardan, those who love it,
 
 O our Lord, there is everything in Your presence. There is no nothing in Your presence. There is no presence like Your presence. O lovers of Shah Mardan. Search for the assembly of the friends of Shah Mardan. It is an assembly of the Sultan. Look for the assembly of the Sultan. Don't look for an assembly of animals when there is an assembly of the Sultan. Who looks for the assembly of animals is an animal. Allahu Allah Allahu Rabbi ma li siwahu illa Hu.
 
-How beautifully our Lord Jalla wa 'Ala is making Shah Mardan speak. He is making His Beloved speak. He doesn't just stand face to face with His Beloved. It is so. Our Lord. Sultan. Sultan. Can He do without www.saltanat.org Page 1 speaking? The Sultan cannot be without speech. What does He say? What He says goes down from the Throne to the Sultan of the Universe. The Sultan of the Universe is our Master. It goes down to him. From him, it goes down to Shah Mardan.
+How beautifully our Lord Jalla wa 'Ala is making Shah Mardan speak. He is making His Beloved speak. He doesn't just stand face to face with His Beloved. It is so. Our Lord. Sultan. Sultan. Can He do without speaking? The Sultan cannot be without speech. What does He say? What He says goes down from the Throne to the Sultan of the Universe. The Sultan of the Universe is our Master. It goes down to him. From him, it goes down to Shah Mardan.
 
 May we not get tired. Our Mawla doesn't let us get tired. He doesn't allow it. Who is caught in the water wheel of love, my son Mehmed Efendi, who is caught in the wheel of love doesn't stop. He doesn't say "I'm tired". He says "Let there be more. Let me whirl with the bliss of love of Shah Mardan". May we be filled with the bliss of love of the beloved servants of our Lord. Neither troubles, nor illnesses will remain. Neither ugliness, nor absence of adab will remain. All will go away. Say, if it is so.
 
@@ -49,10 +49,8 @@ Allahu Allah. Allahu Rabbi ma li siwahu. Don't look anywhere else. Don't look an
 
 Innahu min Sulayman. What was given? What was given? What came from Sulayman? It puzzled and confused Balqis. It turned her sultanate into nothing. Innahu min Sulayman. It is from Sulayman. Who is Sulayman? Sulayman is a great name of the Beloved of Allah Dhul Jalal. Let's say Bismillahi r-Rahmani r-Rahim. May we be filled with light from inside and outside. May we know the servanthood of our Lord. May we be in His service. Fatiha.
 
-www.saltanat.org Page 2 Amin. Read on me, Mehmed. Allah Allah. Long live. Recite Bismillah on me and don't be afraid. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Be a rose, don't be a thorn. Marhaba.
+Amin. Read on me, Mehmed. Allah Allah. Long live. Recite Bismillah on me and don't be afraid. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Be a rose, don't be a thorn. Marhaba.
 
 Video link: http://saltanat.org/videopage.php?id=11046&name=2014-03-
 
 05_tr_SuleymanKimdir.mp4
-
-www.saltanat.org Page 3

@@ -38,5 +38,3 @@ Allah make this New Year good for us inshaAllah. Mawlana Sheikh, every time he s
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12561&name=2014-10- 24_en_HolyNewYear_SM.mp4
-
-www.saltanat.org Page 1

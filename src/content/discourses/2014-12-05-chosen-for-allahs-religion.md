@@ -38,5 +38,3 @@ Alhamdulillah, we are thanking for Him. And it is baraka to not sleep after Fajr
 Wa min Allahi t-tawfiq, Al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12855&name=2014-12- 05_en_ChosenForAllahsReligion_SM.mp4
-
-www.saltanat.org Page 1

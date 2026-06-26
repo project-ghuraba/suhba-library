@@ -35,7 +35,7 @@ O our Lord, our Subhan, our Sultan, our Lord who gives us everything. We receive
 
 We ask from Your presence, O our Lord. Your table is always open, the table of Janab-ul Mawla. He says: "Take from that table. Don't leave that table behind." O my Lord. O our Lord. Our Ummuhan Sultan is the one whom You sent to us. May we be relieved, may we rejoice. May we be honored. You give, our Lord. We can't take, You give, our Lord. May our hearts open, may we be relieved. May we be relieved. How much and how many He sends. Each relief is from our Mawla. Our Mawla doesn't leave us in need. Our Mawla doesn't let us fall into troubles. He is Sultan of Sultans, Possessor of the Universe, our Lord, Allah Jalla Jalaluhu.
 
-www.saltanat.org Page 1 May we open, may we rejoice, may we find relief. Relief comes down from heavens. Take your portion from that relief. O our Lord, give us ease, give us relief. O Shah Mardan, your lovers adore you. How beautiful the holy ones are. May we not contract, may we not be upset. May we walk being joyful, may we be happy. Allahu Allah Allahu Allah Allahu Rabbi ma li siwahu. How much and how many. How much and how many in the presence of our Lord. How much and how many in the presence of our Lord. Ask!
+May we open, may we rejoice, may we find relief. Relief comes down from heavens. Take your portion from that relief. O our Lord, give us ease, give us relief. O Shah Mardan, your lovers adore you. How beautiful the holy ones are. May we not contract, may we not be upset. May we walk being joyful, may we be happy. Allahu Allah Allahu Allah Allahu Rabbi ma li siwahu. How much and how many. How much and how many in the presence of our Lord. How much and how many in the presence of our Lord. Ask!
 
 O Shah Mardan, your lovers adore you. May we open, may we be happy. The doors of heavens open too. The doors of relief are opened. The doors of the honor of heavens open. The doors of the light of heavens open. The Nation of the Habib becomes happy. Our Lord is Subhan. Say "Subhan Allah wa l-hamdu Lillah wa la ilaha ill'Allahu w'Allahu Akbar Allahu Akbar wa Lillahi l-hamd". Say, say it. Let us say. O lovers of Shah Mardan. Our Mawla doesn't leave us in need. Fatiha.
 
@@ -46,5 +46,3 @@ What a beautiful Prophet You sent to us. What an honored Prophet You sent to us.
 May Allah accept. May what I said become an honor for us. La ilaha illAllah Sayyidina Muhammad Rasulullah.
 
 Video link: http://saltanat.org/videopage.php?id=10826&name=2014-02- 23_tr_DaimSofra.mp4
-
-www.saltanat.org Page 2

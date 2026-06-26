@@ -37,7 +37,7 @@ O our Lord, Your (these) weak servants can't carry load. They want to live in co
 
 He says: "O My servant". What an honour! Janab-i Haqq's addressing, saying "My servant" - There is no honour higher than this. O Beloved One, O Allah's Beloved, we love you. I seek power, strength, to serve You, to do servanthood. I seek power. Let's herd Your flock. Let's give for Your sake. Let's build for You, demolish for You. Let's crush shaytan for You. We will not be defeated by shaytan. Rabbul 'Izzat's servants can't be defeated by shaytan. Don't be defeated. Be victorious. Be victorious. We are weak, our Mawla, what can we do? We are weak, we are weak. Who do we take refuge in from the shaytan trying to take us
 
-www.saltanat.org Page 1 from Your path? The Prophet or Janabi Haqq? Never! We don't seek refuge because of shaytan. Yes, yes. Who is shaytan that we be afraid of it?
+from Your path? The Prophet or Janabi Haqq? Never! We don't seek refuge because of shaytan. Yes, yes. Who is shaytan that we be afraid of it?
 
 Let's seek refuge in Rabbul 'Izzat. O my Lord. Forgive us O Lord, forgive us. O our Lord, grant light to our faces. Grant our bodies strength to serve You. We are not afraid of shaytan. Even if the whole world is full of shaytan we aren't afraid. We are Shah Mardan's soldiers. Servants following Shah-i Mardan know they are here for servanthood to their Lord. We have no other work. Everything we have is for Allah. O our Lord grant us strength. You've honoured us by saying, "My servant." "Ya 'ibadi fattaquni"(39:16) Ya ibadi, O My servants then fear Me, fear Me. Watch your adab. Remember your promise of servanthood to your Lord. "Ya 'ibadi fattaquni"(39:16) O my Lord. Ya ibadi, O My servants, fear Me. O my Lord, O my Lord. O my Lord, O my Lord.
 
@@ -53,7 +53,7 @@ Our Lord, Jalla wa Ala, said to His Beloved: O My Beloved One, Allahu Akbar. He 
 
 May we have strength. Even if the whole world is full of shaytans, don't fear. You can crush them all. Not one shaytan, not a thousand shaytans, even if the whole world is full of them. You can crush them with one step. O our Lord, our Subhan, we are weak servants, forgive us. For the sake of the beloved Prophet's universal glory, You have created us and made an ummah for Your Beloved. Shukur Allah. You have honoured us by letting us serve him. What a beautiful honour. You won't be sick or tired, you won't fear. Look to serve the Beloved One. And Janabi Haqq orders: "fattaquni"(39:16) "Ya 'ibadi fattaquni"(39:16) O My servants, fear Me. O My Lord. O My Lord. O mankind watch your adab, watch your adab. If you watch your adab, there is a high honour in the presence of the Creator. Don't bother to gather up (earthly) honour. You can't have honour with worldly goods. If honour descends from above only then do you have
 
-www.saltanat.org Page 2 honour. If power descends from above only then do you have power. If Iman/faith descends from above only then do you have Iman.
+honour. If power descends from above only then do you have power. If Iman/faith descends from above only then do you have Iman.
 
 Say, Allah. Say it. You will have no worries. In the presence of Rabbul 'Izzat nothing can harm you. O my Lord we are left ignorant. They haven't taught us. The first thing to teach is - "I sought among the association of the wise and knowledge is last, most important is adab." Forgive us our Lord. Therefore, learn adab.. It's not knowledge but adab that must be learned. Knowledge is last, first is adab.
 
@@ -70,5 +70,3 @@ Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani r-Rahim. Bismillahi r-Rahmani
 Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=10882&name=2014-03- 02_tr_AtinSahibiniUnutma.mp4
-
-www.saltanat.org Page 3

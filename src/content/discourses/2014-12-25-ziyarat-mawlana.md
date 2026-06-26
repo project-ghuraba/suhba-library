@@ -37,7 +37,7 @@ However, there are people who want to prevent it. Shaitan is on top of them. Sha
 
 He is ready. His strength is stronger now than before. Because now it's only spiritual. They don't have to hide or be hidden. Because while Awliya are alive, they have to be humble because Allah loves humbleness. We are nothing. But after going to akhira, Allah reveals everyone and everything, to most people. That's why, there is no restriction then for them to show their miracles for people to let them reach their virtues more.
 
-www.saltanat.org Page 1 Alhamdulillah, we've come again to the presence of Mawlana Sheikh. We are happy to be here because to be in front of Mawlana, it is a nice feeling. Prophet (saw), he was saying "Who visit me in my grave, as he visit me when I am in life". He's always in life. But it is to show people. And Awliya'Allah, they are following Prophet (saw) and they are inheritors of him. They are same. When you visit them in their grave, maqam, as you visit them in their life. You feel strong this feeling.
+Alhamdulillah, we've come again to the presence of Mawlana Sheikh. We are happy to be here because to be in front of Mawlana, it is a nice feeling. Prophet (saw), he was saying "Who visit me in my grave, as he visit me when I am in life". He's always in life. But it is to show people. And Awliya'Allah, they are following Prophet (saw) and they are inheritors of him. They are same. When you visit them in their grave, maqam, as you visit them in their life. You feel strong this feeling.
 
 Many people - not many people - some people they say no need to go and visit Mawlana, he is... he get nothing there. This is saying of shaitan. For shaitan, he don't want people following, still following Awliya'Allah. Awliya'Allah. Shaitan, they were happy, they said, when he died, nobody will follow him. But shaitan is foolish. And who is following him, also foolish. To visit Awliya'Allah - big favour from Allah. Who visit them, they are happy with them. And they help them in spiritual, to be strong iman, strong belief and love of Allah and Prophet and Awliya'Allah. And in material world also, they are happy to make people... everything to be easy for people by their baraka and dua. When you come and you visit, and they are happy with you, Allah make everything easy for you, spiritual and material.
 
@@ -51,6 +51,4 @@ Alhamdulillah, we are happy. Everybody also happy. They are coming from all arou
 
 Wa min Allahi t-tawfeeq. Al-Fatiha.
 
-www.saltanat.org Page 2 http://saltanat.org/videopage.php?id=12996&name=2014-12- 25_tr_ZiyaratMawlana_SM.mp4 Video link: http://saltanat.org/videopage.php?id=12996&name=2014-12- 25_tr_ZiyaratMawlana_SM.mp4
-
-www.saltanat.org Page 3
+http://saltanat.org/videopage.php?id=12996&name=2014-12- 25_tr_ZiyaratMawlana_SM.mp4 Video link: http://saltanat.org/videopage.php?id=12996&name=2014-12- 25_tr_ZiyaratMawlana_SM.mp4

@@ -29,7 +29,7 @@ One command from shaytan to mankind - 'Die and kill!' Shaytan saying, 'You must 
 
 And in front of this, the Lord of Heavens sending... sending warnings as tsunami, or earthquake, or hurricane. But people are not taking care that the Lord of Heavens is not happy with what we are doing. He Almighty, forbidding people, 'Don't kill!' Shaytan saying, 'Kill.' People running after shaytan, not listening to warning. And do not kill (and destroy) yourselves (4:29) Allah almighty preventing people, - not to kill. If anyone killing one without a reason his punishment should be in Fire, forever. Dying and killing, the killer and the one killed, in Fire, forever. Keep yourself, life is a grant from the Lord of
 
-www.saltanat.org Page 1 Heavens to ourselves. O murderers! Who giving to you that order or authority to kill. Allah saying, 'Don't kill,' you are killing. Allah taking His revenge on them here and Hereafter.
+Heavens to ourselves. O murderers! Who giving to you that order or authority to kill. Allah saying, 'Don't kill,' you are killing. Allah taking His revenge on them here and Hereafter.
 
 I am sorry that everyday in Pakistan, and they are Muslims! Killing each other, putting bombs. What is that foolishness! To teach them! And second, Arabs! they are not Muslims? Muslims killing Muslims! How it can be? Where is the Holy Book? Holy Quran and His Orders, bringing from heavens, His Orders to make His servants happy. Allah should take His revenge from those people! Give tidings to the killer to be killed (himself.) He who is killing, say to him 'And wait a little bit, someone coming to kill you in the worst way.' la hawla wa la quwwata, there is no power or might...
 
@@ -41,10 +41,8 @@ Enough, O people, to be drunk. Leave, and come to yourself, leave imitations, co
 
 O people say daily 3 times shahadah, Ash-hadu an la ilaha il'Allah ash-hadu anna Sayyidina Muhammad Abduhu wa Rasuluh (sas) Say! O our Lord, forgive us. Send us from Your private and chosen people, to take away your weak servants, not to fall through hells, to save ourselves. O our Lord, send us Mahdi (as)
 
-www.saltanat.org Page 2 send us Isa (as) send us Awliya, Ya Rabbi Ya Allah. Tawba Ya Rabbi. Say, 'Tawba Ya Rabbi.' Tawba Ya Rabbi, Tawba Ya Rabbi, tubna wa raj'ana alayk. We are weak servants, we are weak servants. Ya Rabbi, take away shaytan people, leading people to Fire, taking them to Fire. Take away those shaytan people, send us good ones, powerful ones, enlightened ones, heavenly protected people to save ourselves. For the honour of Your most honoured one, Sayyidina Muhammad (sas) Fatiha. Don't make troubles among Muslims to say 'We are Wahabi, we are Salafi, we are Ikhwan.' Leave them, try to be obedient servants to your Lord, our Lord Who created us, and send us the Seal of Prophets (sas) he is most beloved, most high, one in His Divine Presence, Sayyidina Muhammad (sas) Fatiha.
+send us Isa (as) send us Awliya, Ya Rabbi Ya Allah. Tawba Ya Rabbi. Say, 'Tawba Ya Rabbi.' Tawba Ya Rabbi, Tawba Ya Rabbi, tubna wa raj'ana alayk. We are weak servants, we are weak servants. Ya Rabbi, take away shaytan people, leading people to Fire, taking them to Fire. Take away those shaytan people, send us good ones, powerful ones, enlightened ones, heavenly protected people to save ourselves. For the honour of Your most honoured one, Sayyidina Muhammad (sas) Fatiha. Don't make troubles among Muslims to say 'We are Wahabi, we are Salafi, we are Ikhwan.' Leave them, try to be obedient servants to your Lord, our Lord Who created us, and send us the Seal of Prophets (sas) he is most beloved, most high, one in His Divine Presence, Sayyidina Muhammad (sas) Fatiha.
 
 Baya'
 
 Video Link: http://www.saltanat.org/Blog/tabid/271/PostID/549/Forgive-Us-Bizi-Affeyle-en.aspx
-
-www.saltanat.org Page 3

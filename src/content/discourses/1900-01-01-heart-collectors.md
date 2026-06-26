@@ -34,5 +34,3 @@ Allah Allah. Allah Allah. Allah Allah. Aziz Allah. Allah Allah. Allah Allah. All
 HasbunAllah wa ni'ma l-wakīl wa la hawla wa la quwwata illa billahi l-aliyi l-aẓim Ziyadatan lisharafi n-Nabi sallAllahu 'alayi wa sallim wa alihi wa sahbihi wa l-jamiyi l-Anbiya wa l-Awliya wa sairi hadhratu... wa lil-muminīn. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=13719&name=1992-09- 00_en_HeartCollectors_SN_a.mp4
-
-www.saltanat.org Page 1
