@@ -1,4 +1,4 @@
----
+﻿---
 date: 1994-06-28
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,8 +35,6 @@ When a government goes out of Islam, it is finished. Finished. As long as they a
 
 If we make shukr, not raising our heads from sajda it is still not enough. Allah Almighty is still treating us with His gentleness. If Allah Almighty doesn't treat us with His gentleness, we would disappear from the face of the earth. For the honor of the pious servants, for the honor of the children, the (?) for the honor of the elderly ones, ya Rabbi keep us in the circle of Islam. Don't throw us out of the circle of gentleness ya Rabbi. Open Your doors of mercy ya Rabbi. Open Your doors of paradise ya Rabbi. Open Your doors of victory ya Rabbi. Open Your doors of guidance ya Rabbi. Open Your doors of grace ya Rabbi. Send Your support to all anbiyas and awliyas and mu'mins in this holy month ya Rabbi.
 
-www.saltanat.org Page 1 Bi hurmati l-Habib, bi hurmati l-Fatiha.
+Bi hurmati l-Habib, bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=15360&name=1994-06- 28_tr_IslamDairesininIcindeOlmak_SN.mp4
-
-www.saltanat.org Page 2

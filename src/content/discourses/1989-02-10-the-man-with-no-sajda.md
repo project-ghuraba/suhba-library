@@ -1,4 +1,4 @@
----
+﻿---
 date: 1989-02-10
 date_hijri: ''
 edited_at: 2026-06-25
@@ -33,8 +33,6 @@ Aman ya Rabbi. This is the situation of past nations. JanabAllah flooded thousan
 
 Aman ya Rabbi. What rebelliousness there is. Rebellions we can't imagine. Weird and strange. There are 800 prohibited things in the religion. Our Sheikh Sultan-ul Awliya used to say that when dajjal appears, there will be no bad way, no badness, no new sin left to teach people. They will have completed all of it before he appears. It is complete. When the big dajjal comes, there won't be any sin he can teach them to do. People of that time will be already doing all of them. You can't imagine it, things not fitting in your mind.
 
-www.saltanat.org Page 1 Allah Aman ya Rabbi, don't leave us to our egos. When ego meets shaitan, there's no badness they can't invent. Therefore, don't leave our ego to meet shaitan. Praise to Allah who doesn't leave. If He leaves, evil is immediately born. Just like a man lies down with a woman, when ego meets shaitan, instantly some evil, sin, or rebellion is born.
+Allah Aman ya Rabbi, don't leave us to our egos. When ego meets shaitan, there's no badness they can't invent. Therefore, don't leave our ego to meet shaitan. Praise to Allah who doesn't leave. If He leaves, evil is immediately born. Just like a man lies down with a woman, when ego meets shaitan, instantly some evil, sin, or rebellion is born.
 
 Video link: http://saltanat.org/videopage.php?id=13810&name=1989-02- 10_tr_Secdesiz_SN_a.mp4
-
-www.saltanat.org Page 2

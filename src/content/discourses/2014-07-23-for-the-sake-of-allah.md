@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-07-23
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ Same thing the next day. Same thing on the third day. Afterwards, he attained su
 
 The most disliked thing by Allah Azza wa Jalla is expecting something in return for doing something. Of course, you expect its return from Allah. This can be expecting thanks from the one you did goodness to. Say "not at all". But they don't want thanks or even higher ranks. They do it, sincerely, for the sake of Allah, the Purest. They say "no need for thanks". But there are some people who ask for something in return. It is said in Glorious Qur'an that their deeds are void then (2:264). If you ask something in return, you say "I did it, see what I did for you", that goodness won't be accepted. You are saying to someone you don't know, that he's eating your food. Don't say. It's not a nice characteristic. You give for the sake of Allah, that's nice. Don't spoil that thing. Say: Eat for Allah, enjoy it. Wish that it becomes light and faith.
 
-www.saltanat.org Page 1 It is loved by our Prophet to give food to all, to poor people, to visitors; both to rich and poor. There are people who give food only to rich men for showing off. They don't care about poor ones. It's not nice either. You should give to everyone. Give both to rich and poor. Let your table be open. May Allah grant blessings inshaAllah.
+It is loved by our Prophet to give food to all, to poor people, to visitors; both to rich and poor. There are people who give food only to rich men for showing off. They don't care about poor ones. It's not nice either. You should give to everyone. Give both to rich and poor. Let your table be open. May Allah grant blessings inshaAllah.
 
 Alhamdulillah, tonight we are reaching Lailatu l-Qadr, the most holy night. The 27th of Ramadan, the famous for Lailatu l-Qadr but it is not every year coming. Many year coming in 27th, but most of the time coming but many time coming from other days also. Sometimes Sahaba, they were asking Prophet sallallahu alaihi wa sallam, when Lailatu l-Qadr? Sometimes he said 23rd. Next time other people asking, 24th he said. They ask how it look like? He said, it must be raining. Next year asking - it is not raining. Because all his saying, they must be true, - because this night changing. Not in one certain night but it's changing.
 
@@ -47,7 +47,7 @@ Next day like this, third day like this, and after Allah sent ayat, surah for th
 
 So when you give food you must give for Allah, for poor people - even it is not important poor, not poor people - everybody, you can give. But don't do something (so that) it is for your good-doing. What is this? Say, 'oh look, I give you this, it is my food, you must be happy for me, I am doing this'. This is what Allah, He not liking this. In Quran also, He said, these people who doing this, they spoil what good thing they have done (2:264). So only, you are giving and giving, shaitan and your ego to spoil your good-doing. Just, when you give, you must be happy these people eating and Allah sending for you. And Allah can.
 
-Many people, rich people they have not million, they have billion, they cannot do what one normal man doing for people. They have everything, money, but they cannot give. So you must be happy Allah can let you to make all these good things. So don't be foolish to make your good thing to go for nothing. So just www.saltanat.org Page 2 give and be happy when those people eating. Prophet sallallahu alaihi wa sallam was saying when you make soup put one pot of water on it and keep for more people. Give for your neighbour, for other, because when you put water, it may, with this food, it will be more and more. And Maulana also he was liking to feed people. Some people they coming midnight. When he was strong because we were sleeping, or Hajja Anne was sleeping, he give them special by his hand, he prepared food for them.
+Many people, rich people they have not million, they have billion, they cannot do what one normal man doing for people. They have everything, money, but they cannot give. So you must be happy Allah can let you to make all these good things. So don't be foolish to make your good thing to go for nothing. So just give and be happy when those people eating. Prophet sallallahu alaihi wa sallam was saying when you make soup put one pot of water on it and keep for more people. Give for your neighbour, for other, because when you put water, it may, with this food, it will be more and more. And Maulana also he was liking to feed people. Some people they coming midnight. When he was strong because we were sleeping, or Hajja Anne was sleeping, he give them special by his hand, he prepared food for them.
 
 And Alhamdulillah, this is baraka. Allah give insha Allah, to give us this baraka for whole life insha Allah we can feed people. Everything, it is not so difficult when Allah want, insha Allah, for everybody, one, two. When we was in Damascus, we was as small children. That time, it was not like this. Many people know, that is, all guest coming, few guests maybe in one week coming 7, 8 or 10 people, so Hajja Anne she was cooking and there was 4 people around us 'Go you give, take for this lady, take this, this for old man', she was giving. If no guest in house, every time she was sending this. And Alhamdulillah, now growing, insha Allah for Maulana, for whole world he was enough. From each, very far country by his baraka they had something to eat.
 
@@ -56,5 +56,3 @@ Alhamdulillah, this is favour from Allah. Alhamdulillah, Allah continue this bar
 Wa min Allahi t-tawfiq al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12027&name=2014-07- 23_tr_ForTheSakeOfAllah_SM.mp4
-
-www.saltanat.org Page 3

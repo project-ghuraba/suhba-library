@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-12-14
 date_hijri: ''
 edited_at: 2026-06-25
@@ -37,10 +37,8 @@ And for Imam, alhamdulillah they are very good and from Ahl as-Sunnah wa l-Jamaa
 
 Thank you for you. InshaAllah, see you inshaAllah after some months. InshaAllah. InshaAllah will be making this Mawlana amanah, that is his job, give for to continue his, Allah' way and to help people.
 
-www.saltanat.org Page 1 InshaAllah everybody they can give knowledge for their around to be light, nur for all Muslims and humanity inshaAllah.
+InshaAllah everybody they can give knowledge for their around to be light, nur for all Muslims and humanity inshaAllah.
 
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12916&name=2014-12- 14_en_ZakatulIlm_SM.mp4
-
-www.saltanat.org Page 2

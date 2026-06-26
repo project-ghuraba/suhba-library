@@ -1,4 +1,4 @@
----
+﻿---
 date: 2001-12-12
 date_hijri: ''
 edited_at: 2026-06-25
@@ -41,7 +41,7 @@ Exalted means the possessor of knowledge, possessor of virtues. Rich is the rich
 
 It's important. There were Ahlullah in old times. Of course, they were not worldly rich. Who went to them wanted to swim in their oceans, their seas of perfection. And as they were the seas of perfection, people wanted to dive into them. The sea attracts people, there is an attraction in human nature. The sea is attractive to people. The sea attracts people. We have such a nature. We have a fondness for the sea. We want to swim in the sea. But when you swim too much, it is dangerous. The seas of these owners of spiritual perfection are not deadly but reviving. Moreover, they help to increase the level of perfection. Therefore, when we say exalted, it refers to the sea as well. It means someone with faith like an ocean, knowledge like an ocean, perfection like an ocean.
 
-www.saltanat.org Page 1 Go to them, find them because you will open with them. Your spiritual perfection will reach those oceans. They will open a way and your dry souls will start to become green. They will open. If not, you are like a desert inside. Their oceans are not salty like the ordinary oceans. They are reviving. Each has different qualities. That's it. Well done. Did you see?
+Go to them, find them because you will open with them. Your spiritual perfection will reach those oceans. They will open a way and your dry souls will start to become green. They will open. If not, you are like a desert inside. Their oceans are not salty like the ordinary oceans. They are reviving. Each has different qualities. That's it. Well done. Did you see?
 
 Q: Can I ask one more thing?
 
@@ -77,4 +77,4 @@ SE: You must say what you need there too. Say, "I came to you, I have a problem.
 
 Video link: http://saltanat.org/videopage.php?id=15456&name=2001-12- 12_tr_EvliyalardanNasilIstemeli_SN.mp4
 
-www.saltanat.org Page 2 www.saltanat.org Page 3
+NoneNone

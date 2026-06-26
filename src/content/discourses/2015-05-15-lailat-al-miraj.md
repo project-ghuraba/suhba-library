@@ -1,4 +1,4 @@
----
+﻿---
 date: 2015-05-15
 date_hijri: ''
 edited_at: 2026-06-25
@@ -31,7 +31,7 @@ Allah Azza wa Jalla praises Isra and Mi'raj so much. Some people say it was a dr
 
 After our Prophet (sas) reached to that point and came back, although his body seemed like a human, with the inspiration and manifestation there our Prophet (sas) went far beyond a normal human being. Nobody can say; "He was also a human being, he was ordinary". He is different, He is the Beloved servant of Allah, the Beloved being, our prophet (sas). This is a holy night. It is both a gift of Allah to the Prophet (sas) and also to the people who believe, respect, honour this night as a holy night and
 
-www.saltanat.org Page 1 pray, do charity. They take from Allah's favours. Their prayers will be accepted. They will have a good life. They reach the real life. Real life! This is an illusory life. Real life is the akhirah life.
+pray, do charity. They take from Allah's favours. Their prayers will be accepted. They will have a good life. They reach the real life. Real life! This is an illusory life. Real life is the akhirah life.
 
 On such nights as this one a window opens to akhirah, from there people receive from the favours of Allah. These holy nights are the respected nights. It is mentioned also in Qur'an - Laylatu l-Qadr, Isra, Mi'raj, Shaban, Raghaib night, Bara'at night, are all holy nights. They are the favours of Allah to us. Generous, the most generous among generous ones, Allah gives people chances, so that people take from His favours. The more you take the more Allah will be pleased. What we want is Allah's pleasure. Allah will be pleased with you. Allah will be happy with you. Accept his favour, don't reject it. Take! He is giving. Take as much as you can. The Arabs have a saying: When a man is greedy, they say be greedy for the akhirah, not this world. So, as much as you desire the favours of Allah, as much as you want, Allah Azza wa Jalla will be more pleased with you.
 
@@ -43,7 +43,7 @@ Allah Azza wa Jalla, He is saying in, there is Surat Al-'Isra He [is] praising H
 
 And it is [a] miracle [that] happened by physically, physical body - Not only with spiritual. No! Because if it is spiritual it is not [a] miracle. Everybody [when] sleeping seeing something. Many people they are seeing very good dreams, but it is a dream. Dream [is] for everybody, you cannot say [it is] miracle. Miracle, and it is only for this miracle only for Prophet (saws). There is millions of miracles for Prophets. But, for the highest what Allah give for Prophet (saws) [is] one of the highest, the biggest miracle - this Isra' wal-Mi'raj.
 
-And there is people they claim themself they are understanding [the] language of Qur'an. But they make fitna and they saying the Prophet, he is 'prophet Muhammed (saws) he is just ordinary human being like us. And he got some mission and he finished [his] mission and he is now dead. You cannot benefit from dead people.' These people, they are... they are dead. And they are some of them they said [they are] Arab but not Arab! There are thousands of scholars, there are thousands of good scholars in Arab. These are a few people they are saying, showing themselves as they are the real people and shaytan supports them. From a hundred thousand of ulama, scholars, Arabs praising www.saltanat.org Page 2 Prophet (saws) and his miracle and his teaching and accepting his highest station. He is not ordinary man or human being. But only few of them they put them and they make fitna. This is shaytan and his followers and they are ignorant people.
+And there is people they claim themself they are understanding [the] language of Qur'an. But they make fitna and they saying the Prophet, he is 'prophet Muhammed (saws) he is just ordinary human being like us. And he got some mission and he finished [his] mission and he is now dead. You cannot benefit from dead people.' These people, they are... they are dead. And they are some of them they said [they are] Arab but not Arab! There are thousands of scholars, there are thousands of good scholars in Arab. These are a few people they are saying, showing themselves as they are the real people and shaytan supports them. From a hundred thousand of ulama, scholars, Arabs praising Prophet (saws) and his miracle and his teaching and accepting his highest station. He is not ordinary man or human being. But only few of them they put them and they make fitna. This is shaytan and his followers and they are ignorant people.
 
 Because when Prophet (saws) he got the highest ikram, gift from Allah, nobody before him got it. And the human being, they cannot be [able to] reach for what Prophet (saws) reached in one night. Even it is; when he went and came back from Divine Presence it was his bed still warm. And he was going around all universe and the seven Heavens and he went to the Paradise and he looked for hell also, for Judgement Day, for everything He Allah showed him. And he was after to [a] place where nobody from human being can be there. Even angel Jibril he couldn't pass one more step because he said 'If I pass one more I will be burn'. So he, Prophet (saws) he was in a place [where] his body, everything, he [was] full of blessed and special things to be in Divine presence of Allah. And how you say 'he is like us?' 'He is a human being like us'? 'He is from..' No! You cannot be. You must be, respect for Prophet (saws) and it is surah in the middle of Qur'an - to show these people how Allah praising Prophet (saws). We are all ordered to praise Prophet (saws) and to get blessed from him.
 
@@ -55,6 +55,4 @@ You can pray for yourself, for your family, for your children to be safe in iman
 
 Wa min Allah it-tawfiq Al-Fatiha
 
-www.saltanat.org Page 3 Video link: http://saltanat.org/videopage.php?id=13684&name=2015-05- 15_tr_LailatAlMiraj_SM.mp4
-
-www.saltanat.org Page 4
+Video link: http://saltanat.org/videopage.php?id=13684&name=2015-05- 15_tr_LailatAlMiraj_SM.mp4

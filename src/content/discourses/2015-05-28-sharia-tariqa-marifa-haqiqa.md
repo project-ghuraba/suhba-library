@@ -1,4 +1,4 @@
----
+﻿---
 date: 2015-05-28
 date_hijri: ''
 edited_at: 2026-06-25
@@ -33,7 +33,7 @@ Like this, second one will be more difficult for me. But it is order. He also sl
 
 He come back to Mawlana Jalaluddin Rumi. He said "What you see there?" He told him: "This what I saw." He said "First one, he's in door of sharia." That door of sharia you can be. If anybody doing wrong thing for you, you can do same thing for him. It is qisas. I don't know what it means in English. Retaliation. So this is he's in sharia. And he do by sharia. Second one, he's he is entering tariqa and he wanted to beat you, but he remembered "I am in tariqa, it is not tariqa teaching this. Tariqa teaching to be, to do who make bad thing for you, you must reply by good thing for him." Even Abayazid al-Bistami many times he was beaten by his people and he was nearly dying. He said "If they know what I'll do for them, they must kill me. Because when they are beating me more, I give them more baraka.
 
-www.saltanat.org Page 1 Because I am not replying like them - only I give them more mercy and pray for Allah for them." This is tariqa.
+Because I am not replying like them - only I give them more mercy and pray for Allah for them." This is tariqa.
 
 Third one, he was entering marifa, knowledge door and he know everything coming from Allah; good thing, bad thing, all from Allah. But he just wondering which iblis, shaitan doing this. So just looking and he continue. It's ok for him. The fourth one haqiqa, the absolute truth. And he knows everything from Allah. And he even no need to see who is doing this wrong for him. For him or for anybody at all not interesting. And he is coming out from ego, completely coming out of ego. He is just with Allah.
 
@@ -45,7 +45,7 @@ And after this, you're saying "We are depressed, we are not knowing what to do."
 
 If you are not like too much, you must say alhamdulillah. Alhamdulillah for everything, alhamdulillah. But if there is good thing, you must say shukrulillah. Because shukr making this more. So you cannot say for bad thing shukrulillah, only alhamdulillah, we are accepting. We are make alhamdulillah for Allah. We are happy with what Allah give us.
 
-Because everywhere we are going this is teaching of shaitan and teaching of these Western philosophers who are not believers. They have doubts for everything. With a believer cannot be. They www.saltanat.org Page 2 have doubt for anything. We are believer, this is meaning believer. Difference between believer and philosopher. Philosophers, they have doubts for everything. Even for themselves. They don't know they are in life or in not reality life. Dogs. Really, if you know what they are saying, many people laughing for them. They are praising them. But it is in this culture. Now it is like disease in everywhere from the world. But "wallahu ghalibun ala amrihi" (12:21) (And Allah has full power and control over His Affairs). Allah...
+Because everywhere we are going this is teaching of shaitan and teaching of these Western philosophers who are not believers. They have doubts for everything. With a believer cannot be. They have doubt for anything. We are believer, this is meaning believer. Difference between believer and philosopher. Philosophers, they have doubts for everything. Even for themselves. They don't know they are in life or in not reality life. Dogs. Really, if you know what they are saying, many people laughing for them. They are praising them. But it is in this culture. Now it is like disease in everywhere from the world. But "wallahu ghalibun ala amrihi" (12:21) (And Allah has full power and control over His Affairs). Allah...
 
 The real knowledge in Qur'an, word of Allah Azza wa Jalla. Nothing can be higher than this. And Allah teaching us. We must listen for teaching of Allah, our Prophet (saw) and ulama saliheen, Awliya saliheen, murshideen. They are all spreading good things, spreading happiness for people. ' yus'adu fi majlisihim ' - Who may be in their place, everybody become happy. But in other people place, everybody become sad and depressed more because they don't have anything. They're saying, speaking, speaking but they are not believers. And at the end of this what will happen? Nothing. You will be finished. No, you cannot be finished. We said, there is akhirah, the real life. This is what they don't have. And they are making people to throwing them to jahannam (Hell).
 
@@ -56,5 +56,3 @@ So nothing going empty here. Everything Allah counting and making for you to be 
 Wa min Allahi t-tawfeeq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=13828&name=2015-05- 28_en_ShariaTariqaMarifaHaqiqa_SM.mp4
-
-www.saltanat.org Page 3

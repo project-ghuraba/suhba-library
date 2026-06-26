@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-10-27
 date_hijri: ''
 edited_at: 2026-06-25
@@ -36,5 +36,3 @@ Don't say "I cannot do this thing." No, inshaAllah Allah helps. The all Awliyaul
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12622&name=2014-10- 27_en_SahibMubarak_SM.mp4
-
-www.saltanat.org Page 1

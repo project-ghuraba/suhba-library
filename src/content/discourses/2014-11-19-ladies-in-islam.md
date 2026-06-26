@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-11-19
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,12 +35,10 @@ Women outside Islam are devalued. They are used for various bad purposes. These 
 
 If a lady works and her children are raised by others, they bring them up as they see fit. May Allah not allow it. We saw it many times in some villages. We stayed in their houses. The children of hajjis and hojas grew up as communists. There are none of them now. All the siblings were the hajjis and hojas of the village, and there is not one on the right way among their children and grandchildren. It is important to raise children. There is Mehmet Shevket Efendi - He was a favourite newspaper writer of Sheikh Effendi. He said there is a foundation which builds dormitories for students. He said "It can't be like this. You should find one student." He had one idea. He suggested that they find just one student and invest 10,000 liras per month in him in order to bring him up in the best way, so that he works for the government in the future and serves both Islam and the people. It can be done, of course, but there wasn't anyone to do it. But you can do, by permission of Allah.
 
-www.saltanat.org Page 1 Everyone can bring their children up on the right way. The intention itself is enough. As long as there is pure intention, Allah will help. Don't put children in other people's hands, thinking you did the right thing and believe they will take care of everything. You see the conditions, especially of our country. InshaAllah leaders will come to the right way. By seeing the nice condition of these children, they will get better, inshaAllah.
+Everyone can bring their children up on the right way. The intention itself is enough. As long as there is pure intention, Allah will help. Don't put children in other people's hands, thinking you did the right thing and believe they will take care of everything. You see the conditions, especially of our country. InshaAllah leaders will come to the right way. By seeing the nice condition of these children, they will get better, inshaAllah.
 
 May Allah be pleased, mashaAllah. May your gatherings be lasting and increase inshaAllah. May they be blessed inshaAllah. As we said the jama'at of Famagusta is always large by the wisdom of Allah. There is the great Hz. Qutub Osman here for the honor of martyrs, holy people, and Masha'ikh of this area. They are here. InshaAllah it will last. May our Sheikh's spiritual support be with you. May all your good intentions come to a good end inshaAllah. We are pleased, may Allah be pleased.
 
 Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12746&name=2014-11- 19_tr_LadiesInIslam_SM.mp4
-
-www.saltanat.org Page 2

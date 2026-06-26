@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-05-23
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,10 +35,8 @@ SME: He didn't want to go to the hospital. But when the ambulance came, it was o
 
 I'm attending a conference for the first time, I'm not used to it. When Sheikh Effendi attended, mashaAllah, everyone would be overwhelmed. He used to say that saints are humorous. Hadhrat Mawlana also had a sense of humor and he liked making jokes. Once, either from Cambridge or from Oxford, there were 3-5 professors with him. When Sheikh Effendi gave a conference, he didn't like taking questions. He spoke and everyone looked with open mouths. Then they started... One professor was sitting next to him. He (Sheikh Effendi) asked if anyone had a question. As soon as the questions started, the professor listened then Sheikh Effendi told him to answer the questions. He made everyone laugh with jokes most of the time. But He had serious times also, but he made lots of jokes as well in order to relax people and situations. Thank you.
 
-Audhu biLlahi min as-shaytani r- rajim. Bismillahi r-Rahmani r-Rahim. Wa s-salatu wa s-salamu ala Rasulina Muhammadin Sayyidi l-awwalina wa l-akhirin. Allahumma ja'al jami'na hadha jam'an marhuma wa tafarruqana min ba'dihi tafarruqan ma'suma. Wa la taj'al fina shaqiyyan wa la mahrum. Allahumma yassir umarana wa farrij qulubana... istighfarana... Ya Qadima l-ihsani ahsin ilaina bi ihsani l-qadim. Ya www.saltanat.org Page 1 Mufattiha l-abwab iftah lana khayra l-bab. Iftah lana abwaba rahmatik, Iftah lana abwaba karamik Ya Razzaq, arzuqna bil-karamik wa-hshurna fi ibadika s-salihin min alladhina la khawfun alayhim wa la hum yahzanun.
+Audhu biLlahi min as-shaytani r- rajim. Bismillahi r-Rahmani r-Rahim. Wa s-salatu wa s-salamu ala Rasulina Muhammadin Sayyidi l-awwalina wa l-akhirin. Allahumma ja'al jami'na hadha jam'an marhuma wa tafarruqana min ba'dihi tafarruqan ma'suma. Wa la taj'al fina shaqiyyan wa la mahrum. Allahumma yassir umarana wa farrij qulubana... istighfarana... Ya Qadima l-ihsani ahsin ilaina bi ihsani l-qadim. Ya Mufattiha l-abwab iftah lana khayra l-bab. Iftah lana abwaba rahmatik, Iftah lana abwaba karamik Ya Razzaq, arzuqna bil-karamik wa-hshurna fi ibadika s-salihin min alladhina la khawfun alayhim wa la hum yahzanun.
 
 May our meeting be good inshaAllah. May it result in all possible goodness for joy here and hereafter. May the minds of students be clear. May debtors find relief, may sick be cured, may suffering ones find solutions. The victims in Soma (miners), are assumed to be shahids, may they find extensive mercy. May Allah give patience to their families. May Allah increase the maqam of our Sheikh. May his spiritual strength be present. For happiness here and hereafter, for the pleasure of Allah, Lillahi Ta'ala al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11678&name=2014-05- 23_tr_AdviceToStudents_SM.mp4
-
-www.saltanat.org Page 2

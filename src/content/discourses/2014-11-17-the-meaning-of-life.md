@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-11-17
 date_hijri: ''
 edited_at: 2026-06-25
@@ -37,7 +37,7 @@ Allah Azza wa Jalla described human being life. He is the Creator. He created ev
 
 Many people, they make philosophy. They say "Why were we created? Why are we here? What are we doing here?" So Allah created us and He is showing us what to do, why we are here and how we are, how is our life. He said in Qur'an "Your life in this world is playing, enjoying and gathering money and children and property." It is like this. The shortest way, it is playing. Allah sent us here just to make us to play. But from after how, what will be? It is also like rain coming to a dry place - after weeds coming up very green and very nice. And people, they are like this. "Oh, it is very nice". They thought it will be forever like this.
 
-www.saltanat.org Page 1 But weed, it is only 3 months, 4 months. After when come summer, it will be dry and it will be cut and thrown. Nothing anymore. Our life, it is like this also.
+But weed, it is only 3 months, 4 months. After when come summer, it will be dry and it will be cut and thrown. Nothing anymore. Our life, it is like this also.
 
 After this, there is punishment and azab. Punishment, torture and what else? There is (asking) forgiveness and there is accepting from Allah. This is the end of our playing. So believer or not believer, all we are doing same things. But if you believe in Allah, you'll get forgiveness from Him. But if you are not believing and doing what is wrong, not doing His order, you're doing wrong, you'll be punished. And Allah Azza wa Jalla ordering "Come quickly, very quickly to take forgiveness, to receive forgiveness from Allah." And Allah, He will give you paradise. Paradise, it is so wide. He explained also - It's like between earth and sky. And it will be enough for everybody. So He is inviting you - "Come quickly. Don't be lazy. Don't do what I am not ordering. I am ordering you to come and take forgiveness and to be in paradise".
 
@@ -46,5 +46,3 @@ This is Allah's order. Not order "Do bad things and I will put you in hell". No,
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12725&name=2014-11- 17_en_MeaningOfLife_SM.mp4
-
-www.saltanat.org Page 2

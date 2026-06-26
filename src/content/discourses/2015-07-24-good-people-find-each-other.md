@@ -1,4 +1,4 @@
----
+﻿---
 date: 2015-07-24
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ The heat of Qiyama is described with the voice of our Prophet by Allah Azza wa J
 
 If you are with bad people in dunya, you will have troubles also. But when you are with the good ones, no one can say anything to those who are on the right way. Therefore, when you look for a friend, when you plan to get married, when you look for a spouse or friend, or a comrade, they should be good ones. Stay away from bad ones. They are
 
-www.saltanat.org Page 1 nothing but trouble. They are trouble both in dunya and in akhira. Stay away from them. May Allah gather us with good ones. May Allah put us with good ones in dunya and in akhira. Don't say "This man has so much money. This woman is so beautiful". These are just traps. Just like an insect is caught, you will be destroyed too. You will get stuck in some bad place and won't find an escape. Beware.
+nothing but trouble. They are trouble both in dunya and in akhira. Stay away from them. May Allah gather us with good ones. May Allah put us with good ones in dunya and in akhira. Don't say "This man has so much money. This woman is so beautiful". These are just traps. Just like an insect is caught, you will be destroyed too. You will get stuck in some bad place and won't find an escape. Beware.
 
 Allah Azza wa Jalla He said in the ayah we read: the good people or good ladies with good men. And Allah give good men for good ladies also. This is for marriage, surah, ayat. And Allah said when they find together Allah open for them the, His Mercy Doors and He generous, give them gift. Give them wideness in life also. This is for everything, not only for marriage. Good people, all time they are together, coming together. They find each other.
 
@@ -49,6 +49,4 @@ These people who are not believer they are not thinking. Only they are thinking 
 
 Wa min Allahi t-tawfiq al-Fatiha.
 
-www.saltanat.org Page 2 Video link: http://saltanat.org/videopage.php?id=14143&name=2015-07- 24_tr_GoodPeople_SM.mp4
-
-www.saltanat.org Page 3
+Video link: http://saltanat.org/videopage.php?id=14143&name=2015-07- 24_tr_GoodPeople_SM.mp4

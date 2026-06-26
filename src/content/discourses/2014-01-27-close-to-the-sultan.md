@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-01-27
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ As-salamu alaykum. Welcome O Yaran/lovers. Lovers of Shah Mardan. Welcome. You t
 
 Many thanks. It came down from heavens - Bismillahi r-Rahmani r-Rahim. Teach the people so they will get used to it. From where did Basmala Sharifa come? It came from heavens. What a great honor to be able to say it, my son. Sheikh Mehmed Effendi, we are addressing him, if they give you the whole world, my son Sheikh Mehmed, what value does it have? What value does it have? It is rubbish. Don't look at things coming from earth. Look to those things coming from heavens. Do you understand? If all the pleasures of dunya were given to you, what value would it have? Those things coming from earth have no value. Did anything come down from heavens for you? Is anything sent down? Yes they are sending down.
 
-www.saltanat.org Page 1 Look to those who take from heavens. Sheikh Mehmed Effendi, my son, my grandson, look to those things that are sent from heavens. Let's say - Bismillahi r-Rahmani r-Rahim. May the lights of heaven come down upon us. Ask for that. We are being mixed around in rubbish - Ad-dunya jifatun. "Dunya is a carcass." Wa talibuha kilab. "Those asking for dunya are dogs." We don't want dunya. However, we want to use dunya on Allah's way in front of the Magnificence of the Lord of Glory. La Ilaha illAllah. La Ilaha illAllah. La Ilaha illAllah. Sayyidina Muhammadun Rasulullah. It purifies us from within. It makes us clean. Dunya is impure. We must be cleaned. Prophets came to clean us. Sultanul Anbiya came, alayhi-s salatu wa-s salam, our master.
+Look to those who take from heavens. Sheikh Mehmed Effendi, my son, my grandson, look to those things that are sent from heavens. Let's say - Bismillahi r-Rahmani r-Rahim. May the lights of heaven come down upon us. Ask for that. We are being mixed around in rubbish - Ad-dunya jifatun. "Dunya is a carcass." Wa talibuha kilab. "Those asking for dunya are dogs." We don't want dunya. However, we want to use dunya on Allah's way in front of the Magnificence of the Lord of Glory. La Ilaha illAllah. La Ilaha illAllah. La Ilaha illAllah. Sayyidina Muhammadun Rasulullah. It purifies us from within. It makes us clean. Dunya is impure. We must be cleaned. Prophets came to clean us. Sultanul Anbiya came, alayhi-s salatu wa-s salam, our master.
 
 The companions couldn't find one date. They were so hungry they would tie stones on their holy stomachs. They couldn't find one date. And the glorious Prophet tied two stones instead of one. On the way to Mount Uhud, Sheikh Mehmed Effendi, my son, he heard a sound. He turned back and looked. Behind him was flowing dunya, gold. He said "Stop. We are not in need of you. We are servants of Allah. We don't run after you".
 
@@ -50,5 +50,3 @@ Recite for me, Mehmed. May Allah elevate your rank. You understand. May your ran
 As-salamun alaykum.
 
 Video link: http://saltanat.org/videopage.php?id=10495&name=2014-01-27_tr-SultanaYakin.mp4
-
-www.saltanat.org Page 2

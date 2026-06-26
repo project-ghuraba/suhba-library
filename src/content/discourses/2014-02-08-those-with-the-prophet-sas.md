@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-02-08
 date_hijri: ''
 edited_at: 2026-06-25
@@ -37,7 +37,7 @@ Praise to JanabAllah. She accepted us for a visit when I was young. She will acc
 
 Anything which is not revered in the presence of Rasulullah has no value. Therefore, our Ummuhan Sultan has been waiting for 1,500 years for people of the Beloved to come, to visit and see. Visiting her is like visiting a Sultan. What a beautiful visit it is. What a beautiful visit, sheikh Mehmet Effendi. It is a place to be visited. It is more here than in Ayyub Sultan. (the maqam of Ayyub al-Ansari in Istanbul) Our Sultan, her maqam is higher than that of Ayyub Sultan. May we receive strength so that we find honor by visiting her.
 
-www.saltanat.org Page 1 Revering her is revering Islam. Revering Islam is revering the Habib. Revering the Habib is revering Janab-ul Rabb-ul Izzat. Revere Allah. Revere Allah. O our Lord, I ask for Your kind favours. I ask for Your kind favours. If only I visited that magnificent maqam every day. It is for Allah. Our visit is for Allah. Praise and thanks to Allah. Revere. You'll be revered. Your value is according to what you revere. If you revere dunya, dunya is a carcass. Ad-dunya jeefah. It is a carcass, it has no value. Revere what should be revered, you'll get honors, you'll find great value.
+Revering her is revering Islam. Revering Islam is revering the Habib. Revering the Habib is revering Janab-ul Rabb-ul Izzat. Revere Allah. Revere Allah. O our Lord, I ask for Your kind favours. I ask for Your kind favours. If only I visited that magnificent maqam every day. It is for Allah. Our visit is for Allah. Praise and thanks to Allah. Revere. You'll be revered. Your value is according to what you revere. If you revere dunya, dunya is a carcass. Ad-dunya jeefah. It is a carcass, it has no value. Revere what should be revered, you'll get honors, you'll find great value.
 
 Prophet Adam put his feet on that place. Oh this is new. Prophet Adam, alaihi s-salatu wa s-salam, put his feet on the place where our Ummuhan Sultan is lying. He has honor. Get honor. Be close to that glorious Prophet. May your honor increase.
 
@@ -58,5 +58,3 @@ Fatiha.
 Video link: http://saltanat.org/videopage.php?id=10652&name=2014-02-
 
 08_tr_ManIndaRasulillah.mp4
-
-www.saltanat.org Page 2

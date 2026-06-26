@@ -1,4 +1,4 @@
----
+﻿---
 date: 2012-11-24
 date_hijri: ''
 edited_at: 2026-06-25
@@ -31,7 +31,7 @@ What a beautiful color, that violet color. It is not disappearing. It is not get
 
 Masha Allah. Masha Allah. How beautiful are the colors of this sun, today's sun. The beauty, the manifestation of the colors of the sun on the 11th of Muharram have become totally different. Today definitely a power will reach, a sign will come which will tranquilize the wild people. The manifestation of today is totally different than what came to the Prophets. O our Allah, O our Lord, we await the Sultan. We await the Sultan who will reveal, disclose Islam. O Our Lord, may You grant us. We have lost our way & become totally messed up, our men & women are all mixed up (not distinguishable). We don't know what we want either. They don't return to You. They don't return.. And as long as they are not returning, they can't find any goodness, they can't find any rest. Neither their dunya nor their akhirah can be any good. Tawba Ya Rabbi, tawba ya Rabbi. Tubna wa Raja'na ilayk ya Rabbana.
 
-www.saltanat.org Page 1 What a beautiful sun, what a beautiful colored sun is it today- a different tajalli has appeared in the sun of the 11th of Muharram. Let's see what will come after this, what will come after this. Aman Ya Rabbi, Qadir al-Muqtadir. Al Qadir wa al- Muqtadir ala al ithlaq. Al Qadir al Mutlaq, al Muqtadir ala al itlaq. Allahu Akbar. Subhan Allah. Fatiha.
+What a beautiful sun, what a beautiful colored sun is it today- a different tajalli has appeared in the sun of the 11th of Muharram. Let's see what will come after this, what will come after this. Aman Ya Rabbi, Qadir al-Muqtadir. Al Qadir wa al- Muqtadir ala al ithlaq. Al Qadir al Mutlaq, al Muqtadir ala al itlaq. Allahu Akbar. Subhan Allah. Fatiha.
 
 We can't look, I can't look. Look, a violet color has come now that such a beautiful violet color as I see from here now was never seen before. Violet light beams are coming out from the sun that I am astonished, I am astonished. The sun's appearance took place in violet nurs/lights, in violet flames today. Allahu Akbarul Akbar. Allahu Akbarul Akbar. Let's see what is there today, Allahu Akbarul Akbar. It is all violet. Around it is red & it's center is violet. Our sun is upon an astonishing nur today- 11th of Muharram al-Haram. Aman ya Rabbi, may You not deal with us with Your Qahr. We await Your grants. O Our Lord may you not leave us to our ignorance.
 
@@ -44,5 +44,3 @@ We can't tolerate it. We can't tolerate looking at it. Aman ya Rabbi.. What a be
 O people, look to the sun when it is rising. An astonishing appearance took place today. O scholars, O common people, watch the sun. The help of the sun has reached & the sultanate of shaytan will be destroyed. It has been destroyed! It has been destroyed, masha Allah. Masha Allah, what a beautiful pink. Fatiha.
 
 Video Link: http://saltanat.org/videopage.php?id=5817&name=2012-11-24_tr_Gunes.mp4
-
-www.saltanat.org Page 2

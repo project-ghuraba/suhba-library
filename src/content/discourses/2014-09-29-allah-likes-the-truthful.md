@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-09-29
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ The nations of other Prophets, some will go heaven, some hell. Who is the nation
 
 Because our Prophet was called - Amin/honest, Sadiq/trustworthy. Our Prophet never had that bad characteristic. Everyone accepts this. Since he was young, he was called - Muhammad al-Amin. And we are the nation of our Prophet. That means we must follow him. We must not do the things he dislikes. We must try to have the attributes that he likes and accepts. We must be like that. These attributes are loved by everyone. Whether you accept or not, these characteristics are loved. Our Prophet shows the right way. Be true and don't lie.
 
-www.saltanat.org Page 1 We read this ayah/verse - Minal Mu'minina Rijalun Sadaqu Ma Ahadu Allaha Alayhi Faminhum Man Qada Nahbahu Wa MinhumMan Yantaziru Wama Baddalu Tabdila (33:23) Allah praises these men who are sadaqu...truthful. Truthful and they are behind what they promised. And some of them passed away and some of them still waiting, never changing, never turning back. This is the attribute of 'man'. To say 'man', it is highest station for human being. Rijalullah - the men of Allah. These men, they are not afraid from anything. Not afraid from anyone. This is what Allah's Prophet salla Allahu alayhi wa sallam loves. They are not lying. What they say is truth. Because the truth is attribute of Prophet salla Allahu alayhi wa sallam. For all prophets, for all awliya Allah/saints.
+We read this ayah/verse - Minal Mu'minina Rijalun Sadaqu Ma Ahadu Allaha Alayhi Faminhum Man Qada Nahbahu Wa MinhumMan Yantaziru Wama Baddalu Tabdila (33:23) Allah praises these men who are sadaqu...truthful. Truthful and they are behind what they promised. And some of them passed away and some of them still waiting, never changing, never turning back. This is the attribute of 'man'. To say 'man', it is highest station for human being. Rijalullah - the men of Allah. These men, they are not afraid from anything. Not afraid from anyone. This is what Allah's Prophet salla Allahu alayhi wa sallam loves. They are not lying. What they say is truth. Because the truth is attribute of Prophet salla Allahu alayhi wa sallam. For all prophets, for all awliya Allah/saints.
 
 This attribute, very few people have it. And it is most beautiful attribute. Because you are trusting these people. You give everything, you give your life, you give your treasure, you give everything when you find someone like him, like this people. And they are not changing, not lying. You can never find any awliya or prophet saying any lie. Even if they kill them, they are not changing. Lying is the worst thing in the Divine Presence of Allah. And the Prophet (sws) and even normal people are not liking a liar. Allah 'aza wa jalla said, there is hadith from Prophet (sws) - The man... they are not even saying "man" for these people. Some person, if he still continues to say lies and not truth, and it becomes like a habit for him, Allah 'aza wa jal write him to be a liar - this man is a liar. What was his name, Samir or Sameer, something like this, he was liar Sameer. Something like this, he is continuing to lie. And liars are the ones far from Allah.
 
@@ -45,6 +45,4 @@ But there is some place that you can only do, very few place to help in war, whe
 
 But other nations, some of them will be in paradise, others will be forever in hell. So the option is open. For this we are saying - the liar, the level of lying, the level of his lying, if it is too much, especially if lying in court. They call it - shahid zoor. Lying in court is the worst one. It's like drinking alcohol or zina/ adultery, it is from kaba'ir/big sins. So until he finishes his punishment, after that he comes to paradise. But no need to be thousands of years in hell to make a small amount of lying. You must be careful and you must be believer. And you must be first one to be a 'man'. Man...even ladies they are truthful, they are like man. This is what Allah saying. Prophet (sws) praising to be a 'man'.
 
-Wa min Allah it-tawfiq. Fatiha. www.saltanat.org Page 2 Video link: http://saltanat.org/videopage.php?id=12407&name=2014-09- 29_tr_AllahLikesTheTruthful_SM.mp4
-
-www.saltanat.org Page 3
+Wa min Allah it-tawfiq. Fatiha. Video link: http://saltanat.org/videopage.php?id=12407&name=2014-09- 29_tr_AllahLikesTheTruthful_SM.mp4

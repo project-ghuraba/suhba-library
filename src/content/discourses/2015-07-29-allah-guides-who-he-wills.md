@@ -1,4 +1,4 @@
----
+﻿---
 date: 2015-07-29
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ Once Sheikh Effendi told about the Bani Israel. Musa alaihi salam went up on Mt.
 
 Mawlana Sheikh, he beginning to travelling to Cyprus... He left Cyprus, he went to Istanbul. He study in University. After left university, coming to Damascus to his Sheikh. And when he come back to Cyprus, he was around 23 years old. So he was in Cyprus 70 years. He was calling people to the Way of Light, Way of Allah, Prophet, for Islam. 70 years he was calling them. He is like Sayyidina... Sometimes I'm thinking he's like Sayyidina Nuh, Noah. And what Sayyidina Nuh he said after? "O Allah, don't leave anybody from these people. They will not bring any good people - if they will bring - only unbeliever, not good people". But Mawlana, he was merciful, he didn't say this.
 
-What he said: they are like Bani Isra'il who said to Sayyidina Musa, "Go you and your Lord and fight and when you are winned call us and we go to this area". And these people Mawlana was saying they... Nobody left from there, 40 years they was in desert, they cannot go out of the desert. This, morning www.saltanat.org Page 1 coming, they said, "O, today we will go". Nighttime they are coming same place. Forty years until everybody was dying, even Sayyidina Musa (as) he was passed away also. New generation, they become good generation, they went to this city. Mawlana Sheikh he was saying this, in this, old generation they was really not good people. So inshaAllah, new generation will be good people, inshaAllah.
+What he said: they are like Bani Isra'il who said to Sayyidina Musa, "Go you and your Lord and fight and when you are winned call us and we go to this area". And these people Mawlana was saying they... Nobody left from there, 40 years they was in desert, they cannot go out of the desert. This, morning coming, they said, "O, today we will go". Nighttime they are coming same place. Forty years until everybody was dying, even Sayyidina Musa (as) he was passed away also. New generation, they become good generation, they went to this city. Mawlana Sheikh he was saying this, in this, old generation they was really not good people. So inshaAllah, new generation will be good people, inshaAllah.
 
 Mawlana's baraka, inshaAllah will be, because his dua, he not making dua, to not be anybody. But what is the wisdom from this? This is Allah Azza wa Jalla saying: you cannot bring people who you love them to Right Way, what you love them. Only Allah what He want, He bring them.(28:56) Mawlana he was here 70 year. He's there, people they are going worse and worse. But he's bring non-Muslim - no any ancestor they are Muslim, he bring them to Islam. 1,000, 100,000 people coming to Islam by his hand. Even more than whole Cyprus population he bring to Islam. But in Cyprus he couldn't do anything.
 
@@ -44,5 +44,3 @@ And there was one lady, last, before 3 days she come here, she was complaining. 
 Wa min Allahi t-tawfiq, al-Fatiha
 
 Video link: http://saltanat.org/videopage.php?id=14168&name=2015-07- 29_tr_AllahGuidesWhomHeWills_SM.mp4
-
-www.saltanat.org Page 2

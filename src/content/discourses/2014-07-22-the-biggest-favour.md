@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-07-22
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ Certainly in akhirah and in the grave reward is still given. If a man leaves tea
 
 The treasures of Allah don't finish. Allah is the most generous of all and He loves generous ones. That's why, He gives these grants to His Muslim servants. That's why, you must know their value while you are alive. Don't forget everything and Allah. Always remember Allah. As you remember Allah, He remembers you. All your work will be beautiful, good. Your sawab will increase. Your book of deeds will be full.
 
-Allah created human beings and He gave them understanding to know good from bad things. But many people, most human beings are out of the right way of Allah. Allah showed the good and right way, but www.saltanat.org Page 1 people they are not accepting this. Even when they are born as Muslims and on the right way. Most of them also they leave the right way. They are thinking - "these who are not believing are better than us." And they try to do like them. And then they are ashamed, some of them, that they are Muslims. Many people are ashamed to pray, to look like Muslims. They try to imitate non-Muslim people. But Allah gave the best favours to these people. Other people they don't have this chance. Alhamdulillah we are born from Muslim fathers, Muslim mothers. Most of us, but some also Allah give hidaya/gift for many people Alhamdulillah with the baraka of Mawlana Sheikh. And this favour it is the biggest favour, good for human beings.
+Allah created human beings and He gave them understanding to know good from bad things. But many people, most human beings are out of the right way of Allah. Allah showed the good and right way, but people they are not accepting this. Even when they are born as Muslims and on the right way. Most of them also they leave the right way. They are thinking - "these who are not believing are better than us." And they try to do like them. And then they are ashamed, some of them, that they are Muslims. Many people are ashamed to pray, to look like Muslims. They try to imitate non-Muslim people. But Allah gave the best favours to these people. Other people they don't have this chance. Alhamdulillah we are born from Muslim fathers, Muslim mothers. Most of us, but some also Allah give hidaya/gift for many people Alhamdulillah with the baraka of Mawlana Sheikh. And this favour it is the biggest favour, good for human beings.
 
 Prophet (saws) he was saying "I am wondering for these mu'mins. All what he does it is going for good. Everything he does Allah makes it good for him." Even he has bad accident or some illness or desires. Any bad thing happens to him, or any good thing happens to him all coming and at the end it is good for him. Allah rewarding him. Because this life it is a very short life, but mu'min every chance, Allah gives it for the mu'mins/believers. And Mawlana he was saying when you are alive and saying "La Ilaha illa Allah" is better than 1000 years underground dead. So you must take this opportunity to do the best for yourself. For your Akhira, for your life, real life.
 
@@ -46,5 +46,3 @@ So Alhamdulillah Allah (awj) He gave us the chance to be alive and can do every 
 Bi Hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12021&name=2014-07- 22_tr_TheBiggestFavour_SM.mp4
-
-www.saltanat.org Page 2

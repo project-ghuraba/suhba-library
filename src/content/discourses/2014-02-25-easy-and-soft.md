@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-02-25
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ He created beautifully, Mehmed effendi, our son. Our Lord created us. Hayyin lay
 
 Our Lord made it obligatory to grant us. He granted us. He did not expel us from His door. He won't expel. Hasha thumma kalla. (it's unthinkable!) O our Lord. He gave us a beautiful appearance, gave a beautiful appearance. He did not give an ugly appearance. He gave a beautiful appearance. Our Lord loved us. Our Lord made us of the nation of His beautiful and glorious Prophet. O yaran Shah Mardan. O holy lion. How beautiful are yaran Shah Mardan. May we expand, be joyful, be beautiful, be honorable, have dignity. May He also grant us from the honor that He assigned His servants. He is our Lord, He is our Lord. He won't smash us, He gives to us. He is our Lord. Allah Allah. There is not any limit to our Lord's grants.
 
-www.saltanat.org Page 1 O our Lord, You are glorious my Lord. We are Your weak servants. We are asking, we are asking from our Lord. We are asking for everything beautiful. We are asking for everything good. He is our Lord, He won't deprive us. He is our Lord. Know. Know, respect, love our Lord's favors. O our Lord Your grants have no end, no limit. And there is not any beginning or ending to the respect we have for You. Let us say Allah, Allah, Allah. Jalla Jalaluhu, Jalla Jalaluhu. Jallat Azamatuhu wa la ilaha ghayruhu.
+O our Lord, You are glorious my Lord. We are Your weak servants. We are asking, we are asking from our Lord. We are asking for everything beautiful. We are asking for everything good. He is our Lord, He won't deprive us. He is our Lord. Know. Know, respect, love our Lord's favors. O our Lord Your grants have no end, no limit. And there is not any beginning or ending to the respect we have for You. Let us say Allah, Allah, Allah. Jalla Jalaluhu, Jalla Jalaluhu. Jallat Azamatuhu wa la ilaha ghayruhu.
 
 Our Lord, we are at Your door. We are at Your door. You want every beauty O Lord. Your favors are endless, boundless, our Allah. I am waiting for Your grants, we are waiting. You are our Lord, the Sultan of Sultans. Your Sultanate has no ending, no boundary. Your grants are endless. Our Lord is gracious and kind. Even if we do mischief our Lord forgives, my son. Servants do mischief. Nevertheless our Lord's forgiveness is unlimited. O our Lord forgive us. Your grants have no boundary, Allahim. O our Lord.
 
@@ -49,10 +49,8 @@ May Allah give you so much goodness. May He give you so much goodness. May we fi
 
 My Ummuhan Sultan - such a holy tomb, such a soothing tomb is the tomb of Ummuhan Sultan. May she accept us, may she not expel us from her door. May we have a beautiful fate. Fatiha.
 
-www.saltanat.org Page 2 Salamun qawlan min Rabbir Rahim.(36:58) Salamun qawlan min Rabbir Rahim. May you be beautiful in every aspect. May you be cheerful and honorable, you and your father. May you be dhu l-karam wa l-ihsan - possessor of generosity and goodness. May your kindness get more, your father's and yours.
+Salamun qawlan min Rabbir Rahim.(36:58) Salamun qawlan min Rabbir Rahim. May you be beautiful in every aspect. May you be cheerful and honorable, you and your father. May you be dhu l-karam wa l-ihsan - possessor of generosity and goodness. May your kindness get more, your father's and yours.
 
 Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=10865&name=2014-02- 25_tr_HayyinLayyin.mp4
-
-www.saltanat.org Page 3

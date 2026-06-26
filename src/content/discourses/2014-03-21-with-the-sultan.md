@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-03-21
 date_hijri: ''
 edited_at: 2026-06-25
@@ -45,7 +45,7 @@ M: He has light/nur on his face, The visit of these holy ones is a great honour 
 
 P: It's your lights.
 
-www.saltanat.org Page 1 M: It is the light of the Prophet(sas). These honourable people are humble enough to visit us. These ladies are all my daughters. This one is our sayyid/decendant of the Prophet. Our lion, our sultan. Kiss your father's hand!
+M: It is the light of the Prophet(sas). These honourable people are humble enough to visit us. These ladies are all my daughters. This one is our sayyid/decendant of the Prophet. Our lion, our sultan. Kiss your father's hand!
 
 Ah! If there were no ladies, all men would have gone to hell. Kiss your father's hand! He is the man of the Mahdi. Turn me to the other side. He is the man of the Sultan. Welcome to all of them (all the ladies). All will enter through our Fatimatu-z Zahra Mother's door. By that way ladies will not go to hell.
 
@@ -78,5 +78,3 @@ May they all be people of Paradise! Allah! May Allah raise their ranks! May they
 As-salamun aleikum. Aleikum as-salam.
 
 Video link: http://saltanat.org/videopage.php?id=11067&name=2014-03-21_tr_SultanIle.mp4
-
-www.saltanat.org Page 2

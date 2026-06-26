@@ -1,4 +1,4 @@
----
+﻿---
 date: 1900-01-01
 date_hijri: ''
 edited_at: 2026-06-25
@@ -33,7 +33,7 @@ If one is not killed, not shot down by many kinds of weapons, then the heaviness
 
 The events of today are very simple compared to the future events. Even now there are many men going crazy. The events of today are nothing. Compared to the events of up-coming days, the events of today are like honey sweets. Honey sweets. What it is to be depressed! Huuu ya Latif. We take refuge in Allah, we take refuge in Allah. About this I spoke a few words in English. You must hear these also.
 
-In those days only a strong faith can favour you. How can you gain a strong faith? You can't gain a strong faith by reading books. Perhaps you can get strong faith from awliya who are the owners of strong faith, which they can transmit from heart to heart. Our Prophet alaihi s-salatu wa s-salam, raised his companions from the lowest level of ignorance, to the highest level of faith. He won them all by the way of heart. Now in these times there are inheritors of the Prophet. Never are the awliya, who are inheritors of the Prophet, absent. Though you don't know them. You may not recognize them but if you ask to find them, there is permission to call them. www.saltanat.org Page 1 If you know someone, call him as your heart says. If not, say: "O friends of Allah, friends of Haqq, help us!" Whichever troubled place or fearful and troubled situation you fall into, call them. "For the sake of the Prophet, O the friend of Al-Haqq, reach out for me." As you say he has to help you. I told Christians to say - "For the sake of Prophet Isa/Jesus"; the nation of Moses - "For the sake of Musa alaihi s-salam, reach out for us." They should say. They may say: "Help for the sake of Ibrahim alaihi s-salam." "For the sake of Ahlu Bayt of Rasullah" - one can ask help for their sake. If one doesn't know to say - "For the sake of Our Prophet" but he calls for the sake of all other prophets, awliya are ordered to help him anyway.
+In those days only a strong faith can favour you. How can you gain a strong faith? You can't gain a strong faith by reading books. Perhaps you can get strong faith from awliya who are the owners of strong faith, which they can transmit from heart to heart. Our Prophet alaihi s-salatu wa s-salam, raised his companions from the lowest level of ignorance, to the highest level of faith. He won them all by the way of heart. Now in these times there are inheritors of the Prophet. Never are the awliya, who are inheritors of the Prophet, absent. Though you don't know them. You may not recognize them but if you ask to find them, there is permission to call them. If you know someone, call him as your heart says. If not, say: "O friends of Allah, friends of Haqq, help us!" Whichever troubled place or fearful and troubled situation you fall into, call them. "For the sake of the Prophet, O the friend of Al-Haqq, reach out for me." As you say he has to help you. I told Christians to say - "For the sake of Prophet Isa/Jesus"; the nation of Moses - "For the sake of Musa alaihi s-salam, reach out for us." They should say. They may say: "Help for the sake of Ibrahim alaihi s-salam." "For the sake of Ahlu Bayt of Rasullah" - one can ask help for their sake. If one doesn't know to say - "For the sake of Our Prophet" but he calls for the sake of all other prophets, awliya are ordered to help him anyway.
 
 G: From now till the coming troubled days?
 
@@ -44,5 +44,3 @@ So this is an important issue. Pay attention to this! The way for strong faith i
 Bi hurmati l-Habib bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=9109&name=1998-00- 00_tr_SonGunler_SN_a.mp4
-
-www.saltanat.org Page 2

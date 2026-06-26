@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-10-28
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ But these people, they are following really he don't want 100% to go to jannah. 
 
 What is first of them? Mahdi alaihi salam and to fight with Dajjal. Dajjal also from big signs. Dajjal, he is the Antichrist, we say. He has one eye and he cheat people. He's showing jannat-jahannam, paradise and hell, with him but it is wrong. When say, somebody accept jannah, it is really hell. And when accept hell, it is really paradise for people. And Isa alaihi salam. We believe he will come to earth and he will follow Mahdi alaihi salam. Many hadiths and right hadiths from Prophet (saw) explain this. We must believe in this from our real belief. If you don't believe in this, you are not in Ahl as-Sunnah wa l-Jamaa.
 
-After, of course, many things like Yajooj, Majooj, Dabbat ul-Ard, Islamic bad, big creature coming between Safa and Marwa. It will come through earth and very huge. It'll be big as big bear. And after people looking, it is coming out. It's taking from each animal one part. And it will have muhru Sulaiman/the seal of Soloman and asa'u Musa (staff of Moses) If should see Muslim putting his hand by asa of Musa, stick of Musa alaihi salam, it will write "This is Muslim". And if with this muhru Sulaiman seen non-Muslim or not-Muslim putting in his nose, and it will become a black point, after all his face will be www.saltanat.org Page 1 black. And it will be sun rising from West. Many signs. Now you know. We don't want to make long speech.
+After, of course, many things like Yajooj, Majooj, Dabbat ul-Ard, Islamic bad, big creature coming between Safa and Marwa. It will come through earth and very huge. It'll be big as big bear. And after people looking, it is coming out. It's taking from each animal one part. And it will have muhru Sulaiman/the seal of Soloman and asa'u Musa (staff of Moses) If should see Muslim putting his hand by asa of Musa, stick of Musa alaihi salam, it will write "This is Muslim". And if with this muhru Sulaiman seen non-Muslim or not-Muslim putting in his nose, and it will become a black point, after all his face will be black. And it will be sun rising from West. Many signs. Now you know. We don't want to make long speech.
 
 All these, we are obligatory to believe in this. It will happen because Prophet (saw) saying all things. And especially in the end of times it will be harj wa marj (big mess). What meaning? Like terrorism. Who kill he don't know why he kill. Who killed they don't know why they (were) killed. Here in your South Africa, no war. But also you have this problem without knowing. But in other part of Muslim world, other world, all seeing, showing it is the end of times. Mahdi alaihi salam will come inshaAllah.
 
@@ -51,6 +51,4 @@ You must know what you are doing. Don't be cheated by anyone. Only be with Ahl a
 
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
-www.saltanat.org Page 2 Video link: http://saltanat.org/videopage.php?id=12661&name=2014-10- 28_en_TheSignsOfQiyamah_SM.mp4
-
-www.saltanat.org Page 3
+Video link: http://saltanat.org/videopage.php?id=12661&name=2014-10- 28_en_TheSignsOfQiyamah_SM.mp4

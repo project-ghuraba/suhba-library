@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-04-06
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ She has her story. Our holy Sultan, with her story our place found salvation. As
 
 For 1500 years and more, Allah knows we don't, Allah let His Habib know. This place belongs to our Sultan. Whoever comes (to her maqam) is relieved. They are relieved. May that relief come to you too! The whole island is yours (Ummuhan Sultan), is the Sultan's! Allah Allah, Allah Allah, may we say. Ya Hu. Like this, as we say Allah Allah the earth is shaken like this. Aman ya Rabbi! Tawba ya Rabbi, tawba astaghfirullah!
 
-Our Sultan shows us fine days. She shows us fine days. May we live in those fine days. Allahu Allah Allahu Allah Allahu Rabbi ma li siwahu. Allah Allah. How beautifully you came, our Sultan! She came from Sayda. She rested here. She said, "this place is mine". May Ahlu Islam spread here, may Ahlu Iman www.saltanat.org Page 1 spread, open here. I intercede for all who visit me, who keep respect for me, they will be honoured when they visit this maqam of mine. (Ummuhani Sultan says). People do visit her. Let them visit her. I visit her everyday. She is a lion. My grandfather served her(maqam) for 40 years - My grandfather Yeshilbash Haji Hasan Efendi. Allah Allah Allah Allah Allah Allah.
+Our Sultan shows us fine days. She shows us fine days. May we live in those fine days. Allahu Allah Allahu Allah Allahu Rabbi ma li siwahu. Allah Allah. How beautifully you came, our Sultan! She came from Sayda. She rested here. She said, "this place is mine". May Ahlu Islam spread here, may Ahlu Iman spread, open here. I intercede for all who visit me, who keep respect for me, they will be honoured when they visit this maqam of mine. (Ummuhani Sultan says). People do visit her. Let them visit her. I visit her everyday. She is a lion. My grandfather served her(maqam) for 40 years - My grandfather Yeshilbash Haji Hasan Efendi. Allah Allah Allah Allah Allah Allah.
 
 We have no desire for the lands and fields. We have only desire for her maqam. The people of Islam living here are at peace because of the power/influence of her spirituality. O holy Sultan, may you rest your gaze upon us also! May the reproach on us be gone, may we open up! Ya Rabbi You know! Ey Ya Rabbi. Ay yaran Shah-i Mardan. How beautiful! They have an assembly, my son Sheikh Mehmet Efendi, there, everyday in the presence of the Sultan they have an assembly. Holy ones come there. They pay a visit everyday. She is Sultan.
 
@@ -53,8 +53,6 @@ O ya Rabbi You know! May we be opened! I want that we aren't wreched, lazy ones!
 
 Allah Allah. May our day be bright! May your father's days be beautiful too! Let them serve worthy of that maqam! His father Sallamehullah Bahauddin, when he went there to pray, perform namaz, everyone was gathered around him. Your father is a sincere one, ha! That is why I don't interfere much. He comes, kisses me, they all love me. May your ranks be high! May Allah give you all high ranks. My Allah. Let's say, Bismillahi r-Rahmani r-Rahim. Say this and do not fear. Ya Rabbi. Fatiha.
 
-www.saltanat.org Page 2 Your father is having all the food made. Every week, isn't it? Your father is of the hidden ones. He has power in his hand. Your uncle is like that too! Their power is high! You will be empowered too! You will be empowered!
+Your father is having all the food made. Every week, isn't it? Your father is of the hidden ones. He has power in his hand. Your uncle is like that too! Their power is high! You will be empowered too! You will be empowered!
 
 Video link: http://saltanat.org/videopage.php?id=11247&name=2014-04- 06_tr_MaqamUmHiram.mp4
-
-www.saltanat.org Page 3

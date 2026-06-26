@@ -1,4 +1,4 @@
----
+﻿---
 date: 2015-05-10
 date_hijri: ''
 edited_at: 2026-06-25
@@ -33,7 +33,7 @@ Sheikh Effendi used to say from every forty bites [of food] comes one drop blood
 
 As we said, it should be made with clean tools. You can't make it repeatedly or with horns because horns cannot be disinfected. You should make it with cups then throw them away. For others, use new ones. You can transmit diseases in order to earn a little more, and harm people until the end of their lives. You carry the responsibility for it. Because people don't say anything because it is sunnah. If they don't say anything, that's not good. It is from the things that we should say. Be careful. And right time for hijama is morning with an empty stomach. Don't make hijama on Saturdays or Wednesdays. Our Prophet has prohibited it. Who has hijama on those days should bear the responsibility, no one else, because hijama made on these days is not good, it gives illness.
 
-These are very important things. We should remind about this from here. In every country there are differences. Now we are in Lefke. Pomegranates are blossoming in Cyprus. In other place they blossom www.saltanat.org Page 1 later, somewhere else even later. But it starts from now. By hijri months, it's better to make after the 15th. If not, it is made in Spring or beginning of Summer. It has big benefits. But as we said, have it made by good people. And ask the person before having it if he knows, how he does it, what he does. Don't lie down immediately, as if under a butcher's knife because people can be lazy sometimes. They can be forgetful and do something wrong. Therefore, this is the time for being responsible. There can't be forgetfulness and laziness.
+These are very important things. We should remind about this from here. In every country there are differences. Now we are in Lefke. Pomegranates are blossoming in Cyprus. In other place they blossom later, somewhere else even later. But it starts from now. By hijri months, it's better to make after the 15th. If not, it is made in Spring or beginning of Summer. It has big benefits. But as we said, have it made by good people. And ask the person before having it if he knows, how he does it, what he does. Don't lie down immediately, as if under a butcher's knife because people can be lazy sometimes. They can be forgetful and do something wrong. Therefore, this is the time for being responsible. There can't be forgetfulness and laziness.
 
 May Allah give health to all of us inshaAllah. This is one of the beautiful ways shown by our Prophet. These are the beautiful ways. If it is made with its principles, with right method as it had been described, it has great benefits. And don't give it to everyone. It is better not to have it than have it done by someone you don't know or are not sure about.
 
@@ -43,12 +43,10 @@ Dirty people, if you hear [about them] don't go to them. And it must be time als
 
 There is many thing[s] we must be careful for this. And when they must put a new glass and throw it [old one] one because it is very cheap, it is not [expensive] and they are taking good money these people. And not making with pump. [With a] pump, even now they are putting [it] in a well they finish water in the earth. How [are] they pumping in your body? Only make it hot and take it how it is coming from it's hot; it's enough. This is the dirty blood. Alhamdulillah, Prophet (saws) he show us everything we need in our life and it [is] not need[ed] for children or for babies. Under 30, it's no need because Alhamdulillah everybody good. But maybe sometimes they have blood pressure or 'sar'a' epilepsy. [It is] also good for epilepsy. For small, you can do it.
 
-But, as we said it is only once a year or twice. Not more. And not do it in these wrong days. This is very important. There is one thing more If you do it, in Arabic calendar you do it after [the]15th, of full moon, it will be better. But it is also OK, you can do it any time but not these Saturday [or] Wednesday. Other [days], all you can do [it]. And it is sunna of Prophet (saws) Allah rewards us because we are in the end of times; a hundred shahid/martyr reward [because] we are following sunna of Prophet (saws). It is very important for people to be careful for other people also. This is [an] important point also. Because Prophet www.saltanat.org Page 2 (saws) [said] 'any place there is disease, you cannot you mustn't go out because make you take this disease to other people also.' 'If you are out, don't come inside' he said.
+But, as we said it is only once a year or twice. Not more. And not do it in these wrong days. This is very important. There is one thing more If you do it, in Arabic calendar you do it after [the]15th, of full moon, it will be better. But it is also OK, you can do it any time but not these Saturday [or] Wednesday. Other [days], all you can do [it]. And it is sunna of Prophet (saws) Allah rewards us because we are in the end of times; a hundred shahid/martyr reward [because] we are following sunna of Prophet (saws). It is very important for people to be careful for other people also. This is [an] important point also. Because Prophet (saws) [said] 'any place there is disease, you cannot you mustn't go out because make you take this disease to other people also.' 'If you are out, don't come inside' he said.
 
 Alhamdulillah, so you must be careful for our health for others' health also. And it is from [the] love of Muslim to Muslim, this teaching of Prophet (saws). Thank you for you, Insha'Allah may be health for you.
 
 Wa min Allah it-tawfiq Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=13656&name=2015-05- 10_tr_TheSunnaOfCupping_SM.mp4
-
-www.saltanat.org Page 3

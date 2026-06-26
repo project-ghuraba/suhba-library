@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-12-13
 date_hijri: ''
 edited_at: 2026-06-25
@@ -37,8 +37,6 @@ What is right, we say. We don't want help from anybody, Allah helps us. If you a
 
 And not we are, as we said, not afraid from, or not - Normally we are shy people. And people using your haya, shame for themselves. No, "La haya fi d-din." - No ashame for religious things. Everything must say. When you do something, you must think. "Tafakkur sa'a khairun min ibada 70 sana." (Hadith) To think one hour better from 70 years of worshipping without knowing anything. Because you know what are you doing, what you are right. And when we say this, it is also general. Because before, we say something, they become enemy for people they are not in fear with this. He said "You said this for Sheikh, and he said this." No. Just that time it come like this, we said. So, everybody it is not for one person or.. for everybody. You must accept truth, not to blame another people.
 
-Tariqa teaching adab, teaching what you will do. You must accept nasiha, advice. "Ad-dinu nasiha, Ad-dinu nasiha, Ad-dinu nasiha." Prophet's (saws) Hadith. Allah makes us from these people who accept, and it is a big honor to accept nasiha and there is big reward for this. www.saltanat.org Page 1 Wa min Allahi t-tawfiq, Al Fatiha.
+Tariqa teaching adab, teaching what you will do. You must accept nasiha, advice. "Ad-dinu nasiha, Ad-dinu nasiha, Ad-dinu nasiha." Prophet's (saws) Hadith. Allah makes us from these people who accept, and it is a big honor to accept nasiha and there is big reward for this. Wa min Allahi t-tawfiq, Al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12901&name=2014-12- 13_en_ServantsForAllahOnly_SM.mp4
-
-www.saltanat.org Page 2

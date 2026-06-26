@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-12-04
 date_hijri: ''
 edited_at: 2026-06-25
@@ -33,12 +33,10 @@ And the winter especially, they have also another specialty - long nights. You c
 
 So alhamdulillah it was very good. So we must be happy. Everything good in their time. When time you do something, even now they said "Good person in good time or in good place". So this is what wisdom of everything. And we are happy alhamdulillah to be with you again inshaAllah. We remember Mawlana Sheikh when he was coming all road. So alhamdulillah give happiness. We are happy. Don't be sad. Many people until now, they are still crying, they are making... Mawlana, he not like this. Alhamdulillah he is what he put, what he did, is still continuing. This is what he said. He said "They put me here. And they'll put another one here also." It is continuing. It is not only for one man. No, it's continuous alhamdulillah. This is what he will be happy. And of course, it's not easy but alhamdulillah his power make people to be together, not go away. Alhamdulillah. And it will be continue growing and growing alhamdulillah.
 
-Many times I'm looking when Mawlana making sohba, maybe there was one line only like this. I say Mawlana how he is like ocean. He's like ocean speaking only for maybe 10 people, 15 people. And now I www.saltanat.org Page 1 am speaking, even not river, not stream, many people like this. But Mawlana, he was speaking only for 10 people, he speaking like for 100,000 people. Same. Alhamdulillah.
+Many times I'm looking when Mawlana making sohba, maybe there was one line only like this. I say Mawlana how he is like ocean. He's like ocean speaking only for maybe 10 people, 15 people. And now I am speaking, even not river, not stream, many people like this. But Mawlana, he was speaking only for 10 people, he speaking like for 100,000 people. Same. Alhamdulillah.
 
 Madad ya Sayyidi, madad. Allah make his maqam higher and higher to be his nazar/gaze looking for us, for everyone after us inshaAllah.
 
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12850&name=2014-12- 04_en_MawlanasTime_SM.mp4
-
-www.saltanat.org Page 2

@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-10-28
 date_hijri: ''
 edited_at: 2026-06-25
@@ -38,5 +38,3 @@ We are not looking for benefit, dunya benefit. Only we are doing what Prophet (s
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12650&name=2014-10- 28_en_ThePromise_SM.mp4
-
-www.saltanat.org Page 1

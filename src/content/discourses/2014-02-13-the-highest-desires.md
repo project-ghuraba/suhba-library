@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-02-13
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ Ask. Ask for beauty. Ask for beauty so that beauty is given to you. Do not ask f
 
 We ask that Sham and the East be under the banner of Islam. May the ones who are enemies to that, fall and disappear. May it open up, Sham and the East. Let us be happy, let us be expansive- not for the world. How beautiful, oh how beautiful is Sham-e Shareef. How beautiful! How beautiful! We ask, we ask for its banner. May we see the Prophet's banner. There, this is our purpose. This is our purpose.
 
-Ask good health for our bodies, He may give good health. He gives. May He give good health. May we be alive and hopeful. He says, "Look for the station of rijaal (men)." Rijaal. Ask for the station of masculinity www.saltanat.org Page 1 and of those who are perfect. Do not be like women. Do not be like women. ar-RijalAllah, ar-RijalAllah. Oh, O my Lord. Show our eyes. No need to ask our Lord. A holy person can throw us to Sham or throw us to the East. He may throw. They are holy ones. We only ask for reinforcement for those who are weak. I ask for reinforcement. We desire to do everything for the sake of Allah. Everything is for Allah.
+Ask good health for our bodies, He may give good health. He gives. May He give good health. May we be alive and hopeful. He says, "Look for the station of rijaal (men)." Rijaal. Ask for the station of masculinity and of those who are perfect. Do not be like women. Do not be like women. ar-RijalAllah, ar-RijalAllah. Oh, O my Lord. Show our eyes. No need to ask our Lord. A holy person can throw us to Sham or throw us to the East. He may throw. They are holy ones. We only ask for reinforcement for those who are weak. I ask for reinforcement. We desire to do everything for the sake of Allah. Everything is for Allah.
 
 May we open up. Let us get stronger. Let us get more powerful. Let us do everything of ours for the sake of Allah. Do not fear. Our Allah. You are Subhan. You are Sultan. You are the Lord of Your Beloved Habib. May we be given from that love and affection. Our Ummuhan Sultan, (Hala Sultan) your intercession may reach us and be more than enough. I want your intercession. Be an intercessor for us. May we open up. May we get strong. May we walk on the path of our Lord. Let us love Hadrat Ummuhan. Let us love the Sultanul Anbiya, our Master, whom she loves. May we apply our face upon the place where his Qadam as-Sa’ada, his holy foot stepped. May we open up. May we not be humiliated. May we not be disgraced. Do not be humiliated. It is the nafs (ego) that makes the human humiliated. Do not agree with your ego. Look for the satisfaction of your Lord and His Habib.
 
@@ -48,5 +48,3 @@ Send salams to your father, and your mother too. He will not be poor, with Allah
 Salamun alaikum.
 
 Video link: http://saltanat.org/videopage.php?id=10715&name=2014-02- 13_tr_AlalMatalib.mp4
-
-www.saltanat.org Page 2

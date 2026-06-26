@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-06-15
 date_hijri: ''
 edited_at: 2026-06-25
@@ -31,7 +31,7 @@ We are looking for the pure teaching. If Allah (swt) put us in the pure teaching
 
 This is true or not. Because the truth is Haqq, is all the time shouting I am the Haqq. Allah Almighty He says "I am the Haqq." That means the Haqq is shouting, shouting, shouting and you cannot miss it. "I didn't see." No! It is really loud. Ana l-Haqq! Ana l-Haqq! Ana l-Haqq! Allah Almighty He is Haqq. That's why the Haqq is very important and that's why Mawlana Sheikh was saying Sheikh Nazim Al HAQQANI (qas). This means he represents the Haqq, and he is the Haqq and he is loved as Haqq. To be seen, and to be understood. They are never hidden. And they are never ever trying to be hidden. They all the time want to show the Haqq. Because the people they are poor actually, people they are poor. Because if nobody shows them things how can they measure? So that's why Mawlana Sheikh he was all the time showing himself. All the time, he gets any opportunity to show himself as a Haqq. That's why it's important for us to show ourself as a Haqq. It is our duty to show ourself as a Haqq.
 
-It is reminding me with a very funny story about Timurlane, he was one day angry. Very very angry. and Timurlane says "I will make a competition for city people." And say "what kind of competition you ask your majesty?" I say "I want to see who is the most brave one among these people and to show me himself that he is not scared from his wife." Very angry Sultan he doesn't have any joke. "I want somebody to be brave to show me who is not scared from his wife." Say "what you order?" He says, "we put two tents in the center of the city. And one tent it is called the ones who are scared of their wives and the other tent is www.saltanat.org Page 1 the ones who are brave and not scared of their wives. And announce it and tell the people "who will go for which and if anybody lies I will chop his head off!" No joke, this is Timurlane.
+It is reminding me with a very funny story about Timurlane, he was one day angry. Very very angry. and Timurlane says "I will make a competition for city people." And say "what kind of competition you ask your majesty?" I say "I want to see who is the most brave one among these people and to show me himself that he is not scared from his wife." Very angry Sultan he doesn't have any joke. "I want somebody to be brave to show me who is not scared from his wife." Say "what you order?" He says, "we put two tents in the center of the city. And one tent it is called the ones who are scared of their wives and the other tent is the ones who are brave and not scared of their wives. And announce it and tell the people "who will go for which and if anybody lies I will chop his head off!" No joke, this is Timurlane.
 
 Then all the people going out. Everybody going for the tent that are afraid from their wives. Everybody, it was so crowded that the tent doesn't fit. It was outside also. And the other tent, there was one man, very skinny, very weak looking and he was sitting alone in that tent. Alone! And, that tent it was so crowded. And Timurlane comes with his majestic looking and majestic "Ah! What you are doing there? Telling you are not scared of your wife and you are here as a brave man?" Say "no, I am scared of my wife." Say, why you are not going there and you are here. You don't know what is the penalty of lying?" He says "Yes, I know." "So how you dare to be here?" he was wondering Timurlane. And he says "in the morning when my wife was sending me she was telling, be careful O my husband to not be in the crowd. Because maybe in the crowd is not good for you be alone is better." So I find this tent, nobody here and I listen to my wife." "You are not scared of death?" "No, I'm scared of my wife."
 
@@ -43,6 +43,4 @@ That's why the Awliya', they separate their private life with Allah Almighty lif
 
 Wa min Allahi t-tawfiq bi hurmati l-Habib wa bi hurmati l-Fatiha.
 
-www.saltanat.org Page 2 Video link: http://saltanat.org/videopage.php?id=11724&name=2014-06- 15_en_WhoIsNotAfraidOfHisWife_SB.mp4
-
-www.saltanat.org Page 3
+Video link: http://saltanat.org/videopage.php?id=11724&name=2014-06- 15_en_WhoIsNotAfraidOfHisWife_SB.mp4

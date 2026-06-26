@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-07-21
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ We say shukr, we are thanking Allah. We are thanking our Prophet, and thanking a
 
 Today we speak about somebody saying, nearly, not knowing what is best but, saying we are eating, drinking, and after we pray fajr, zuhr. After fajr coming zuhr, after zuhr, asr, maghrib, isha. Going like this and days same. It is going like monotone. Same, monotonous. Alhamdulillah, if it is like this we are very happy. It must be like this. This is what Allah ordered for people to do. It is not wrong, it is - Alhamdulillah. Nothing wrong with this. This is the sweet life. This is what Allah ordered. To do what He want, it is to be beloved for him. And this is what is the aim of our life, to make Allah happy with us, not to be angry. It is aim of life to obey Allah Azza wa Jalla and obey Prophet sallallahu alaihi wa sallam. What he show us - this right way and this nice, sweet life.
 
-www.saltanat.org Page 1 When you do this, you be light. Light coming on you and darkness going away. Even in middle of day if darkness coming on somebody he is miserable, he is very sad. Nothing can make him happy because they don't know aim of life. They thought they are coming just to enjoy themself and it is only this. No, this, to enjoy themself, for life to enjoy, only for animal. They are not enjoying, even, they are just enjoying to eat and drink and to grow it. After they will slaughter and they will be.. They are not worried. They don't know why they are coming but even these animal, they know their Creator, Allah Azza wa Jalla, and they are worshipping, making tasbih for Him. For every animal, every creature, they are praising Allah Azza wa Jalla. Only mankind, they are not obeying.
+When you do this, you be light. Light coming on you and darkness going away. Even in middle of day if darkness coming on somebody he is miserable, he is very sad. Nothing can make him happy because they don't know aim of life. They thought they are coming just to enjoy themself and it is only this. No, this, to enjoy themself, for life to enjoy, only for animal. They are not enjoying, even, they are just enjoying to eat and drink and to grow it. After they will slaughter and they will be.. They are not worried. They don't know why they are coming but even these animal, they know their Creator, Allah Azza wa Jalla, and they are worshipping, making tasbih for Him. For every animal, every creature, they are praising Allah Azza wa Jalla. Only mankind, they are not obeying.
 
 The most of mankind, they are un-obeying for Allah, (not) obeying for Allah. They are thinking they have mind and they want to measure this by their mind. How we can measure this? Before 50 years, people were thinking very different from now. Before 100 years, it was completely different from these days. Before 200 years... so you cannot say: my mind it is good. After you people will come they will say you were crazy to think like this. So Allah show the best way what to do. And His order, Allah saying, I create human being and jinn to be worshipping for Him. Alhamdulillah, when you do worshipping you see - if you are tired, you be relaxed.
 
@@ -44,5 +44,3 @@ Prophet sallallahu alaihi wa sallam when he was tired or something nearly time o
 Wa min Allahi t-tawfiq al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12016&name=2014-07- 21_tr_TheSweetLife_SM.mp4
-
-www.saltanat.org Page 2

@@ -1,4 +1,4 @@
----
+﻿---
 date: 1900-01-01
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,10 +35,8 @@ We are Muslims. All deeds of Muslims, all religious beliefs, all practices are r
 
 As much as you can recite it relieves you from the troubles of the material world. Relief/joy is given to your spirituality, and the Divine Breath of Al Haqq, life is blown to your being. You may discover a different state. So take this into consideration! Keep the daily dhikr and salatu salam of our Prophet properly if you want comfort, peace, happiness, and a sweet life.
 
-Otherwise you cannot get it by money. Money doesn't sweeten life. Don't be a fool! Those are the words of a fool! Don't think that people have a sweet life when they have lots of money. It is faulty judgement, it is foolishness, to think like that. No! Whose life is sweet? Whoever makes more dhikr, whoever recites more www.saltanat.org Page 1 salatu salam to the Prophet, their lives become sweet. Not the ones who have a lot of money. Come to your senses! O believers! Say Allah! Recite salatu salam on the Prophet. It sweetens, softens and beautifies life. There will be nothing to hurt you. Thorns won't hurt strongly, but pass by gently. By Divine Will thorns will be passed over softly and won't hurt. They will be softened. Say Allah! May Peace be upon the Prophet!
+Otherwise you cannot get it by money. Money doesn't sweeten life. Don't be a fool! Those are the words of a fool! Don't think that people have a sweet life when they have lots of money. It is faulty judgement, it is foolishness, to think like that. No! Whose life is sweet? Whoever makes more dhikr, whoever recites more salatu salam to the Prophet, their lives become sweet. Not the ones who have a lot of money. Come to your senses! O believers! Say Allah! Recite salatu salam on the Prophet. It sweetens, softens and beautifies life. There will be nothing to hurt you. Thorns won't hurt strongly, but pass by gently. By Divine Will thorns will be passed over softly and won't hurt. They will be softened. Say Allah! May Peace be upon the Prophet!
 
 Bi hurmati l-Habib bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=9719&name=1989-00- 00_tr_SalatVeSelam_SN_a.mp4
-
-www.saltanat.org Page 2

@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-06-29
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,12 +35,10 @@ Alhamdulillah good tiding. Good tiding doctor we become awliya'. We are officer 
 
 Alhamdulillah this is must work for it. We must get good things for this one. Don't waste your time for nothing. Don't waste your time for sitting. Don't waste your time for sleeping. You have to work for it. This is what Mawlana Sheikh he wants. What Rasulullah he wants and what Allah Almighty wants. This is an important announcement for us how to be Awliya' and how to be registered as Awliya'. Its registration is not enough. After a while they say "this police is not good police. Send him away! He is not police anymore." We don't want to be sent away.
 
-www.saltanat.org Page 1 Alhamdulillah! We are happy to be with you Ya Mawlana Sheikh and we are trying our best to do better and much better and to go further in the satisfaction that Allah Almighty He is asking from us, to satisfy ourself first and to have satisfaction from Allah Almighty to say "Radhiya Llahu 'anhum wa radhu 'anhu" (58:22). It is important, this is a very important maqam. That you are happy with what you got, and you are happy with what Allah Almighty He gave you and you are happy with Allah Almighty how He gives you and how He is generous to you. He was generous for you. This is, you have to know that Mawlana Sheikh he prepared so many good maqams for his murids, for his beloved ones. And he made them very nicely designed. Very nicely waiting for us! And only we have to do, to have to continue, we have to continue with Mawlana Sheikh way and it's important registration here is the baya.
+Alhamdulillah! We are happy to be with you Ya Mawlana Sheikh and we are trying our best to do better and much better and to go further in the satisfaction that Allah Almighty He is asking from us, to satisfy ourself first and to have satisfaction from Allah Almighty to say "Radhiya Llahu 'anhum wa radhu 'anhu" (58:22). It is important, this is a very important maqam. That you are happy with what you got, and you are happy with what Allah Almighty He gave you and you are happy with Allah Almighty how He gives you and how He is generous to you. He was generous for you. This is, you have to know that Mawlana Sheikh he prepared so many good maqams for his murids, for his beloved ones. And he made them very nicely designed. Very nicely waiting for us! And only we have to do, to have to continue, we have to continue with Mawlana Sheikh way and it's important registration here is the baya.
 
 When you are taking the baya from the Sheikh this is that you are surrendering for Sh. And you are giving your will for Sh. And the Sh will open the way for you and make you to go for your maqam that he prepared for you. And this is good tiding again, as Ramadan entered and now the gifts are starting to be given. Start to be given and we are asking from Allah Almighty to give us the satisfaction "Radhiya Llahu anhum wa radhu anhu"(58:22). This is a very important maqam & we have to work and think on that maqam and we're hoping that we're reaching that maqam with the baraka of Mawlana Sh.
 
 Wa min Allahi t-Tawfiq Bi hurmati l-Habib. Bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11803&name=2014-06- 29_en_HowToBeAwliya_SB.mp4
-
-www.saltanat.org Page 2

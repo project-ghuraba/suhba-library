@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-10-29
 date_hijri: ''
 edited_at: 2026-06-25
@@ -38,5 +38,3 @@ So inshaAllah every time we must remember this: to be satisfied with Allah and t
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12681&name=2014-10- 29_en_TheKeyToSatisfaction_SM.mp4
-
-www.saltanat.org Page 1

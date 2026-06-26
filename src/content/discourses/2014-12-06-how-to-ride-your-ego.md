@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-12-06
 date_hijri: ''
 edited_at: 2026-06-25
@@ -33,7 +33,7 @@ He came crying to Sheikh. Sheikh tells him, "what happened why are you crying?" 
 
 He came back to Sheikh. Sheikh ask him, "what happened? You tell him anything?" "I couldn't say." He quickly shout and ordering him, "go and tell him something to this man, quickly!" When he went, this boy he find this man's horse kick him and kill him. He was in the water there. This boy he comes quickly to Sheikh and tell him what happened. He was afraid. And he said, "this is what I want you to say - he said for jama'at also - to reply for him to make it not to be make it to Allah to reply for this. For Allah He get angry for this small boy and quickly kill this man, by horse. If he was saying something he said, it will be between this man and this boy, so it will be not like this. But I couldn't, this is Allah's will and this man he went." This is what Allah defending for people who are, they have good manner, they cannot say bad thing for people; they cannot arguing with people, fighting with people.
 
-Many al haya' min al Iman. To be shy is from belief, Iman. This is good manners. Many people now, they are not liking this manner but it is from Iman. Because people many things they are doing against Islam, against what good manners ordering. And they are happy with this, "I do this, I do that. It is good, you must be like this." No it is - sometimes when - sometimes you can do, but if you do every time, you are www.saltanat.org Page 1 following your ego. And ego makes you bad person. You must control your ego and to make it obeying you.
+Many al haya' min al Iman. To be shy is from belief, Iman. This is good manners. Many people now, they are not liking this manner but it is from Iman. Because people many things they are doing against Islam, against what good manners ordering. And they are happy with this, "I do this, I do that. It is good, you must be like this." No it is - sometimes when - sometimes you can do, but if you do every time, you are following your ego. And ego makes you bad person. You must control your ego and to make it obeying you.
 
 Like in Qasida Burda, "wa 'an nafsika qad tufl in taftummi ya Fatima." Your ego if you - like baby when taking milk from mother - if you leave him maybe until 5 years he can breast taking milk from mother. But when time coming of course they must cut it, because 5 years, 20 kg, all the time cannot give him this. Until one time it's ok after they can eat anything else. So, for your ego also you must slowly slowly to cut his food. But making him to be big, ego must be small. No need for him to be big. It is dangerous. Without ego also we cannot do anything. We must ride on him to train him and to ride on him.
 
@@ -42,5 +42,3 @@ This is what Masha'ikh teaching, Tariqa teaching. Alhamdulillah, slowly slowly w
 Wa min Allahi t-tawfiq Al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12859&name=2014-12- 06_en_RideYourEgo_SM.mp4
-
-www.saltanat.org Page 2

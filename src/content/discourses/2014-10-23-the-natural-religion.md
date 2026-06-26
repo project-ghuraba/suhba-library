@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-10-23
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ And all these people, they were maybe some of them, many of them worshipping ido
 
 But Allah... This is His religion. And the most spread religion Islam. Shaitan and his followers not happy with this. Every time they bring a new thing to make people to hate Islam without knowing. They're showing people, they said this is no. Islam is mercy religion. The most merciful people must be Muslim. They said "How they cut, killing people?" This is not order of Islam. When Islam ordering something, it must be... There is reason. If people making bad things, they must be punished. But not punishing, you cannot punish them. You must take him to court. And court give him his punishment. It is never acceptable for Islam to be everybody give punishment for people. If it is like this, it will be mess. Because every people, when somebody saying for these people "This man is very bad", they kill him and punish him, it will be problem. Without asking, without knowing, without searching, it will be problem.
 
-For Islam it is very sensitive. And they make, they are jealous from Islam, to not be spread around the world. Because Europeans also, they are clever people. They claim also they are clever, they have civilization, highest civilization... But when looking and seeing their religion, it is false religion, not real one. www.saltanat.org Page 1 They cannot say anything. The most of them searching for another religion. They went to India, they went to other place. They are not happy. They become to look for Islam. When this happened, it was very dangerous for them. They make many things, many people, many group, many state of Islam to make something, it is not related to Islam from near or from far.
+For Islam it is very sensitive. And they make, they are jealous from Islam, to not be spread around the world. Because Europeans also, they are clever people. They claim also they are clever, they have civilization, highest civilization... But when looking and seeing their religion, it is false religion, not real one. They cannot say anything. The most of them searching for another religion. They went to India, they went to other place. They are not happy. They become to look for Islam. When this happened, it was very dangerous for them. They make many things, many people, many group, many state of Islam to make something, it is not related to Islam from near or from far.
 
 Bad people, they said it is Islam so these people do not come to Islam. What they do, they're just the atheists. Because their religion is false religion, not enough for them, not giving. But Islam has answer for everything, and they can be accepted. But to not come near to this limit, they make it to people, when they hear name of Islam to run away 1000 km away from them. But Allah, who He is most Merciful and not looking for... Because He is the Creator. He can create white, He create black or yellow, red. He can create you as He like. But it is most important to be won His mercy, and His blessed to make you to come to right way, to Islam.
 
@@ -44,5 +44,3 @@ Alhamdulillah we are here. Here many thousand people, alhamdulillah coming to Is
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12594&name=2014-10- 23_en_TheNaturalReligion_SM.mp4
-
-www.saltanat.org Page 2

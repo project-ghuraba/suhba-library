@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-06-06
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,12 +35,10 @@ I've come to this age. This is an experience, experience for me and... but when 
 
 This is what we see especially for non-Muslim people. They are really searching and they are clever, more clever than us, but shaitan, he don't let them to see the truth. They are ready for everything, but for the truth that's in front of their eyes they are not. "'You know this not truth, not this, not this" they said. Alhamdulillah Allah gave us this favour that it is most valuable thing in our life. If you don't have this jewel, this favour, so your life it is very short - even hundred years it is very short, quickly going.
 
-www.saltanat.org Page 1 After eternity, you must have this jewel with you. It is favour from Allah to be happy forever. If you don't have this even in dunya, this world miserable, akhira will be very bad conditions. Alhamdulillah, many people following. InshaAllah coming more and more because Mawlana he opened way, his way will not be closed. It will be growing with his baraka, Prophet's baraka. Because they follow Allah's good teaching and they follow Prophet, and teaching how to respect Prophet.
+After eternity, you must have this jewel with you. It is favour from Allah to be happy forever. If you don't have this even in dunya, this world miserable, akhira will be very bad conditions. Alhamdulillah, many people following. InshaAllah coming more and more because Mawlana he opened way, his way will not be closed. It will be growing with his baraka, Prophet's baraka. Because they follow Allah's good teaching and they follow Prophet, and teaching how to respect Prophet.
 
 If you don't respect Prophet, sallAllahu alaihi wa sallam, you are not respecting Allah. This is what tariqa teaching people - to be respectful. If you respect, you will be respected. But no, you are not respecting My - Allah (awj) - you are not respect Me, the holy, the most one I love, how he will respect to - no he is taught for one this God - leaving alone this unrespect people. Allah gives these people also hidayah/guidance because they are good people, but they are cheated. They are cheated and they try to cheat our people also. For this, Allah inshaAllah shows them right way.
 
 Wa min Allahi t-tawfeeq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11766&name=2014-06- 06_en_TheJewelOfGuidance_SM.mp4
-
-www.saltanat.org Page 2

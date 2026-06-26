@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-02-20
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ If necessary, plant straw. Let it become green, let it open. Don't leave the wor
 
 Marhaba, O lovers, friends of Shah Mardan. Marhaba. Having this marhaba honors the world. It honors man. It honors wherever it is. I'm telling you to use green. Let us use green. May our Mawla make it green. Whose soul becomes green is a believer. This is big news. When our souls open, we find a path to heaven. Who can't find a path to heaven, who doesn't know his way, has no value. Look for a path to heavens! Don't wander around on earth. Look for a path to heavens. Allahu Akbar wa Lillahi l-hamd. Look for the way to the presence of Rasul-ul Kibriya. Bismillahi r-Rahmani r-Rahim is in green. All prophets are in green. There is comfort in green. There is beauty. There is honor. There is happiness. May Allah not deprive us of green. Paradise is green in color. In green color, there are various green appearances. Allahu Akbar.
 
-Yawmun jadid rizqun jadid. Every day has its manifestation, its appearance, my son. That greenery gives health to a man. It gives peace and beauty. Run after green. Carry green, even if just a handkerchief. Even if just a turban, use green. Green. Pay attention to green. Like it. Make it green. Don't leave it dry. Dryness www.saltanat.org Page 1 is a sign of shaitan. Greenery is a sign of heavens. May we be dressed in green too. May we be happy, may we be relieved. It is the favourite color of Rasul-ul Kibriya. May we run after it. O our Lord. The most beautiful color in the presence is green. Guard the green. Keep the green. Say Allahu Akbar.
+Yawmun jadid rizqun jadid. Every day has its manifestation, its appearance, my son. That greenery gives health to a man. It gives peace and beauty. Run after green. Carry green, even if just a handkerchief. Even if just a turban, use green. Green. Pay attention to green. Like it. Make it green. Don't leave it dry. Dryness is a sign of shaitan. Greenery is a sign of heavens. May we be dressed in green too. May we be happy, may we be relieved. It is the favourite color of Rasul-ul Kibriya. May we run after it. O our Lord. The most beautiful color in the presence is green. Guard the green. Keep the green. Say Allahu Akbar.
 
 Learn to write. What should you learn? To write what? Learn how to write Bismillahi r-Rahmani r-Rahim. Let the color you use be green. Write with green. Wear green. Strive for green beauty. Let the world become green. May our ending be in that green paradise. Our sadness on earth will be gone. Paradise in the hereafter is green. There is no other color. The most beautiful color is green. Somewhere on your doors, write Bismillahi r-Rahmani r-Rahim in green. Allahu Akbar. How beautiful. What blessings will come! They can't be calculated. They can't be counted. When Bismillahi r-Rahmani r-Rahim is written somewhere, its value becomes unlimited.
 
@@ -49,10 +49,8 @@ If a cow gives 10 okes (Turkish unit of measurement) of milk without Bismillah, 
 
 Ya Rabbi. Ya Rabbi. You know. For the honor of Your Beloved, may the blessing of Bismillah Sharif be an ornament for our children, brothers, houses and places. May we dress in it. Fatiha.
 
-Everything is beautiful with Bismillah, haji Mehmed, my son. Without Bismillah, it has no use. Everything is blessed with Bismillahi r-Rahmani r-Rahim. It doesn't end. Don't forget. Your Lord Jalla Jalaluhu dressed it on the nation of His Beloved. Carry it. With one Bismillah, one meal can feed the whole world. Without Bismillah, a ton can't feed a single man. Bismillah Sharif. Say Bismillahi r-Rahmani r-Rahim. www.saltanat.org Page 2 May you have health in your bodies. May your strength increase. May we be together with the servants accepted in the presence of your Lord. May we not suffer from troubles.
+Everything is beautiful with Bismillah, haji Mehmed, my son. Without Bismillah, it has no use. Everything is blessed with Bismillahi r-Rahmani r-Rahim. It doesn't end. Don't forget. Your Lord Jalla Jalaluhu dressed it on the nation of His Beloved. Carry it. With one Bismillah, one meal can feed the whole world. Without Bismillah, a ton can't feed a single man. Bismillah Sharif. Say Bismillahi r-Rahmani r-Rahim. May you have health in your bodies. May your strength increase. May we be together with the servants accepted in the presence of your Lord. May we not suffer from troubles.
 
 Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=10759&name=2014-02- 20_tr_GoklerinSevgiliRengi.mp4
-
-www.saltanat.org Page 3

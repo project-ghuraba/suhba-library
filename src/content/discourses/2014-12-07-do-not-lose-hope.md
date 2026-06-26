@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-12-07
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,12 +35,10 @@ Who make suicide, he will be... Hadith and Mawlana every time saying: What, how 
 
 There is one, you know, one book, English writer wrote it. And it was Mawlana has it. I don't know why. I was small. But under up of wardrobe I saw it. First, I didn't understand English. But I saw a picture. It's like this, there is one 5 o'clock tea. All time they are drinking. Not changing. Life like this. Day and night, day and night. If you realize, so it will finish. No need to make wrong thing for yourself, to destroy your real life. You must be patient. We must be thankful for Allah. Allah not giving anybody what they cannot carry.
 
-What have everybody in this life, everybody has test. We are in test. You cannot say "This rich man, he has no problem. This nice, beautiful lady, she is happy". No. Everybody, from king or sultan, or president or beggar, everybody... Allah, this is place for test - dunya. For everybody it must be. So we must be knowing. www.saltanat.org Page 1 If you know this, you do your best and you'll be happy. So believers, they are most at rest and comfortable. Because they know this is from Allah. They are not doing from themselves or they can change. No. Just they can carry and they are happy. Because this is coming from Allah. Allah will reward us better than this. Allah make us to understand this and give us real belief.
+What have everybody in this life, everybody has test. We are in test. You cannot say "This rich man, he has no problem. This nice, beautiful lady, she is happy". No. Everybody, from king or sultan, or president or beggar, everybody... Allah, this is place for test - dunya. For everybody it must be. So we must be knowing. If you know this, you do your best and you'll be happy. So believers, they are most at rest and comfortable. Because they know this is from Allah. They are not doing from themselves or they can change. No. Just they can carry and they are happy. Because this is coming from Allah. Allah will reward us better than this. Allah make us to understand this and give us real belief.
 
 The most important thing - belief. When you believe, if they cut you, it is nothing. Because old time there was sometimes throwing them in fire. They make a fire throw them in fire who not their believer. They say "You are in wrong belief. So we will send you to burn". "Ok, I can go" they say. They are not afraid because they have real belief. When they have real belief, nothing affect them. Allah give us this belief. And thank you for your coming. Alhamdulillah. Allah reward you for all, every step from His endless treasures inshaAllah.
 
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12867&name=2014-12- 07_en_DoNotLoseHope_SM.mp4
-
-www.saltanat.org Page 2

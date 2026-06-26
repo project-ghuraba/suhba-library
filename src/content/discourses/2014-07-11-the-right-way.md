@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-07-11
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ We will wait too by the permission of Allah, because people have questions in th
 
 According to the belief of Ahl-ul Sunnah wa-l Jama'at, Mahdi, alaihi s-salam, will come, Isa, alaihi s-salam, will come. It's written in Qur'an that he will descend for the second time and fill this world with justice. How will it be filled with justice? Only if there are pure Muslims, will it be filled - only if there's Islam. This will happen by the permission of Allah. This is the good news. InshaAllah, the time is close. People are worried - "What will happen to us?" Don't think about it. As long as you are on the right way, like Sheikh Effendi said "good for us, bad for them". Don't be sad. "La tahzan inna Allaha ma'ana"(9:40) Our Prophet said to Hz. Abu Bakr in the cave. It is a verse from Qur'an. "Don't be sad, Allah is with us".
 
-As long as Allah is with us, there's nothing to be afraid of. Allah is with us here and everywhere. There's nowhere where Allah is not present. His being with us is not against us. We are with Allah, we're not www.saltanat.org Page 1 against Him. This is the biggest blessing. That's why don't fear and don't be sad at all. Good from everything will be for us by permission of Allah. Don't let the tiniest bit of sadness into your heart. Let your faith be strong. With permission of Allah, we will reach the beautiful days with Mahdi, alaihi s-salam. As Sheikh Effendi said, beautiful days will come.
+As long as Allah is with us, there's nothing to be afraid of. Allah is with us here and everywhere. There's nowhere where Allah is not present. His being with us is not against us. We are with Allah, we're not against Him. This is the biggest blessing. That's why don't fear and don't be sad at all. Good from everything will be for us by permission of Allah. Don't let the tiniest bit of sadness into your heart. Let your faith be strong. With permission of Allah, we will reach the beautiful days with Mahdi, alaihi s-salam. As Sheikh Effendi said, beautiful days will come.
 
 As this time is full of blood, storms, suffering, and injustice everywhere, when Mahdi, alaihi s-salam, comes, "Yamlau l-ardha 'adlan wa qista" - he will fill this world with justice and goodness. What's the most beautiful thing in this world? Sheikh Effendi told us - It's justice. To pay everyone their rights. If everyone's happy with their rights, there's nothing better than this. Now everyone wants to grab others' rights. Disrespect is on a sharp increase. Nothing like justice has remained. They call it the Court of Justice in Europe, when it comes to their interest, they call it justice immediately. They never show justice to those who don't accept their religion or their philosophy. There's no justice in this world now. But when Mahdi, alaihi salam, appears, justice will come by permission of Allah.
 
@@ -47,7 +47,7 @@ So now no right part of this ummah what Prophet (saws) mentioned. It is this Ahl
 
 And other people they are also. They said "you are not following Islam. We are the followers of Islam." And they are killing people and making big fitna. No, we are not accepting them. We are happy we are in the part of Prophet (saws) saying about it. And it is coming since 1400 years, same many people coming and going around like parasites but still the majority is following and loving what Prophet (saws) was mentioning and ordering. Even this majority they're doing practicing or not practicing but still they are the majority. Because the most important thing is to be loved by Allah and Prophet (saws).
 
-And in this majority we are seeing, you cannot imagine if this man he can pray or he is following Prophet or Allah. You see him very modern and you feel - but he has this love for Allah for Prophet. Even if small he has, it is enough for him. Others who say "we are following shari'a, we are the right people, we are this www.saltanat.org Page 2 we are that." - but they don't have love for Prophet or for Allah. Only what they have they love their ego. And this is why people they hate them and quickly they are coming and going like bubbles.
+And in this majority we are seeing, you cannot imagine if this man he can pray or he is following Prophet or Allah. You see him very modern and you feel - but he has this love for Allah for Prophet. Even if small he has, it is enough for him. Others who say "we are following shari'a, we are the right people, we are this we are that." - but they don't have love for Prophet or for Allah. Only what they have they love their ego. And this is why people they hate them and quickly they are coming and going like bubbles.
 
 But it must be like this, because time approached for Mahdi (as). Mahdi (as) also, he must clean all this dirt from the world. Mahdi (as) he and Isa (as) what Mawlana all the time he was giving good tiding for us - giving good tiding they will come. And it is in Ahl as-Sunnah wa-l Jama'at religious belief. Who are not in this right, they are not accepting this. They said "he is coming, or like not like material. He will be like only saying or something." They are giving many word on this, but no! Prophet's many Hadiths gave good tiding for this - for Mahdi (as) for Isa (as). And they're waiting until time to be... we are ready for them and Allah gives them permission to come.
 
@@ -60,5 +60,3 @@ Be with Allah don't worry. Be happy insha'Allah. Allah keeps us safe from all th
 Wa min Allahi t-tawfiq. Al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11921&name=2014-07- 11_tr_TheRightWay_SM.mp4
-
-www.saltanat.org Page 3

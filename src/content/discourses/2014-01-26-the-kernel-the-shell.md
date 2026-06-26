@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-01-26
 date_hijri: ''
 edited_at: 2026-06-25
@@ -37,7 +37,7 @@ These people, Sheikh Mehmet Effendi, became crazy. They have lost their minds. W
 
 Ya Rabbi. What do they call the shelled thing under the sea?
 
-SME: Oyster. www.saltanat.org Page 1 SN: Oyster. Some oysters have jewels, some are empty. Look for full ones. Run after the pleasure of our Lord. May we become lions for the honor of His Beloved (sas). We will be lions. Not only one shaitan, we will destroy millions of shaitans. O my Lord, may we walk on Your way. How nice, what an honor, what a light, Sheikh Mehmet Effendi. Teach. Teach this to people. To say Allah, is an honor not given to everyone. It is for honored ones. "Let us recite the Name of Allah first."
+SME: Oyster. SN: Oyster. Some oysters have jewels, some are empty. Look for full ones. Run after the pleasure of our Lord. May we become lions for the honor of His Beloved (sas). We will be lions. Not only one shaitan, we will destroy millions of shaitans. O my Lord, may we walk on Your way. How nice, what an honor, what a light, Sheikh Mehmet Effendi. Teach. Teach this to people. To say Allah, is an honor not given to everyone. It is for honored ones. "Let us recite the Name of Allah first."
 
 O our Lord, our Allah, give us strength for the honor of the Habib (sas). May we not become weak. May we roar like thunder. May we run after the pleasure of our Lord. May Allah give you a good life and dress you in manly majesty, Sheikh Mehmet Effendi. Man, manly majesty. Shaitan becomes confused from this majesty. Prophet Adam was dressed in it. When Prophet Adam was dressed in it, shaitan became confused. Let us ask for the jewels of heavens, from our Mawla, for Bismillah Sharif. Leave everything, say Bismillah. You'll become a lion. May Allah give us strength. May we not run after imitations. May we run after originals.
 
@@ -53,7 +53,7 @@ The rank of Sheikh Mehmet Effendi is different; a different type of power comes.
 
 Let us say Bismillahi r-Rahmani r-Rahim. How beautiful, how beautiful. 'induhu sunuhat wa futuhat.(He has spiritual insight and intuition). There is power but he keeps it closed. They keep it closed. Are you comfortable, Sheikh Mehmet Effendi?
 
-SME: Shukr to Allah. www.saltanat.org Page 2 SN: May Allah increase your honor. This boy as well, my grandson, mashaAllah, he walks on Your way too. He has strength. Fatiha.
+SME: Shukr to Allah. SN: May Allah increase your honor. This boy as well, my grandson, mashaAllah, he walks on Your way too. He has strength. Fatiha.
 
 Baha has it too.
 
@@ -68,5 +68,3 @@ O Habibullah, Beloved of Janab-ul Haqq, if only we could follow your footsteps. 
 Recite salawat at least 70 times a day for the followers. May Allah increase your strength and honor. Long live, haji Mehmet, kiss his hand.
 
 Video link: http://saltanat.org/videopage.php?id=10493&name=2014-01- 26_tr_CevherVeKabuk.mp4
-
-www.saltanat.org Page 3

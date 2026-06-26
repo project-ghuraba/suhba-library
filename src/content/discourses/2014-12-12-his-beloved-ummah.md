@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-12-12
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ Alhamdulillah we are believers. Alhamdulillah we are the one who want to continu
 
 This is specially for the young. The young now in those days they go right and left and then they don't realize the love of RasulAllah (saws). We want the young to realize how RasulAllah is so nice; how he is full of love, and how he is caring about his ummah. This is important things in our life to know how RasulAllah was caring about his ummah. And he was saying to Sayyidina Omar "They are my beloved ones." Sayyidina Omar was saying "What about us?" He said "You are as'habi, you are my companions but these days people, they are my beloved ones. I love them so much. And I put them in the title that, they are my beloved."
 
-Get this in your heart and make it grow up, grow up, and don't be jealous for RasulAllah (saws). Just be under his wing, under his eyes, under his vision. Try to be, to show yourself in his love. It is important for us to have such a things in our life because our life it will be only, sleep, wake up, go to work, come back, www.saltanat.org Page 1 sleep, work, get up, go work, come back. It is monotone. It is not excitement. When you have the love of RasulAllah, your life will be having a lot of excitement. It will make you feel alive. This is, maybe you pray, maybe you make ibada, but without saying "Ya RasulAllah, Sall Allah Alayk, Ya RasulAllah" it will not have the taste of ibada. Because everything is because of him. "Lawlaka lawlaka la ma khalaqtul aflaq." Allah says "If I'm not creating you I'm not bothered to create all this! Because of you I create everything." This is RasulAllah, so precious. So precious RasulAllah, so precious! Nobody can measure how he is precious for Allah Almighty. Yes! This is RasulAllah.
+Get this in your heart and make it grow up, grow up, and don't be jealous for RasulAllah (saws). Just be under his wing, under his eyes, under his vision. Try to be, to show yourself in his love. It is important for us to have such a things in our life because our life it will be only, sleep, wake up, go to work, come back, sleep, work, get up, go work, come back. It is monotone. It is not excitement. When you have the love of RasulAllah, your life will be having a lot of excitement. It will make you feel alive. This is, maybe you pray, maybe you make ibada, but without saying "Ya RasulAllah, Sall Allah Alayk, Ya RasulAllah" it will not have the taste of ibada. Because everything is because of him. "Lawlaka lawlaka la ma khalaqtul aflaq." Allah says "If I'm not creating you I'm not bothered to create all this! Because of you I create everything." This is RasulAllah, so precious. So precious RasulAllah, so precious! Nobody can measure how he is precious for Allah Almighty. Yes! This is RasulAllah.
 
 I wanted just to put this matter in the hand of you, in the heads of you, and finally end up in your heart. You have to make the biggest part in your heart to RasulAllah. Whatever coming in these dunya things, it is passing. Only true love never passes. This is the love of RasulAllah. Sayyidina Jalaluddin Rumi, he was famous by the loving and distributing love. And why he distributing love? From where he got this love? Of course he got it from RasulAllah and all the world knowing him. And what he said? He said "Lawla RasulAllah I cannot give one drop of love." He said "if there is no RasulAllah, I will not be able to give any small drop of love. I just catch the ocean of love of RasulAllah. And myself I will be enough for world to give this love." What about RasulAllah? Imagine how huge, how huge and you are part of his love. And you are one of his beloved ones. Imagine. This is important!
 
@@ -46,5 +46,3 @@ May Allah forgives us, and may Allah make us in Divine Presence with RasulAllah 
 Wa min Allahi t-tawfiq, bi hurmati l-Habib, bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=12923&name=2014-12- 12_en_HisBelovedUmmah_SB.mp4
-
-www.saltanat.org Page 2

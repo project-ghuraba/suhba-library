@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-10-30
 date_hijri: ''
 edited_at: 2026-06-25
@@ -39,6 +39,4 @@ Alhamdulillah. InshaAllah until yawm ul-Qiyama don't worry, their dua is accepte
 
 Wa min Allahi t-tawfiq. Al-Fatiha.
 
-www.saltanat.org Page 1 Video link: http://saltanat.org/videopage.php?id=12689&name=2014-10- 30_en_FirstMuslimsOfSouthAfrica_SM.mp4
-
-www.saltanat.org Page 2
+Video link: http://saltanat.org/videopage.php?id=12689&name=2014-10- 30_en_FirstMuslimsOfSouthAfrica_SM.mp4

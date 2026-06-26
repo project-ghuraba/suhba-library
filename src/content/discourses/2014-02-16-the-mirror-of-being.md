@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-02-16
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ Why do we want power? What do we want power for? Why are we going to ask for pow
 
 Give us strength. May we not stay weak. There is none who is weak in Your presence. It cannot be found through eating and drinking. O our Lord, our Subhan, our Sultan. You sent us Your Habib that no other exists with his strength. No other exists with his grandeur, his closeness, the closeness he has with Allah Almighty - nobody has. Who has the eyes with the strength to look at Janabul Rabbul izza? It cannot be with just anybody. May He give us as well. We want light. We want light. We do not want fire. Do not go after the fire. Go after the light my son. Allahu Allah Allahu Rabbi. Ma li siwahu. illa Hu. Satan made man confused. He fell in such a crowd that man forgot his humanity. He does not know what to do. O Shah-e Merdan, O those who follow the way where your holy foot stepped. There is light for them, not fire. There is familiarity for them, not distance. Closeness is for them, the closeness of the skies. For them is the closeness of His Habib.
 
-www.saltanat.org Page 1 Do not look for eating and drinking! Animals also look for eating and drinking. It has no benefit. Marhaba O my son, Sheikh Muhammad. May our hearts open up. May our hearts open up. May we be joyful. May we be refreshed. What did our Lord grant us? O yaran Shah-e Merdan. Friends of Shah-e Merdan. Be with them. You may find the way. You may find the way of heavens. Do not look for the ways of dunya (the world). Search for qurbiyah (intimacy). Intimacy. Search for the closeness of the Sultan of the Sky. Search for His Presence. May you open up with that. May you be lit with that light. May you not stay in the class of animals Allahu Akbar Allahu Akbar Allahu Akbar wa Lillahi l-hamd.
+Do not look for eating and drinking! Animals also look for eating and drinking. It has no benefit. Marhaba O my son, Sheikh Muhammad. May our hearts open up. May our hearts open up. May we be joyful. May we be refreshed. What did our Lord grant us? O yaran Shah-e Merdan. Friends of Shah-e Merdan. Be with them. You may find the way. You may find the way of heavens. Do not look for the ways of dunya (the world). Search for qurbiyah (intimacy). Intimacy. Search for the closeness of the Sultan of the Sky. Search for His Presence. May you open up with that. May you be lit with that light. May you not stay in the class of animals Allahu Akbar Allahu Akbar Allahu Akbar wa Lillahi l-hamd.
 
 Our Ummuhan Sultan is supporting us. May Allah increase her station. May we also be granted to go after her holy way. Allah Allah. These people are not searching for the way of heaven. They are searching for the way of the filthy world. What is there? What is in the filthy world? Search for the ways of the sky. If so say, Bismillahi r-Rahmani r-Rahim. Many thanks. We may find comfort. We may find contentment. May our inside and ouside be at ease, and find spaciousness, find light, and may find a way to heaven. Allah Allah. Subhan Allah Sultan Allah. The Habib, Master of the Universe, is Habibullah. Search for a way to him. You may find all. May you find all. Do not sink and get stuck in the bad world. Allahu Allah. Allahu Allah.
 
@@ -50,5 +50,3 @@ Slowly, slowly. The ways will open up for you Sheikh Mehmed my son. When it open
 May Allah be pleased with you. May your hand be kissed. It is not clear what he is. (Talking about 'Green Shiekh' Sa'aduddin) He takes my burden. He takes. He takes. That is why he comes once in a while. The faqir is the guardian of the maqam of Prophet Musa. I like him. I like him. (Green Sh) Does he make Zikr? How? Loudly. Allah Allah. Nobody knows what servants Allah has. Uh there, I like him. I like him. He likes this too. He likes this one too. He (Green Sh) takes our burden my son.
 
 Video link: http://saltanat.org/videopage.php?id=10729&name=2014-02- 16_tr_KainatinAynasi.mp4
-
-www.saltanat.org Page 2

@@ -1,4 +1,4 @@
----
+﻿---
 date: 2002-06-13
 date_hijri: ''
 edited_at: 2026-06-25
@@ -32,5 +32,3 @@ That time it is paradise time for earth. Who should reach must be most luckiest 
 May Allah accept this and you also who is hearing, listening and they are getting happy to be with us, they should reach inshaAllah. May Allah bless you and forgive me. For the honor of the most honored Prophet, RasulAllah (saw) amin, Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=13687&name=2002-06- 13_en_AskToReachMahdiAS_SN_a.mp4
-
-www.saltanat.org Page 1

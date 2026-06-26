@@ -1,4 +1,4 @@
----
+﻿---
 date: 2012-01-07
 date_hijri: ''
 edited_at: 2026-06-25
@@ -29,8 +29,6 @@ Holy Books (say) "Don't waste." Keep Ni'mat Allah (swt) - Allah's grants. If not
 
 "This thing we are doing like this, we are doing...." No result! No result. Sum it up. Welcome to you. G: Masha'Allah. Thank you Mawlana. M: Welcome, welcome.. Giving us honour, and also pleasure. Allah (swt) makes your life here and hereafter in full pleasure with His endless Mercy Oceans through Paradise, Jannat-ul Firdaus (Firdaus
 
-www.saltanat.org Page 1 Paradise). And we are asking much more power for Sultans. Particularly his Majesty Sultan Azlan Shah, to to be granted long life, strong body strong will-power and to be dressed in glory. And his valuable, prince Shaykh...Raja Ashman And Raja Muda also, and sisters - whole royal family Allah (swt) protects them, to be with Mahdi (as) and 'Isa (as). G: Amin, amin. M: Fatiha.
+Paradise). And we are asking much more power for Sultans. Particularly his Majesty Sultan Azlan Shah, to to be granted long life, strong body strong will-power and to be dressed in glory. And his valuable, prince Shaykh...Raja Ashman And Raja Muda also, and sisters - whole royal family Allah (swt) protects them, to be with Mahdi (as) and 'Isa (as). G: Amin, amin. M: Fatiha.
 
 Video Link: http://www.saltanat.org/Blog/tabid/271/PostID/543/Is-Paper-Money-Money-Ka-t-Para-Para-m-d-r-en.aspx
-
-www.saltanat.org Page 2

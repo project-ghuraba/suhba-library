@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-07-15
 date_hijri: ''
 edited_at: 2026-06-25
@@ -37,7 +37,7 @@ Don't complain. As we said, complaints bring no benefit. And it is something All
 
 Shukr to Allah for bringing us to this beautiful place. While thanking Allah, you should thank people as well. Man lam yashkuru n-nasa lam yashkuru Allah. Who doesn't thank people doesn't thank Allah. The greatest man we should thank is, of course, the one who was the means for us to gather in this beautiful place; who showed the right and beautiful way here from everywhere in the world, our Sheikh, our Sultan, our father, Sheikh Nazim Hz. We thank him. We are thankful for him. May Allah increase his station continuously inshaAllah. May his rank multiply every day inshaAllah. And after this, of course, you should thank who brought you to this way.
 
-InshaAllah, they will thank you too. You will bring other people to these beautiful ways. The pure right way shown by Islam and our Prophet is the way shown by Sheikh Effendi with Allah's permission. There www.saltanat.org Page 1 are complaints, of course. Complaints are not about Sheikh Effendi. Sheikh Effendi is showing the right way, But there are many people who obey their egos. May Allah not let anyone obey their ego. May Allah protect us from the evil of our ego. This way, tariqa exists for the disciplining of the ego. Following a murshid is for disciplining your ego with this way.
+InshaAllah, they will thank you too. You will bring other people to these beautiful ways. The pure right way shown by Islam and our Prophet is the way shown by Sheikh Effendi with Allah's permission. There are complaints, of course. Complaints are not about Sheikh Effendi. Sheikh Effendi is showing the right way, But there are many people who obey their egos. May Allah not let anyone obey their ego. May Allah protect us from the evil of our ego. This way, tariqa exists for the disciplining of the ego. Following a murshid is for disciplining your ego with this way.
 
 Alhamdulillah today we speak about to be thankful for who gives us everything, everything. The best thing, who gives this? Allah (awj). You must be thankful to Him for every part from our human being, for even one hair one drop of water, one of blood. For everything we must be thankful for Him. He give this, the biggest gift for us Alhamdulillah. Allah needs our thankfulness? No! He said in Hadith Qudsi, the Divinely saying: "If all this world, all this universe, they become in one heart, and they would be obeying Me and worshipping Me and doing all that and all good things, Nothing changes for Me not one drop." Because He is the Creator. "And all, if all this world, all this universe, coming against Me, disobeying, and they make every bad thing, anything happening to Me?" Of course He said "No". Not even one smallest part, nothing changes at all. Because Allah He is the Creator.
 
@@ -49,10 +49,8 @@ Alhamdulillah He gives us all these good, nice situations with nice, following t
 
 Every time we are making dua Allah make his maqam higher and higher. Insha'Allah, because when he is becoming higher he is taking us also with him, giving more power, spiritual power also, to give power for our belief, our iman. Because iman, it is most important. Many surah in Quran, you are for this Arab, he said don't say we are becoming mu'min(believer). You are only Muslim. Because who says "Ash'hadu an la Ilaha illa Allah, wa ash'hadu ana Muhammadun 'abduhu wa Rasulu, become Muslim. Muslim, it is not iman - not coming yet to his heart. Iman, coming by this murshid and following the right way. But if you are not following this way, your whole life you are Muslim, you are Muslim but there is higher from being Muslim, to be Mu'min also, to be Awliya' Allah. So insha'Allah Mawlana we are thanking for him because he is supporting us spiritually to make our belief our iman stronger and stronger. Thank you for him.
 
-www.saltanat.org Page 2 Al-hamdulillah wa Sh-shukrulillah
+Al-hamdulillah wa Sh-shukrulillah
 
 Wa min Allahi t-Tawfiq, Al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11959&name=2014-07- 15_tr_TheThankful_SM.mp4
-
-www.saltanat.org Page 3

@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-05-27
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ Mawlana Sheikh he was so merciful on us that to put a murshid: the new murshid t
 
 And now Mawlana Sheikh he appoint Sheikh Muhammad(qas) as a murshid. He is our murshid. Mawlana Sheikh he was previous murshid, now Mawlana Sheikh Muhammad he is the new murshid. And we are
 
-www.saltanat.org Page 1 giving bay'at for him and we accept him to be our murshid from now on. May Allah give him long life. May Allah make him in our head and may Allah make his personality strong to keep us with him.
+giving bay'at for him and we accept him to be our murshid from now on. May Allah give him long life. May Allah make him in our head and may Allah make his personality strong to keep us with him.
 
 Now this reminds me with a very nice story about what's happening here. It was the story there was - everyone knows this story, but to remind. it is important Mawlana Sheikh was saying "the reminder it should be there all the time. Because if you remember you don't make mistakes. If you don't remember than the mistake will happen." And the story was: one Sheikh he was having his old murids since long time and one day one murid, new murid, appear and he comes for his majlis and that Sheikh calls him "come, come" and he puts him next to him. And he was all the time next to the Sheikh. And all the murids they start to blablablah... "I've been with the Sheikh too many years but the Sheikh you know he takes this man & he puts him next to him. You know I was serving the Sheikh and you know he is supposed to put me next to him, but he put that man."
 
@@ -47,7 +47,7 @@ So the story was, the Sheikh he says "I want you to slaughter an animal accordin
 
 Then everybody like me also putting the bull there, and Dr. Munir putting the goat, except that one he is with the chicken. Doesn't know what do with it, and he was so embarrassed and the Sheikh telling him "come, come, sit next to me." And he has to take the chicken otherwise it will run away. He put the chicken, he put the chicken next to him. And the chicken keeps on (bak, bak, bak) and everybody says "Ya Sheikh, we put the order, we...we.. obeyed the order and what about this one?" I was the one to laugh first because I have the bull. Huge! The Sheikh he says "No, no, no. This one he makes well." "What about us?"
 
-He says "Didn't you listen for the order?" We say "yes". "It should be in a place nobody see you." And I say "Ya Sayyidi this bull gave me a hard time, I was alone to slaughter this one. You don't know. And I was alone nobody see me. And having difficult time even this bull I break my feet until I slaughtered him." Dr. www.saltanat.org Page 2 Munir says, "I was alone & I don't know how to slaughter this animal - it made it very difficult." And the other ones so many complaints. He says "stop! You speak." He said "I didn't find any place without nobody seeing me, and especially you my Sheikh. You've been looking at me spiritually all the time. And I know that Allah Almighty and Rasul looking. For this order, so I didn't find a place to slaughter this my chicken and I had to bring it here and make the noise." And he says "Now you understand what is the difference between you and him."
+He says "Didn't you listen for the order?" We say "yes". "It should be in a place nobody see you." And I say "Ya Sayyidi this bull gave me a hard time, I was alone to slaughter this one. You don't know. And I was alone nobody see me. And having difficult time even this bull I break my feet until I slaughtered him." Dr. Munir says, "I was alone & I don't know how to slaughter this animal - it made it very difficult." And the other ones so many complaints. He says "stop! You speak." He said "I didn't find any place without nobody seeing me, and especially you my Sheikh. You've been looking at me spiritually all the time. And I know that Allah Almighty and Rasul looking. For this order, so I didn't find a place to slaughter this my chicken and I had to bring it here and make the noise." And he says "Now you understand what is the difference between you and him."
 
 That's why Sheikh Muhammad he became murshid that's why he realized this point. Me, no need because I have other job to do. Because you have other things to do. Don't be sorry for not having the title to be murshid for ummah and to get the great secret of the Golden Chain. It is not important. To make the egoistic side of you saying "Why he take it and I didn't take it. And I've been serving for 50 years, for 100 years for 1000 years and I didn't get it." Your job is different, his job is different. That's Allah Almighty. He take this to put it in the hand of anybody. He doesn't have to ask you. He doesn't have to appreciate your service or he doesn't have to say "you've been serving me so much and you owe me to put this maqam." No. As Allah Almighty He is free to do whatever He likes. Sheikh also free to do whatever he likes. This is up to them. If you are not surrendering for them you will never have nothing, nothing!
 
@@ -58,5 +58,3 @@ Alhamdulillah we are comfortable and we are hoping that Allah Almighty will make
 Bi hurmat al Habib bi hurmat al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11613&name=2014-05- 27_en_WhereMySheikhCantSeeMe_SB.mp4
-
-www.saltanat.org Page 3

@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-10-29
 date_hijri: ''
 edited_at: 2026-06-25
@@ -34,5 +34,3 @@ InshaAllah Allah give you more and more and many guests coming, and you also hel
 Also Mawlana Sheikh and Hajji Anne, she was saying, especially for your country. It is like ironwear/armour for against protecting. You read 7 times ayat al-Kursi. Blow 1 to right, 1 left, front, behind, up, down and 7th in full all around. After this, don't worry. And don't forget every morning sadaqa. It is very important, sadaqa here. Poor people, they can put 5 cents. Rich people, they put more. Make box near door. Don't forget this every day, every morning. It is very important advice, nasiha, from Mawlana Sheikh.
 
 Video link: http://saltanat.org/videopage.php?id=12688&name=2014-10- 29_en_Hospitality_SM.mp4
-
-www.saltanat.org Page 1

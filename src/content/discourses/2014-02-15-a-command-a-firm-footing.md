@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-02-15
 date_hijri: ''
 edited_at: 2026-06-25
@@ -36,5 +36,3 @@ May you be from the shakirin (thankful) like your father. May Allah be pleased w
 Video link: http://saltanat.org/videopage.php?id=10697&name=2014-02-
 
 15_tr_TenbihKademSabit.mp4
-
-www.saltanat.org Page 1

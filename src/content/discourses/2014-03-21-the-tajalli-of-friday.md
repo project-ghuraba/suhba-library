@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-03-21
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ Bismillahi r-Rahmani r-Rahim is a pole from earths to heavens. Bismillahi r-Rahm
 
 Ja'aka fat'hul mubeen. Allah Allah. Ja'aka fat'hul mubeen. A clear opening will reach you, my son. Say Bismillahi r-Rahmani r-Rahim. It is a pole of light from earth to heavens. Who says Bismillahi r-Rahmani r-Rahim every day, his soul is filled with its light. It is filled with light. Our Mawla won't leave us without
 
-www.saltanat.org Page 1 light. Hasha. Hasha. Let's say Allah Hu. Let's say Bismillahi r-Rahmani r-Rahim. Say day and night Bismillahi r-Rahmani r-Rahim. Say day and night Bismillahi r-Rahmani r-Rahim.
+light. Hasha. Hasha. Let's say Allah Hu. Let's say Bismillahi r-Rahmani r-Rahim. Say day and night Bismillahi r-Rahmani r-Rahim. Say day and night Bismillahi r-Rahmani r-Rahim.
 
 May our souls and eyes be full. May we be full with light. O son of Adam, O son of Adam, strive. May your soul be filled with light. Bismillahi r-Rahmani r-Rahim. May our souls and eyes be filled with light. We ask to be filled. We ask for light. We ask for light. Light. Light that comes down from heavens. May we be filled with light from inside and outside by remembering the Beautiful Name of our Lord, by remembering the Beautiful Name of His Beloved. We ask for light. We ask for light, my son. May Allah give light to you and us. May we stay in light. Light, light. Light comes down from heavens to earth for them. We'll be filled with light from inside and outside, my daughter. It'll be filled with light. Allah doesn't deprive His servant from that light.
 
@@ -46,5 +46,3 @@ It is the day of Friday, the manifestation of Friday is different. Its strength 
 Fatiha. Allah.
 
 Video link: http://saltanat.org/videopage.php?id=11077&name=2014-03- 21_tr_CumaGununTecelisi.mp4
-
-www.saltanat.org Page 2

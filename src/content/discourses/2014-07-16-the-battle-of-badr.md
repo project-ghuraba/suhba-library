@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-07-16
 date_hijri: ''
 edited_at: 2026-06-25
@@ -35,7 +35,7 @@ The Battle of Badr is known as Yawmu l-Furqan. Furqan means, the day that separa
 
 The Companions, who came with our Prophet (sas) 313 Sahaba/companions reached the highest maqam (rank). 14 Muslims were martyred. Their sins (the Muslim fighters) were forgiven, both the past ones and the future ones. This is special for the people of Badr only. There are also 313 Nabi Mursal (who had the rank of both Prophet and Messenger). There are 313 Awliya. They all reached that degree. They won because they were on the way of Haqq. They became beloved companions of our Prophet (sas); they all became Allah's beloved servants.
 
-www.saltanat.org Page 1 With the barakah of Ramadan, the day of Badr is a beautiful day. The names of the sahaba/companions of Badr - if you put their names in your house, it blesses your houses. You can also find the printed version. With Allah's permission it protects. They are Allah's beloved servants, they have barakah. We pay respect to these people. You ask their barakah, madad. We as Ahli s-Sunnah wa Jamaat, this order comes directly from our Prophet (sas). The crazy sects of today, they don't pay respect. They will pass away without getting any respect.
+With the barakah of Ramadan, the day of Badr is a beautiful day. The names of the sahaba/companions of Badr - if you put their names in your house, it blesses your houses. You can also find the printed version. With Allah's permission it protects. They are Allah's beloved servants, they have barakah. We pay respect to these people. You ask their barakah, madad. We as Ahli s-Sunnah wa Jamaat, this order comes directly from our Prophet (sas). The crazy sects of today, they don't pay respect. They will pass away without getting any respect.
 
 Today we speak about Ramadan, it is very holy month and many good things happen in this month. Specially, Quran, Allah give in this month for Prophet sallallahu alaihi wa sallam. Another, many things happened but there is a big, big victory for Islam - Badr. Badr, war of Badr. It is Yawm al-Furqan, they call it. For what 'furqan'? Making divide between kufr/unbeliever and believer. Very small quantity of Sahaba/Companions and Prophet sallallahu alaihi wa sallam. It was beginning, this 8th of Ramadan, first because there was caravan from Quraysh going to Damascus, bringing many goods and this Quraysh was taking everything from (belonging to) the Muslims in Mecca. They were not giving what they have, so Prophet sallallahu alaihi wa sallam said, we must take this (caravan) to give for these poor people because everything was taken by this Quraysh.
 
@@ -47,7 +47,7 @@ They were ignorant people. So many things happened - this is long story. Many pe
 
 So, it was like this. And many wisdoms from this war, especially for Muslims who was supporting Prophet sallallahu alaihi wa sallam. 313 - the number of Prophet-Messengers (Nabi Mursal). They have, Allah sent
 
-www.saltanat.org Page 2 124,000 Prophets but the biggest ones, they are 313. So the Sahaba they were also there, the awliya also, they have this number.
+124,000 Prophets but the biggest ones, they are 313. So the Sahaba they were also there, the awliya also, they have this number.
 
 And Allah forgave them for their sins, what they did before and what will be done after - It is only special for them and for Prophet sallallahu alaih wa sallam of course, yes, but for human being, only for this, because Allah forgive them for what before, what after. Must be make tauba, astaghfar. But for these Sahaba/companions, Allah give them this honour. And they are honourable and they have baraka. Even if something happened, you can read their name and get baraka for your house or you may write. Many writing name of these Sahaba. You can hang in your house and it is baraka for house, for every(thing). Allah honoured these people - Sahaba, Awliya, Prophet and we are Ahl as-Sunnah wa l-Jama'a, we believe for this.
 
@@ -58,5 +58,3 @@ For sake of Prophet, sallallahu alaihi wa sallam, we are insha Allah with Prophe
 Wa min Allahi t-taufiq al Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=11964&name=2014-07- 16_tr_TheBattleOfBadr_SM.mp4
-
-www.saltanat.org Page 3

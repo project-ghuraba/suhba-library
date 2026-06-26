@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-01-20
 date_hijri: ''
 edited_at: 2026-06-25
@@ -39,7 +39,7 @@ Janab-ul Haqq created so beautiful. "May My servants take benefit from it. May t
 
 Love for oleaster is different. What a nice tree is oleaster (Russian Olive). What a beautiful smell it has. Did you plant it? Plant it everywhere. Decorate. Decorate the world. Let it not remain ugly because JanabAllah doesn't like ugliness. Allah doesn't reduce His mercy. They said there's no rain. O our Lord, whose great favours have no boundaries, how can we say so? How can we say so? Seas can turn into sweet water in a moment. Our Lord...
 
-May we know our humanity, may we be beautiful. May we be beautiful. Multiply the beauty, Mehmed. Plant oleaster, trees of oleaster stick by stick everywhere. It will give both relief and strength to the body. What a beautiful tree is the oleaster. What a nice smell it has. Run away from fake things. Don't use fake www.saltanat.org Page 1 things, Mehmed. This is science. Janab-ul Haqq created beauty, He wants everything beautiful. Rabb-ul Izzet wants beauty. Let us be beautiful, let us be beautiful.
+May we know our humanity, may we be beautiful. May we be beautiful. Multiply the beauty, Mehmed. Plant oleaster, trees of oleaster stick by stick everywhere. It will give both relief and strength to the body. What a beautiful tree is the oleaster. What a nice smell it has. Run away from fake things. Don't use fake things, Mehmed. This is science. Janab-ul Haqq created beauty, He wants everything beautiful. Rabb-ul Izzet wants beauty. Let us be beautiful, let us be beautiful.
 
 Do you eat sugar cane? Chew just a piece of it; it will give strength to your body, beauty and taste to your face. How much and many... There are piles of sugar cane over there. Cut a piece every day so that we chew. Let us chew it. Tangerines with their peels; how nice they are. What a nice tree is tangerine. What a nice tree is jujuba. What a nice tree is oleaster. Did you plant almonds? Did you plant it? Plant, it is a glorious tree. It is a glorious tree, Faqir. It makes decoration and gives strength. Make tasbih to our Lord, my son. How much and many... What donkeys we are.
 
@@ -56,5 +56,3 @@ Don't leave an empty place. Plant a seed. Plant a sapling. Don't leave an empty 
 Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=10444&name=2014-01-20_tr_Yesilendir.mp4
-
-www.saltanat.org Page 2

@@ -1,4 +1,4 @@
----
+﻿---
 date: 1900-01-01
 date_hijri: ''
 edited_at: 2026-06-25
@@ -33,7 +33,7 @@ Primarily, there is only liking oneself - arrogance in the world now. "I wish I 
 
 This is how the world is now. No use for them. No matter what he gets, he doesn't give thanks. He doesn't say "Shukr ya Rabbi". That is why they are making us say this: even a cat doesn't wish to become a human. A dog doesn't want to become a human. They say "I am in the best state possible. My Lord created me like this and I am happy with my Lord." Hasha minel huzur, donkey get whipped, carry all the loads of humans, get kicked around but they don't want to become a human. It says "My Lord created me like this and I am happy with my Lord." Why you don't say it! Say - Allah has created us as the most honourable creature, but we still complain, don't like ourselves, want to become something else. What are we to become?
 
-www.saltanat.org Page 1 Angels could not undertake the amanat (Trust) but man undertook it. Janabi Haqq, gave that honour to man. They never think about the spiritual (other than earthly) honour. This will become earth, it (the physical body) will become a skeleton, it will look horrible. They can't see beyond this cage of skin. They can't see beyond it. The Angels could not take on the honour given to man. We are carrying the Trust. Therefore, this is what Janabi Haqq is asking: O My servants! Know Me! I ask for nothing else! Know Me O My servants. Don't say "He doesn't exist." I exist! If I didn't exist, you would not exist either. Think! You cannot exist by yourselves. Say; "O Our Lord".
+Angels could not undertake the amanat (Trust) but man undertook it. Janabi Haqq, gave that honour to man. They never think about the spiritual (other than earthly) honour. This will become earth, it (the physical body) will become a skeleton, it will look horrible. They can't see beyond this cage of skin. They can't see beyond it. The Angels could not take on the honour given to man. We are carrying the Trust. Therefore, this is what Janabi Haqq is asking: O My servants! Know Me! I ask for nothing else! Know Me O My servants. Don't say "He doesn't exist." I exist! If I didn't exist, you would not exist either. Think! You cannot exist by yourselves. Say; "O Our Lord".
 
 He says "know Me." O our Lord, we fail to say this. The Lord who created us who gave us life - We have so many faults, forgive us, give us Your forgiveness. O our Lord, we know You, Ya Rabbi. Say this. He says I will forgive even if you (My servant) asks once! But he doesn't. This is how evil men of 21st century became. In appearance human, but in reality animals. Even animals don't accept the state man is in now. Ya Rabbi, don't leave us to our bad nafs.
 
@@ -48,5 +48,3 @@ Our instructions for today are finished (that's all). This is important. Say sal
 If they gather together with clean ones they will be gathered with clean ones (hereafter). They will sleep clean in their graves too. Ya Rabbi include our names amongst Your pure (clean) servants. For the sake of the Habibul Akram and bi hurmati l-Fatiha.
 
 Video link: http://saltanat.org/videopage.php?id=9787&name=2005-00- 00_tr_SeyheMuhtacsin_SN_a.mp4
-
-www.saltanat.org Page 2

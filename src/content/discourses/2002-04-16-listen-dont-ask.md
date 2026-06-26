@@ -1,4 +1,4 @@
----
+﻿---
 date: 2002-04-16
 date_hijri: ''
 edited_at: 2026-06-25
@@ -31,7 +31,7 @@ Therefore, they are asking from those that they are who attending not to ask, bu
 
 Welcome to you! Welcome to you! You are asking Allah Almighty and His pleasure. That is highest target for, for servants. Servants, What, what should ask from his master? Servant may ask only, "Are you pleased with me? Are you happy with me?" That servant asking from his master, this - to be pleased with him. And highest target, highest aim for servants to reach Allah Almighty's pleasure, to make their Lord happy with them. No more! And then, as Allah Almighty was saying, to the Seal of Prophets Sayyidina Muhammad (saws), the night journey when he was in Divinely Presence, "What you are asking O my most beloved servant? Most praised servant what you are asking? If my love with you what you are asking? Everything for you! I am happy with you to give to you. What you are asking? And giving to you more than this." No one knows.
 
-And servant must try to be on steps of Rasulullah (saws) so that he may reach a level according to his level Allah Almighty also asking to him and granting to him. Because Rasulullah's (saws) level no one can reach. But for everyone wa likullin darajāt [6:132] (And for all (will be) degrees) For everyone levels and stations. According to their level Allah Almighty with His Greatness He is going to be on that level for His servant and asking, "O My servant! Ask! What you are asking it is granted to you www.saltanat.org Page 1 and what you asking [is] nothing - Look what I am giving to you." Therefore we are trying to give something to people for a new understanding.
+And servant must try to be on steps of Rasulullah (saws) so that he may reach a level according to his level Allah Almighty also asking to him and granting to him. Because Rasulullah's (saws) level no one can reach. But for everyone wa likullin darajāt [6:132] (And for all (will be) degrees) For everyone levels and stations. According to their level Allah Almighty with His Greatness He is going to be on that level for His servant and asking, "O My servant! Ask! What you are asking it is granted to you and what you asking [is] nothing - Look what I am giving to you." Therefore we are trying to give something to people for a new understanding.
 
 Old understandings it was for past time people. But this time people 21st Century people they are in need, in such a speech and associations to be caught, to be attracted. This power now [is] on. It was off. Now coming down [and] opening. On. Power now on. And this power [is] going to increase, not stopping, not getting less but getting more! Therefore, good tidings for you as a beginning. We have been sent to Damascus and our association now through Damascus it is not like in Cyprus or in Turkey or in England, or in East or in West. Because according to appearances, Divinely appearances, that coming on Damascus it is just different from others. No comparison between [the] two. And we are coming from far distances to, to reach and to hear such a things. Now it is much more affectable [has more effect] on your hearts and on your minds more than before because time, on, now.
 
@@ -42,5 +42,3 @@ May Allah forgive me and bless you.
 Allah Allah Allah Allah Allah Allah 'Azīz Allah Allah Allah Allah Allah Allah Allah Karīm Allah Allah Allah Allah Allah Allah Allah Subhān Allah Allah Allah Allah Allah Allah Allah Sultān Allah He is only Sultan Fātiha, ziyaditan ila sharifi Nabi...
 
 Video link: http://saltanat.org/videopage.php?id=13721&name=2002-04- 16_en_ListenDontAsk_SN_a.mp4
-
-www.saltanat.org Page 2

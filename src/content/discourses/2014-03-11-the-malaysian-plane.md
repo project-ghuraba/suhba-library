@@ -1,4 +1,4 @@
----
+﻿---
 date: 2014-03-11
 date_hijri: ''
 edited_at: 2026-06-25
@@ -44,5 +44,3 @@ No. Only up to Friday. After Friday all of them are taken away - this coming Fri
 The Minister he was saying that it was the first flight of that plane. And I said: "You must give sadaqa for it." And he was saying to me: "O Sheikh mostly people they are not Muslims. They are not understanding such things." "You may give," I said to him. After what happened, the Lord of Heavens He knows. We can't do anything or we can't say anything. Only we are asking forgiveness for all those people that have been lost.
 
 Video link: http://saltanat.org/videopage.php?id=10954&name=2014-03- 11_en_MalaysianPlane.mp4
-
-www.saltanat.org Page 1
