@@ -1,0 +1,66 @@
+---
+date: 2026-01-27
+date_hijri: ''
+edited_at: 2026-06-28
+image: https://r2.suhbalibrary.org/suhbas/2026-01-27-shaytan-attacks-from-the-inside.jpg
+language: en
+location_city: Woking
+location_country: England
+location_venue: Shah Jahan Mosque
+quotes_verified: []
+slug: 2026-01-27-shaytan-attacks-from-the-inside
+source: mawlanasultan.org
+speaker:
+- Shaykh Muḥammad ‘Ādil ar-Rabbānī
+speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī
+status: published
+title: Shayṭān Attacks From the Inside
+topic: []
+transcript_quality: verified|level 2
+version: 1
+youtube_url: https://www.youtube.com/watch?v=SFeDnk73Ox4
+---
+
+As-Salāmu ‘Alaykum wa RaḥmatuLlāhi wa Barakātuh.
+
+A‘ūdhu BiLlāhi Minash-shayṭāni r-rajīm. BismiLlāhi r-Raḥmāni r-Raḥīm.
+
+Wa ṣ-Salātu wa s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-Awwalīna wa l-Akhirīn.
+
+Madad yā RasūlAllāh, Madad yā Sādāti Aṣḥābi RasūliLlāh, Madad yā Mashāyikhinā,
+
+Dastūr Mawlana Sheikh Abdullāh al-Fā’iz ad-Dāghistāni, Sheikh Muḥammad Nāẓim al-
+
+Ḥaqqānī. Madad.Ṭarīqatunā aṣ-Suḥbah wa l-Khayru fi l-Jam‘iyyah.
+
+Bismi Llāhi r-Raḥmāni r-Raḥīm:
+
+(Qur’ān 49:10). ’Innama l-mu’minūna ikhwa fa-‘aslihu bayna akhawaykum wa t-Taqu Allaha La’allakum Turhamoon’, ‘The believers are but brothers, so make settlement between your brothers. And fear Allah that you may receive mercy.’
+
+Bismi Llāhi r-Raḥmāni r-Raḥīm:
+
+‘Wa ta‘āwanū ‘ala l-birri wa t-taqwā wa la ta‘āwanū ‘ala l-lithmī wa l-‘udwān’, ‘And cooperate in righteousness and piety, but do not cooperate in sin and aggression.’ (Qur’ān 05:02).
+
+This is the order of Allāh. Muslims, Mu’mins are brothers. You must be together, Allāh will help you. He will descend His mercy upon you. And Allāh orders also to help each other, to be doing good things, helping Islām, helping Muslims, doing charity, doing every good thing to each other. Don’t put any hatred or envy between you.
+
+AlhamduliLlah, this place is a blessed one. Since the time of Mawlānā Shaykh Nāẓim, he was visiting here many times. And of course, all people here are ṭarīqah people, AlhamduliLlah. Ṭarīqah: there’s Naqshbandī, Kādiri, Shishti, Rifā’i, Badawi; all these are ṭarīqah. Each one has a blessed Imam from Prophet ṣallá Llāhu ‘alayhi wa-sallam. He is giving light for millions of people since centuries. So no one needs to be enemies to each other. You must be helpful. This is also from Allāh. He put for each of His creation different ability, different tests, different things, each’s heart is going to a place. But what’s important is for the end of this, where he is going, to be going to Prophet ṣallá Llāhu ‘alayhi wa-sallam. For this, all ṭarīqah are going on the way to Prophet ṣallá Llāhu ‘alayhi wa-sallam. So when you are in this way, you must obey what Prophet ṣallá Llāhu ‘alayhi wa-sallam says, what Allāh is ordering: to be together.
+
+Of course, each ṭarīqah maybe has different things. This thing mustn’t make you not happy with the others. You must accept each one. Don’t interfere with others. Only look at yourself. Teach your ego to be humble, to obey, not to be angry with everything. From small things, you make a problem for others. No, this is not good. Because shayṭān, from the beginning of Islām, couldn’t - All the time, shayṭān never won through an enemy from the outside. Any enemy who came didn’t succeed to finish Islām or finish the Khilāfah. All the time, only from the inside. They make fitnah between each other and after that, they split and make Muslims kill each other. And after this, they come and take over. This happened many times in history. History is very important; it’s knowledge. It’s said about the Qur’ān, “ﻦﯾﺮﺧﻵاو ﻦﯿﻟوﻷا مﻮﻠﻋ ﮫﯿﻓ نآﺮُﻘﻟا”. The Qur’ān has the knowledge of beginning and the end. And it’s teaching history, teaching stories of what happened before to take lesson. And Allāh is saying, “رِﺎﺼَ ﺑْ َﻷْا ﻲﻟِوُأ ﺎَﯾ اوﺮُ ِﺒَﺘﻋْ ﺎَﻓ”, “Fa-ʿtabirū yā-ʾulī l-ʾabṣār”, “So take warning, O people of vision.” (Qur’an 59:02). “بِ ﺎَﺒﻟَْﻷْا ﻲﻟِوُأ ﺎَﯾ”, “Yā-ʾulī l-ʾalbab”, “O you [people] of understanding”. (Qur’an 02:179). Take lesson O [you] people who are seeing. Take lesson O [you] people who have a heart to understand.
+
+Many times, Muslims among each other are not helping each other, but making disasters, bad things for Muslims. Just in London, they asked, “Who destroyed the Ottoman Empire?” Muslim. Muslim and also Turk. Ottomans are not Turk. There were 70 peoples, 70 nations in the Ottoman Empire. And they are fighting for Allāh ‘Azza wa-Jalla. Who didn’t help the Ottomans’ but made their end begin? It’s the Crimea. Now, they are fighting this Russian and other one. They are the same one; not different. They are fighting for Crimea. This all was the Empire of Giray. Sultan Giray is a Tatar Sultan who was controlling all this area. The now Ukraine, Russia: all of these were Muslim countries. They were Muslims. The Ottoman Sultan was going to conquer Vienna, Austria. They asked for help from these people and said, “Yes, we will help you. What help do you want?” “Only to keep the enemy not come from behind us.” Giray was envious. Giray means Sultan in Tatar language. He let these people come through them. They killed them all and defeated them. And took all the treasures of the Ottomans. This is the Second Battle of Vienna. The first one was in the time of Sultan Suleiman Al-Kanuni (Suleiman the Magnificent). I visited that area and I saw this. They said Sultan Suleiman reached until there. But some put a sign only for here. He was a great Sultan. And he came back. The second time, it was not necessary to make this war, but it happened. But what happened after this [war]; when the Ottomans lost? The Ottomans began, slowly slowly, to have no power anymore because all their treasures were gone, even half of the army become Shahīd. And they hardly saved the Sultan. After that, what happened to Giray? All this area was taken by the Russians. They killed them and took everything from them. Until now, there’s no benefit for this.
+
+Why was that? Because Muslims are not helping each other. For this, we are saying also, we are a small Jama’āt everywhere, no need to make problems for small things. You must continue. Allāh has given you many places, don’t be envious. Everybody who’s coming here, and not making fitnah against Prophet ṣallá Llāhu ‘alayhi wa-sallam or against ṭarīqah, they must open for them to recite Qur’ān, recite Ḥadīth, recite Mawlid, Dhikr, Ṣuḥbah. It must continue. If you are fighting with each other, other people will take you and throw you out. Maybe they will act as if they are helping you, just as what happened with these people. After that, they will be taking you out and throwing you away. Just like what happened in history with many Islāmic states.
+
+And this is what I said. Ottomans were Ahlu s-Sunnah wal- Jama’ah, defending ṭarīqah and others. Others were also the same. Giray, Tatar, was also Ahlu s-Sunnah wal-Jama’ah; not Shi’a, not Wahhabi. That time, there were no Wahhabi AlhamduliLlah. All that area AlhamduliLlah, there was no Wahhabi in Central Asia or Russia. Now it’s Russia, but at that time it had different names like Crimea, Kazan and many things. Then Kazan were every year going to Moscow, taking ghanīmah (booties) and coming back. They were strong because they were Ahlu s-Sunnah wal-Jama’ah and defending Islām. So fitnah came even if they were Ahlu s-Sunnah wal-Jama’ah, and there were no Shi’a, no Salafi, no Wahhabi. AlhamduliLlah, that time there were no Wahhabi. But unfortunately, in this time, the worst Wahhabi are in this area; the area of Russia or Central Asia. They put this fitnah there and they are destroying people. So even if you go there and you are not from the same ṭarīqah, they accept you as their enemy. This is a very big fitnah in this area. And from that time until, it is now growing, growing, growing. If you are not from this nation, they are not happy with you, they are enemy for you. If you’re not from this way, they are enemy. This is a big fitnah.
+
+For this, you must cut the head of fitnah when it is small. They say, you must cut the head of the snake when it’s small. When it’s big, you cannot catch it or cut the head of the snake, and it will poison everywhere. It’s a really terrible poison happening. So you must be united. And don’t think about small problems, don’t say anything. Because they were saying something, “They did this. They did that.” So we are asking Allāh ‘Azza wa-Jalla to put happiness in our hearts towards the brothers, towards our brothers, Murids and Muslims to be safe from all bad things.
+
+It is not easy to find something like this. Because when you intend to do some charity, to do some good thing, many things attack you making you run away from it. There’s one story. An Imam was making Khutbah, ṣuḥbah. He said, “Who gives one handful of rice, Allāh gives him for each one thawāb, reward.” Who gives wheat, flour, oil. So one of the attendees in this gathering was listening to this. He was very excited and ran to his house to collect something. He was trying to leave his house but suddenly, he found his wife in front of him. “What is this?” She said. He said, “The Imam said, I must give this for charity.” “Put this down!” She said. The Imam was waiting outside, “Where’s your charity?” He said, “The mother of shayṭān was there!” Not one shayṭān. For this, when you want to do something good, many shayṭāns will try to stop you. Many times they say when there’s a gathering of people who do not love our Prophet, you can find thousands of people around them. But when you are gathering for ṣuḥbah, for Prophet ṣallá Llāhu ‘alayhi wa-sallam, maybe you can only find ten percent. I was wondering why is that? It’s for this reason. Because shayṭān doesn’t want these people. He is happy with them, to make them make people run away from reward, from the love of Prophet ṣallá Llāhu ‘alayhi wa-sallam, love of Allāh ‘Azza wa-Jalla. So he’s happy, pushing them forward, “Yes, yes. Look, more people are coming. Don’t do this. Don’t make salat ala-n-Nabi, you will be cursed. You will be mushrik. You will be like this, you will be like that.” But when you come to a majlis (gathering) of good ṣuḥbah and a good majlis, they are attacking you, giving you waswas: “If what you are doing is haram. Why are you here? These people were saying this is haram, this is shirk, you will be in fire, your du’ā’ will not be accepted, you will never be forgiven.”
+
+All this what they say is opposite of the right. Allāh ‘Azza wa-Jalla saying, “I am Gafur Rahim. Until the last breath, you can ask for forgiveness and I will forgive you.” Allāh ‘Azza wa-Jalla says if these people are not making sin, I will create another nation to make sin and forgive them. I love to forgive.” Allāh is saying this. They are not accepting what Allāh is saying. Why? Because they are envious, they have jealousy. They don’t want any goodness for human beings, for anybody. Jealousy is the worst attribute. It is from shayṭān. It made him thrown out of Jannah, of paradise. And he is still insisting on this. It is also the attribute of the Kāfir. Even if he knows it is right, from his jealousy, he can put himself in fire but not accept the other one he’s jealous from. This is an important thing.
+
+For this, may Allāh keep the Muslim’s heart safe from jealousy, from being away from the right way, from the way of Prophet ṣallá Llāhu ‘alayhi wa-sallam which is the way of mercy, way of happiness, way of good tidings.“اوﺮُ ّﻔِ َﻨُﺗ ﻻو اوﺮُ ﺸِّ َﺑ”, “Bashshirū wa-lā tunaffirū”, “Give people good tidings and do not make them run away,” says Prophet ṣallá Llāhu ‘alayhi wa-sallam. Give good tidings. Say to people, “Allāh forgives everybody. Don’t worry.” Some people are coming, saying, “We are doing bad things, maybe we cannot be in Jannah.” No, when anybody asks for forgiveness, if he has a real, good intention - Allāh says in Qur’ān ‘Aẓīmu sh-Sha’n, “تٍ ﺎَﻨﺴَ ﺣَ ﻢْ ﮭِ ِﺗﺎَﺌِّﯿﺳَ ُJﱠ لُ ﺪِّ َﺒُﯾ”, “Yubaddilu Llāhu sayyiātihim ḥasanāt”, “For them Allah will replace their evil deeds with good.” (Qur’an 25:70). He changes his sins into rewards; no sin anymore. Allāh will take the sin away and put reward instead of it. This is Allāh ‘Azza wa-Jalla. We are thanking Allāh for this. We must thank Allāh all the time and say “Ash-ShukruliLlah, AlhamduliLlah, Ash-ShukruliLlah.” He made us in His way. So there must be no problem between Muslims for small things.
+
+There are some crazy people. When they are angry they say, “Allāh forgives, I do not forgive.” May Allāh give mind and good thinking to these crazy people. May Allāh forgive us all. We are in need of this from Allāh ‘Azza wa-Jalla. May Allāh keep us in His way strongly, not to fall down. We are alhamduliLlah with Mashāyikh, with Mawlānā. Ṭarīqah people, Allāh makes them higher. This is a grant from Allāh. A grant from Allāh that we must thank Him for. May He keep us in this way. May Allāh make us more and more higher, in shā’a Llāh.
+
+Bi-Hurmeti Habibik RasuluLlah ṣallá Llāhu ‘alayhi wa-sallam, bi-Hurmeti sirri Surati l-Fātiha.
