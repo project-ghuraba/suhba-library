@@ -1,7 +1,7 @@
 ---
 title: "Advice for Happiness in Both Lives"
-slug: "2025-10-18-advice-for-happiness-in-both-lives"
-date: 2025-10-18
+slug: "2025-10-20-advice-for-happiness-in-both-lives"
+date: 2025-10-20
 date_hijri: "26 Rabīʿ ath-Thānī 1447"
 speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
 speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
@@ -9,7 +9,7 @@ location_venue: "Dergah Olavarría"
 location_city: "Buenos Aires"
 location_country: "Argentina"
 youtube_url: "https://www.youtube.com/watch?v=7alWClb6Hcc"
-image: "https://r2.suhbalibrary.org/suhbas/2025-10-18-advice-for-happiness-in-both-lives.jpg"
+image: "https://r2.suhbalibrary.org/suhbas/2025-10-20-advice-for-happiness-in-both-lives.jpg"
 status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
