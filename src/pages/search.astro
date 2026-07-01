@@ -487,6 +487,7 @@ import Footer from '../components/layout/Footer.astro';
 
   async function init() {
     try {
+      // @ts-ignore: /pagefind/pagefind.js is a post-build artifact with no type declarations
       pf = await import(/* @vite-ignore */ '/pagefind/pagefind.js') as PFApi;
       await pf.init();
       allFilterData = await pf.filters();

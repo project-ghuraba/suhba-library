@@ -637,7 +637,6 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
       try {
         await navigator.clipboard.writeText(url);
         window.zaraz?.track('share_click', { platform: 'copy_link' });
-        const orig = actionShareBtn.textContent;
         actionShareBtn.textContent = 'Copied!';
         setTimeout(() => { actionShareBtn.innerHTML = `<svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M8 1v9M4.5 4.5L8 1l3.5 3.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M2 11v2a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-2" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg> Share`; }, 2000);
       } catch {
