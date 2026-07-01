@@ -331,6 +331,26 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
       )}
 
     </div>
+
+    <!-- Pagefind filter/sort/meta — not visible to users; read by the Pagefind indexer -->
+    <div data-pagefind-ignore="all" aria-hidden="true" style="display:none">
+      {data.speaker.map((s: string) => <span data-pagefind-filter={`speaker[${s}]`}></span>)}
+      {data.topic.map((t: string) => <span data-pagefind-filter={`topic[${t}]`}></span>)}
+      <span data-pagefind-filter={`language[${data.language}]`}></span>
+      <span data-pagefind-filter={`country[${data.location_country}]`}></span>
+      {data.location_city && <span data-pagefind-filter={`city[${data.location_city}]`}></span>}
+      {data.location_venue && <span data-pagefind-filter={`venue[${data.location_venue}]`}></span>}
+      {data.type && <span data-pagefind-filter={`type[${data.type}]`}></span>}
+      <span data-pagefind-filter={`year[${data.date.getFullYear()}]`}></span>
+      <span data-pagefind-sort={`date[${data.date.toISOString().split('T')[0]}]`}></span>
+      <span data-pagefind-sort={`title[${data.title}]`}></span>
+      <span data-pagefind-meta={`date[${data.date.toISOString().split('T')[0]}]`}></span>
+      <span data-pagefind-meta={`hijri[${hijriDisplay}${hijriIsEstimated ? ' (est.)' : ''}]`}></span>
+      <span data-pagefind-meta={`speaker[${data.speaker.join(', ')}]`}></span>
+      <span data-pagefind-meta={`country[${data.location_country}]`}></span>
+      {data.location_city && <span data-pagefind-meta={`city[${data.location_city}]`}></span>}
+      <span data-pagefind-meta={`slug[${data.slug}]`}></span>
+    </div>
   </article>
 
   <Footer slot="footer" />
@@ -617,7 +637,6 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
       try {
         await navigator.clipboard.writeText(url);
         window.zaraz?.track('share_click', { platform: 'copy_link' });
-        const orig = actionShareBtn.textContent;
         actionShareBtn.textContent = 'Copied!';
         setTimeout(() => { actionShareBtn.innerHTML = `<svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M8 1v9M4.5 4.5L8 1l3.5 3.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M2 11v2a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-2" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg> Share`; }, 2000);
       } catch {

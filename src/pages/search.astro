@@ -1,132 +1,109 @@
 ---
 // src/pages/search.astro
-// Search & Browse page.
-// Pagefind keyword search at top; faceted filter panel (with text search) below.
+// Unified search page — Pagefind full-text search with faceted filters.
+// The single text input does full-body Pagefind search; dropdowns narrow
+// results using Pagefind's filter API so both work together simultaneously.
 
 import BaseLayout from '../components/layout/BaseLayout.astro';
 import Header from '../components/layout/Header.astro';
 import Footer from '../components/layout/Footer.astro';
-import PagefindSearch from '../components/search/PagefindSearch.astro';
 ---
 
-<BaseLayout title="Explore the collection">
+<BaseLayout title="Search the collection">
   <Header slot="header" />
 
   <div class="search-page">
     <div class="search-inner">
-      <h1 class="page-title">Explore the collection</h1>
-      <p class="page-subtitle">Discover suhbas, topics, and insights through search or browsing the collection</p>
+      <h1 class="page-title">Search the collection</h1>
+      <p class="page-subtitle">Search by keyword and narrow by speaker, topic, location, and date</p>
 
-      <!-- ── Keyword search (Pagefind) ── -->
-      <section class="search-section" aria-label="Keyword search">
-        <PagefindSearch />
-      </section>
+      <!-- ── Unified search input ── -->
+      <label for="filter-text" class="sr-only">Search discourses</label>
+      <input
+        type="search"
+        id="filter-text"
+        class="filter-text-input"
+        placeholder="Search by keyword, speaker, or topic…"
+        autocomplete="off"
+      />
 
-      <!-- ── Browse & Discover ── -->
-      <section class="filter-section" aria-labelledby="filter-heading">
-        <h2 class="section-label" id="filter-heading">Browse & Discover</h2>
+      <!-- ── Collapsible filters ── -->
+      <details class="filters-drawer" id="filters-drawer">
+        <summary class="filters-toggle">
+          <span>Show more filters</span>
+          <svg class="filters-chevron" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path d="M3 5l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </summary>
 
-        <!-- Text search — always visible; reads ?q= from URL on load -->
-        <label for="filter-text" class="sr-only">Search by keyword</label>
-        <input
-          type="search"
-          id="filter-text"
-          class="filter-text-input"
-          placeholder="Search by title, speaker, or topic…"
-          autocomplete="off"
-        />
-
-        <!-- Collapsible filters drawer -->
-        <details class="filters-drawer" id="filters-drawer">
-          <summary class="filters-toggle">
-            <span>Show more filters</span>
-            <svg class="filters-chevron" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
-              <path d="M3 5l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-          </summary>
-
-          <div class="filter-bar" role="group" aria-label="Filter discourses">
-            <div class="filter-row">
-              <select id="filter-speaker" class="filter-select" aria-label="Filter by speaker">
-                <option value="">All Speakers</option>
-              </select>
-              <select id="filter-topic" class="filter-select" aria-label="Filter by topic">
-                <option value="">All Topics</option>
-              </select>
-              <select id="filter-type" class="filter-select" aria-label="Filter by type">
-                <option value="">All Types</option>
-              </select>
-            </div>
-            <div class="filter-row">
-              <select id="filter-country" class="filter-select" aria-label="Filter by country">
-                <option value="">All Countries</option>
-              </select>
-              <select id="filter-city" class="filter-select" aria-label="Filter by city">
-                <option value="">All Cities</option>
-              </select>
-              <select id="filter-venue" class="filter-select" aria-label="Filter by venue">
-                <option value="">All Venues</option>
-              </select>
-            </div>
-            <div class="filter-row filter-row-secondary">
-              <label class="date-label">
-                Date from
-                <div class="date-parts">
-                  <input type="number" id="filter-date-from-y" class="filter-date-part filter-date-part--year" placeholder="YYYY" min="1900" max="2099" aria-label="Year from" />
-                  <span class="date-sep" aria-hidden="true">/</span>
-                  <input type="number" id="filter-date-from-m" class="filter-date-part" placeholder="MM" min="1" max="12" aria-label="Month from" />
-                  <span class="date-sep" aria-hidden="true">/</span>
-                  <input type="number" id="filter-date-from-d" class="filter-date-part" placeholder="DD" min="1" max="31" aria-label="Day from" />
-                </div>
-              </label>
-              <label class="date-label">
-                Date to
-                <div class="date-parts">
-                  <input type="number" id="filter-date-to-y" class="filter-date-part filter-date-part--year" placeholder="YYYY" min="1900" max="2099" aria-label="Year to" />
-                  <span class="date-sep" aria-hidden="true">/</span>
-                  <input type="number" id="filter-date-to-m" class="filter-date-part" placeholder="MM" min="1" max="12" aria-label="Month to" />
-                  <span class="date-sep" aria-hidden="true">/</span>
-                  <input type="number" id="filter-date-to-d" class="filter-date-part" placeholder="DD" min="1" max="31" aria-label="Day to" />
-                </div>
-              </label>
-              <button id="clear-filters" class="clear-btn" type="button" aria-label="Clear all filters">Clear filters</button>
-            </div>
+        <div class="filter-bar" role="group" aria-label="Filter discourses">
+          <div class="filter-row">
+            <select id="filter-speaker" class="filter-select" aria-label="Filter by speaker">
+              <option value="">All Speakers</option>
+            </select>
+            <select id="filter-topic" class="filter-select" aria-label="Filter by topic">
+              <option value="">All Topics</option>
+            </select>
+            <select id="filter-type" class="filter-select" aria-label="Filter by type">
+              <option value="">All Types</option>
+            </select>
           </div>
-        </details>
-
-        <!-- Sort controls -->
-        <div class="sort-bar" role="group" aria-label="Sort results">
-          <span class="sort-label">Sort:</span>
-          <button class="sort-btn sort-btn--active" data-sort="newest" type="button">Newest</button>
-          <button class="sort-btn" data-sort="oldest" type="button">Oldest</button>
-          <button class="sort-btn" data-sort="az" type="button">A–Z</button>
-          <button class="sort-btn" data-sort="latest-added" type="button">Latest added</button>
+          <div class="filter-row">
+            <select id="filter-country" class="filter-select" aria-label="Filter by country">
+              <option value="">All Countries</option>
+            </select>
+            <select id="filter-city" class="filter-select" aria-label="Filter by city">
+              <option value="">All Cities</option>
+            </select>
+            <select id="filter-venue" class="filter-select" aria-label="Filter by venue">
+              <option value="">All Venues</option>
+            </select>
+          </div>
+          <div class="filter-row filter-row-secondary">
+            <label class="year-label">
+              Year from
+              <input type="number" id="filter-year-from" class="filter-year-input" placeholder="YYYY" min="1900" max="2099" aria-label="Year from" />
+            </label>
+            <label class="year-label">
+              Year to
+              <input type="number" id="filter-year-to" class="filter-year-input" placeholder="YYYY" min="1900" max="2099" aria-label="Year to" />
+            </label>
+            <button id="clear-filters" class="clear-btn" type="button" aria-label="Clear all filters">Clear filters</button>
+          </div>
         </div>
+      </details>
 
-        <!-- Per-page controls -->
-        <div class="per-page-bar" role="group" aria-label="Results per page">
-          <span class="sort-label">Results per page:</span>
-          <button class="sort-btn" data-per-page="10" type="button">10</button>
-          <button class="sort-btn sort-btn--active" data-per-page="25" type="button">25</button>
-          <button class="sort-btn" data-per-page="50" type="button">50</button>
-          <button class="sort-btn" data-per-page="0" type="button">All</button>
-        </div>
+      <!-- ── Sort ── -->
+      <div class="sort-bar" role="group" aria-label="Sort results">
+        <span class="sort-label">Sort:</span>
+        <button class="sort-btn sort-btn--active" data-sort="newest" type="button">Newest</button>
+        <button class="sort-btn" data-sort="oldest" type="button">Oldest</button>
+        <button class="sort-btn" data-sort="az" type="button">A–Z</button>
+      </div>
 
-        <!-- Result count -->
-        <p class="result-count" id="result-count" aria-live="polite" aria-atomic="true"></p>
+      <!-- ── Per page ── -->
+      <div class="per-page-bar" role="group" aria-label="Results per page">
+        <span class="sort-label">Per page:</span>
+        <button class="sort-btn" data-per-page="10" type="button">10</button>
+        <button class="sort-btn sort-btn--active" data-per-page="25" type="button">25</button>
+        <button class="sort-btn" data-per-page="50" type="button">50</button>
+        <button class="sort-btn" data-per-page="0" type="button">All</button>
+      </div>
 
-        <!-- Results list -->
-        <div id="filter-results" aria-live="polite" aria-label="Browse results">
-          <p class="loading-state">Loading discourses…</p>
-        </div>
+      <!-- ── Result count ── -->
+      <p class="result-count" id="result-count" aria-live="polite" aria-atomic="true"></p>
 
-        <!-- Pagination controls -->
-        <div class="pagination-bar" id="pagination-bar" aria-label="Pagination" hidden>
-          <button class="pagination-btn" id="page-prev" type="button" aria-label="Previous page">← Prev</button>
-          <span class="pagination-info" id="pagination-info"></span>
-          <button class="pagination-btn" id="page-next" type="button" aria-label="Next page">Next →</button>
-        </div>
-      </section>
+      <!-- ── Results list ── -->
+      <div id="filter-results" aria-live="polite" aria-label="Search results">
+        <p class="loading-state">Loading…</p>
+      </div>
+
+      <!-- ── Pagination ── -->
+      <div class="pagination-bar" id="pagination-bar" aria-label="Pagination" hidden>
+        <button class="pagination-btn" id="page-prev" type="button" aria-label="Previous page">← Prev</button>
+        <span class="pagination-info" id="pagination-info"></span>
+        <button class="pagination-btn" id="page-next" type="button" aria-label="Next page">Next →</button>
+      </div>
     </div>
   </div>
 
@@ -152,33 +129,21 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   .page-subtitle {
     font-size: 0.95rem;
     color: var(--color-text-secondary);
-    margin: 0 0 2rem;
+    margin: 0 0 1.5rem;
     line-height: 1.5;
   }
 
-  .search-section { margin-bottom: 3rem; }
-
-  .section-label {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--color-text-secondary);
-    font-weight: 600;
-    margin: 0 0 0.875rem;
-  }
-
-  /* Text search input above filter bar */
   .filter-text-input {
     width: 100%;
-    min-height: 44px;
+    min-height: 48px;
     padding: 0.625rem 1rem;
-    border: 1px solid var(--color-border);
+    border: 1.5px solid var(--color-border);
     border-radius: 0.375rem;
     background: var(--color-surface-light);
     color: var(--color-text-primary);
     font-size: 1rem;
     font-family: inherit;
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.875rem;
     display: block;
   }
 
@@ -187,12 +152,10 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   .filter-text-input:focus-visible {
     outline: 2px solid var(--color-accent-primary);
     outline-offset: 2px;
+    border-color: var(--color-accent-primary);
   }
 
-  /* Collapsible filters drawer */
-  .filters-drawer {
-    margin-bottom: 1rem;
-  }
+  .filters-drawer { margin-bottom: 1rem; }
 
   .filters-toggle {
     display: flex;
@@ -212,16 +175,10 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
   }
 
   .filters-toggle::-webkit-details-marker { display: none; }
-
   .filters-toggle:hover { color: var(--color-accent-primary); }
 
-  .filters-chevron {
-    transition: transform 0.2s ease;
-  }
-
-  details[open] .filters-chevron {
-    transform: rotate(180deg);
-  }
+  .filters-chevron { transition: transform 0.2s ease; }
+  details[open] .filters-chevron { transform: rotate(180deg); }
 
   .filter-bar {
     background: var(--color-surface-light);
@@ -262,7 +219,7 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     outline-offset: 2px;
   }
 
-  .date-label {
+  .year-label {
     display: flex;
     flex-direction: column;
     gap: 0.25rem;
@@ -271,40 +228,25 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     font-weight: 500;
   }
 
-  .date-parts {
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
-  }
-
-  .filter-date-part {
+  .filter-year-input {
     min-height: 44px;
-    padding: 0.5rem 0.375rem;
+    padding: 0.5rem 0.5rem;
     border: 1px solid var(--color-border);
     border-radius: 0.375rem;
     background: var(--color-bg-light);
     color: var(--color-text-primary);
     font-size: 0.875rem;
     font-family: inherit;
-    width: 52px;
-    text-align: center;
+    width: 90px;
     -moz-appearance: textfield;
   }
 
-  .filter-date-part--year { width: 68px; }
+  .filter-year-input::-webkit-outer-spin-button,
+  .filter-year-input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
 
-  .filter-date-part::-webkit-outer-spin-button,
-  .filter-date-part::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
-
-  .filter-date-part:focus-visible {
+  .filter-year-input:focus-visible {
     outline: 2px solid var(--color-accent-primary);
     outline-offset: 2px;
-  }
-
-  .date-sep {
-    color: var(--color-text-secondary);
-    font-size: 0.875rem;
-    user-select: none;
   }
 
   .clear-btn {
@@ -323,11 +265,11 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
 
   .clear-btn:hover { border-color: var(--color-accent-primary); color: var(--color-accent-primary); }
 
-  .sort-bar {
+  .sort-bar, .per-page-bar {
     display: flex;
     align-items: center;
     gap: 0.375rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.75rem;
     flex-wrap: wrap;
   }
 
@@ -357,12 +299,11 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     background: color-mix(in srgb, var(--color-accent-primary) 8%, transparent);
   }
 
-  .per-page-bar {
-    display: flex;
-    align-items: center;
-    gap: 0.375rem;
-    margin-bottom: 1rem;
-    flex-wrap: wrap;
+  .result-count {
+    font-size: 0.8rem;
+    color: var(--color-text-secondary);
+    margin: 0.25rem 0 1rem;
+    min-height: 1.2em;
   }
 
   .pagination-bar {
@@ -394,28 +335,40 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     color: var(--color-accent-primary);
   }
 
-  .pagination-btn:disabled {
-    opacity: 0.35;
-    cursor: default;
-  }
+  .pagination-btn:disabled { opacity: 0.35; cursor: default; }
 
   .pagination-info {
     font-size: 0.8rem;
     color: var(--color-text-secondary);
   }
 
-  .result-count {
-    font-size: 0.8rem;
+  .empty-state {
     color: var(--color-text-secondary);
-    margin: 0 0 1rem;
-    min-height: 1.2em;
+    font-style: italic;
+    font-size: 0.925rem;
+    padding: 2rem 0;
   }
 
-  /* Result cards rendered by JS — use :global() so Astro's scoped hash doesn't
-     prevent styles from applying to dynamically created DOM elements. */
-  :global(.result-list) {
-    border-top: 1px solid var(--color-border);
+  .loading-state {
+    color: var(--color-text-secondary);
+    font-size: 0.9rem;
+    padding: 1rem 0;
   }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  /* Result cards — :global() because they're injected by JS */
+  :global(.result-list) { border-top: 1px solid var(--color-border); }
 
   :global(.result-list .discourse-card) {
     padding-block: 1.25rem;
@@ -442,41 +395,28 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     color: var(--color-accent-primary);
   }
 
+  :global(.result-list .card-excerpt) {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    line-height: 1.55;
+    margin: 0 0 0.375rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  :global(.result-list .card-excerpt mark) {
+    background: color-mix(in srgb, var(--color-accent-secondary) 28%, transparent);
+    color: inherit;
+    border-radius: 2px;
+    padding-inline: 1px;
+  }
+
   :global(.result-list .card-meta) {
     font-size: 0.825rem;
     color: var(--color-text-secondary);
     margin: 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.25rem;
-    align-items: center;
-  }
-
-  :global(.result-list .meta-sep) { opacity: 0.4; }
-
-  .empty-state {
-    color: var(--color-text-secondary);
-    font-style: italic;
-    font-size: 0.925rem;
-    padding: 2rem 0;
-  }
-
-  .loading-state {
-    color: var(--color-text-secondary);
-    font-size: 0.9rem;
-    padding: 1rem 0;
-  }
-
-  .sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
   }
 </style>
 
@@ -487,299 +427,212 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     }
   }
 
-  interface DiscourseEntry {
-    slug: string;
-    title: string;
-    date: string;
-    date_hijri: string;
-    date_hijri_est: boolean;
-    year: number;
-    speaker: string[];
-    location_country: string;
-    location_city: string | null;
-    location_venue: string | null;
-    language: string;
-    topic: string[];
-    transcript_quality: string | null;
-    has_youtube: boolean;
-    has_quotes: boolean;
-    type: string;
-    source: string;
-    date_added: string;
+  // Minimal Pagefind JS API types
+  interface PFResult {
+    data(): Promise<PFResultData>;
+  }
+  interface PFResultData {
+    url: string;
+    excerpt: string;
+    meta: Record<string, string>;
+    filters: Record<string, string[]>;
+    word_count: number;
+  }
+  interface PFSearch {
+    results: PFResult[];
+    filters: Record<string, Record<string, number>>;
+  }
+  interface PFApi {
+    init(): Promise<void>;
+    filters(): Promise<Record<string, Record<string, number>>>;
+    search(query: string, opts?: {
+      filters?: Record<string, string | string[]>;
+      sort?: Record<string, 'asc' | 'desc'>;
+    }): Promise<PFSearch>;
   }
 
-  let allDiscourses: DiscourseEntry[] = [];
-  let activeSort = 'newest';
-  let perPage = 25;   // 0 = show all
-  let currentPage = 1;
+  let pf: PFApi | null = null;
+  let activeSort    = 'newest';
+  let perPage       = 25;
+  let currentPage   = 1;
+  let currentResults: PFResult[] = [];
+  let allFilterData: Record<string, Record<string, number>> = {};
 
-  const inpText      = document.getElementById('filter-text')      as HTMLInputElement;
-  const selSpeaker   = document.getElementById('filter-speaker')   as HTMLSelectElement;
-  const selTopic     = document.getElementById('filter-topic')     as HTMLSelectElement;
-  const selType      = document.getElementById('filter-type')      as HTMLSelectElement;
-  const selCountry   = document.getElementById('filter-country')   as HTMLSelectElement;
-  const selCity      = document.getElementById('filter-city')      as HTMLSelectElement;
-  const selVenue     = document.getElementById('filter-venue')     as HTMLSelectElement;
-  const inpFromY     = document.getElementById('filter-date-from-y') as HTMLInputElement;
-  const inpFromM     = document.getElementById('filter-date-from-m') as HTMLInputElement;
-  const inpFromD     = document.getElementById('filter-date-from-d') as HTMLInputElement;
-  const inpToY       = document.getElementById('filter-date-to-y')   as HTMLInputElement;
-  const inpToM       = document.getElementById('filter-date-to-m')   as HTMLInputElement;
-  const inpToD       = document.getElementById('filter-date-to-d')   as HTMLInputElement;
-  const btnClear     = document.getElementById('clear-filters')    as HTMLButtonElement;
-  const sortBtns     = document.querySelectorAll<HTMLButtonElement>('.sort-btn[data-sort]');
-  const perPageBtns  = document.querySelectorAll<HTMLButtonElement>('.sort-btn[data-per-page]');
-  const resultsEl    = document.getElementById('filter-results')   as HTMLDivElement;
-  const countEl      = document.getElementById('result-count')     as HTMLParagraphElement;
-  const paginationBar = document.getElementById('pagination-bar')  as HTMLDivElement;
-  const btnPrev      = document.getElementById('page-prev')        as HTMLButtonElement;
-  const btnNext      = document.getElementById('page-next')        as HTMLButtonElement;
-  const pageInfo     = document.getElementById('pagination-info')  as HTMLSpanElement;
+  const inpText     = document.getElementById('filter-text')      as HTMLInputElement;
+  const selSpeaker  = document.getElementById('filter-speaker')   as HTMLSelectElement;
+  const selTopic    = document.getElementById('filter-topic')     as HTMLSelectElement;
+  const selType     = document.getElementById('filter-type')      as HTMLSelectElement;
+  const selCountry  = document.getElementById('filter-country')   as HTMLSelectElement;
+  const selCity     = document.getElementById('filter-city')      as HTMLSelectElement;
+  const selVenue    = document.getElementById('filter-venue')     as HTMLSelectElement;
+  const inpFromY    = document.getElementById('filter-year-from') as HTMLInputElement;
+  const inpToY      = document.getElementById('filter-year-to')   as HTMLInputElement;
+  const btnClear    = document.getElementById('clear-filters')    as HTMLButtonElement;
+  const sortBtns    = document.querySelectorAll<HTMLButtonElement>('.sort-btn[data-sort]');
+  const perPageBtns = document.querySelectorAll<HTMLButtonElement>('.sort-btn[data-per-page]');
+  const resultsEl   = document.getElementById('filter-results')   as HTMLDivElement;
+  const countEl     = document.getElementById('result-count')     as HTMLParagraphElement;
+  const pagBar      = document.getElementById('pagination-bar')   as HTMLDivElement;
+  const btnPrev     = document.getElementById('page-prev')        as HTMLButtonElement;
+  const btnNext     = document.getElementById('page-next')        as HTMLButtonElement;
+  const pageInfo    = document.getElementById('pagination-info')  as HTMLSpanElement;
 
-  // Pre-fill inputs from URL params
-  const urlParams = new URLSearchParams(window.location.search);
-  const urlQ = urlParams.get('q');
+  // Pre-fill from URL params (home page search hands off via ?q=)
+  const urlParams  = new URLSearchParams(window.location.search);
+  const urlQ       = urlParams.get('q');
   if (urlQ) inpText.value = urlQ;
   const urlSpeaker = urlParams.get('speaker');
 
-  async function loadIndex() {
+  // ── Init ──────────────────────────────────────────────────────────────────
+
+  async function init() {
     try {
-      const res = await fetch('/search-index.json');
-      if (!res.ok) throw new Error('fetch failed');
-      allDiscourses = await res.json() as DiscourseEntry[];
-      populateFilters();
-      render();
+      // @ts-ignore: /pagefind/pagefind.js is a post-build artifact with no type declarations
+      pf = await import(/* @vite-ignore */ '/pagefind/pagefind.js') as PFApi;
+      await pf.init();
+      allFilterData = await pf.filters();
+      populateDropdowns(allFilterData);
+      if (urlSpeaker) selSpeaker.value = urlSpeaker;
+      await runSearch();
     } catch {
-      resultsEl.innerHTML = '<p class="empty-state">Could not load browse index. Make sure the site has been built.</p>';
+      resultsEl.innerHTML = '<p class="empty-state">Search is unavailable in dev mode — run <code>pnpm build</code> first.</p>';
+      countEl.textContent = '';
     }
   }
 
-  function populateCityOptions(country: string) {
-    const cities = [...new Set(
-      allDiscourses
-        .filter(d => !country || d.location_country === country)
-        .map(d => d.location_city)
-        .filter((c): c is string => !!c)
-    )].sort();
-    selCity.innerHTML = '<option value="">All Cities</option>';
-    appendOptions(selCity, cities);
-  }
+  // ── Dropdown population ───────────────────────────────────────────────────
 
-  function populateVenueOptions(country: string, city: string) {
-    const venues = [...new Set(
-      allDiscourses
-        .filter(d =>
-          (!country || d.location_country === country) &&
-          (!city    || d.location_city    === city)
-        )
-        .map(d => d.location_venue)
-        .filter((v): v is string => !!v)
-    )].sort();
-    selVenue.innerHTML = '<option value="">All Venues</option>';
-    appendOptions(selVenue, venues);
-  }
-
-  function populateFilters() {
-    const speakers  = [...new Set(allDiscourses.flatMap(d => d.speaker))].sort();
-    const topics    = [...new Set(allDiscourses.flatMap(d => d.topic))].sort();
-    const countries = [...new Set(allDiscourses.map(d => d.location_country))].sort();
-    const types     = [...new Set(allDiscourses.map(d => d.type).filter(Boolean))].sort();
-
-    appendOptions(selSpeaker, speakers);
-    appendOptions(selTopic,   topics);
-    appendOptions(selCountry, countries);
-    appendOptions(selType,    types);
-    populateCityOptions('');
-    populateVenueOptions('', '');
-
-    // Apply speaker URL param after options are populated
-    if (urlSpeaker) selSpeaker.value = urlSpeaker;
-  }
-
-  function appendOptions(sel: HTMLSelectElement, items: string[] | { value: string; label: string }[]) {
-    for (const item of items) {
+  function appendOptions(sel: HTMLSelectElement, keys: string[]) {
+    for (const k of keys) {
       const opt = document.createElement('option');
-      if (typeof item === 'string') { opt.value = item; opt.textContent = item; }
-      else { opt.value = item.value; opt.textContent = item.label; }
+      opt.value = k;
+      opt.textContent = k;
       sel.appendChild(opt);
     }
   }
 
-  function partialDateKey(y: number|null, m: number|null, d: number|null): string {
-    return [
-      y !== null ? String(y) : null,
-      m !== null ? String(m).padStart(2, '0') : null,
-      d !== null ? String(d).padStart(2, '0') : null,
-    ].filter((p): p is string => p !== null).join('-');
+  function populateDropdowns(data: Record<string, Record<string, number>>) {
+    appendOptions(selSpeaker, Object.keys(data.speaker ?? {}).sort());
+    appendOptions(selTopic,   Object.keys(data.topic   ?? {}).sort());
+    appendOptions(selType,    Object.keys(data.type    ?? {}).sort());
+    appendOptions(selCountry, Object.keys(data.country ?? {}).sort());
+    appendOptions(selCity,    Object.keys(data.city    ?? {}).sort());
+    appendOptions(selVenue,   Object.keys(data.venue   ?? {}).sort());
   }
 
-  function getFilters() {
-    return {
-      text:      inpText.value.trim().toLowerCase(),
-      speaker:   selSpeaker.value,
-      topic:     selTopic.value,
-      type:      selType.value,
-      country:   selCountry.value,
-      city:      selCity.value,
-      venue:     selVenue.value,
-      dateFromY: inpFromY.value ? parseInt(inpFromY.value, 10) : null,
-      dateFromM: inpFromM.value ? parseInt(inpFromM.value, 10) : null,
-      dateFromD: inpFromD.value ? parseInt(inpFromD.value, 10) : null,
-      dateToY:   inpToY.value   ? parseInt(inpToY.value,   10) : null,
-      dateToM:   inpToM.value   ? parseInt(inpToM.value,   10) : null,
-      dateToD:   inpToD.value   ? parseInt(inpToD.value,   10) : null,
-    };
+  async function refreshCityVenue() {
+    if (!pf) return;
+    const country = selCountry.value;
+    const city    = selCity.value;
+
+    // Get available cities for selected country
+    const citySearch = await pf.search('', { filters: country ? { country } : {} });
+    const availCities = Object.keys(citySearch.filters.city ?? {}).sort();
+    const prevCity = selCity.value;
+    selCity.innerHTML = '<option value="">All Cities</option>';
+    appendOptions(selCity, availCities);
+    if (availCities.includes(prevCity)) selCity.value = prevCity;
+
+    // Get available venues for selected country + city
+    const venueFilters: Record<string, string> = {};
+    if (country) venueFilters.country = country;
+    if (city && availCities.includes(city)) venueFilters.city = city;
+    const venueSearch = await pf.search('', { filters: venueFilters });
+    const availVenues = Object.keys(venueSearch.filters.venue ?? {}).sort();
+    const prevVenue = selVenue.value;
+    selVenue.innerHTML = '<option value="">All Venues</option>';
+    appendOptions(selVenue, availVenues);
+    if (availVenues.includes(prevVenue)) selVenue.value = prevVenue;
   }
 
-  function applyFilters(f: ReturnType<typeof getFilters>) {
-    return allDiscourses.filter(d => {
-      if (f.text) {
-        const t = f.text;
-        const matchTitle   = d.title.toLowerCase().includes(t);
-        const matchSpeaker = d.speaker.some(s => s.toLowerCase().includes(t));
-        const matchTopic   = d.topic.some(tp => tp.toLowerCase().includes(t));
-        if (!matchTitle && !matchSpeaker && !matchTopic) return false;
-      }
-      if (f.speaker && !d.speaker.includes(f.speaker))   return false;
-      if (f.topic   && !d.topic.includes(f.topic))       return false;
-      if (f.type    && d.type !== f.type)                return false;
-      if (f.country && d.location_country !== f.country) return false;
-      if (f.city    && d.location_city    !== f.city)    return false;
-      if (f.venue   && d.location_venue   !== f.venue)   return false;
+  // ── Search ────────────────────────────────────────────────────────────────
 
-      const hasFrom = f.dateFromY !== null || f.dateFromM !== null || f.dateFromD !== null;
-      const hasTo   = f.dateToY   !== null || f.dateToM   !== null || f.dateToD   !== null;
-      if (hasFrom || hasTo) {
-        const [dY, dM, dD] = d.date.split('-').map(Number);
-        if (hasFrom) {
-          const fromKey = partialDateKey(f.dateFromY, f.dateFromM, f.dateFromD);
-          const discKey = partialDateKey(
-            f.dateFromY !== null ? dY : null,
-            f.dateFromM !== null ? dM : null,
-            f.dateFromD !== null ? dD : null,
-          );
-          if (discKey < fromKey) return false;
-        }
-        if (hasTo) {
-          const toKey   = partialDateKey(f.dateToY, f.dateToM, f.dateToD);
-          const discKey = partialDateKey(
-            f.dateToY !== null ? dY : null,
-            f.dateToM !== null ? dM : null,
-            f.dateToD !== null ? dD : null,
-          );
-          if (discKey > toKey) return false;
-        }
-      }
-      return true;
-    });
+  function buildSort(): Record<string, 'asc' | 'desc'> | undefined {
+    if (activeSort === 'newest') return { date: 'desc' };
+    if (activeSort === 'oldest') return { date: 'asc' };
+    if (activeSort === 'az')     return { title: 'asc' };
+    return undefined;
   }
 
-  function sortResults(list: DiscourseEntry[]) {
-    if (activeSort === 'newest') return [...list].sort((a, b) => b.date.localeCompare(a.date));
-    if (activeSort === 'oldest') return [...list].sort((a, b) => a.date.localeCompare(b.date));
-    if (activeSort === 'latest-added') return [...list].sort((a, b) => b.date_added.localeCompare(a.date_added));
-    return [...list].sort((a, b) => a.title.localeCompare(b.title));
+  function buildFilters(): Record<string, string | string[]> {
+    const f: Record<string, string | string[]> = {};
+    if (selSpeaker.value) f.speaker = selSpeaker.value;
+    if (selTopic.value)   f.topic   = selTopic.value;
+    if (selType.value)    f.type    = selType.value;
+    if (selCountry.value) f.country = selCountry.value;
+    if (selCity.value)    f.city    = selCity.value;
+    if (selVenue.value)   f.venue   = selVenue.value;
+
+    const fromY = inpFromY.value ? parseInt(inpFromY.value, 10) : null;
+    const toY   = inpToY.value   ? parseInt(inpToY.value,   10) : null;
+    if (fromY !== null || toY !== null) {
+      const lo = fromY ?? 1900;
+      const hi = toY   ?? new Date().getFullYear();
+      const years: string[] = [];
+      for (let y = lo; y <= hi; y++) years.push(String(y));
+      f.year = years;
+    }
+    return f;
   }
+
+  async function runSearch() {
+    if (!pf) return;
+    countEl.textContent = 'Searching…';
+    resultsEl.innerHTML = '<p class="loading-state">Searching…</p>';
+    pagBar.hidden = true;
+
+    try {
+      const search = await pf.search(
+        inpText.value.trim(),
+        { filters: buildFilters(), sort: buildSort() },
+      );
+      currentResults = search.results;
+      currentPage    = 1;
+      await renderPage();
+    } catch {
+      resultsEl.innerHTML = '<p class="empty-state">Search failed — please try again.</p>';
+      countEl.textContent = '';
+    }
+  }
+
+  // ── Render ────────────────────────────────────────────────────────────────
 
   function formatDate(iso: string) {
+    if (!iso) return '';
     const [y, m, d] = iso.split('-').map(Number);
+    if (y === 1900) return 'Undated';
     return new Date(y, m - 1, d).toLocaleDateString('en-GB', {
       day: 'numeric', month: 'long', year: 'numeric',
     });
   }
 
-  function renderCard(d: DiscourseEntry) {
-    const article = document.createElement('article');
-    article.className = 'discourse-card';
-
-    const link = document.createElement('a');
-    link.href = `/suhba/${d.slug}`;
-    link.className = 'card-link';
-
-    const titleEl = document.createElement('div');
-    titleEl.className = 'card-title';
-    titleEl.textContent = d.title;
-    link.appendChild(titleEl);
-    article.appendChild(link);
-
-    const location = [d.location_city, d.location_country].filter(Boolean).join(', ');
-
-    const meta = document.createElement('p');
-    meta.className = 'card-meta';
-
-    const speakerSpan = document.createElement('span');
-    speakerSpan.className = 'meta-speaker';
-    speakerSpan.textContent = d.speaker.join(', ');
-
-    const sep1 = document.createElement('span');
-    sep1.className = 'meta-sep';
-    sep1.setAttribute('aria-hidden', 'true');
-    sep1.textContent = '·';
-
-    const dateTime = document.createElement('time');
-    dateTime.setAttribute('datetime', d.date);
-    dateTime.textContent = formatDate(d.date);
-
-    meta.append(speakerSpan, sep1, dateTime);
-
-    if (d.date_hijri) {
-      const sep1b = document.createElement('span');
-      sep1b.className = 'meta-sep';
-      sep1b.setAttribute('aria-hidden', 'true');
-      sep1b.textContent = '·';
-      const hijriSpan = document.createElement('span');
-      hijriSpan.className = 'meta-hijri';
-      hijriSpan.textContent = d.date_hijri;
-      meta.append(sep1b, hijriSpan);
-    }
-
-    if (location) {
-      const sep2 = document.createElement('span');
-      sep2.className = 'meta-sep';
-      sep2.setAttribute('aria-hidden', 'true');
-      sep2.textContent = '·';
-
-      const locSpan = document.createElement('span');
-      locSpan.textContent = location;
-
-      meta.append(sep2, locSpan);
-    }
-
-    article.appendChild(meta);
-    return article;
-  }
-
-  function render() {
-    const f = getFilters();
-    const filtered = sortResults(applyFilters(f));
-    const n = filtered.length;
+  async function renderPage() {
+    const n = currentResults.length;
 
     if (n === 0) {
-      const f2 = getFilters();
       window.zaraz?.track('zero_results', {
-        speaker: f2.speaker || null,
-        topic:   f2.topic   || null,
-        type:    f2.type    || null,
-        country: f2.country || null,
-        city:    f2.city    || null,
-        venue:   f2.venue   || null,
+        speaker: selSpeaker.value || null,
+        topic:   selTopic.value   || null,
+        country: selCountry.value || null,
       });
-      countEl.textContent = 'No discourses match these filters.';
-      resultsEl.innerHTML = '<p class="empty-state">No discourses match these filters. Try clearing some filters or broadening your search.</p>';
-      paginationBar.hidden = true;
+      countEl.textContent = 'No discourses found.';
+      resultsEl.innerHTML = '<p class="empty-state">No results match. Try clearing some filters or changing your search.</p>';
+      pagBar.hidden = true;
       return;
     }
 
-    // Pagination slice
-    const showAll = perPage === 0;
+    const showAll    = perPage === 0;
     const totalPages = showAll ? 1 : Math.ceil(n / perPage);
     if (currentPage > totalPages) currentPage = totalPages;
 
-    const start = showAll ? 0 : (currentPage - 1) * perPage;
-    const end   = showAll ? n : Math.min(start + perPage, n);
-    const pageItems = filtered.slice(start, end);
+    const start     = showAll ? 0 : (currentPage - 1) * perPage;
+    const end       = showAll ? n : Math.min(start + perPage, n);
+    const pageSlice = currentResults.slice(start, end);
 
-    // Update result count label
+    // Load data only for the visible page slice
+    const dataArr = await Promise.all(pageSlice.map(r => r.data()));
+
+    // Result count label
     if (showAll || n <= perPage) {
       countEl.textContent = `${n} discourse${n !== 1 ? 's' : ''}`;
     } else {
@@ -788,49 +641,95 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
 
     const list = document.createElement('div');
     list.className = 'result-list';
-    for (const d of pageItems) list.appendChild(renderCard(d));
+
+    for (const d of dataArr) {
+      const slug     = d.meta.slug || d.url.replace(/^\/suhba\//, '').replace(/\/$/, '');
+      const title    = d.meta.title   ?? 'Untitled';
+      const date     = formatDate(d.meta.date ?? '');
+      const hijri    = d.meta.hijri   ?? '';
+      const speaker  = d.meta.speaker ?? '';
+      const country  = d.meta.country ?? '';
+      const city     = d.meta.city    ?? '';
+      const location = [city, country].filter(Boolean).join(', ');
+
+      const article = document.createElement('article');
+      article.className = 'discourse-card';
+
+      const link = document.createElement('a');
+      link.href      = `/suhba/${slug}`;
+      link.className = 'card-link';
+
+      const titleEl = document.createElement('div');
+      titleEl.className   = 'card-title';
+      titleEl.textContent = title;
+      link.appendChild(titleEl);
+
+      if (d.excerpt) {
+        const excerptEl = document.createElement('p');
+        excerptEl.className = 'card-excerpt';
+        excerptEl.innerHTML = d.excerpt; // contains <mark> highlights from Pagefind
+        link.appendChild(excerptEl);
+      }
+
+      article.appendChild(link);
+
+      const metaParts = [speaker, date, hijri, location].filter(Boolean);
+      const metaEl = document.createElement('p');
+      metaEl.className   = 'card-meta';
+      metaEl.textContent = metaParts.join(' · ');
+      article.appendChild(metaEl);
+
+      list.appendChild(article);
+    }
 
     resultsEl.innerHTML = '';
     resultsEl.appendChild(list);
 
-    // Update pagination controls
+    // Pagination controls
     if (showAll || totalPages <= 1) {
-      paginationBar.hidden = true;
+      pagBar.hidden = true;
     } else {
-      paginationBar.hidden = false;
+      pagBar.hidden = false;
       pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
-      (btnPrev as HTMLButtonElement).disabled = currentPage === 1;
-      (btnNext as HTMLButtonElement).disabled = currentPage === totalPages;
+      btnPrev.disabled = currentPage === 1;
+      btnNext.disabled = currentPage === totalPages;
     }
   }
 
-  function resetPage() { currentPage = 1; }
+  // ── Event wiring ──────────────────────────────────────────────────────────
 
-  // Wire up filter events — reset to page 1 on any change
-  inpText.addEventListener('input',    () => { resetPage(); render(); });
-  selSpeaker.addEventListener('change', () => { resetPage(); render(); });
-  selTopic.addEventListener('change',   () => { resetPage(); render(); });
-  selType.addEventListener('change',    () => { resetPage(); render(); });
-  selCountry.addEventListener('change', () => {
+  let debounce: ReturnType<typeof setTimeout>;
+  function debounced() {
+    clearTimeout(debounce);
+    debounce = setTimeout(() => { currentPage = 1; runSearch(); }, 300);
+  }
+
+  inpText.addEventListener('input', debounced);
+
+  selCountry.addEventListener('change', async () => {
     selCity.value  = '';
     selVenue.value = '';
-    populateCityOptions(selCountry.value);
-    populateVenueOptions(selCountry.value, '');
-    resetPage();
-    render();
-  });
-  selCity.addEventListener('change', () => {
-    selVenue.value = '';
-    populateVenueOptions(selCountry.value, selCity.value);
-    resetPage();
-    render();
-  });
-  selVenue.addEventListener('change', () => { resetPage(); render(); });
-  [inpFromY, inpFromM, inpFromD, inpToY, inpToM, inpToD].forEach(inp => {
-    inp.addEventListener('input', () => { resetPage(); render(); });
+    await refreshCityVenue();
+    currentPage = 1;
+    runSearch();
   });
 
-  btnClear.addEventListener('click', () => {
+  selCity.addEventListener('change', async () => {
+    selVenue.value = '';
+    await refreshCityVenue();
+    currentPage = 1;
+    runSearch();
+  });
+
+  [selSpeaker, selTopic, selType, selVenue].forEach(sel => {
+    sel.addEventListener('change', () => { currentPage = 1; runSearch(); });
+  });
+
+  [inpFromY, inpToY].forEach(inp => {
+    inp.addEventListener('input', debounced);
+  });
+
+  btnClear.addEventListener('click', async () => {
     inpText.value    = '';
     selSpeaker.value = '';
     selTopic.value   = '';
@@ -838,25 +737,24 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     selCountry.value = '';
     selCity.value    = '';
     selVenue.value   = '';
-    populateCityOptions('');
-    populateVenueOptions('', '');
     inpFromY.value   = '';
-    inpFromM.value   = '';
-    inpFromD.value   = '';
     inpToY.value     = '';
-    inpToM.value     = '';
-    inpToD.value     = '';
-    resetPage();
-    render();
+    // Restore full city/venue lists
+    selCity.innerHTML  = '<option value="">All Cities</option>';
+    selVenue.innerHTML = '<option value="">All Venues</option>';
+    appendOptions(selCity,  Object.keys(allFilterData.city  ?? {}).sort());
+    appendOptions(selVenue, Object.keys(allFilterData.venue ?? {}).sort());
+    currentPage = 1;
+    runSearch();
   });
 
   sortBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       sortBtns.forEach(b => b.classList.remove('sort-btn--active'));
       btn.classList.add('sort-btn--active');
-      activeSort = btn.dataset.sort ?? 'newest';
-      resetPage();
-      render();
+      activeSort  = btn.dataset.sort ?? 'newest';
+      currentPage = 1;
+      runSearch();
     });
   });
 
@@ -864,21 +762,25 @@ import PagefindSearch from '../components/search/PagefindSearch.astro';
     btn.addEventListener('click', () => {
       perPageBtns.forEach(b => b.classList.remove('sort-btn--active'));
       btn.classList.add('sort-btn--active');
-      perPage = Number(btn.dataset.perPage ?? '25');
-      resetPage();
-      render();
+      perPage     = Number(btn.dataset.perPage ?? '25');
+      currentPage = 1;
+      renderPage();
     });
   });
 
   btnPrev.addEventListener('click', () => {
-    if (currentPage > 1) { currentPage--; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+    if (currentPage > 1) {
+      currentPage--;
+      renderPage();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   });
 
   btnNext.addEventListener('click', () => {
     currentPage++;
-    render();
+    renderPage();
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
-  loadIndex();
+  init();
 </script>

@@ -32,6 +32,19 @@
           zero_results: 'No discourses found for [SEARCH_TERM]. Try a different spelling or browse by topic.',
         },
       });
+
+      // Pre-fill from ?q= URL param (set by the home page search form) and trigger search.
+      // PagefindUI renders its DOM synchronously; rAF ensures the input is in the live DOM.
+      const urlQ = new URLSearchParams(window.location.search).get('q');
+      if (urlQ) {
+        requestAnimationFrame(() => {
+          const pfInput = document.querySelector<HTMLInputElement>('#pagefind-search-mount input[type="text"]');
+          if (pfInput) {
+            pfInput.value = urlQ;
+            pfInput.dispatchEvent(new Event('input', { bubbles: true }));
+          }
+        });
+      }
     } catch {
       // Search index not built yet (dev mode) — show nothing
       const mount = document.getElementById('pagefind-search-mount');

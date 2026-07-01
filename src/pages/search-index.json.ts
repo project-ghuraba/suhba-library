@@ -43,6 +43,9 @@ export const GET: APIRoute = async () => {
       date_added: d.data.edited_at
         ? d.data.edited_at.toISOString().split('T')[0]
         : d.data.date_added ?? d.data.date.toISOString().split('T')[0],
+      body_excerpt: d.body
+        ? d.body.replace(/[#*_`[\]()>~]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 800)
+        : '',
     }));
 
   return new Response(JSON.stringify(index), {
