@@ -428,7 +428,25 @@ import Footer from '../components/layout/Footer.astro';
     }
   }
 
-  // Minimal Pagefind JS API types
+  // ── Types ─────────────────────────────────────────────────────────────────
+
+  interface DiscourseEntry {
+    slug: string;
+    title: string;
+    date: string;
+    date_hijri: string;
+    year: number;
+    speaker: string[];
+    location_country: string;
+    location_city: string | null;
+    location_venue: string | null;
+    language: string;
+    topic: string[];
+    type: string;
+    date_added: string;
+    body_excerpt: string;
+  }
+
   interface PFResult {
     data(): Promise<PFResultData>;
   }
@@ -445,20 +463,25 @@ import Footer from '../components/layout/Footer.astro';
   }
   interface PFApi {
     init(): Promise<void>;
-    filters(): Promise<Record<string, Record<string, number>>>;
-    search(query: string | null, opts?: {
+    search(query: string, opts?: {
       filters?: Record<string, string | string[]>;
       sort?: Record<string, 'asc' | 'desc'>;
     }): Promise<PFSearch>;
   }
 
-  let pf: PFApi | null = null;
-  let activeSort    = 'newest';
-  let perPage       = 25;
-  let currentPage   = 1;
-  let currentResults: PFResult[] = [];
-  let sortedDataCache: PFResultData[] | null = null;
-  let allFilterData: Record<string, Record<string, number>> = {};
+  // ── State ─────────────────────────────────────────────────────────────────
+
+  let jsonIndex:    DiscourseEntry[] | null = null;
+  let pf:           PFApi | null = null;
+  let activeSort  = 'newest';
+  let perPage     = 25;
+  let currentPage = 1;
+  let isSearchMode = false;
+  let browseItems: DiscourseEntry[] = [];
+  let pfItems:     PFResult[] = [];
+  let pfSerial     = 0; // guards against stale Pagefind responses
+
+  // ── DOM refs ──────────────────────────────────────────────────────────────
 
   const inpText     = document.getElementById('filter-text')      as HTMLInputElement;
   const selSpeaker  = document.getElementById('filter-speaker')   as HTMLSelectElement;
@@ -479,7 +502,6 @@ import Footer from '../components/layout/Footer.astro';
   const btnNext     = document.getElementById('page-next')        as HTMLButtonElement;
   const pageInfo    = document.getElementById('pagination-info')  as HTMLSpanElement;
 
-  // Pre-fill from URL params (home page search hands off via ?q=)
   const urlParams  = new URLSearchParams(window.location.search);
   const urlQ       = urlParams.get('q');
   if (urlQ) inpText.value = urlQ;
@@ -488,21 +510,32 @@ import Footer from '../components/layout/Footer.astro';
   // ── Init ──────────────────────────────────────────────────────────────────
 
   async function init() {
+    // Pagefind loads in the background — only needed once the user types.
+    loadPagefind();
+
     try {
-      // @ts-ignore: /pagefind/pagefind.js is a post-build artifact with no type declarations
-      pf = await import(/* @vite-ignore */ '/pagefind/pagefind.js') as PFApi;
-      await pf.init();
-      allFilterData = await pf.filters();
-      populateDropdowns(allFilterData);
+      const res = await fetch('/search-index.json');
+      jsonIndex  = (await res.json()) as DiscourseEntry[];
+      populateDropdownsFromJson(jsonIndex);
       if (urlSpeaker) selSpeaker.value = urlSpeaker;
-      await runSearch();
+      run();
     } catch {
-      resultsEl.innerHTML = '<p class="empty-state">Search is unavailable in dev mode — run <code>pnpm build</code> first.</p>';
+      resultsEl.innerHTML = '<p class="empty-state">Failed to load the discourse index. Please refresh.</p>';
       countEl.textContent = '';
     }
   }
 
-  // ── Dropdown population ───────────────────────────────────────────────────
+  async function loadPagefind() {
+    try {
+      // @ts-ignore: post-build artifact, no static types
+      pf = await import(/* @vite-ignore */ '/pagefind/pagefind.js') as PFApi;
+      await pf.init();
+    } catch {
+      // Dev mode — text search will show a message if the user types
+    }
+  }
+
+  // ── Dropdown population (from JSON — no Pagefind API needed) ──────────────
 
   function appendOptions(sel: HTMLSelectElement, keys: string[]) {
     for (const k of keys) {
@@ -513,83 +546,75 @@ import Footer from '../components/layout/Footer.astro';
     }
   }
 
-  function populateDropdowns(data: Record<string, Record<string, number>>) {
-    appendOptions(selSpeaker, Object.keys(data.speaker ?? {}).sort());
-    appendOptions(selTopic,   Object.keys(data.topic   ?? {}).sort());
-    appendOptions(selType,    Object.keys(data.type    ?? {}).sort());
-    appendOptions(selCountry, Object.keys(data.country ?? {}).sort());
-    appendOptions(selCity,    Object.keys(data.city    ?? {}).sort());
-    appendOptions(selVenue,   Object.keys(data.venue   ?? {}).sort());
+  function populateDropdownsFromJson(all: DiscourseEntry[]) {
+    appendOptions(selSpeaker, [...new Set(all.flatMap(d => d.speaker))].sort());
+    appendOptions(selTopic,   [...new Set(all.flatMap(d => d.topic))].sort());
+    appendOptions(selType,    [...new Set(all.map(d => d.type).filter(Boolean))].sort());
+    appendOptions(selCountry, [...new Set(all.map(d => d.location_country))].sort());
+    appendOptions(selCity,    [...new Set(all.map(d => d.location_city).filter((c): c is string => !!c))].sort());
+    appendOptions(selVenue,   [...new Set(all.map(d => d.location_venue).filter((v): v is string => !!v))].sort());
   }
 
-  async function refreshCityVenue() {
-    if (!pf) return;
-    const country = selCountry.value;
-    const city    = selCity.value;
-
-    // Get available cities for selected country
-    const citySearch = await pf.search(null, { filters: country ? { country } : {} });
-    const availCities = Object.keys(citySearch.filters.city ?? {}).sort();
+  // Cascading country → city → venue computed from JSON (sync, no Pagefind call needed).
+  function refreshCityVenue() {
+    if (!jsonIndex) return;
+    const country  = selCountry.value;
     const prevCity = selCity.value;
+
+    const byCountry = country ? jsonIndex.filter(d => d.location_country === country) : jsonIndex;
+    const cities    = [...new Set(byCountry.map(d => d.location_city).filter((c): c is string => !!c))].sort();
     selCity.innerHTML = '<option value="">All Cities</option>';
-    appendOptions(selCity, availCities);
-    if (availCities.includes(prevCity)) selCity.value = prevCity;
+    appendOptions(selCity, cities);
+    if (cities.includes(prevCity)) selCity.value = prevCity;
 
-    // Get available venues for selected country + city
-    const venueFilters: Record<string, string> = {};
-    if (country) venueFilters.country = country;
-    if (city && availCities.includes(city)) venueFilters.city = city;
-    const venueSearch = await pf.search(null, { filters: venueFilters });
-    const availVenues = Object.keys(venueSearch.filters.venue ?? {}).sort();
+    const byCity    = selCity.value ? byCountry.filter(d => d.location_city === selCity.value) : byCountry;
     const prevVenue = selVenue.value;
+    const venues    = [...new Set(byCity.map(d => d.location_venue).filter((v): v is string => !!v))].sort();
     selVenue.innerHTML = '<option value="">All Venues</option>';
-    appendOptions(selVenue, availVenues);
-    if (availVenues.includes(prevVenue)) selVenue.value = prevVenue;
+    appendOptions(selVenue, venues);
+    if (venues.includes(prevVenue)) selVenue.value = prevVenue;
   }
 
-  // ── Search ────────────────────────────────────────────────────────────────
+  // ── Browse mode — JSON-based, fully synchronous ───────────────────────────
 
-  // Pagefind-native sort — only for text queries; null queries ignore this.
-  // 'latest' is client-side only (date_added isn't a pagefind sort field).
-  function buildPagefindSort(): Record<string, 'asc' | 'desc'> | undefined {
-    if (activeSort === 'newest') return { date: 'desc' };
-    if (activeSort === 'oldest') return { date: 'asc' };
-    if (activeSort === 'az')     return { title: 'asc' };
-    return undefined;
-  }
-
-  // Client-side sort applied whenever query is null (Pagefind ignores sort
-  // for null queries) or when activeSort === 'latest' (needs date_added meta).
-  function doClientSort(allData: PFResultData[]) {
-    const paired = currentResults.map((r, i) => ({ r, d: allData[i] }));
-    paired.sort((a, b) => {
-      if (activeSort === 'latest') {
-        const va = a.d.meta.edited_at ?? a.d.meta.date ?? '';
-        const vb = b.d.meta.edited_at ?? b.d.meta.date ?? '';
-        return va < vb ? 1 : va > vb ? -1 : 0;
-      }
-      if (activeSort === 'newest') {
-        const va = a.d.meta.date ?? '';
-        const vb = b.d.meta.date ?? '';
-        return va < vb ? 1 : va > vb ? -1 : 0;
-      }
-      if (activeSort === 'oldest') {
-        const va = a.d.meta.date ?? '';
-        const vb = b.d.meta.date ?? '';
-        return va < vb ? -1 : va > vb ? 1 : 0;
-      }
-      if (activeSort === 'az') {
-        const va = (a.d.meta.title ?? '').toLowerCase();
-        const vb = (b.d.meta.title ?? '').toLowerCase();
-        return va.localeCompare(vb);
-      }
-      return 0;
+  function applyBrowseFilters(all: DiscourseEntry[]): DiscourseEntry[] {
+    const fromY = inpFromY.value ? parseInt(inpFromY.value, 10) : null;
+    const toY   = inpToY.value   ? parseInt(inpToY.value,   10) : null;
+    return all.filter(d => {
+      if (selSpeaker.value && !d.speaker.includes(selSpeaker.value))   return false;
+      if (selTopic.value   && !d.topic.includes(selTopic.value))       return false;
+      if (selType.value    && d.type !== selType.value)                 return false;
+      if (selCountry.value && d.location_country !== selCountry.value) return false;
+      if (selCity.value    && d.location_city    !== selCity.value)     return false;
+      if (selVenue.value   && d.location_venue   !== selVenue.value)    return false;
+      if (fromY !== null   && d.year < fromY)                           return false;
+      if (toY   !== null   && d.year > toY)                             return false;
+      return true;
     });
-    currentResults   = paired.map(p => p.r);
-    sortedDataCache  = paired.map(p => p.d);
   }
 
-  function buildFilters(): Record<string, string | string[]> {
+  function applyBrowseSort(items: DiscourseEntry[]): DiscourseEntry[] {
+    const s = [...items];
+    switch (activeSort) {
+      case 'newest': return s.sort((a, b) => b.date.localeCompare(a.date));
+      case 'oldest': return s.sort((a, b) => a.date.localeCompare(b.date));
+      case 'az':     return s.sort((a, b) => a.title.localeCompare(b.title));
+      case 'latest': return s.sort((a, b) => b.date_added.localeCompare(a.date_added));
+      default:       return s;
+    }
+  }
+
+  function runBrowse() {
+    if (!jsonIndex) return;
+    isSearchMode = false;
+    browseItems  = applyBrowseSort(applyBrowseFilters(jsonIndex));
+    currentPage  = 1;
+    renderPage();
+  }
+
+  // ── Search mode — Pagefind, async ─────────────────────────────────────────
+
+  function buildPFFilters(): Record<string, string | string[]> {
     const f: Record<string, string | string[]> = {};
     if (selSpeaker.value) f.speaker = selSpeaker.value;
     if (selTopic.value)   f.topic   = selTopic.value;
@@ -597,7 +622,6 @@ import Footer from '../components/layout/Footer.astro';
     if (selCountry.value) f.country = selCountry.value;
     if (selCity.value)    f.city    = selCity.value;
     if (selVenue.value)   f.venue   = selVenue.value;
-
     const fromY = inpFromY.value ? parseInt(inpFromY.value, 10) : null;
     const toY   = inpToY.value   ? parseInt(inpToY.value,   10) : null;
     if (fromY !== null || toY !== null) {
@@ -610,32 +634,54 @@ import Footer from '../components/layout/Footer.astro';
     return f;
   }
 
-  async function runSearch() {
-    if (!pf) return;
-    countEl.textContent = 'Searching…';
-    resultsEl.innerHTML = '<p class="loading-state">Searching…</p>';
-    pagBar.hidden = true;
-    sortedDataCache = null;
+  function buildPFSort(): Record<string, 'asc' | 'desc'> | undefined {
+    // Pagefind sort works correctly for text queries.
+    // 'latest' uses date_added which isn't a Pagefind sort field; falls back to relevance.
+    if (activeSort === 'newest') return { date: 'desc' };
+    if (activeSort === 'oldest') return { date: 'asc' };
+    if (activeSort === 'az')     return { title: 'asc' };
+    return undefined;
+  }
 
-    try {
-      const query   = inpText.value.trim() || null;
-      // Only pass sort to Pagefind for text queries — it ignores sort for null.
-      // 'latest' always needs client-side sort regardless of query.
-      const pfSort  = (query && activeSort !== 'latest') ? buildPagefindSort() : undefined;
-      const search  = await pf.search(query, { filters: buildFilters(), sort: pfSort });
-      currentResults = search.results;
+  async function runPFSearch() {
+    const serial = ++pfSerial;
+    const query  = inpText.value.trim();
 
-      // Client-side sort: required for null queries and for 'latest' (any query).
-      if (currentResults.length > 1 && (!query || activeSort === 'latest')) {
-        const allData = await Promise.all(currentResults.map(r => r.data()));
-        doClientSort(allData);
+    if (!pf) {
+      // Pagefind hasn't loaded yet (either still loading or dev mode).
+      // If it hasn't had time to load, wait briefly and retry once.
+      await new Promise(r => setTimeout(r, 1500));
+      if (!pf) {
+        resultsEl.innerHTML = '<p class="empty-state">Full-text search unavailable in dev mode — run <code>pnpm build</code> to enable it.</p>';
+        countEl.textContent = '';
+        return;
       }
+    }
 
+    isSearchMode = true;
+    try {
+      const search = await pf.search(query, { filters: buildPFFilters(), sort: buildPFSort() });
+      if (serial !== pfSerial) return; // a newer search has started; discard this result
+      pfItems = search.results;
       currentPage = 1;
       await renderPage();
     } catch {
+      if (serial !== pfSerial) return;
       resultsEl.innerHTML = '<p class="empty-state">Search failed — please try again.</p>';
       countEl.textContent = '';
+    }
+  }
+
+  // ── Run — decides browse vs search mode ──────────────────────────────────
+
+  function run() {
+    if (inpText.value.trim()) {
+      countEl.textContent  = 'Searching…';
+      resultsEl.innerHTML  = '<p class="loading-state">Searching…</p>';
+      pagBar.hidden        = true;
+      runPFSearch();
+    } else {
+      runBrowse();
     }
   }
 
@@ -650,8 +696,78 @@ import Footer from '../components/layout/Footer.astro';
     });
   }
 
+  function makeBrowseCard(d: DiscourseEntry): HTMLElement {
+    const article = document.createElement('article');
+    article.className = 'discourse-card';
+
+    const link = document.createElement('a');
+    link.href      = `/suhba/${d.slug}`;
+    link.className = 'card-link';
+
+    const titleEl = document.createElement('div');
+    titleEl.className   = 'card-title';
+    titleEl.textContent = d.title;
+    link.appendChild(titleEl);
+
+    if (d.body_excerpt) {
+      const excerptEl = document.createElement('p');
+      excerptEl.className   = 'card-excerpt';
+      excerptEl.textContent = d.body_excerpt;
+      link.appendChild(excerptEl);
+    }
+
+    article.appendChild(link);
+
+    const date     = formatDate(d.date);
+    const speaker  = d.speaker.join(', ');
+    const location = [d.location_city, d.location_country].filter(Boolean).join(', ');
+    const metaEl   = document.createElement('p');
+    metaEl.className   = 'card-meta';
+    metaEl.textContent = [speaker, date, location].filter(Boolean).join(' · ');
+    article.appendChild(metaEl);
+
+    return article;
+  }
+
+  function makeSearchCard(d: PFResultData): HTMLElement {
+    const slug     = d.meta.slug || d.url.replace(/^\/suhba\//, '').replace(/\/$/, '');
+    const title    = d.meta.title   ?? 'Untitled';
+    const date     = formatDate(d.meta.date ?? '');
+    const hijri    = d.meta.hijri   ?? '';
+    const speaker  = d.meta.speaker ?? '';
+    const location = [d.meta.city, d.meta.country].filter(Boolean).join(', ');
+
+    const article = document.createElement('article');
+    article.className = 'discourse-card';
+
+    const link = document.createElement('a');
+    link.href      = `/suhba/${slug}`;
+    link.className = 'card-link';
+
+    const titleEl = document.createElement('div');
+    titleEl.className   = 'card-title';
+    titleEl.textContent = title;
+    link.appendChild(titleEl);
+
+    if (d.excerpt) {
+      const excerptEl = document.createElement('p');
+      excerptEl.className = 'card-excerpt';
+      excerptEl.innerHTML = d.excerpt; // Pagefind injects <mark> highlights
+      link.appendChild(excerptEl);
+    }
+
+    article.appendChild(link);
+
+    const metaEl = document.createElement('p');
+    metaEl.className   = 'card-meta';
+    metaEl.textContent = [speaker, date, hijri, location].filter(Boolean).join(' · ');
+    article.appendChild(metaEl);
+
+    return article;
+  }
+
   async function renderPage() {
-    const n = currentResults.length;
+    const n = isSearchMode ? pfItems.length : browseItems.length;
 
     if (n === 0) {
       window.zaraz?.track('zero_results', {
@@ -659,8 +775,11 @@ import Footer from '../components/layout/Footer.astro';
         topic:   selTopic.value   || null,
         country: selCountry.value || null,
       });
-      countEl.textContent = 'No discourses found.';
-      resultsEl.innerHTML = '<p class="empty-state">No results match. Try clearing some filters or changing your search.</p>';
+      const msg = isSearchMode
+        ? 'No results match. Try different keywords or clear some filters.'
+        : 'No discourses match the selected filters.';
+      countEl.textContent = msg;
+      resultsEl.innerHTML = `<p class="empty-state">${msg}</p>`;
       pagBar.hidden = true;
       return;
     }
@@ -669,16 +788,9 @@ import Footer from '../components/layout/Footer.astro';
     const totalPages = showAll ? 1 : Math.ceil(n / perPage);
     if (currentPage > totalPages) currentPage = totalPages;
 
-    const start     = showAll ? 0 : (currentPage - 1) * perPage;
-    const end       = showAll ? n : Math.min(start + perPage, n);
-    const pageSlice = currentResults.slice(start, end);
+    const start = showAll ? 0 : (currentPage - 1) * perPage;
+    const end   = showAll ? n : Math.min(start + perPage, n);
 
-    // Use cached data from client-side sort if available, otherwise fetch the slice.
-    const dataArr = sortedDataCache
-      ? pageSlice.map((_, i) => sortedDataCache![start + i])
-      : await Promise.all(pageSlice.map(r => r.data()));
-
-    // Result count label
     if (showAll || n <= perPage) {
       countEl.textContent = `${n} discourse${n !== 1 ? 's' : ''}`;
     } else {
@@ -688,50 +800,16 @@ import Footer from '../components/layout/Footer.astro';
     const list = document.createElement('div');
     list.className = 'result-list';
 
-    for (const d of dataArr) {
-      const slug     = d.meta.slug || d.url.replace(/^\/suhba\//, '').replace(/\/$/, '');
-      const title    = d.meta.title   ?? 'Untitled';
-      const date     = formatDate(d.meta.date ?? '');
-      const hijri    = d.meta.hijri   ?? '';
-      const speaker  = d.meta.speaker ?? '';
-      const country  = d.meta.country ?? '';
-      const city     = d.meta.city    ?? '';
-      const location = [city, country].filter(Boolean).join(', ');
-
-      const article = document.createElement('article');
-      article.className = 'discourse-card';
-
-      const link = document.createElement('a');
-      link.href      = `/suhba/${slug}`;
-      link.className = 'card-link';
-
-      const titleEl = document.createElement('div');
-      titleEl.className   = 'card-title';
-      titleEl.textContent = title;
-      link.appendChild(titleEl);
-
-      if (d.excerpt) {
-        const excerptEl = document.createElement('p');
-        excerptEl.className = 'card-excerpt';
-        excerptEl.innerHTML = d.excerpt; // contains <mark> highlights from Pagefind
-        link.appendChild(excerptEl);
-      }
-
-      article.appendChild(link);
-
-      const metaParts = [speaker, date, hijri, location].filter(Boolean);
-      const metaEl = document.createElement('p');
-      metaEl.className   = 'card-meta';
-      metaEl.textContent = metaParts.join(' · ');
-      article.appendChild(metaEl);
-
-      list.appendChild(article);
+    if (isSearchMode) {
+      const dataArr = await Promise.all(pfItems.slice(start, end).map(r => r.data()));
+      for (const d of dataArr) list.appendChild(makeSearchCard(d));
+    } else {
+      for (const d of browseItems.slice(start, end)) list.appendChild(makeBrowseCard(d));
     }
 
     resultsEl.innerHTML = '';
     resultsEl.appendChild(list);
 
-    // Pagination controls
     if (showAll || totalPages <= 1) {
       pagBar.hidden = true;
     } else {
@@ -747,35 +825,35 @@ import Footer from '../components/layout/Footer.astro';
   let debounce: ReturnType<typeof setTimeout>;
   function debounced() {
     clearTimeout(debounce);
-    debounce = setTimeout(() => { currentPage = 1; runSearch(); }, 300);
+    debounce = setTimeout(() => { currentPage = 1; run(); }, 300);
   }
 
   inpText.addEventListener('input', debounced);
 
-  selCountry.addEventListener('change', async () => {
+  selCountry.addEventListener('change', () => {
     selCity.value  = '';
     selVenue.value = '';
-    await refreshCityVenue();
+    refreshCityVenue();
     currentPage = 1;
-    runSearch();
+    run();
   });
 
-  selCity.addEventListener('change', async () => {
+  selCity.addEventListener('change', () => {
     selVenue.value = '';
-    await refreshCityVenue();
+    refreshCityVenue();
     currentPage = 1;
-    runSearch();
+    run();
   });
 
   [selSpeaker, selTopic, selType, selVenue].forEach(sel => {
-    sel.addEventListener('change', () => { currentPage = 1; runSearch(); });
+    sel.addEventListener('change', () => { currentPage = 1; run(); });
   });
 
   [inpFromY, inpToY].forEach(inp => {
     inp.addEventListener('input', debounced);
   });
 
-  btnClear.addEventListener('click', async () => {
+  btnClear.addEventListener('click', () => {
     inpText.value    = '';
     selSpeaker.value = '';
     selTopic.value   = '';
@@ -785,13 +863,9 @@ import Footer from '../components/layout/Footer.astro';
     selVenue.value   = '';
     inpFromY.value   = '';
     inpToY.value     = '';
-    // Restore full city/venue lists
-    selCity.innerHTML  = '<option value="">All Cities</option>';
-    selVenue.innerHTML = '<option value="">All Venues</option>';
-    appendOptions(selCity,  Object.keys(allFilterData.city  ?? {}).sort());
-    appendOptions(selVenue, Object.keys(allFilterData.venue ?? {}).sort());
+    refreshCityVenue();
     currentPage = 1;
-    runSearch();
+    run();
   });
 
   sortBtns.forEach(btn => {
@@ -800,7 +874,7 @@ import Footer from '../components/layout/Footer.astro';
       btn.classList.add('sort-btn--active');
       activeSort  = btn.dataset.sort ?? 'newest';
       currentPage = 1;
-      runSearch();
+      run();
     });
   });
 

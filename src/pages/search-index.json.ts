@@ -44,7 +44,7 @@ export const GET: APIRoute = async () => {
         ? d.data.edited_at.toISOString().split('T')[0]
         : d.data.date_added ?? d.data.date.toISOString().split('T')[0],
       body_excerpt: d.body
-        ? d.body.replace(/[#*_`[\]()>~]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 800)
+        ? d.body.replace(/[#*_`[\]()>~]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 250)
         : '',
     }));
 
