@@ -445,7 +445,7 @@ import Footer from '../components/layout/Footer.astro';
   interface PFApi {
     init(): Promise<void>;
     filters(): Promise<Record<string, Record<string, number>>>;
-    search(query: string, opts?: {
+    search(query: string | null, opts?: {
       filters?: Record<string, string | string[]>;
       sort?: Record<string, 'asc' | 'desc'>;
     }): Promise<PFSearch>;
