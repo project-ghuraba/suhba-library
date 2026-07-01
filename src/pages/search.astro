@@ -79,6 +79,7 @@ import Footer from '../components/layout/Footer.astro';
         <button class="sort-btn sort-btn--active" data-sort="newest" type="button">Newest</button>
         <button class="sort-btn" data-sort="oldest" type="button">Oldest</button>
         <button class="sort-btn" data-sort="az" type="button">A–Z</button>
+        <button class="sort-btn" data-sort="latest" type="button">Latest Added</button>
       </div>
 
       <!-- ── Per page ── -->
@@ -456,6 +457,7 @@ import Footer from '../components/layout/Footer.astro';
   let perPage       = 25;
   let currentPage   = 1;
   let currentResults: PFResult[] = [];
+  let sortedDataCache: PFResultData[] | null = null;
   let allFilterData: Record<string, Record<string, number>> = {};
 
   const inpText     = document.getElementById('filter-text')      as HTMLInputElement;
@@ -547,11 +549,44 @@ import Footer from '../components/layout/Footer.astro';
 
   // ── Search ────────────────────────────────────────────────────────────────
 
-  function buildSort(): Record<string, 'asc' | 'desc'> | undefined {
+  // Pagefind-native sort — only for text queries; null queries ignore this.
+  // 'latest' is client-side only (date_added isn't a pagefind sort field).
+  function buildPagefindSort(): Record<string, 'asc' | 'desc'> | undefined {
     if (activeSort === 'newest') return { date: 'desc' };
     if (activeSort === 'oldest') return { date: 'asc' };
     if (activeSort === 'az')     return { title: 'asc' };
     return undefined;
+  }
+
+  // Client-side sort applied whenever query is null (Pagefind ignores sort
+  // for null queries) or when activeSort === 'latest' (needs date_added meta).
+  function doClientSort(allData: PFResultData[]) {
+    const paired = currentResults.map((r, i) => ({ r, d: allData[i] }));
+    paired.sort((a, b) => {
+      if (activeSort === 'latest') {
+        const va = a.d.meta.edited_at ?? a.d.meta.date ?? '';
+        const vb = b.d.meta.edited_at ?? b.d.meta.date ?? '';
+        return va < vb ? 1 : va > vb ? -1 : 0;
+      }
+      if (activeSort === 'newest') {
+        const va = a.d.meta.date ?? '';
+        const vb = b.d.meta.date ?? '';
+        return va < vb ? 1 : va > vb ? -1 : 0;
+      }
+      if (activeSort === 'oldest') {
+        const va = a.d.meta.date ?? '';
+        const vb = b.d.meta.date ?? '';
+        return va < vb ? -1 : va > vb ? 1 : 0;
+      }
+      if (activeSort === 'az') {
+        const va = (a.d.meta.title ?? '').toLowerCase();
+        const vb = (b.d.meta.title ?? '').toLowerCase();
+        return va.localeCompare(vb);
+      }
+      return 0;
+    });
+    currentResults   = paired.map(p => p.r);
+    sortedDataCache  = paired.map(p => p.d);
   }
 
   function buildFilters(): Record<string, string | string[]> {
@@ -580,15 +615,23 @@ import Footer from '../components/layout/Footer.astro';
     countEl.textContent = 'Searching…';
     resultsEl.innerHTML = '<p class="loading-state">Searching…</p>';
     pagBar.hidden = true;
+    sortedDataCache = null;
 
     try {
-      const query = inpText.value.trim() || null;
-      const search = await pf.search(
-        query,
-        { filters: buildFilters(), sort: buildSort() },
-      );
+      const query   = inpText.value.trim() || null;
+      // Only pass sort to Pagefind for text queries — it ignores sort for null.
+      // 'latest' always needs client-side sort regardless of query.
+      const pfSort  = (query && activeSort !== 'latest') ? buildPagefindSort() : undefined;
+      const search  = await pf.search(query, { filters: buildFilters(), sort: pfSort });
       currentResults = search.results;
-      currentPage    = 1;
+
+      // Client-side sort: required for null queries and for 'latest' (any query).
+      if (currentResults.length > 1 && (!query || activeSort === 'latest')) {
+        const allData = await Promise.all(currentResults.map(r => r.data()));
+        doClientSort(allData);
+      }
+
+      currentPage = 1;
       await renderPage();
     } catch {
       resultsEl.innerHTML = '<p class="empty-state">Search failed — please try again.</p>';
@@ -630,8 +673,10 @@ import Footer from '../components/layout/Footer.astro';
     const end       = showAll ? n : Math.min(start + perPage, n);
     const pageSlice = currentResults.slice(start, end);
 
-    // Load data only for the visible page slice
-    const dataArr = await Promise.all(pageSlice.map(r => r.data()));
+    // Use cached data from client-side sort if available, otherwise fetch the slice.
+    const dataArr = sortedDataCache
+      ? pageSlice.map((_, i) => sortedDataCache![start + i])
+      : await Promise.all(pageSlice.map(r => r.data()));
 
     // Result count label
     if (showAll || n <= perPage) {
