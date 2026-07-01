@@ -564,8 +564,8 @@ import Footer from '../components/layout/Footer.astro';
     const paired = currentResults.map((r, i) => ({ r, d: allData[i] }));
     paired.sort((a, b) => {
       if (activeSort === 'latest') {
-        const va = a.d.meta.date_added ?? a.d.meta.date ?? '';
-        const vb = b.d.meta.date_added ?? b.d.meta.date ?? '';
+        const va = a.d.meta.edited_at ?? a.d.meta.date ?? '';
+        const vb = b.d.meta.edited_at ?? b.d.meta.date ?? '';
         return va < vb ? 1 : va > vb ? -1 : 0;
       }
       if (activeSort === 'newest') {

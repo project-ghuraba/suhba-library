@@ -350,7 +350,7 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
       <span data-pagefind-meta={`country[${data.location_country}]`}></span>
       {data.location_city && <span data-pagefind-meta={`city[${data.location_city}]`}></span>}
       <span data-pagefind-meta={`slug[${data.slug}]`}></span>
-      {data.date_added && <span data-pagefind-meta={`date_added[${data.date_added}]`}></span>}
+      {data.edited_at && <span data-pagefind-meta={`edited_at[${data.edited_at.toISOString().split('T')[0]}]`}></span>}
     </div>
   </article>
 
