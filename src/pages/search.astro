@@ -445,7 +445,7 @@ import Footer from '../components/layout/Footer.astro';
   interface PFApi {
     init(): Promise<void>;
     filters(): Promise<Record<string, Record<string, number>>>;
-    search(query: string, opts?: {
+    search(query: string | null, opts?: {
       filters?: Record<string, string | string[]>;
       sort?: Record<string, 'asc' | 'desc'>;
     }): Promise<PFSearch>;
@@ -526,7 +526,7 @@ import Footer from '../components/layout/Footer.astro';
     const city    = selCity.value;
 
     // Get available cities for selected country
-    const citySearch = await pf.search('', { filters: country ? { country } : {} });
+    const citySearch = await pf.search(null, { filters: country ? { country } : {} });
     const availCities = Object.keys(citySearch.filters.city ?? {}).sort();
     const prevCity = selCity.value;
     selCity.innerHTML = '<option value="">All Cities</option>';
@@ -537,7 +537,7 @@ import Footer from '../components/layout/Footer.astro';
     const venueFilters: Record<string, string> = {};
     if (country) venueFilters.country = country;
     if (city && availCities.includes(city)) venueFilters.city = city;
-    const venueSearch = await pf.search('', { filters: venueFilters });
+    const venueSearch = await pf.search(null, { filters: venueFilters });
     const availVenues = Object.keys(venueSearch.filters.venue ?? {}).sort();
     const prevVenue = selVenue.value;
     selVenue.innerHTML = '<option value="">All Venues</option>';
@@ -582,8 +582,9 @@ import Footer from '../components/layout/Footer.astro';
     pagBar.hidden = true;
 
     try {
+      const query = inpText.value.trim() || null;
       const search = await pf.search(
-        inpText.value.trim(),
+        query,
         { filters: buildFilters(), sort: buildSort() },
       );
       currentResults = search.results;
