@@ -444,7 +444,6 @@ import Footer from '../components/layout/Footer.astro';
     topic: string[];
     type: string;
     date_added: string;
-    body_excerpt: string;
   }
 
   interface PFResult {
@@ -708,13 +707,6 @@ import Footer from '../components/layout/Footer.astro';
     titleEl.className   = 'card-title';
     titleEl.textContent = d.title;
     link.appendChild(titleEl);
-
-    if (d.body_excerpt) {
-      const excerptEl = document.createElement('p');
-      excerptEl.className   = 'card-excerpt';
-      excerptEl.textContent = d.body_excerpt;
-      link.appendChild(excerptEl);
-    }
 
     article.appendChild(link);
 
