@@ -18,7 +18,7 @@ title: One Common Enemy
 topic: []
 transcript_quality: verified|level 2
 version: 1
-youtube_url: ''
+youtube_url: https://www.youtube.com/watch?v=hDdfj0-0hB0
 ---
 
 By the Name of Allah Almighty All Merciful, Most Beneficent and Most Munificent. This is a big world. Everyone who lives on it [is] asking to make it smaller and to put [it] through his pocket. Everyone's desire, who living on this planet, it is to take all for his own - to make it in his pocket, in her pocket. Never accepting anyone else to have anything from it.
@@ -58,5 +58,3 @@ Therefore, news for those whom they are following shaytanic teachings, it is not
 Allah Allah Allah Allah Allah Allah Aziz Allah Allah Allah Allah Allah Allah Allah Karim Allah Allah Allah Allah Allah Allah Allah Subhan Allah Allah Allah Allah Allah Allah Allah Sultan Allah You are Sultan. We are slaves.
 
 Thank you for your attention.
-
-http://saltanat.org/videopage.php?id=14284&name=1990-09- 01_en_OneCommonEnemy_SN_a.mp4
