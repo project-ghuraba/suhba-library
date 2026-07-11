@@ -2,19 +2,19 @@
 date: 1900-01-01
 date_hijri: ''
 edited_at: 2026-06-25
-image: https://r2.suhbalibrary.org/suhbas/1900-01-01-harun-ar-radhid-ibn-arabi.jpg
+image: https://r2.suhbalibrary.org/suhbas/1900-01-01-harun-ar-rashid-ibn-arabi.jpg
 language: en
 location_city: Lefke
 location_country: Cyprus
 location_venue: Shaykh Nāẓim Dergah
 quotes_verified: []
-slug: 1900-01-01-harun-ar-radhid-ibn-arabi
+slug: 1900-01-01-harun-ar-rashid-ibn-arabi
 source: saltanat.org
 speaker:
 - Shaykh Nāzim al-Ḥaqqānī
 speaker_full: Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad Nāzim 'Ādil al-Ḥaqqānī
 status: published
-title: Harun Ar-Radhid & Ibn Arabi
+title: Harun Ar-Rashid & Ibn Arabi
 topic: []
 transcript_quality: verified|level 2
 version: 1
