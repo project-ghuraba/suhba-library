@@ -1,5 +1,5 @@
 ---
-title: "Ḥadīth Lesson: the Best of Ṣadaqah"
+title: "Ḥadīth Lesson: The Best of Ṣadaqah"
 slug: "2026-07-14-hadith-lesson-the-best-of-sadaqah"
 date: 2026-07-14
 date_hijri: "29 Muḥarram 1448"
