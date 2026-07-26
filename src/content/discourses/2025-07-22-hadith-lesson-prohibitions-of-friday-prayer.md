@@ -1,7 +1,7 @@
 ---
 date: 2025-07-22
 date_hijri: 27 Muharram 1447
-edited_at: 2026-06-28
+edited_at: 2026-07-26
 image: https://r2.suhbalibrary.org/suhbas/2025-07-22-hadith-lesson-prohibitions-of-friday-prayer.jpg
 language: en
 location_city: Istanbul
@@ -17,102 +17,59 @@ status: published
 title: 'Hadith Lesson: Prohibitions of Friday Prayer'
 topic: []
 transcript_quality: verified|level 2
+type: "hadith"
 version: 1
 youtube_url: https://www.youtube.com/watch?v=pSSFyb6O8II
 ---
 
-As-Salāmu ‘Alaykum wa RaḥmatuLlāhi wa Barakātuh.
+As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
 
-A‘ūdhu BiLlāhi Minash-shayṭāni r-rajīm. BismiLlāhi r-Raḥmāni r-Raḥīm.
+Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ʿalā Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā RasūlAllah, madad yā Sādāti Aṣḥābi Rasūlillāh, madad yā Mashāyikhinā, dastūr yā Shaykh ʿAbdullāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā aṣ-ṣuḥbah wa l-khayru fi l-jamʿiyyah.
 
-Wa ṣ-Salātu wa s-Salāmu ‘alá Rasūlinā Muḥammadin Sayyidi l-Awwalīna wa l-Akhirīn.
+1 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
-Madad yā RasūlAllāh, Madad yā Sādāti Aṣḥābi RasūliLlāh, Madad yā Mashāyikhinā,
+Our Holy Prophet is saying, “When the Imam is delivering the Khutbah, and you ask your companion to keep quiet and listen, then no doubt you have done an evil act.” Talking is forbidden during the Friday Khutbah. Because a two-rak’at prayer with a Khutbah is like a four-rak’at Fard prayer. There’s no talking between them. Most people speak without knowing while the imam is making Khutbah. You shouldn’t talk after the Khutbah adhan is recited. If someone is talking next to you and you tell them to be quiet, you’ll be talking too. You’ll also ruin your Jumʿah. Therefore, we must be careful. Shukr to Allah, we also pray Friday prayer in two minutes. They should be patient and talk after Friday prayer, inshā’Allāh.
 
-Dastūr Mawlana Sheikh Abdullāh al-Fā’iz ad-Dāghistāni, Sheikh Muḥammad
-
-Nāẓim al-Ḥaqqānī. Madad.
-
-1- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
-
-The Messenger of Allāh (peace be upon him) says:
-
-ت ﻮ ﺪ ﺐ مﺎﻣﻹاو "ﺖأ" ﺔﻌﻤﳉا مﻮﻳ ﻚﺒﺣﺎ ﺖﻠﻗ اذإ
-
-Our Holy Prophet is saying, “When the Imam is delivering the Khutbah, and you ask your companion to keep quiet and listen, then no doubt you have done an evil act.” Talking is forbidden during the Friday Khutbah. Because a two-rak’at prayer with a Khutbah is like a four-rak’at Fard prayer. There’s no talking between them. Most people speak without knowing while the imam is making Khutbah. You shouldn’t talk after the Khutbah adhan is recited. If someone is talking next to you and you tell them to be quiet, you’ll be talking too. You’ll also ruin your Jum’ah. Therefore, we must be careful. Shukr to Allāh, we also pray Friday prayer in two minutes. They should be patient and talk after Friday prayer, in shā’a Llāh.
-
-2- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
-
-The Messenger of Allāh (peace be upon him) says: مﺎﻣﻹا جوﺮﺧ ﺪ ﻦﺛﻻا ﲔﺑ قﻳو ﺔﻌﻤﳉا مﻮﻳ سﺎا بر ﴑﺨﻳ يا نإ
+2 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
 Our Holy Prophet is saying, “On Friday, after the imam arrives, anyone who steps over people’s necks and separates two people or sits between them is like someone dragging their intestines through the fire.” When you go to Friday prayers, you should be on time and sit. If you’re the last to arrive making people get up from the back row, making a pass through people, and then sitting in front is like someone dragging their intestines through the fire. That’s how bad it is. Islām is a religion of adab. It is a religion of goodness and beauty. Therefore, if you’re coming, come early and sit. If you can’t, sit in the back. Just as they’re getting up for prayer, and they want to close the rows all together, you can pass then.
 
-3- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
-
-The Messenger of Allāh (peace be upon him) says:
-
-َ َ َ ْ ُ َ ْ H َ ُ ُ َ َ َ َ َ ﱠ ُ َ ْ H َ َ ُ ُ ُ
-
-مﻼﻜﻟا ﻊﻳ ﻪﻣﻼﻛو ةﻼا ﻊﻳ ﺔﻌﻤﳉا مﻮﻳ مِﺎﻣﻹا جوﺮﺧ
+3 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
 Our Holy Prophet is saying, “The imam coming out stops prayer and his speaking stops conversation.” Prayer is no longer performed after the imam arrives; the prayer ends. Speaking must also stop.
 
-4- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
-
-The Messenger of Allāh (peace be upon him) says:
-
-َ ﱠ َ َ َ ً ْ َ َ ﱠ َ ُ ُ ْ َ ْ َ ﱠ َ َ ﱠ َ َ ْ َ
-
-  ﱃإ اﴪﺟ ﺬﲣا ﺔﻌﻤﳉا مﻮﻳ سﺎا بر ﴑﲣ 
+4 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
 Our Holy Prophet is saying, “Whoever walks on Friday, passing over people’s necks and shoulders, will have built a bridge to Hell.” When he walks through people, it becomes like a bridge to Hell.
 
-5- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
+5 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
-The Messenger of Allāh (peace be upon him) says:
+Our Holy Prophet is saying, “Whoever smoothes the pebbles in the place of sajdah (prostration), then he has engaged in Laghw (doing what’s not suitable.)” If there is a stone or something in front of you while you’re is praying, you should remove it before the prayer. You should not move while praying.
 
-Our Holy Prophet is saying, “Whoever smoothes the pebbles in the place of Sajdah, then he has engaged in Laghw (doing what’s not suitable.)” If there is a stone or something in front of you while you’re is praying, you should remove it before the prayer. You should not move while praying.
+6 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
-6- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
+“Our Prophet prohibited Al-Habwah (sitting with a cloth tied round the back and legs) on Friday while the Imam is delivering the Khutbah.” So they must sit properly on Friday. Therefore, the Friday Khutbah should not be overly long, so that people can sit comfortably, in various places, and avoid engaging in other makrūh things.
 
-The Messenger of Allāh (peace be upon him) says:
+7 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
-Our Holy Prophet is saying, “Our Prophet prohibited Al-Habwah (sitting with a cloth tied round the back and legs) on Friday while the Imam is delivering the Khutbah.” So they must sit properly on Friday. Therefore, the Friday Khutbah should not be overly long, so that people can sit comfortably, in various places, and avoid engaging in other makrūh things.
+Our Holy Prophet is saying, “When the mu’adhin calls the adhan on Friday, it is ḥarām (forbidden) to do any work.” Of course, this is for men, not for women. What is meant by adhan here is the adhan for the Khutbah. Because in old times, there used to be one adhan. Later on, there became two adhans so that people come, and prepare themselves. After that, when the Khutbah adhan is called, it is ḥarām to work. Shopping is ḥarām. There’s a time when it’s ḥarām and that is 15-20 minutes at most. And that’s something you shouldn’t do.
 
-7- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
+8 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
-The Messenger of Allāh (peace be upon him) says:
+Our Holy Prophet is saying, “The length of a man’s prayer and the shortness of his sermon are a sign of his understanding [of religion].” One must make the prayer long, but his Khutbah must be short enough as much as people can tolerate. If he does so then, he is someone who understands religion and fiqh well, says our Prophet ṣallAllāhu ʿalayhi wa-sallam. 
 
-Our Holy Prophet is saying, “When the mu’adhin calls the adhan on Friday, it is hạ rām (forbidden) to do any work.” Of course, this is for men, not for women. What is meant by adhan here is the adhan for the Khutbah. Because in old times, there used to be one adhan. Later on, there became two adhans so that people come, and prepare themselves. After that, when the Khutbah adhan is called, it is ḥarām to work. Shopping is ḥarām. There’s a time when it’s ḥarām and that is 15-20 minutes at most. And that’s something you shouldn’t do.
+“So make the prayer long and the Khutbah short, for indeed there is magic in eloquence.” There’s something special in Khutbah, it affects people, says our Prophet ṣallAllāhu ʿalayhi wa-sallam.
 
-8- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
+9 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
-The Messenger of Allāh (peace be upon him) says:
+Our Holy Prophet is saying, “Every sermon which does not contain a tashahhud or duʿā of tahiyyat is like a hand cut off.” So when we go up to make the Khutbah, we start with, “Ashhadu an la ilaha illa Allah, wa ash-hadu anna Sayyidina Muḥammadan Abduhu Wa Rasuluhu.” Without it, it is like a person without hands, says Prophet ṣallAllāhu ʿalayhi wa-sallam.
 
-H َ ﱠ ُ َ ْ ْ ٌ ﱠ َ َ ْ: ُ َ َ H َ ُ ﱠ َ َ َ ُ ﱠ
+10 - Qala Rasulullah ṣallAllahu ʿalayhi wa-sallam [The Messenger of Allah (peace be upon him) says]:
 
-اواو ةﻼا اﯿﻃ
+Our Holy Prophet is saying, “There is no servant who delivers a Khutbah but Allah asks him what he means to deliver by this Khutbah.” Allah ʿAzza wa Jalla will surely ask the person who delivers the Khutbah, what he means by it, what his purpose is, what is he pointing out about. May Allah forgive us all.
 
-Our Holy Prophet is saying, “The length of a man’s prayer and the shortness of his sermon are a sign of his understanding [of religion].” One must make the prayer long, but his Khutbah must be short enough as much as people can tolerate. If he does so then, he is someone who understands religion and fiqh well, says our Prophet ṣallá Llāhu ‘alayhi wa-sallam. “So make the prayer long and the Khutbah short, for indeed there is magic in eloquence.” There’s something special in Khutbah, it affects people, says our Prophet ṣallá Llāhu ‘alayhi wa-sallam.
+The Messenger of Allah says the truth in what he said or as he said.
 
-9- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
+Ziyadatan ila sharafi’ ‘n-Nabi, sallaLlahu `alayhi wa sallam wa Alihi wa Asahabihi l-kiram, wa ila arwahi jamee’i al Anbiya’i wa l-Mursalin wa Khudama’i sharai’ihim wa ila arwahi al ‘Aimmati al arba’a, wa ila arwahi Mashayyikhina fi t-Tariqati n-Naqshbandiyyati l-Aliyyah, khassatan Imamu t-ṭarīqah wa Ghawthu l-Khaliqah Khwaja Bahauddin Muḥammad al-Uwaisiyi l-Bukhari, Sayyidina Abdul Khaliq al Ghujduwani, Mawlana Shaykh Sharafuddin al Daghestani, Mawlana Shaykh Abdullah al Faiz al Daghestani, Mawlana Shaykh Muḥammad Nazim Adil al Haqqani, wa sai’ri Sadatina wa s-Siddiqiyun, wa man nahnu fi hadratihim wa jiwarihim, for the souls of all our past ones, for the pleasure of Allah, for the souls of all Shaheeds. Li-Llahi Ta’ala, Al-Fātiḥah.
 
-The Messenger of Allāh (peace be upon him) says:
-
-Our Holy Prophet is saying, “Every sermon which does not contain a tashahhud or du’ā’ of tahiyyat is like a hand cut off.” So when we go up to make the Khutbah, we start with, “Ashhadu an la ilaha illa Allah, wa ash-hadu anna Sayyidina Muhammadan Abduhu Wa Rasuluhu.” Without it, it is like a person without hands, says Prophet ṣallá Llāhu ‘alayhi wa-sallam.
-
-10- Qala RasuluLlah salla Llāhu ‘alayhi wa-sallam
-
-The Messenger of Allāh (peace be upon him) says:
-
-ﺎ ﲠ دارأ ﺎﻣ ﺎﻋ ﺋﺎﺳ و ﺰﻋ ﷲا ﻻإ ﺔﺒ ﺐ ﺪ  ﺎﻣ
-
-Our Holy Prophet is saying, “There is no servant who delivers a Khutbah but Allah asks him what he means to deliver by this Khutbah.” Allāh ‘Azza wa-Jalla will surely ask the person who delivers the Khutbah, what he means by it, what his purpose is, what is he pointing out about. May Allāh forgive us all.
-
-The Messenger of Allāh says the truth in what he said or as he said.
-
-Ihda’ – Dedication:
-
-Ziyadatan ila sharafi’ ‘n-Nabi, sallaLlahu `alayhi wa sallam wa Alihi wa Asahabihi l-kiram, wa ila arwahi jamee’i al Anbiya’i wa l-Mursalin wa Khudama’i sharai’ihim wa ila arwahi al ‘Aimmati al arba’a, wa ila arwahi Mashayyikhina fi t-Tariqati n-Naqshbandiyyati l-Aliyyah, khassatan Imamu t-Tariqah wa Ghawthu l-Khaliqah Khwaja Bahauddin Muhammad al-Uwaisiyi l-Bukhari, Sayyidina Abdul Khaliq al Ghujduwani, Mawlana Shaykh Sharafuddin al Daghestani, Mawlana Shaykh Abdullah al Faiz al Daghestani, Mawlana Shaykh Muhammad Nazim Adil al Haqqani, wa sai’ri Sadatina wa s-Siddiqiyun, wa man nahnu fi hadratihim wa jiwarihim, for the souls of all our past ones, for the pleasure of Allāh, for the souls of all Shaheeds. Li-Llahi Ta’ala, Al-Fatiha.
-
-[(Translation) To the honor of the Prophet, Prayers and Peace be upon Him, and his family, and his companions, and the souls of all the prophets as well as of His messengers and of those who served their Sharia, and to the souls of the four Imams. And to the souls of our Mashayikh of the Most Distinguished Naqshbandi Tariqa, in particular to the soul of the Imam of the Tariqa Ghawth al-Khaliqa (the Help of Creation), Khwaja Bahauddin Muhammad al-Uwaisiyi l-Bukhari, Sayyidina Abdul Khaliq al Ghujduwani, Mawlana Shaykh Sharafuddin al Daghestani, Mawlana Shaykh Abdullah al Faiz al Daghestani, Mawlana Shaykh Muhammad Nazim Adil al Haqqani, and the rest of our masters and Siddiqiyun, and to whom we are in their presence and near them, for the souls of all our past ones, for the pleasure of Allāh, for the souls of all Shaheeds. To Allah Almighty. Al Fatiha.]
+[(Translation) To the honor of the Prophet, Prayers and Peace be upon Him, and his family, and his companions, and the souls of all the prophets as well as of His messengers and of those who served their Sharia, and to the souls of the four Imams. And to the souls of our mashāyikh of the Most Distinguished Naqshbandi Tariqa, in particular to the soul of the Imam of the Tariqa Ghawth al-Khaliqa (the Help of Creation), Khwaja Bahauddin Muḥammad al-Uwaisiyi l-Bukhari, Sayyidina Abdul Khaliq al Ghujduwani, Mawlana Shaykh Sharafuddin al Daghestani, Mawlana Shaykh Abdullah al Faiz al Daghestani, Mawlana Shaykh Muḥammad Nazim Adil al Haqqani, and the rest of our masters and Siddiqiyun, and to whom we are in their presence and near them, for the souls of all our past ones, for the pleasure of Allah, for the souls of all Shaheeds. To Allah Almighty. Al Fātiḥah.]
