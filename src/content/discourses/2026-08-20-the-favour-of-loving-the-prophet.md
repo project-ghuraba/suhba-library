@@ -1,15 +1,15 @@
 ---
-title: "Lucky Are Who Honor Him"
-slug: "2026-08-20-lucky-are-who-honor-him"
+title: "The Favour of Loving the Prophet"
+slug: "2026-08-20-the-favour-of-loving-the-prophet"
 date: 2026-08-20
 date_hijri: "7 Rabīʿ al-Awwal 1448"
 speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
 speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "Akbaba Dergah"
-location_city: "Istanbul"
-location_country: "Türkiye"
-youtube_url:
-image: "https://r2.suhbalibrary.org/suhbas/2026-08-20-lucky-are-who-honor-him.jpg"
+location_venue: "Shaykh Nāẓim Dergah"
+location_city: "Lefke"
+location_country: "Cyprus"
+youtube_url: "https://www.youtube.com/watch?v=cWB66ch-FCU"
+image: "https://r2.suhbalibrary.org/suhbas/2026-08-20-the-favour-of-loving-the-prophet.jpg"
 status: "published"
 transcript_quality: "verified|level 3"
 language: "en"
