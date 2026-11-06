@@ -5,9 +5,9 @@ date: 2026-11-05
 date_hijri: "25 Jumādā al-Ūlā 1448"
 speaker: ["Shaykh Muḥammad ‘Ādil ar-Rabbānī"]
 speaker_full: "Sulṭān ul-Awliyā Mawlānā Shaykh Muḥammad ‘Ādil ar-Rabbānī"
-location_venue: "unknown"
-location_city: ""
-location_country: ""
+location_venue: "Naqshbandi Dergah"
+location_city: "Colombo"
+location_country: "Sri Lanka"
 youtube_url: "https://www.youtube.com/watch?v=YRD00vnOEK0"
 image: "https://r2.suhbalibrary.org/suhbas/2026-11-05-the-best-teacher.jpg"
 status: "published"
@@ -25,9 +25,9 @@ As-salāmu ʿalaykum wa raḥmatullāhi wa barakātuh.
 
 Aʿūdhu billāhi min ash-shayṭāni r-rajīm. Bismillāhi r-Raḥmāni r-Raḥīm. Aṣ-ṣalātu wa s-salāmu ʿalā Rasūlinā Muḥammadin Sayyidi l-awwalīna wa l-ākhirīn. Madad yā RasūlAllāh, madad yā Sādāti Aṣḥābi Rasūlillāh, madad yā Mashāyikhinā, dastūr yā Shaykh ʿAbdullāh al-Fā’iz ad-Dāghistānī, Shaykh Muḥammad Nāẓim al-Ḥaqqānī. Madad. Ṭarīqatunā aṣ-ṣuḥbah wa l-khayru fi l-jamʿiyyah.
 
-Prophet ṣallAllahu ʿalayhi wa-sallam said in ḥadīth sharīf,<br>
+Prophet ṣallAllahu ʿalayhi wa-sallam said in ḥadīth sharīf,
 إِنَّمَا الْعِلْمُ بِالتَّعَلُّمِ، وَإِنَّمَا الْحِلْمُ بِالتَّحَلُّمِ
-<br>“Innamā l-ʿilmu bi-t-taʿallumi, wa-innamā l-ḥilmu bi-t-taḥallum”<br>
+“Innamā l-ʿilmu bi-t-taʿallumi, wa-innamā l-ḥilmu bi-t-taḥallum”
 “Knowledge is only by learning, and patience is only by exerting oneself to be patient.” [Bukhārī]
 
 You cannot learn by yourself. To learn, somebody must teach you.
