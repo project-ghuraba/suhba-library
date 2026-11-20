@@ -16,7 +16,7 @@ language: "en"
 version: 1
 source: "mawlanasultan.org"
 type: "suhba"
-topic: []
+topic: ["Sunnah", "Taqwa", "Niyyah", "Adab"]
 quotes_verified: ["Our Prophet ṣallAllāhu ʿalayhi wa-sallam instructs us: love one another and exchange gifts. He encourages the exchange of gifts so that the love between people may grow. A gift brings joy; both the giver and the recipient find happiness in it. It gladdens the heart and brings delight. Furthermore, our Prophet ṣallAllāhu ʿalayhi wa-sallam advises that one should also provide a return for a gift received. If someone gives you a gift, offer something in return; if you are unable to do so, then make a good duʿā for them—for such a duʿā is, in itself, a magnificent gift.", "Even if you have accepted the gift—provided, of course, that you were not in actual need of it—if you cannot offer a material return, then making duʿā for them—saying, for instance, “May Allah be pleased with you”—is the greatest gift of all. After all, what is a gift given by a human being when compared to the gifts that Allah ʿAzza wa Jalla bestows? They cannot even be measured against one another. Thus, it is our Prophet ṣallAllāhu ʿalayhi wa-sallam who has taught us all these beautiful things.", "The worldly people sometimes offer gifts when they have a specific agenda or objective; may Allah protect us, but such gestures can occasionally stem from ill intentions. Therefore, one must be cautious. If you give a gift, do so only for the sake of Allah, without seeking any personal benefit. Let the pleasure of Allah—which is the greatest benefit of all—be the sole purpose, along with the intention of being of benefit to others. A gift offered for political reasons or any other ulterior motive cannot truly be considered a gift; may Allah protect us from this.", "Our Prophet ṣallAllāhu ʿalayhi wa-sallam has said that affection grows through the giving of gifts. He encourages the exchange of gifts so that the love between people may grow."]
 edited_at: 2026-11-20
 ---
@@ -29,7 +29,7 @@ Our Prophet ṣallAllāhu ʿalayhi wa-sallam says,<br>
 تَهَادَوْا تَحَابُّوا
 <br>“Tahādaw taḥābbū”<br>
 “Exchange gifts, and you will come to love one another” [al-Bukhārī’s al-Adab al-Mufrad]
-—or perhaps it was “تَحَابُّوا تَهَادَوْا”, “Taḥābbū tahādaw” (Love one another, and you will exchange gifts); Allah knows best which he said. Aw kamā qāl.
+<br>—or perhaps it was “تَحَابُّوا تَهَادَوْا”, “Taḥābbū tahādaw” (Love one another, and you will exchange gifts); Allah knows best which he said. Aw kamā qāl.
 
 Our Prophet ṣallAllāhu ʿalayhi wa-sallam instructs us: love one another and exchange gifts. Whether it was the former or the latter, I cannot say for certain—Allah knows best how our Prophet ṣallAllāhu ʿalayhi wa-sallam exactly stated it.
 
