@@ -43,6 +43,11 @@ export const GET: APIRoute = async ({ site }) => {
     <atom:link href="${siteUrl}/rss.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <generator>Astro</generator>
+    <image>
+      <url>https://r2.suhbalibrary.org/og-default.jpg</url>
+      <title>The Suhba Library</title>
+      <link>${siteUrl}</link>
+    </image>
 
   ${items}
   </channel>

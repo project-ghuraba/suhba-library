@@ -44,15 +44,30 @@ const wisdomOfTheDay = allQuotes.length > 0
   ? allQuotes[seededIndex(todayISO, allQuotes.length)]
   : null;
 
-const siteUrl = Astro.site?.toString() ?? 'https://suhbalibrary.org';
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://suhbalibrary.org';
 
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: 'The Suhba Library',
-  url: siteUrl,
-  description: 'A Digital Waqf – explore spiritual discourses of the Naqshbandi Sufi masters for seekers across time and place',
-};
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'The Suhba Library',
+    url: siteUrl,
+    description: 'Preserving the breath and light of the Awliya, for every heart that comes seeking.',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: { '@type': 'EntryPoint', urlTemplate: `${siteUrl}/search?q={search_term_string}` },
+      'query-input': 'required name=search_term_string',
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'The Suhba Library',
+    url: siteUrl,
+    logo: 'https://r2.suhbalibrary.org/og-default.jpg',
+    sameAs: ['https://github.com/project-ghuraba/suhba-library'],
+  },
+];
 ---
 
 <BaseLayout
@@ -65,7 +80,7 @@ const jsonLd = {
   <section class="hero">
     <h1 class="hero-title">The Suhba Library</h1>
     <p class="hero-tagline">
-      A Digital Waqf — preserving the light of spiritual discourse for all who seek.
+      Preserving the breath and light of the Awliya, for every heart that comes seeking.
     </p>
   </section>
 
@@ -499,7 +514,7 @@ const jsonLd = {
         link.href = `/suhba/${d.slug}`;
         link.className = 'otd-card-link';
 
-        const title = document.createElement('h2');
+        const title = document.createElement('h3');
         title.className = 'otd-card-title';
         title.textContent = d.title;
         link.appendChild(title);
@@ -588,28 +603,20 @@ const jsonLd = {
     if (q) window.zaraz?.track('search_query', { query: q, source: 'home' });
   });
 
-  // ----- Random quote -----
-  const randomBtn    = document.getElementById('random-quote') as HTMLButtonElement | null;
-  const quoteTextEl  = document.querySelector<HTMLElement>('#wisdom-quote .wisdom-text');
-  const wisdomLink   = document.getElementById('wisdom-link')   as HTMLAnchorElement | null;
+  // ----- Random quote (fires on load + on button click) -----
+  const randomBtn     = document.getElementById('random-quote') as HTMLButtonElement | null;
+  const quoteTextEl   = document.querySelector<HTMLElement>('#wisdom-quote .wisdom-text');
+  const wisdomLink    = document.getElementById('wisdom-link')    as HTMLAnchorElement | null;
   const wisdomSpeaker = document.getElementById('wisdom-speaker') as HTMLElement | null;
 
-  randomBtn?.addEventListener('click', () => {
-    const quotes: Array<{ quote: string; slug: string; title: string; speakers: string[] }> =
-      JSON.parse(randomBtn.dataset.quotes ?? '[]');
-    if (quotes.length === 0) return;
-    const idx = Math.floor(Math.random() * quotes.length);
-    const selected = quotes[idx];
+  function displayQuote(selected: { quote: string; slug: string; title: string; speakers: string[] }) {
     const speakerStr = selected.speakers.join(', ');
-
     if (quoteTextEl)   quoteTextEl.textContent = `"${selected.quote}"`;
     if (wisdomSpeaker) wisdomSpeaker.textContent = speakerStr;
     if (wisdomLink) {
       wisdomLink.textContent = selected.title;
       wisdomLink.setAttribute('href', `/suhba/${selected.slug}`);
     }
-
-    // Keep data attributes in sync so Copy and Share use the new quote
     if (copyBtn) {
       copyBtn.dataset.quote   = selected.quote;
       copyBtn.dataset.speaker = speakerStr;
@@ -620,5 +627,17 @@ const jsonLd = {
       shareBtn.dataset.speaker = speakerStr;
       shareBtn.dataset.slug    = selected.slug;
     }
-  });
+  }
+
+  function pickRandom() {
+    const quotes: Array<{ quote: string; slug: string; title: string; speakers: string[] }> =
+      JSON.parse(randomBtn?.dataset.quotes ?? '[]');
+    if (quotes.length === 0) return;
+    displayQuote(quotes[Math.floor(Math.random() * quotes.length)]);
+  }
+
+  // Randomise on every page load
+  pickRandom();
+
+  randomBtn?.addEventListener('click', pickRandom);
 </script>

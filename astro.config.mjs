@@ -1,11 +1,22 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
+import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://suhbalibrary.org',
   output: 'static',
+
+  integrations: [
+    sitemap({
+      // Exclude JSON data endpoints and feeds from the sitemap — they're not web pages
+      filter: (page) =>
+        !page.includes('/indexes/') &&
+        !page.endsWith('/search-index.json') &&
+        !page.endsWith('/rss.xml'),
+    }),
+  ],
 
   vite: {
     plugins: [
