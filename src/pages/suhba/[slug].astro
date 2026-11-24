@@ -74,11 +74,16 @@ const firstQuote = data.quotes_verified?.[0] ?? '';  // used for description met
 const shareBody = encodeURIComponent(`${data.title}\n\nRead full suhba at: ${canonicalUrl}`);
 const emailBody = encodeURIComponent(`${data.title}\n\nRead full suhba at: ${canonicalUrl}`);
 
+const topicSuffix = data.topic.length > 0 ? ` Topics: ${data.topic.slice(0, 3).join(', ')}.` : '';
+const metaDescription = firstQuote
+  || `${data.title} — a discourse by ${speakerList}, delivered in ${data.location_country} on ${gregorianDate}.${topicSuffix}`;
+
 // JSON-LD
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Article',
   headline: data.title,
+  description: metaDescription,
   datePublished: data.date.toISOString().split('T')[0],
   dateModified: data.edited_at
     ? (data.edited_at as Date).toISOString().split('T')[0]
@@ -88,11 +93,19 @@ const jsonLd = {
     '@type': 'Organization',
     name: 'The Suhba Library',
     url: Astro.site?.toString(),
+    logo: {
+      '@type': 'ImageObject',
+      url: 'https://r2.suhbalibrary.org/og-default.jpg',
+      width: 1200,
+      height: 630,
+    },
   },
   inLanguage: data.language,
   image: ogImage,
   url: canonicalUrl,
   keywords: data.topic.join(', '),
+  wordCount: wordCount,
+  about: data.topic.map((t: string) => ({ '@type': 'Thing', name: t })),
 };
 
 // Language/direction
@@ -101,14 +114,17 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
 
 <BaseLayout
   title={data.title}
-  description={firstQuote || `A spiritual discourse by ${speakerList}.`}
+  description={metaDescription}
   ogImage={ogImage}
   ogType="article"
   canonicalUrl={canonicalUrl}
   lang={data.language}
   dir={isRtl ? 'rtl' : 'ltr'}
+  ogPublishedTime={data.date.toISOString().split('T')[0]}
+  ogAuthor={speakerList}
   jsonLd={jsonLd}
 >
+  <link slot="head" rel="preload" as="image" href={ogImage} />
   <Header slot="header" />
 
   <article class="discourse-page">
@@ -117,7 +133,7 @@ const isRtl = data.language === 'ar' || data.language === 'ur' || data.language 
     <div class="discourse-hero">
       <img
         src={ogImage}
-        alt={`Header image for: ${data.title}`}
+        alt={data.image ? `${data.title} — ${speakerList}` : ''}
         class="discourse-hero-img"
         loading="eager"
       />
