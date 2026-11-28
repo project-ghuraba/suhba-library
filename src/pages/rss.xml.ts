@@ -12,7 +12,7 @@ export const GET: APIRoute = async ({ site }) => {
   const siteUrl = site?.toString().replace(/\/$/, '') ?? 'https://suhbalibrary.org';
 
   const items = discourses.map(d => {
-    const url = `${siteUrl}/suhba/${d.data.slug}`;
+    const url = `${siteUrl}/suhba/${d.data.slug}/`;
     const pubDate = d.data.date.toUTCString();
     const speakers = d.data.speaker.join(', ');
     const topics = d.data.topic.join(', ');
