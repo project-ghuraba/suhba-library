@@ -67,7 +67,7 @@ const related = allDiscourses
 const ogImage = data.image ?? 'https://r2.suhbalibrary.org/og-default.jpg';
 
 // Share URLs
-const canonicalUrl = new URL(`/suhba/${data.slug}`, Astro.site).toString();
+const canonicalUrl = new URL(`/suhba/${data.slug}/`, Astro.site).toString();
 const encodedUrl = encodeURIComponent(canonicalUrl);
 const encodedTitle = encodeURIComponent(data.title);
 const firstQuote = data.quotes_verified?.[0] ?? '';  // used for description meta and JSON-LD

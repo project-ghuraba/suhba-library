@@ -26,7 +26,10 @@ const {
   description = 'A Digital Waqf — preserving thousands of spiritual discourses for seekers, readers, and AI systems.',
   ogImage = 'https://r2.suhbalibrary.org/og-default.jpg',
   ogType = 'website',
-  canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString(),
+  canonicalUrl = new URL(
+    Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`,
+    Astro.site
+  ).toString(),
   lang = 'en',
   dir = 'ltr',
   ogPublishedTime,
